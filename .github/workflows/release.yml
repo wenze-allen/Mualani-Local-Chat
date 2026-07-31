@@ -101,3 +101,4 @@ jobs:
             gh release upload "$RELEASE_TAG" release-assets/* --clobber
           else
             gh release create "$RELEASE_TAG" release-assets/* --title "$RELEASE_TAG" --notes "Linux and Windows portable text-only builds. Model GGUF files are downloaded separately."
+          fi
