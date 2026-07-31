@@ -2093,7 +2093,7 @@ bool cli_context::resume_session_history(const std::string & selection) {
         const std::string role = message.value("role", "");
         transcript << (is_compaction_summary(message)
                 ? "\nCompacted context:\n"
-                : role == "user" ? "\nYou:\n" : "\nAssistant:\n")
+                : role == "user" ? "\nYou:\n" : "\nMualani:\n")
             << message.at("content").get<std::string>() << "\n";
     }
     impl->current_turn_character_cards.clear();
@@ -3230,7 +3230,7 @@ int cli_context::run() {
         save_session_history();
 
         if (output_file) {
-            std::string out_content = "Assistant:\n";
+            std::string out_content = "Mualani:\n";
             if (!content.reasoning.empty()) {
                 out_content += "[Start thinking]\n\n";
                 out_content += content.reasoning;
