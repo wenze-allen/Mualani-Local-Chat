@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 
 
@@ -57,7 +58,26 @@ def main() -> None:
     if gguf_files:
         raise RuntimeError(f"model weights must not be committed: {gguf_files}")
 
-    print("Package validation passed: 342 cards, relationship index, no model weights.")
+    checksum_lines = (ROOT / "MODEL_SHA256SUMS.txt").read_text(encoding="utf-8").splitlines()
+    expected_shards = {
+        "Mualani-Qwen3.5-4B-Chat-v2-Q4_K_M-00001-of-00002.gguf",
+        "Mualani-Qwen3.5-4B-Chat-v2-Q4_K_M-00002-of-00002.gguf",
+        "Mualani-Qwen3.5-9B-Chat-v2-Q4_K_M-00001-of-00003.gguf",
+        "Mualani-Qwen3.5-9B-Chat-v2-Q4_K_M-00002-of-00003.gguf",
+        "Mualani-Qwen3.5-9B-Chat-v2-Q4_K_M-00003-of-00003.gguf",
+    }
+    parsed_shards: set[str] = set()
+    for line in checksum_lines:
+        match = re.fullmatch(r"([0-9a-f]{64})  (\S+)", line)
+        if not match:
+            raise RuntimeError(f"invalid model checksum line: {line!r}")
+        parsed_shards.add(match.group(2))
+    if parsed_shards != expected_shards:
+        raise RuntimeError(
+            f"model checksum manifest mismatch: expected={expected_shards}, actual={parsed_shards}"
+        )
+
+    print("Package validation passed: 342 cards, model checksums, no committed weights.")
 
 
 if __name__ == "__main__":

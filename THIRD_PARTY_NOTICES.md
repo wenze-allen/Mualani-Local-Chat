@@ -12,10 +12,11 @@ llama.cpp is licensed under the MIT License. Its license text is reproduced in
 
 ## Model weights
 
-Model weights are not part of this repository or its release archives. The
-compatible Mualani GGUF files are derived from the Huihui Qwen3.5 4B and 9B
-models. The model repository identifies the base models as Apache-2.0. Review
-the model card and all upstream terms before redistributing weights:
+Model weights are not part of the source tree or the Linux/Windows application
+archives. Compatible Mualani GGUF shards are published as separate GitHub
+Release assets and are derived from the Huihui Qwen3.5 4B and 9B models. The
+model repository identifies the base models as Apache-2.0. Review the model
+card and all upstream terms before redistributing weights:
 
 - <https://huggingface.co/Allen0204/Mualani-Qwen3.5-LoRA-GGUF>
 - <https://huggingface.co/huihui-ai/Huihui-Qwen3.5-4B-abliterated>

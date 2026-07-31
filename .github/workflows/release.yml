@@ -98,7 +98,7 @@ jobs:
           RELEASE_TAG: ${{ steps.tag.outputs.value }}
         run: |
           if gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
-            gh release upload "$RELEASE_TAG" release-assets/* --clobber
+            gh release upload "$RELEASE_TAG" release-assets/* MODEL_SHA256SUMS.txt --clobber
           else
-            gh release create "$RELEASE_TAG" release-assets/* --title "$RELEASE_TAG" --notes "Linux and Windows portable text-only builds. Model GGUF files are downloaded separately."
+            gh release create "$RELEASE_TAG" release-assets/* MODEL_SHA256SUMS.txt --title "$RELEASE_TAG" --notes "Linux and Windows portable text-only builds. Model GGUF shards are separate assets in this release."
           fi

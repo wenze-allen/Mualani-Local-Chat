@@ -15,16 +15,27 @@ Open the [latest GitHub Release](../../releases/latest) and choose one archive:
 - `Mualani-Local-Chat-linux-x86_64.tar.gz`
 - `Mualani-Local-Chat-windows-x64.zip`
 
-Model weights are intentionally separate. Download either the 4B or 9B Q4_K_M
-GGUF from the [model repository](https://huggingface.co/Allen0204/Mualani-Qwen3.5-LoRA-GGUF/tree/main/gguf), then place it in:
+Model weights are separate assets in the same GitHub Release:
+
+- 4B: download both assets whose names contain `4B-Chat-v2`.
+- 9B: download all three assets whose names contain `9B-Chat-v2`.
+
+Keep every shard of the selected model under its original filename and place
+the files in:
 
 ```text
-models/4b/your-4b-model.gguf
-models/9b/your-9b-model.gguf
+models/4b/Mualani-Qwen3.5-4B-Chat-v2-Q4_K_M-00001-of-00002.gguf
+models/4b/Mualani-Qwen3.5-4B-Chat-v2-Q4_K_M-00002-of-00002.gguf
+
+models/9b/Mualani-Qwen3.5-9B-Chat-v2-Q4_K_M-00001-of-00003.gguf
+models/9b/Mualani-Qwen3.5-9B-Chat-v2-Q4_K_M-00002-of-00003.gguf
+models/9b/Mualani-Qwen3.5-9B-Chat-v2-Q4_K_M-00003-of-00003.gguf
 ```
 
-One model is enough. If both are installed, `/model` switches between them
-without discarding the conversation.
+The launcher selects the first shard and llama.cpp loads the remaining shards
+automatically. One model is enough. If both are installed, `/model` switches
+between them without discarding the conversation. SHA-256 checksums are in
+[`MODEL_SHA256SUMS.txt`](MODEL_SHA256SUMS.txt).
 
 ## Run
 
@@ -118,7 +129,7 @@ exact clean Linux and Windows build environments.
 
 ## Scope and licensing
 
-This repository does not contain training data, checkpoints, adapters, GGUF
-weights, game audio, or copied dialogue archives. Original software is MIT
-licensed. Upstream and reference notices are in
+The source tree and platform archives do not contain training data, checkpoints,
+adapters, game audio, or copied dialogue archives. GGUF weights are published
+only as separate Release assets. Original software is MIT licensed. Upstream and reference notices are in
 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

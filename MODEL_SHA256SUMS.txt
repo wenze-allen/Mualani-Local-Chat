@@ -1,0 +1,5 @@
+675e86e5f0fdac31cebc4e69b3738afbca109a396724fc7e069af4180e73a99c  Mualani-Qwen3.5-4B-Chat-v2-Q4_K_M-00001-of-00002.gguf
+c66016d740250c3f84da5fd0431c18c8d08d55f9f2c27d7dc9f298059dd19e82  Mualani-Qwen3.5-4B-Chat-v2-Q4_K_M-00002-of-00002.gguf
+8de0eadf65a637db3fe65faa020de3078db6c5c230d6b1876e77ba280356684b  Mualani-Qwen3.5-9B-Chat-v2-Q4_K_M-00001-of-00003.gguf
+de2cbdae16a292fa908263e33b2a3983f7c3e77592ab1cd954a24fe92b284b41  Mualani-Qwen3.5-9B-Chat-v2-Q4_K_M-00002-of-00003.gguf
+971e6f081223e24a6aaf5a59631aa2f34aef3928552da9f7a22c67a730eead98  Mualani-Qwen3.5-9B-Chat-v2-Q4_K_M-00003-of-00003.gguf

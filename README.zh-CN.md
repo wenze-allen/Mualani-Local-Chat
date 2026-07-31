@@ -11,15 +11,25 @@
 - Linux：`Mualani-Local-Chat-linux-x86_64.tar.gz`
 - Windows：`Mualani-Local-Chat-windows-x64.zip`
 
-程序包不包含模型。请从 [Hugging Face 模型仓库](https://huggingface.co/Allen0204/Mualani-Qwen3.5-LoRA-GGUF/tree/main/gguf)
-下载 4B 或 9B 的 Q4_K_M GGUF，并放到：
+程序包不包含模型。模型已经作为同一个 Release 中的独立 GGUF 分片提供：
+
+- 4B：下载文件名包含 `4B-Chat-v2` 的 2 个分片。
+- 9B：下载文件名包含 `9B-Chat-v2` 的 3 个分片。
+
+同一模型的分片必须全部下载，并保持原文件名，分别放到：
 
 ```text
-models/4b/任意4B文件名.gguf
-models/9b/任意9B文件名.gguf
+models/4b/Mualani-Qwen3.5-4B-Chat-v2-Q4_K_M-00001-of-00002.gguf
+models/4b/Mualani-Qwen3.5-4B-Chat-v2-Q4_K_M-00002-of-00002.gguf
+
+models/9b/Mualani-Qwen3.5-9B-Chat-v2-Q4_K_M-00001-of-00003.gguf
+models/9b/Mualani-Qwen3.5-9B-Chat-v2-Q4_K_M-00002-of-00003.gguf
+models/9b/Mualani-Qwen3.5-9B-Chat-v2-Q4_K_M-00003-of-00003.gguf
 ```
 
-只放一个模型也能运行；两个都放入后可在对话中用 `/model` 切换。
+启动器会选择第一个分片，llama.cpp 会自动加载其余分片。只安装一个模型也能运行；
+两个都安装后可在对话中用 `/model` 切换。下载校验值见
+[`MODEL_SHA256SUMS.txt`](MODEL_SHA256SUMS.txt)。
 
 ## 启动
 
@@ -104,7 +114,7 @@ Windows 需要 Visual Studio C++ Build Tools、Git、CMake 和 LunarG Vulkan SDK
 
 ## 范围与许可
 
-本仓库不包含训练集、检查点、LoRA adapter、GGUF 权重、游戏音频或整段对话库。
-原创程序代码使用 MIT License；上游组件与资料来源见
+源码树和平台程序包不包含训练集、检查点、LoRA adapter、游戏音频或整段对话库；
+GGUF 权重仅作为独立 Release 资产发布。原创程序代码使用 MIT License；上游组件与资料来源见
 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。这是非官方、非商业同人研究项目，
 与 HoYoverse、米哈游或 Cognosphere 无隶属或背书关系。

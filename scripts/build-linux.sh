@@ -27,7 +27,7 @@ cmake -E copy_directory "$ROOT/app" "$STAGE_DIR/app"
 cmake -E make_directory "$STAGE_DIR/scripts"
 cmake -E copy "$ROOT/scripts/context-profile.sh" "$STAGE_DIR/scripts/context-profile.sh"
 cmake -E copy_directory "$ROOT/licenses" "$STAGE_DIR/licenses"
-cmake -E copy "$ROOT/run.sh" "$ROOT/README.md" "$ROOT/README.zh-CN.md" "$ROOT/LICENSE" "$ROOT/THIRD_PARTY_NOTICES.md" "$ROOT/SOURCES.md" "$STAGE_DIR"
+cmake -E copy "$ROOT/run.sh" "$ROOT/README.md" "$ROOT/README.zh-CN.md" "$ROOT/LICENSE" "$ROOT/THIRD_PARTY_NOTICES.md" "$ROOT/SOURCES.md" "$ROOT/MODEL_SHA256SUMS.txt" "$STAGE_DIR"
 chmod +x "$STAGE_DIR/run.sh" "$STAGE_DIR/bin/llama-cli"
 if command -v strip >/dev/null 2>&1; then
   strip --strip-unneeded "$STAGE_DIR/bin/llama-cli"

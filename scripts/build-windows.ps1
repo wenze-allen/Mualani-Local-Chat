@@ -32,5 +32,5 @@ Copy-Item -LiteralPath (Join-Path $Build "bin\$Configuration\llama-cli.exe") -De
 Copy-Item -LiteralPath (Join-Path $Root "app") -Destination $Stage -Recurse
 Copy-Item -LiteralPath (Join-Path $Root "licenses") -Destination $Stage -Recurse
 Copy-Item -LiteralPath (Join-Path $Root "run-windows.ps1") -Destination $Stage
-Copy-Item -LiteralPath (Join-Path $Root "README.md"), (Join-Path $Root "README.zh-CN.md"), (Join-Path $Root "LICENSE"), (Join-Path $Root "THIRD_PARTY_NOTICES.md"), (Join-Path $Root "SOURCES.md") -Destination $Stage
+Copy-Item -LiteralPath (Join-Path $Root "README.md"), (Join-Path $Root "README.zh-CN.md"), (Join-Path $Root "LICENSE"), (Join-Path $Root "THIRD_PARTY_NOTICES.md"), (Join-Path $Root "SOURCES.md"), (Join-Path $Root "MODEL_SHA256SUMS.txt") -Destination $Stage
 Write-Host "Windows package staged at $Stage"
