@@ -7,10 +7,10 @@ UPSTREAM_COMMIT="e9fa0781f1c25fc4fe8c86be1edc6970661ad6f0"
 
 if [[ ! -d "$SOURCE_DIR/.git" ]]; then
   mkdir -p "$(dirname -- "$SOURCE_DIR")"
-  git init "$SOURCE_DIR"
-  git -C "$SOURCE_DIR" remote add origin https://github.com/ggml-org/llama.cpp.git
-  git -C "$SOURCE_DIR" fetch --depth=1 origin "$UPSTREAM_COMMIT"
-  git -C "$SOURCE_DIR" checkout --detach FETCH_HEAD
+  git init "$SOURCE_DIR" >&2
+  git -C "$SOURCE_DIR" remote add origin https://github.com/ggml-org/llama.cpp.git >&2
+  git -C "$SOURCE_DIR" fetch --depth=1 origin "$UPSTREAM_COMMIT" >&2
+  git -C "$SOURCE_DIR" checkout --detach FETCH_HEAD >&2
 else
   CURRENT="$(git -C "$SOURCE_DIR" rev-parse HEAD)"
   if [[ "$CURRENT" != "$UPSTREAM_COMMIT" ]]; then
