@@ -68,6 +68,7 @@ private:
         const std::string & draft,
         std::string & conflict_reason);
     std::string build_draft_card_context(const std::string & draft);
+    std::string build_safe_card_fallback(const std::string & user_text);
     void fetch_server_props();
     void add_system_prompt();
     void rebuild_system_prompt();
