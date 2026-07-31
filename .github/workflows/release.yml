@@ -1,0 +1,92 @@
+name: Build portable releases
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Release tag
+        required: true
+        default: v0.1.0
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  linux:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v6
+      - name: Validate runtime data
+        run: python3 scripts/validate-package.py
+      - name: Install Vulkan build dependencies
+        run: sudo apt-get update && sudo apt-get install -y build-essential cmake git libvulkan-dev glslc spirv-headers
+      - name: Build and stage
+        run: ./scripts/build-linux.sh
+      - name: Create archive
+        run: tar -C dist -czf dist/Mualani-Local-Chat-linux-x86_64.tar.gz Mualani-Local-Chat-linux-x86_64
+      - uses: actions/upload-artifact@v7
+        with:
+          name: linux-release
+          path: dist/Mualani-Local-Chat-linux-x86_64.tar.gz
+          if-no-files-found: error
+
+  windows:
+    runs-on: windows-2025
+    steps:
+      - uses: actions/checkout@v6
+      - name: Validate runtime data
+        shell: powershell
+        run: python scripts\validate-package.py
+      - name: Install Vulkan SDK
+        shell: powershell
+        run: choco install vulkan-sdk --version=1.4.350 -y --no-progress
+      - name: Load Vulkan SDK environment
+        shell: powershell
+        run: |
+          $Sdk = Get-ChildItem C:\VulkanSDK -Directory | Sort-Object Name | Select-Object -Last 1
+          if (-not $Sdk) { throw "Vulkan SDK was not installed" }
+          "VULKAN_SDK=$($Sdk.FullName)" | Out-File -FilePath $env:GITHUB_ENV -Append
+          "$($Sdk.FullName)\Bin" | Out-File -FilePath $env:GITHUB_PATH -Append
+      - name: Build and stage
+        shell: powershell
+        run: .\scripts\build-windows.ps1
+      - name: Create archive
+        shell: powershell
+        run: Compress-Archive -Path dist\Mualani-Local-Chat-windows-x64 -DestinationPath dist\Mualani-Local-Chat-windows-x64.zip -CompressionLevel Optimal
+      - uses: actions/upload-artifact@v7
+        with:
+          name: windows-release
+          path: dist/Mualani-Local-Chat-windows-x64.zip
+          if-no-files-found: error
+
+  release:
+    needs: [linux, windows]
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/download-artifact@v7
+        with:
+          path: release-assets
+          merge-multiple: true
+      - name: Resolve release tag
+        id: tag
+        env:
+          DISPATCH_TAG: ${{ inputs.tag }}
+        run: |
+          if [[ "$GITHUB_REF_TYPE" == "tag" ]]; then
+            echo "value=$GITHUB_REF_NAME" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=$DISPATCH_TAG" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Publish release assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ steps.tag.outputs.value }}
+        run: |
+          if gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
+            gh release upload "$RELEASE_TAG" release-assets/* --clobber
+          else
+            gh release create "$RELEASE_TAG" release-assets/* --title "$RELEASE_TAG" --notes "Linux and Windows portable text-only builds. Model GGUF files are downloaded separately."

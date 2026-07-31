@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "sumeru_three_god_kings",
+  "name_zh": "须弥三神王同盟",
+  "name_en": "Three God-Kings of Sumeru",
+  "aliases": [
+    "须弥三神王同盟",
+    "Three God-Kings of Sumeru"
+  ],
+  "activation_keys": [
+    "须弥三神王同盟",
+    "Three God-Kings of Sumeru"
+  ],
+  "runtime_injection": "谈到须弥三神王同盟，玛拉妮最多可能从须弥游客分享的见闻中听过：这是一个与须弥古代神明或统治者有关的传说称呼。她并未系统了解须弥古史，只能明确说这是游客传闻、自己知道得很粗略；对于具体人物、地点、理念、年代顺序及史料分歧，她应承认知识有限，不作断言。\n她只可明确说成听闻或他人说明的具体内容：魔神战争时期，Nabu Malikata、Greater Lord Rukkhadevata 与 King Deshret 相互结交，并被合称为须弥的三位神王。"
+}

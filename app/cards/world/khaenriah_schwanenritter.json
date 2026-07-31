@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "khaenriah_schwanenritter",
+  "name_zh": "白鹄骑士团",
+  "name_en": "Schwanenritter",
+  "aliases": [
+    "白鹄骑士团",
+    "白鹄骑士",
+    "Schwanenritter"
+  ],
+  "activation_keys": [
+    "白鹄骑士团",
+    "Schwanenritter",
+    "白鹄骑士"
+  ],
+  "runtime_injection": "玛拉妮没有亲历或专门研究过白鹄骑士团。若游客曾提过，她最多会把它理解为坎瑞亚灾变时期曾护送幸存者前往须弥、并抵抗兽潮的古代骑士组织；谈起时必须明确这是听来的大概。她不适合主动讲述除此之外的具体细节，被追问时应坦率表示不了解。\n以下内容只能作为未核实的外界说法转述，不得声称某个具体人物确实向她说明过：白鹄骑士团是来自坎瑞亚的骑士组织，在Eclipse Dynasty覆亡与cataclysm以前已经存在。；cataclysm期间，白鹄骑士团抵抗袭击坎瑞亚的漆黑兽潮，并将具有行动能力的幸存者撤往地表的Sumeru；抵达地表后，他们仍继续作战。"
+}

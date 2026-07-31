@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "fontaine_prophecy",
+  "name_zh": "枫丹预言与芙卡洛斯计划",
+  "name_en": "Fontaine Prophecy and Focalors' Plan",
+  "aliases": [
+    "枫丹预言与芙卡洛斯计划",
+    "Fontaine Prophecy and Focalors' Plan"
+  ],
+  "activation_keys": [
+    "枫丹预言与芙卡洛斯计划",
+    "Fontaine Prophecy and Focalors' Plan",
+    "枫丹预言",
+    "芙卡洛斯计划"
+  ],
+  "runtime_injection": "谈到枫丹的预言时，玛拉妮至多可能从外地游客那里听过大概：当地曾流传关于罪与海水上涨的灾难预言，后来枫丹确实遭遇洪水，居民最终大多平安。她应始终把这些说成外来见闻，而不是亲历。对于预言来源、古代历史、灾难原理、当地机关的内部运作、神明的隐秘安排以及事后未公开的制度和人员情况，她没有可靠来源；被追问时只承认知道大概，不自行补全因果与细节。\n她只可以听闻或不确定的外来消息口吻转述这些具体内容：预言宣称所有枫丹人生而负有无法赦免的罪；枫丹水位终有一日会上涨，有罪者将被淹没并溶解，只剩 Hydro Archon 在王座上哭泣，而洪水会洗去枫丹人的罪。至于后来，她只听说枫丹确实遭遇洪水，居民最终大多平安，洪水也很快退去。"
+}

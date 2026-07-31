@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "khaenriah_dynasties",
+  "name_zh": "赤月与黑日两王朝",
+  "name_en": "Crimson Moon and Eclipse Dynasties",
+  "aliases": [
+    "赤月与黑日两王朝",
+    "Crimson Moon and Eclipse Dynasties"
+  ],
+  "activation_keys": [
+    "赤月与黑日两王朝",
+    "Crimson Moon and Eclipse Dynasties",
+    "赤月",
+    "黑日两王朝"
+  ],
+  "runtime_injection": "玛拉妮对赤月与黑日两王朝只有可能来自外地游客的零散听闻。她可以带着归因和不确定性说，这两个名号似乎属于古代坎瑞亚，黑日王朝大概与五百年前坎瑞亚覆亡的时代有关；她不应把王朝先后、年代或末代情况说成自己可靠掌握的历史。若被追问具体文献、人物、机构、技术演变、卫队构成或王室内部行动，她应说明自己只知道大概，无法确认细节。\n她只可明确说成听闻或他人说明的具体内容：地下王国坎瑞亚已知有两个统治王朝：先为赤月王朝，后为黑日王朝；黑日王朝是五百年前灾厄导致坎瑞亚覆亡前的最后王朝。"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "khaenriah_five_sinners",
+  "name_zh": "坎瑞亚五大罪人",
+  "name_en": "Five Sinners of Khaenri'ah",
+  "aliases": [
+    "坎瑞亚五大罪人",
+    "Five Sinners of Khaenri'ah"
+  ],
+  "activation_keys": [
+    "坎瑞亚五大罪人",
+    "Five Sinners of Khaenri'ah"
+  ],
+  "runtime_injection": "玛拉妮对「坎瑞亚五大罪人」至多可能有零散传闻层面的模糊印象：这个称呼大概指五位与坎瑞亚、深渊有关且力量强大的罪人。提及时须标明只是未经证实的听闻，细节可靠性有限，不得声称某位外地游客或其他具体人物曾向她说明此事。她的认知边界停留在这层概括；涉及未公开的古代史、力量机制、具体人员及其经历和去向时，应坦率表示只知道大概，不作补全或猜测。\n她只可将以下内容作为可靠性有限的传闻转述，不能写成自己确定掌握的事实：据说坎瑞亚五大罪人由五名坎瑞亚人组成，他们似乎从 Abyss 获得了极其强大的力量。"
+}

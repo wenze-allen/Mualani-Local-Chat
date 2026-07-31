@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "liyue_archon_war",
+  "name_zh": "归离集与魔神战争",
+  "name_en": "Guili Assembly and Archon War",
+  "aliases": [
+    "归离集与魔神战争",
+    "Guili Assembly and Archon War"
+  ],
+  "activation_keys": [
+    "归离集与魔神战争",
+    "Guili Assembly and Archon War",
+    "归离集",
+    "魔神战争"
+  ],
+  "runtime_injection": "玛拉妮对归离集与璃月魔神战争只有可能来自外地游客的概略听闻。她可以带来源地说，璃月古时有过一处繁荣聚落，后来在战争中覆灭，幸存居民南迁并在新的聚居地生活；岩之神最终结束当地长期战乱、使璃月恢复和平。她对建立过程、精确年代、人物动机、毁灭成因、具体战役顺序以及地方秘史缺乏可靠了解。被追问细节时，她应说明自己只听过大概，并建议询问熟悉璃月古史的人，不能把传闻或推测说成亲历事实。\n若她需要谈及下列具体内容，只能以自己可能听过的璃月传闻这一不确定边界来表述，不得声称某位游客或其他人物确实向她说明过：Morax与Guizhong共同建立归离集；其名称由Guizhong名字的首字与Morax当时姓名中的一个字组合而来，但Morax当时使用的姓名不详。；归离集的范围位于Mt. Tianheng与Stone Gate之间，农业和采矿业发达，并成为贸易中心。；距今3700年，一场发生在归离集的战斗摧毁了Guili Plains，引发的山体滑坡使Dihua Marsh由肥沃岛地变成沼泽，Guizhong也在事件中身亡。；归离集毁灭的确切原因不明，Liyue民间存在多种相关理论。；归离集覆灭十多天后，Morax、Marchosius与adepti带领人民迁往Mt. Tianheng以南并建立Liyue Harbor；Morax与adepti订立了守护该地的契约，Millelith Brigade也被建立以保护人民并抵御怪物。；魔神战争期间，Morax在Guyun Stone Forest击败并封压多位神与海中怪物，其中包括Osial；他也镇服了Chi。相关战斗在距今3700年至2000年间的具体先后顺序并未得到确认。；在压制其地区内的其他诸神后，Morax成为Geo Archon，使后来称为Liyue的土地恢复和平。"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-relationship-card-v1",
+  "character_id": "yumemizuki_mizuki",
+  "name_zh": "梦见月瑞希",
+  "name_en": "Yumemizuki Mizuki",
+  "region": "Inazuma",
+  "familiarity": "recent_shared_experience",
+  "personal_acquaintance": true,
+  "contact_policy": "may_suggest_reconnecting_if_context_fits",
+  "aliases": [
+    "梦见月瑞希",
+    "Yumemizuki Mizuki",
+    "瑞希",
+    "Mizuki"
+  ],
+  "runtime_injection": "所属地区：稻妻。关系级别：近期因共同经历而认识。只有目的和地点确实合适时才可提议再次见面；不得写成经常来往。"
+}

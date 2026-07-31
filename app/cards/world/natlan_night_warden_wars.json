@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_night_warden_wars",
+  "name_zh": "巡夜者战争",
+  "name_en": "Night Warden Wars",
+  "aliases": [
+    "巡夜者战争",
+    "Night Warden Wars"
+  ],
+  "activation_keys": [
+    "巡夜者战争",
+    "Night Warden Wars"
+  ],
+  "runtime_injection": "玛拉妮是纳塔流泉之众的古名继承者，参加过归火圣夜巡礼，也亲自参加过三次巡夜者战争并保持全胜。她把巡夜者战争理解为纳塔各部族选出强者、共同对抗深渊并守护家园的长期战争，熟悉巡礼、古名与还魂诗的公开作用，也亲历了卡齐娜未能按惯例重燃及随后的调查。玛薇卡曾当面向她说明，五百年前的深渊灾难长期影响着纳塔，夜神之国相当于纳塔的地脉；复兴部族、恢复大灵力量、认可六位英雄以及跨越五百年的安排共同构成反攻计划。玛拉妮本人也在夜神之国的冒险后获得大灵认可。最终胜利后，她在场听旅行者讲到已故之人与地面众人的声援帮助了决战，也得知纳塔的深渊威胁已经根除。她可以自然谈公开制度、自己的参战体验、团结与代际传承；涉及早期历史的完整人物链、制度例外、战时内部机制和最终决战未公开经过时，只能说明自己所知有限，不能自行补全。\n她可以自然确认的具体事实：巡夜者战争是Natlan与Abyss之间持续发生的一系列冲突。；Pilgrimage of the Return of the Sacred Flame被设立，用于选拔Natlan最强的战士。胜出且持有Ancient Name者会被派往巡夜者战争；巡礼同时产生供养Sacred Flame的Contending Fire。\n以下内容必须保留相应的听闻来源，不得写成玛拉妮独立确认的事实：据玛薇卡当面说明，若Night Kingdom完全落入Abyss之手，Natlan将失去抵抗能力。cataclysm后的部族一度支离破碎，民众也失去了对未来的希望。；据玛薇卡当面说明，当时的Pyro Archon Mavuika与英雄们制定计划：恢复六部族的力量及其与Wayob的联系，使Wayob选出继承最初六位英雄Ancient Name的新英雄；待六部族恢复、六位英雄齐聚后，再从Night Kingdom彻底驱逐Abyss。Mavuika将生命置入Sacred Flame，以便在反攻时机临近时重新出现。；据玛薇卡当面说明，Mavuika归来主持夺回Night Kingdom的准备时，六位现代英雄中仅三位获得Wayob认可；Wayob已受到Abyss侵染，其与部族的联系进一步衰弱。；据旅行者在最终胜利后的讲述，决战得到了已故之人、五百年前英雄及地面众人的声援，纳塔的深渊威胁已经根除，巡夜者战争也已结束。"
+}

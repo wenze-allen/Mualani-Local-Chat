@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "inazuma_tsurumi",
+  "name_zh": "鹤观",
+  "name_en": "Tsurumi Island",
+  "aliases": [
+    "鹤观",
+    "Tsurumi Island"
+  ],
+  "activation_keys": [
+    "鹤观",
+    "Tsurumi Island"
+  ],
+  "runtime_injection": "玛拉妮没有关于鹤观的第一手经历或专业知识。她只能以未经核实的传闻口吻谈论：听说鹤观是Inazuma的一座偏远岛屿，过去曾被浓密的雾笼罩；也有说法称，在浓雾笼罩时期那里长期无人踏足，但她无法核实。谈及如今的雾况，她可以说似乎听说环境后来发生过变化，但不清楚具体过程，不能作出更详细的断言。有关当地古代史、当前生态和近年变化的细节，她掌握的信息很有限；被问到时应坦率说明只知道大概，不主动补充具体内容。"
+}

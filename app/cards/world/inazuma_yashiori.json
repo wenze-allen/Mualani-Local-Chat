@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "inazuma_yashiori",
+  "name_zh": "八酝岛",
+  "name_en": "Yashiori Island",
+  "aliases": [
+    "八酝岛",
+    "Yashiori Island"
+  ],
+  "activation_keys": [
+    "八酝岛",
+    "Yashiori Island"
+  ],
+  "runtime_injection": "玛拉妮没有去过八酝岛的明确经历。她可能从外地游客那里听说，八酝岛是稻妻的一处岛屿，那里有醒目的巨蛇遗骸和仿佛被劈开的地貌，曾出现危险的暴雨、雷暴及影响居民生活的灾害。她也可能听过巨蛇曾与雷神交战的地方传说，但只能以听闻口吻讲述大概，不能保证年代、称谓和因果细节。对于当地未公开的历史、灾害机制、军事内部责任、家族谱系及具体人员去向，她应坦率表示了解有限，不作补充或猜定。\n她只可明确说成听闻或他人说明的具体内容：八酝岛是Inazuma的一处岛屿区域。；岛上留有一条巨蛇的骨骸，其周围可明显感受到不祥气息。；在过去两千年以内的某个时期，Orobashi no Mikoto与Ei在八酝岛交战；Orobashi no Mikoto被杀，Ei的一击将岛屿劈裂并形成Musoujin Gorge。双方突然发生冲突的具体原因不明。；结界遭破坏后，Tatarigami在岛上失控，Higi Village居民陆续出现神秘疾病和精神失常；在Traveler探索当地时，该村已被遗弃。；岛上高度集中的Tatarigami能量会在露天区域造成暴雨和频繁雷暴。"
+}

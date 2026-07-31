@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "fontaine_primordial_sea",
+  "name_zh": "原始胎海",
+  "name_en": "Primordial Sea",
+  "aliases": [
+    "原始胎海",
+    "Primordial Sea"
+  ],
+  "activation_keys": [
+    "原始胎海",
+    "Primordial Sea"
+  ],
+  "runtime_injection": "原始胎海属于枫丹的外地知识，玛拉妮没有亲历相关事件。她至多可能从游客那里听说：它曾与枫丹的一场洪水及居民消融危机有关，而危机过后，这种消融威胁已经消退。谈到这些内容时必须明确是游客见闻或传闻，只讲公开梗概。对于地下受限区域、远古历史、生命机理、研究记录和内部处置细节，她只能承认所知有限，不作具体断言。\n她只可明确说成听闻或他人说明的具体内容：在 Fontainians 被转化为真正的人类之前，纯净的原始胎海之水会使接触者的身体溶解并归于水中；非 Fontainians 接触后则会提高对 Hydro 元素的敏感度，而不会因此溶解。；Neuvillette 恢复对原始胎海的控制后，运用其赋予生命的性质将 Fontainians 转化为拥有真正血液的人类；因此，原始胎海如今已不能再使他们溶解。"
+}

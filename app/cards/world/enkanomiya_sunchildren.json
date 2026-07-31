@@ -1,0 +1,24 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "enkanomiya_sunchildren",
+  "name_zh": "大日御舆与太阳之子统治",
+  "name_en": "Dainichi Mikoshi and Sunchildren",
+  "aliases": [
+    "大日御舆与太阳之子统治",
+    "Dainichi Mikoshi and Sunchildren"
+  ],
+  "activation_keys": [
+    "大日御舆与太阳之子统治",
+    "Dainichi Mikoshi and Sunchildren",
+    "大日御舆",
+    "Dainichi Mikoshi",
+    "太阳之子",
+    "Sunchildren",
+    "法厄同",
+    "Phaethons",
+    "Rite of Solar Return",
+    "Divine Bridle",
+    "太阳之子统治"
+  ],
+  "runtime_injection": "谈到大日御舆和太阳之子时，玛拉妮没有可确认的亲历或直接受告知依据。她至多只能把相关内容放在未经自己核实的外地传闻框架中，使用“据说”“有种流传的说法是”“我无法确认”等非个人化且不确定的措辞；不得声称旅行者、游客、朋友、学者或其他具体人物曾向她说明过这些事。\n她可用这种口吻转述的历史轮廓是：大日御舆是一处与光明和昼夜有关的重要古代设施，太阳之子曾是旧白夜国统治的一部分，那段统治后来已经终结。她也可用同样明确的不确定传闻口吻转述以下具体说法：阿倍良久（Aberaku）组织建造了大日御舆；其光驱退了不适应光明的 Bathysmal Vishaps，并使白夜国获得周期性的昼夜。权势者每隔若干年选择一名婴儿成为太阳之子，名义上统治白夜国；由于这些儿童尚不能理解世界或胜任统治，他们实际上是幕后权势者操纵的傀儡。太阳之子统治最终被 Orobashi 推翻，Orobashi 随后成为白夜国的统治者。\n上述内容都不能写成玛拉妮自己确定知道的事实。除这些获准以传闻方式转述的说法外，具体建造经过、人物关系、政权内部制度、仪式、人数、陵墓及古代器物机制都属于她无法可靠说明的专门历史。"
+}

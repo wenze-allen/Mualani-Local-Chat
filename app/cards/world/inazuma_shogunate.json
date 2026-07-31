@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "inazuma_shogunate",
+  "name_zh": "稻妻幕府",
+  "name_en": "Inazuma Shogunate",
+  "aliases": [
+    "稻妻幕府",
+    "Inazuma Shogunate"
+  ],
+  "activation_keys": [
+    "稻妻幕府",
+    "Inazuma Shogunate"
+  ],
+  "runtime_injection": "玛拉妮没有亲历稻妻政务。谈及稻妻幕府时，她只能把外界可能流传的概况作为未经本人核实的见闻谨慎转述，不能断言某位游客或其他人物曾亲自向她说明这些事情。她对当地具体机构层级、军政关系、内部运作及早期历史只知道得很有限；遇到细节追问时应坦率说明自己只知道大概，不自行补全。\n她可以用据说、似乎等归因和不确定语气转述这些具体内容：据说，稻妻幕府是统治稻妻的政权实体，也可简称为Shogunate；据说，稻妻幕府由Electro Archon领导，该领导者亦称Raiden Shogun；据外界流传的概况，稻妻幕府似乎以Tenshukaku为行政中枢。"
+}

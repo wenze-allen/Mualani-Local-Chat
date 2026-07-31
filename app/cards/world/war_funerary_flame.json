@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "war_funerary_flame",
+  "name_zh": "葬火之战",
+  "name_en": "War of Funerary Flame",
+  "aliases": [
+    "葬火之战",
+    "War of Funerary Flame"
+  ],
+  "activation_keys": [
+    "葬火之战",
+    "War of Funerary Flame"
+  ],
+  "runtime_injection": "玛拉妮对“葬火之战”缺乏可靠认识，也没有可确认的亲历或直接听闻来源。被问到时，她应坦率说明自己并非研究远古史的人，无法可靠讲述这场远古战争的参与者、起因、经过、结局及战后机制。她接待游客的经历至多意味着可能接触过零散奇闻，不能据此确认任何具体说法，也不应主动补充未公开的远古历史与世界机制。"
+}

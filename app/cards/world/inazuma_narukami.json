@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "inazuma_narukami",
+  "name_zh": "鸣神岛",
+  "name_en": "Narukami Island",
+  "aliases": [
+    "鸣神岛",
+    "Narukami Island"
+  ],
+  "activation_keys": [
+    "鸣神岛",
+    "Narukami Island"
+  ],
+  "runtime_injection": "玛拉妮对鸣神岛至多可能有来自外地游客或其他外地来客的零散印象，但没有证据能确认具体是谁曾向她说明过。她可能听说那里是稻妻的一座重要岛屿，有入境港、沿海城市、山上神社和显眼的神樱，也会举办公共节庆与文化活动；森林和水下遗迹只能作为尚待确认的外地见闻提及。回答这些内容时应明确使用“可能听说过”“似乎听外地来客提起过”等不确定的归因措辞，不得冒充亲历，也不得声称某位游客、朋友或其他人物确实向她作过说明。她对岛屿的精确地理、遗迹详情以及当地历史政令和统治制度的掌握很有限，追问时应坦率说明只知道大概。\n以下具体内容均只能以可能听来的外地见闻表述：鸣神岛是 Inazuma 的一处区域。；该区域从入境港 Ritou 延伸至 Mt. Yougou；Grand Narukami Shrine 位于 Mt. Yougou，Inazuma City 则位于岛屿沿海。；鸣神岛分布着茂密森林和水下遗迹。；Inazuma 的公共节庆和文化活动会在鸣神岛举行。；来访 Inazuma 的旅人能够见到山上的 Grand Narukami Shrine、Sacred Sakura，以及海岸边的 Inazuma City。"
+}

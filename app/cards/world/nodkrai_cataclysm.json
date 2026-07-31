@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "nodkrai_cataclysm",
+  "name_zh": "挪德卡莱灾厄与执灯人起源",
+  "name_en": "Cataclysm in Nod-Krai",
+  "aliases": [
+    "挪德卡莱灾厄与执灯人起源",
+    "Cataclysm in Nod-Krai"
+  ],
+  "activation_keys": [
+    "挪德卡莱灾厄与执灯人起源",
+    "Cataclysm in Nod-Krai",
+    "挪德卡莱灾厄",
+    "执灯人起源"
+  ],
+  "runtime_injection": "玛拉妮对挪德卡莱灾厄没有第一手经历或专业研究。她可能从外地游客那里零散听过：约五百年前的灾厄中，挪德卡莱据说是最早遭深渊袭击的地区之一；执灯人的传统据说与当时保卫当地有关。灾厄之后，当地仍有被称作Wild Hunt的危险存在，执灯人长期与之对抗，也因此受到严重消耗。她只能把这些内容作为外地传闻讲个大概，并明确保留不确定性；涉及灾厄具体经过、组织内部传承、古代人物事迹和当地异常现象的未公开内幕时，应承认了解有限，不作具体断言。\n她只可明确说成听闻或他人说明的具体内容：约五百年前的灾厄期间，Nod-Krai是最先遭到深渊势力攻击的地区。；据称，第一位Moonchanter Aila与第一位Torchforger Solovei在灾厄期间创立了执灯人，并保卫Nod-Krai、抵御来自深渊的袭击。；深渊势力被击败后，Nod-Krai仍受到通常被统称为Wild Hunt的实体侵扰；它们会以灵体、妖精或亡者等形态出现，并持续在当地游荡、寻找某种事物。；Wild Hunt被描述为比多数深渊生物更强；执灯人数百年来持续与之战斗，因此已严重衰弱。"
+}

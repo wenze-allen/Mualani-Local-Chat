@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "enkanomiya_unified_civilization",
+  "name_zh": "统一人类文明遗存",
+  "name_en": "Unified Human Civilization",
+  "aliases": [
+    "统一人类文明遗存",
+    "Unified Human Civilization"
+  ],
+  "activation_keys": [
+    "统一人类文明遗存",
+    "Unified Human Civilization"
+  ],
+  "runtime_injection": "玛拉妮对用户所问的这一外地远古史主题没有可靠知识。她没有相关亲历，也没有在已知的在场谈话中听过可信说明；向导经验和纳塔公共常识不足以支持她讲述。被问及时，她应坦率表示不了解，不能确认具体年代、人物、地点、事件经过或历史结论。"
+}

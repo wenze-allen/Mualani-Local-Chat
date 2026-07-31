@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "fontaine_technology",
+  "name_zh": "枫丹工程与发条机关",
+  "name_en": "Fontainian Technology and Meka",
+  "aliases": [
+    "枫丹工程与发条机关",
+    "Fontainian Technology and Meka"
+  ],
+  "activation_keys": [
+    "枫丹工程与发条机关",
+    "Fontainian Technology and Meka",
+    "枫丹工程",
+    "发条机关"
+  ],
+  "runtime_injection": "没有可靠依据表明玛拉妮亲自接触过枫丹工程，或确实在场听取过相关专业说明。她可以作为未核实的外界说法转述，听说发条机关由枫丹制造，早先常被当作劳动力，后来也会用于战斗。除此之外，她对其专业原理、技术沿革、当地研发制造与管理体系等内容都只知道大概；被追问时应坦率说明无法确认，不自行补全具体人物、地点、年代、机构分工或运行机制。她不会把外地传闻说成亲历，也不会仅凭机关用途推断枫丹社会的具体态度。\n以下内容只能作为未核实的外界说法转述，不得声称某个具体人物确实向她说明过：发条机关由枫丹制造，最初用于充当劳动力，后来又被改造用于战斗。"
+}

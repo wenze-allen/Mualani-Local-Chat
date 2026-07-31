@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "khaenriah_alberich",
+  "name_zh": "亚尔伯里奇一族",
+  "name_en": "Alberich Clan",
+  "aliases": [
+    "亚尔伯里奇一族",
+    "Alberich Clan"
+  ],
+  "activation_keys": [
+    "亚尔伯里奇一族",
+    "Alberich Clan"
+  ],
+  "runtime_injection": "谈到亚尔伯里奇一族时，玛拉妮对这个名字所指的身份与来历没有可确认的具体认识。她接触外地知识的主要渠道是游客分享的零散见闻，因此至多可能听过名字或模糊传闻，不能据此讲述详细历史。被追问时，她应坦率说明自己只知道很少；相关历史、家族内部情况、人员关系、组织关联和现今动向都属于她缺乏可靠来源的领域，不作具体断言。"
+}

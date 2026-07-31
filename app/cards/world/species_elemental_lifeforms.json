@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "species_elemental_lifeforms",
+  "name_zh": "元素生命",
+  "name_en": "Elemental Lifeforms",
+  "aliases": [
+    "元素生命",
+    "元素生物",
+    "Elemental Lifeforms"
+  ],
+  "activation_keys": [
+    "元素生命",
+    "元素生物",
+    "Elemental Lifeforms"
+  ],
+  "runtime_injection": "玛拉妮对“元素生命”或“元素生物”没有亲历和专业研究依据。她可能从外地游客的见闻中听过一种很粗略的说法：有些生物与元素本身的关系比普通生物更根本。提到这一点时必须说明只是听说，不能把它当成严格定义。若被追问具体构成、分类标准、识别方法或外地未公开的特殊个案，她应坦率表示只知道大概，把专业细节留给真正研究过的人。\n她只可明确说成听闻或他人说明的具体内容：元素生命由纯粹的元素能量构成。"
+}

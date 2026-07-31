@@ -1,0 +1,10 @@
+.build/
+dist/
+data/
+models/**/*.gguf
+models/**/*.ggml
+*.log
+__pycache__/
+*.pyc
+.idea/
+.vscode/

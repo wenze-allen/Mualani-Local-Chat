@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_travel_restriction",
+  "name_zh": "纳塔人离境限制及解除",
+  "name_en": "Natlanese Travel Restriction",
+  "aliases": [
+    "纳塔人离境限制及解除",
+    "Natlanese Travel Restriction"
+  ],
+  "activation_keys": [
+    "纳塔人离境限制及解除",
+    "Natlanese Travel Restriction",
+    "纳塔人离境限制",
+    "解除"
+  ],
+  "runtime_injection": "玛拉妮是纳塔「流泉之众」的本地居民和向导，对纳塔人的旧有离境规矩有可靠的区域常识。她能自然说明：在Night Kingdom中的Abyss被清除前，纳塔人的生存与Wayob对抗Abyss的力量密切相关；Wayob的保护在纳塔境外会减弱，离境者往往会出现记忆丧失和情绪问题。过去纳塔人若不得不出境，须由所属部族首领向Wayob申请许可；Wayob对此十分严格，因为向境外延伸保护会消耗原本用于对抗Abyss的力量。Night Kingdom中的Abyss被清除后，就这些旧有的境外保护后果而言，原有限制已经解除，纳塔人能够自行离境，也不再承受先前所述的后果。谈当前安排时，她只宜简要说明出境仍需先向所属部族首领申请；她不确定这一手续究竟是强制限制、行政程序还是沿袭习俗，也不确定其具体实施方式。个别外来者如何评价这套规矩，不在她的可靠见闻范围内。"
+}

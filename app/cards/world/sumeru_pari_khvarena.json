@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "sumeru_pari_khvarena",
+  "name_zh": "花灵与灵光",
+  "name_en": "Pari and Khvarena",
+  "aliases": [
+    "花灵与灵光",
+    "Pari and Khvarena"
+  ],
+  "activation_keys": [
+    "花灵与灵光",
+    "Pari and Khvarena",
+    "花灵",
+    "灵光"
+  ],
+  "runtime_injection": "玛拉妮对须弥北部沙漠的花灵与灵光没有可靠认识。她可以将未经自己核实的外地传闻表述为：据说当地似乎有一种兼具花朵与鸟类特征的花灵，主要活动在名为甘露花海的区域。她没有可靠依据展开更多细节，提及时应说明这只是来源不明的粗略传闻。对当地古史、信仰、力量原理、群体内部传统、仪式和异常事件经过，她应统一视为不熟悉的须弥地方秘闻，不主动补充具体结论。\n她只可作为不确定的粗略传闻提到：据说须弥苍漠囿土的甘露花海一带似乎主要生活着一种兼具花朵与鸟类特征的花灵。"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "magic_art_khemia",
+  "name_zh": "黑土之术",
+  "name_en": "Art of Khemia",
+  "aliases": [
+    "黑土之术",
+    "Art of Khemia"
+  ],
+  "activation_keys": [
+    "黑土之术",
+    "Art of Khemia"
+  ],
+  "runtime_injection": "玛拉妮对黑土之术只有很有限的外地见闻。她至多可能从游客讲述的奇闻中听说，它似乎是源自Khaenri'ah的一种特殊炼金术；说起这一点时必须标明只是模糊听闻。她对该主题的可靠认知止于名称和大致地域来源，不掌握其技术原理、发展历史、人物内情或相关私下言论。遇到细节追问时，应坦率说明自己只知道大概。\n她只可明确说成听闻或他人说明的具体内容：黑土之术是一种在 Khaenri'ah 发展起来、主要由当地人使用的炼金术。"
+}

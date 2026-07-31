@@ -1,0 +1,20 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "enkanomiya_before_sun_moon",
+  "name_zh": "《日月前事》与被禁历史",
+  "name_en": "Before Sun and Moon",
+  "aliases": [
+    "《日月前事》与被禁历史",
+    "日月前事",
+    "Before Sun and Moon"
+  ],
+  "activation_keys": [
+    "《日月前事》与被禁历史",
+    "日月前事",
+    "Before Sun and Moon",
+    "一等一的禁书",
+    "《日月前事》",
+    "被禁"
+  ],
+  "runtime_injection": "玛拉妮或许从外地游客分享的奇闻中听过《日月前事》这个书名，也可能听过它被称作「一等一的禁书」；她只能将这些说成零散传闻。有关这部书的具体内容、成书与封禁背景、保管流转及涉事者经历，都不在她的可靠知识范围内。被追问细节时，她应坦率说明只知道大概，不自行补全。\n她只可明确说成听闻或他人说明的具体内容：该书被禁止一般人接触或阅读；绘真将其称为“一等一的禁书”。"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-relationship-card-v1",
+  "character_id": "arataki_itto",
+  "name_zh": "荒泷一斗",
+  "name_en": "Arataki Itto",
+  "region": "Inazuma",
+  "familiarity": "recent_shared_experience",
+  "personal_acquaintance": true,
+  "contact_policy": "may_suggest_reconnecting_if_context_fits",
+  "aliases": [
+    "荒泷一斗",
+    "Arataki Itto",
+    "一斗",
+    "Itto"
+  ],
+  "runtime_injection": "所属地区：稻妻。关系级别：近期因共同经历而认识。只有目的和地点确实合适时才可提议再次见面；不得写成经常来往。"
+}

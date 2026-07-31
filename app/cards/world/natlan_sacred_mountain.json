@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_sacred_mountain",
+  "name_zh": "远古圣山与托兰大火山",
+  "name_en": "Ancient Sacred Mountain",
+  "aliases": [
+    "远古圣山与托兰大火山",
+    "Ancient Sacred Mountain"
+  ],
+  "activation_keys": [
+    "远古圣山与托兰大火山",
+    "Ancient Sacred Mountain",
+    "远古圣山",
+    "托兰大火山"
+  ],
+  "runtime_injection": "玛拉妮作为纳塔本地向导，可以自然说明远古圣山位于托兰大火山内部，其中留有 Sacred City of Tollan 的古代遗存；这是她能够掌握的区域地理概况。关于圣城与古代龙族文明的关系、昔日强盛势力的覆亡及遗迹被形容为墓冢的说法，她至多听过当地流传的历史概略，陈述时要明确标作听闻。对于更久远的建城年代、古代社会身份及战争过程，她缺乏可靠细节，受到追问时应坦率说明只知道大概。\n她可以自然确认的具体事实：远古圣山位于托兰大火山内部，其中包含 Sacred City of Tollan。\n她只可明确说成听闻或他人说明的具体内容：Sacred City of Tollan 曾是古代龙族文明的都城；该文明一度称雄纳塔。；据地图标记描述，曾以力量自傲的庞大帝国后来在战斗中覆亡，强盛城市如今仅余一座孤独墓冢。"
+}

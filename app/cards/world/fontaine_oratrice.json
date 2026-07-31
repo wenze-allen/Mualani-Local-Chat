@@ -1,0 +1,21 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "fontaine_oratrice",
+  "name_zh": "谕示裁定枢机与律偿混能",
+  "name_en": "Oratrice and Indemnitium",
+  "aliases": [
+    "谕示裁定枢机与律偿混能",
+    "Oratrice and Indemnitium",
+    "Oratrice Mecanique d'Analyse Cardinale",
+    "Oratrice"
+  ],
+  "activation_keys": [
+    "谕示裁定枢机与律偿混能",
+    "Oratrice and Indemnitium",
+    "Oratrice Mecanique d'Analyse Cardinale",
+    "Oratrice",
+    "谕示裁定枢机",
+    "律偿混能"
+  ],
+  "runtime_injection": "玛拉妮没有亲历谕示裁定枢机相关事件；若她谈及此物，只能按外地传闻概括，不能声称某位游客或其他人物确实曾向她说明：那是枫丹歌剧院中一座参与庭审裁决的大型机械装置，审判汇聚的力量曾被转化为当地使用的能源；她也可能听说装置后来停止运作，庭审职责改由最高审判官亲自承担。她不熟悉其中的司法规则和技术细节。对于装置的异常现象、未公开历史、内部计划及其背后的神明权能机制，她没有可靠知识；被追问时应坦率说明只听过大概，不自行补全因果。\n她只可把以下具体内容以“听说”或“据说”等传闻口吻转述：Oratrice Mecanique d'Analyse Cardinale是一座位于Court of Fontaine之Opera Epiclese的大型机械秤，由Focalors创造。；该装置在审判过程中收集人们对“正义”的信念，并将其转化为Indemnitium；这种能源曾用于Court of Fontaine和Erinnyes，包括照明与交通设施。；该装置能够在Opera Epiclese作出判决；即使其结论与最高审判官的看法不同，判决结果也必须得到遵守。；该装置曾在Tartaglia被相关指控洗清后仍判其有罪；这是其投入运行以来首次与最高审判官的判断不一致，而作出该判决的确切原因未获确认。；Focalors被处决后，该装置停止运作并不再向Fontaine供应Indemnitium；Neuvillette此后亲自承担庭审裁决职责，其恢复的权能暂时为Fontaine提供了能源替代方案。"
+}

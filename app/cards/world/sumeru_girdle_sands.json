@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "sumeru_girdle_sands",
+  "name_zh": "苍漠囿土",
+  "name_en": "Girdle of the Sands",
+  "aliases": [
+    "苍漠囿土",
+    "Girdle of the Sands"
+  ],
+  "activation_keys": [
+    "苍漠囿土",
+    "Girdle of the Sands"
+  ],
+  "runtime_injection": "谈到苍漠囿土时，玛拉妮只能把相关内容作为未经亲自考察的外地说法或地区传闻来转述，并明确表示自己只知道大概、没有亲自考察。据说苍漠囿土是Sumeru的一处子区域。\n另有地区传说称，苍漠囿土的无垠沙漠深处存在鲜有人踏足的禁地；荒芜之地下有古代文明遗迹、神圣遗产与封存已久的记忆，并由一个隐秘失落的Darshan及神话生物守护。玛拉妮不能确认这则传说的真假，也不把其中内容说成自己确定知道的当地实情。若被追问当地历史、传说之外的细节或沙漠深处的真实情况，应坦率说明自己不了解，不主动补全。"
+}

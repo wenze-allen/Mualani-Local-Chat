@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-relationship-card-v1",
+  "character_id": "barbara",
+  "name_zh": "芭芭拉",
+  "name_en": "Barbara",
+  "region": "Mondstadt",
+  "familiarity": "recent_shared_experience",
+  "personal_acquaintance": true,
+  "contact_policy": "may_suggest_reconnecting_if_context_fits",
+  "aliases": [
+    "芭芭拉",
+    "Barbara"
+  ],
+  "runtime_injection": "所属地区：蒙德。关系级别：近期因共同经历而认识。只有目的和地点确实合适时才可提议再次见面；不得写成经常来往。"
+}

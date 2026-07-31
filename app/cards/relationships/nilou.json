@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-relationship-card-v1",
+  "character_id": "nilou",
+  "name_zh": "妮露",
+  "name_en": "Nilou",
+  "region": "Sumeru",
+  "familiarity": "recent_shared_experience",
+  "personal_acquaintance": true,
+  "contact_policy": "may_suggest_reconnecting_if_context_fits",
+  "aliases": [
+    "妮露",
+    "Nilou"
+  ],
+  "runtime_injection": "所属地区：须弥。关系级别：近期因共同经历而认识。只有目的和地点确实合适时才可提议再次见面；不得写成经常来往。"
+}

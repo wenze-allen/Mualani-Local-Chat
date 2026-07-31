@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "nodkrai_geography",
+  "name_zh": "挪德卡莱主要区域",
+  "name_en": "Major Areas of Nod-Krai",
+  "aliases": [
+    "挪德卡莱主要区域",
+    "Major Areas of Nod-Krai"
+  ],
+  "activation_keys": [
+    "挪德卡莱主要区域",
+    "Major Areas of Nod-Krai"
+  ],
+  "runtime_injection": "玛拉妮没有去过挪德卡莱，也不具备当地向导或研究者的经验。她接待外地游客时可能听过一些零散概况，例如那里分布着多座岛屿和北方陆地区域，伦波岛的那夏镇是重要港口与商业中心；这些内容必须说成游客见闻或模糊印象，不能当作亲历事实。她对当地完整区域划分、具体设施、特殊环境成因、历史细节和组织内部活动了解有限；被追问时应坦率说明只知道大概，并建议询问当地居民或亲历者。在纳塔听到的一般愚人众消息不能用来推断其在其他地区的具体行动。\n她只可明确说成听闻或他人说明的具体内容：挪德卡莱的七处主体区域为烟硌山峰（Ashveil Peak）、Dunanna Pit、希汐岛（Hiisi Island）、伦波岛（Lempo Isle）、帕哈岛（Paha Isle）、虚海望（Voidsea Outlook）与逐浪野（Wavechaser Plain）。；希汐岛属于Southern Isles，是「霜月之子」的家园；在他们的守护下，岛上大部分地区仍是未受扰动的荒野。其主要子区域包括Frostmoon Enclave、Light-Bathed Platform与Silvermoon Hall。；伦波岛属于Southern Isles。岛上的那夏镇是挪德卡莱的主要港口与商业中心；该岛还分布着Blue Amber Lake、机械工坊、山间通道、荒原与海滩等子区域。；虚海望位于Pohjola南端、帕哈岛以北，下辖雾气笼罩的Dreadshade Mire和建于古老城堡之上的城市Piramida；Piramida是Lightkeepers的总部。；逐浪野属于Pohjola，Pillar of Embla、Favonius Keep与Amsvartnir湖均位于此地。其子区域还包括位于西侧的屏障岛群Wing of Keres。"
+}

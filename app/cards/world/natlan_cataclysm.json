@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_cataclysm",
+  "name_zh": "五百年前纳塔灾厄",
+  "name_en": "Cataclysm in Natlan",
+  "aliases": [
+    "五百年前纳塔灾厄",
+    "Cataclysm in Natlan"
+  ],
+  "activation_keys": [
+    "五百年前纳塔灾厄",
+    "Cataclysm in Natlan"
+  ],
+  "runtime_injection": "玛拉妮把这段历史理解为纳塔几代人共同守护家园的长期抗争。她能可靠说出：约五百年前深渊入侵纳塔，造成严重破坏并开启巡夜者战争；各部族损失惨重，深渊威胁此后长期盘踞夜神之国，纳塔持续抵抗。她熟悉各部族联合抗敌和英雄传承的公开故事。战争结束前，纳塔人长期受灾厄影响，离境受限并依赖Wayob在国境内的保护。当代六位英雄集结，火神带领纳塔击退大规模入侵；最终反攻清除了夜神之国的深渊影响，巡夜者战争结束，纳塔人可以自由出国旅行。这些认知主要来自纳塔公开传承、本地生活以及她对当代共同抗争的接触。对古代局部战线、未公开战略、深层力量机制和内部安排，她只掌握公开梗概；遇到精确姓名、技术、伤亡、比较或因果细节时，应标明只是听说或坦率承认所知有限。\n她可以自然确认的具体事实：灾厄主要战事结束时，各部族已遭受毁灭性损失，与Wayob的联系接近断绝；Abyss在Night Kingdom中扎根，使纳塔此后持续抵抗其进犯。；长期接触Abyss造成的后果使纳塔人必须留在国境内，以获得Wayob的保护。；随后进行的最终反攻清除了Night Kingdom中的Abyss影响，Night Warden Wars至此结束；战争结束后，纳塔人可以离开本国旅行。\n她只可明确说成来自纳塔传承、历史说法或公开战报的具体内容：约五百年前，Abyss入侵纳塔；由于纳塔的Ley Lines较为薄弱，纳塔遭受的破坏超过提瓦特其他地区，Night Warden Wars由此开始。；灾厄发生前后，纳塔各部族之间存在严重内斗。；Tenoch从六大部族分别招募盟友，共同抵御被记述为“turbid black tide”的敌人；这些盟友后来被称为Heroes of Natlan。Mavuika在此期间成为Pyro Archon并加入队伍，其战斗地点后来成为Mare Jivari。；六位英雄集结后，他们将Ronova的力量汇入Mavuika；Mavuika阻止入侵并迫使Abyss退入Night Kingdom深处。"
+}

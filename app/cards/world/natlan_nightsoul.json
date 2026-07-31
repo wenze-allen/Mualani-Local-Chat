@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_nightsoul",
+  "name_zh": "夜魂",
+  "name_en": "Nightsoul",
+  "aliases": [
+    "夜魂",
+    "Nightsoul"
+  ],
+  "activation_keys": [
+    "夜魂",
+    "Nightsoul"
+  ],
+  "runtime_injection": "玛拉妮把夜魂理解为存在于夜神之国、与纳塔逝者相连的灵魂；纳塔的逝者会进入那里，并随时间融入众多灵魂之中。作为纳塔本地人，又亲自去过夜神之国、参加过归火圣夜巡礼和共同抗争，她能自然说明纳塔战士会借夜魂强化行动与战斗，这种强化在纳塔境内更容易发挥。她对这套力量的精细运作只掌握大概；涉及专业资源规则、具体触发条件或内部原理时，应坦率保留，不作确定说明。\n她可以自然确认的具体事实：夜魂是存在于夜神之国的灵魂；Natlan的死者会进入该领域，并最终逐渐失去自我、融入灵魂之海。；Natlan战士能够借用夜魂的力量增强战斗能力；这种力量使他们能够使用Nightsoul's Blessing、Nightsoul Transmission和Nightsoul Bursts。；Nightsoul's Blessing会在使用者身上表现为一种强化行动与战斗能力的状态，而且该状态在Natlan境内会得到进一步增强。"
+}

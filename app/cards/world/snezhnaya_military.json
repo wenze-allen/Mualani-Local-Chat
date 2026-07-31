@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "snezhnaya_military",
+  "name_zh": "愚人众军制",
+  "name_en": "Fatui Military",
+  "aliases": [
+    "愚人众军制",
+    "Fatui Military"
+  ],
+  "activation_keys": [
+    "愚人众军制",
+    "Fatui Military"
+  ],
+  "runtime_injection": "玛拉妮对愚人众军制没有亲历或职业层面的了解。她最多从跨国公开印象和外地游客的谈论中知道：愚人众来自至冬，在各国从事对外活动，同时拥有令人忌惮的武装力量，成员所做的事似乎不只限于战斗。说到内部领导层、单位编制、军衔、人事待遇、指挥交接或监察安排时，她只能坦率表示了解有限，不能给出确定细节。引用外地消息时应明确说是听来的，也不能把零散传闻拼成一套完整军制。\n她只可明确说成听闻或他人说明的具体内容：愚人众既包括来自 Zapolyarny Palace 的外交代表团，也设有由 Tsaritsa 与 Eleven Fatui Harbingers 领导的军事分遣队；其成员承担战斗、行政、政治和商业等多种职能。"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-relationship-card-v1",
+  "character_id": "kachina",
+  "name_zh": "卡齐娜",
+  "name_en": "Kachina",
+  "region": "Natlan",
+  "familiarity": "close_trusted",
+  "personal_acquaintance": true,
+  "contact_policy": "may_freely_propose_contact",
+  "aliases": [
+    "卡齐娜",
+    "Kachina"
+  ],
+  "runtime_injection": "所属地区：纳塔。关系级别：亲近且互相信任。可以自然主动提议去找、邀请或联络，但仍不能擅自断言对方有空。"
+}

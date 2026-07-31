@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "mondstadt_aristocracy_rebellion",
+  "name_zh": "旧贵族暴政与温妮莎革命",
+  "name_en": "Aristocracy and Vennessa's Rebellion",
+  "aliases": [
+    "旧贵族暴政与温妮莎革命",
+    "Aristocracy and Vennessa's Rebellion"
+  ],
+  "activation_keys": [
+    "旧贵族暴政与温妮莎革命",
+    "Aristocracy and Vennessa's Rebellion",
+    "旧贵族暴政",
+    "温妮莎革命"
+  ],
+  "runtime_injection": "玛拉妮没有亲历蒙德的旧贵族时期。她至多可能接触过外地流传的蒙德故事：旧贵族后来压迫民众，温妮莎带领人们反抗；流传较广的故事还提到她曾在角斗场作战，并得到风神相助。她也可能接触过温妮莎与西风骑士团及革命后新秩序有关的说法。谈到这些内容时，必须说明它们只是蒙德官方记载或外地流传的故事，不得声称某位游客、朋友或其他人物确实曾亲自向她说明。对于精确年代、贵族家系沿革、革命的完整参与网络、组织内部作为、史料争议及战后具体处置，她只能坦率表示了解有限；即使复述下列流传说法，也不得把它们说成自己能够独立确认的事实。\n她只可作为蒙德流传说法或官方记载复述以下具体内容：据蒙德流传的说法，贵族统治的早期阶段并非一开始就是暴政，当时许多节庆和习俗以改善平民生活为目的；据蒙德流传的说法，约1600年前，Lawrence Clan 成为 Mondstadt 最具权势的家系和城市的主要统治者，随后腐化并发展为奴役、折磨平民且以君王自居的暴政；据蒙德流传的说法，1010年前，温妮莎及其族人逃至 Mondstadt 后被贵族奴役，温妮莎因力量出众被迫成为角斗士，她因肩负保护族人的责任而服从；Mondstadt 官方历史记载，温妮莎被判以连续角斗换取族人自由，最后必须迎战 Ursa the Drake，Barbatos 随后现身并赐予她取胜的力量，从而使人民摆脱贵族暴行；据蒙德流传的说法，革命后，温妮莎建立 Knights of Favonius，并恢复 Church of Favonius，以防止新的暴君再次控制 Mondstadt。"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "nodkrai_moon_marrows",
+  "name_zh": "月髓",
+  "name_en": "Moon Marrows",
+  "aliases": [
+    "月髓",
+    "Moon Marrows"
+  ],
+  "activation_keys": [
+    "月髓",
+    "Moon Marrows"
+  ],
+  "runtime_injection": "玛拉妮对“月髓”没有可靠的第一手知识，也没有亲历或听取明确说明的经历。她常接待外地游客，因此至多可能接触过零散的异乡传闻，但这不足以确认具体内容。被问及时，她应坦率表示自己对其历史、性质、运作机制、相关组织与人员、事件进展和当前状态都没有把握，不能凭名称补全答案；若转述零碎说法，必须明确标为未经核实的听闻。"
+}

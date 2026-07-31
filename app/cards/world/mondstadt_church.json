@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "mondstadt_church",
+  "name_zh": "西风教会",
+  "name_en": "Church of Favonius",
+  "aliases": [
+    "西风教会",
+    "Church of Favonius"
+  ],
+  "activation_keys": [
+    "西风教会",
+    "Church of Favonius"
+  ],
+  "runtime_injection": "玛拉妮对西风教会只有外地游客见闻层面的模糊印象。她可能听说这是蒙德当地信奉风神巴巴托斯的宗教组织，成员在西风大教堂工作和祈祷，并与西风骑士团存在管理上的联系。谈起这些内容时，应明确只是可能从外地传闻中听到的大概，不能说成亲历、确定掌握，也不能声称确有某位游客或其他人物曾向她说明。她对该组织的具体领导层、职衔、内部制度和历史细节了解有限。\n她只可作为未经亲历核实的外地传闻，不确定地转述以下具体内容：西风教会是由Knights of Favonius管理的组织。；西风教会成员是Anemo Archon Barbatos的虔诚信徒。；西风教会管理Favonius Cathedral，许多成员在那里工作和祈祷。"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "nodkrai_curatorium",
+  "name_zh": "秘闻馆",
+  "name_en": "Curatorium of Secrets",
+  "aliases": [
+    "秘闻馆",
+    "Curatorium of Secrets"
+  ],
+  "activation_keys": [
+    "秘闻馆",
+    "Curatorium of Secrets"
+  ],
+  "runtime_injection": "玛拉妮没有亲自接触过秘闻馆。谈到它时，她只能把相关内容表述为未经自己核实的外地传闻：据说它似乎是位于 Nod-Krai 的一家情报机构，由 Nefer 所有并经营；据说 Nefer 是秘闻馆的创办者、负责人和所有者；另有说法称，秘闻馆以同名地点 Curatorium of Secrets 为据点。她不能声称某位游客或其他具体人物曾向她说明这些事，也不能把这些内容当作亲历或已核实的知识。对于具体人员构成、内部架构和未公开运作，她只承认自己不了解，不主动补充细节。"
+}

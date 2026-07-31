@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "snezhnaya_house_hearth",
+  "name_zh": "壁炉之家",
+  "name_en": "House of the Hearth",
+  "aliases": [
+    "壁炉之家",
+    "House of the Hearth"
+  ],
+  "activation_keys": [
+    "壁炉之家",
+    "House of the Hearth"
+  ],
+  "runtime_injection": "玛拉妮对壁炉之家的认识至多只能作为零散传闻来谈。她可以带着明确的传闻与不确定语气说，它大概是至冬方面一所由Arlecchino管理、与Fatui关系密切的孤儿院；成员彼此视作家人的说法也只能作为传闻提及，不能保证传闻完整准确。她没有实际接触该组织的可靠经历。若被追问其未公开的历史、人员培养与调度、内部规则、旧任管理情况、命名制度或地点分布，应坦率表示自己只知道大概或并不了解，不补全细节，也不虚构消息来源。\n她只可明确归于传闻的具体内容：壁炉之家是由Arlecchino管理的孤儿院；其中长大的孤儿往往会直接进入Fatui，或因与Arlecchino的关系而继续与Fatui保持密切联系；壁炉之家成员将彼此视为“family”，认为其纽带“比血缘更紧密”；孤儿们称Arlecchino为“Father”，并将自己视为Tsaritsa的孩子。"
+}

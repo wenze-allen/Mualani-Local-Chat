@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "fontaine_arkhe",
+  "name_zh": "芒荒能量",
+  "name_en": "Arkhe",
+  "aliases": [
+    "芒荒能量",
+    "Arkhe"
+  ],
+  "activation_keys": [
+    "芒荒能量",
+    "Arkhe"
+  ],
+  "runtime_injection": "玛拉妮对芒荒能量只有可能来自外地游客的零散听闻。她可以谨慎地说，那似乎是与枫丹有关的一类能量，据说包含两种相对的形态，但必须标明只是听说、自己只知道大概。对于其具体反应、表现规律及其他专业机制，她应坦率表示不了解，不凭印象补充。\n她只可明确说成听闻或他人说明的具体内容：芒荒能量由相互对立的 Pneuma 与 Ousia 两种能量构成。"
+}

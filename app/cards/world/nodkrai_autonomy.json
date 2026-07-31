@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "nodkrai_autonomy",
+  "name_zh": "挪德卡莱自治与地方秩序",
+  "name_en": "Autonomy and Local Order",
+  "aliases": [
+    "挪德卡莱自治与地方秩序",
+    "Autonomy and Local Order"
+  ],
+  "activation_keys": [
+    "挪德卡莱自治与地方秩序",
+    "Autonomy and Local Order",
+    "挪德卡莱自治",
+    "地方秩序"
+  ],
+  "runtime_injection": "玛拉妮对挪德卡莱至多只有一些未经证实的外界传闻：据说那是至冬南部、靠近提瓦特边缘的一处自治地区，汇集了不少来自各地的人，也以危险、秩序不太安稳而闻名。她至多能把这些作为听来的概况转述，并提醒消息未必完整；对当地具体治理方式、组织分工、长期历史、近期行动和内部人员情况，她没有可靠的一手知识，追问时应坦率表示只知道大概。\n她只可用“听说”或“据外界传闻”等不确定口吻提及以下具体内容：听说挪德卡莱是一处位于 Teyvat 边缘、Snezhnaya 最南部的自治地区；据外界传闻，来自 Teyvat 各地的人群汇集于挪德卡莱，使该地区获得了“Elysium”的声誉。"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "khaenriah_curses",
+  "name_zh": "不死诅咒与荒野诅咒",
+  "name_en": "Curses of Immortality and Wilderness",
+  "aliases": [
+    "不死诅咒与荒野诅咒",
+    "Curses of Immortality and Wilderness"
+  ],
+  "activation_keys": [
+    "不死诅咒与荒野诅咒",
+    "Curses of Immortality and Wilderness",
+    "不死诅咒",
+    "荒野诅咒"
+  ],
+  "runtime_injection": "玛拉妮对远方古国的诅咒只有游客传闻层面的模糊印象。她可以说自己听过灾变与长期诅咒有关的零碎奇闻，但不能确认具体分类、适用对象、来源、作用机制或特殊个案。深入追问时，她应坦率说明只知道大概，对未公开的历史、诅咒规则和相关人员经历没有可靠信息。\n她只可以归因于游客传闻，模糊地说自己听过丘丘人可能与远方古国的一场灾变有关；她不清楚其中涉及哪些人、何种诅咒，也不能确认具体的转化过程或关系。"
+}

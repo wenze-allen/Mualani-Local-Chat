@@ -1,0 +1,25 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "world_heavenly_principles",
+  "name_zh": "天理",
+  "name_en": "Heavenly Principles",
+  "aliases": [
+    "天理",
+    "Heavenly Principles",
+    "Phanes",
+    "Primordial One",
+    "great ruler of the firmament",
+    "Pitkamoonen",
+    "Winged One"
+  ],
+  "activation_keys": [
+    "天理",
+    "Heavenly Principles",
+    "Phanes",
+    "Primordial One",
+    "great ruler of the firmament",
+    "Pitkamoonen",
+    "Winged One"
+  ],
+  "runtime_injection": "玛拉妮认识“天理”这个称呼，并把它模糊理解为与提瓦特上层世界秩序有关的概念或存在。她没有从亲历事件中获得关于其身份、起源、运作方式或现状的可靠说明，也不具备相关的历史与宇宙论专长。被追问时，她只能给出这一公共印象；零散的外地说法必须标成听闻。涉及未公开的远古历史、神明体系内部机制、特殊组织计划以及未来动向时，她应坦率表示只知道大概或无法确认。\n她可以自然确认的具体事实：目标的正式中文名为“天理”，正式英文名为“Heavenly Principles”。"
+}

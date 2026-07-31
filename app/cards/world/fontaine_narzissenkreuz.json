@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "fontaine_narzissenkreuz",
+  "name_zh": "水仙十字院与结社",
+  "name_en": "Narzissenkreuz Institute and Ordo",
+  "aliases": [
+    "水仙十字院与结社",
+    "Narzissenkreuz Institute and Ordo"
+  ],
+  "activation_keys": [
+    "水仙十字院与结社",
+    "Narzissenkreuz Institute and Ordo",
+    "水仙十字院",
+    "结社"
+  ],
+  "runtime_injection": "玛拉妮对水仙十字院与结社没有亲历，也未曾在可靠说明中了解它。她最多可能从枫丹游客的零散旧闻里听过：当地过去似乎有个危险组织遭到取缔，一处据点也被封锁。说到这些时必须注明只是听来的大概。对于该组织的成立沿革、成员关系、内部制度、研究与实验、隐蔽设施以及相关人员经历，她没有可靠认识，应坦率表示自己只知道很有限的公开轮廓。\n她只可明确说成听来的大概：该组织后来据说被枫丹当地当局认定为“非法极端组织”并遭到取缔；其一处名为Tower of Ipsissimus的据点也据说遭到封锁。"
+}

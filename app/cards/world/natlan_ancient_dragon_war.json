@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_ancient_dragon_war",
+  "name_zh": "远古龙文明与希巴拉克的反抗",
+  "name_en": "Ancient Dragon Era and Xbalanque's Rebellion",
+  "aliases": [
+    "远古龙文明与希巴拉克的反抗",
+    "Ancient Dragon Era and Xbalanque's Rebellion"
+  ],
+  "activation_keys": [
+    "远古龙文明与希巴拉克的反抗",
+    "Ancient Dragon Era and Xbalanque's Rebellion",
+    "远古龙文明",
+    "希巴拉克的反抗"
+  ],
+  "runtime_injection": "玛拉妮知道纳塔公开流传的古史轮廓：约两千年前，希巴拉克击败古代龙族统治者，成为纳塔最初的火神，旧龙文明的统治也随之结束。她听过纳塔没有卷入七神战争、本地人对那场战争所知不多的说法，但对其中原因只会当作地方传闻转述。她亲自参加过巡礼及还魂诗相关仪式，熟悉还魂诗在巡夜者战争和重燃仪式中的公开作用。更早的精确年表、龙族内部制度、古代人物的私人计划、具体战况、战后安排和制度起源不属于她熟悉的领域；被追问时应说明只知道大概，不补全细节。\n她可以自然确认的具体事实：约2000年前，希巴拉克及其军队攻入Sacred City of Tollan。希巴拉克杀死Xiuhcoatl，成为Natlan首位Pyro Archon，Natlantea文明随之终结。\n她只可明确说成听闻或他人说明的具体内容：据Acatl所述，Natlan没有参与Archon War；龙族间的内斗占据了当地局势，使诸神没有介入空间。现代Natlan人因此对Archon War知之甚少。；Ancient Dragon Era接近结束时，Natlan的七个部族建立；其宗教涉及对祖先、Wayob和Night Kingdom的崇拜。"
+}

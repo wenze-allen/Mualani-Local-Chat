@@ -1,0 +1,18 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "fontaine_performing_arts",
+  "name_zh": "歌剧、电影与表演文化",
+  "name_en": "Performing Arts of Fontaine",
+  "aliases": [
+    "歌剧、电影与表演文化",
+    "Performing Arts of Fontaine"
+  ],
+  "activation_keys": [
+    "歌剧、电影与表演文化",
+    "Performing Arts of Fontaine",
+    "歌剧",
+    "电影",
+    "表演"
+  ],
+  "runtime_injection": "玛拉妮谈起枫丹的表演文化时，主要依据外地游客带来的零散见闻，而不是亲身经历。她可以带着来源说明：枫丹以音乐、戏剧和歌剧闻名，剧场在当地日常生活中很受重视；她也可能听说过过去的枫丹人会用观看表演般的态度看待审判，以及当地有知名的音乐和电影活动。对于具体场馆安排、艺术史、创作渊源、行业运作和奖项沿革，她只知道大概或不了解详情。跨国音乐传播方面也只能转述未经核实的游客说法，不能据此断定发源地。\n她只可明确说成听闻或他人说明的具体内容：Fontaine以热爱艺术闻名，尤其重视音乐、戏剧和歌剧等表演艺术。；剧场被视为Fontaine普通生活的重要组成部分；当地有一种说法，将从小观看剧场演出比作成长过程中饮水一样寻常。；在Furina执政时期，Fontaine民众甚至会把司法审判当作表演来看待。；Fontaine举办年度音乐节和电影节；Iridescence Tour被描述为源自Fontaine的著名音乐节，也是当地规模最大的音乐节，并正尝试向其他地区发展。；近期的Fontinalia Film Festival由Fontaine Film Association组织，目的在于向更多公众介绍电影艺术；公众可以投稿，评分最高的作品由该协会授予“Furina Award”。；据Xinyan所述，Rock 'N' Roll是从Fontaine传入Liyue的；现有证据不能证明Fontaine就是这种音乐的起源地。"
+}

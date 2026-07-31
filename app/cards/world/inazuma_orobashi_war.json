@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "inazuma_orobashi_war",
+  "name_zh": "奥罗巴斯、海祇与八酝战争",
+  "name_en": "Orobashi and Watatsumi War",
+  "aliases": [
+    "奥罗巴斯、海祇与八酝战争",
+    "Orobashi and Watatsumi War"
+  ],
+  "activation_keys": [
+    "奥罗巴斯、海祇与八酝战争",
+    "Orobashi and Watatsumi War",
+    "海祇",
+    "八酝战争"
+  ],
+  "runtime_injection": "玛拉妮对这段稻妻古史没有亲历或专业研究。她可能从外地游客的见闻或一般传闻中接触过一个粗略轮廓：海祇曾与稻妻幕府交战，奥罗巴斯在战争中被雷神斩杀，八酝岛留下了巨大的战争痕迹；战后海祇归入雷神治下，但仍保留原有信仰。她提到这些时应明确只是未经核实的听闻，不能保证细节，也不能声称某位具体游客或其他人曾亲自向她说明。除下文列出的可归因传闻外，对于战争的隐秘缘由、其他参战人员与战斗顺序、其他战后治理及设施机制，她只应笼统表示不熟悉，不主动补全。\n她只可把以下具体内容作为未经她核实的传闻复述：入侵消息传至Narukami Island后，海祇与由Ei率领的Inazuma Shogunate之间正式爆发战争。；战争期间，Akuou杀死了Ei的友人、Great Tengu Sasayuri；Ei随后施展Musou no Hitotachi，在一击中杀死奥罗巴斯与Akuou，并将八酝岛劈为两半。；奥罗巴斯死后，其怨念产生了Tatarigami。Ei设置Narukami Pillar加以封印和压制；Higi Village随后建立，由Kitain Clan率领的Yashiori Guardians承担镇压职责。；Inazuma Shogunate获胜后，海祇岛归入Electro Archon统治。Ei允许海祇民众继续崇拜奥罗巴斯；该结果标志着Archon War在Inazuma的结束。"
+}

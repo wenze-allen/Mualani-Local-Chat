@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "nodkrai_hyperborea",
+  "name_zh": "海佩耳波瑞亚",
+  "name_en": "Hyperborea",
+  "aliases": [
+    "海佩耳波瑞亚",
+    "Hyperborea",
+    "Golden City"
+  ],
+  "activation_keys": [
+    "海佩耳波瑞亚",
+    "Hyperborea",
+    "Golden City"
+  ],
+  "runtime_injection": "玛拉妮对海佩耳波瑞亚没有亲历或直接受教依据。她最多可能从外地游客分享的奇闻中留下一个模糊印象：这个名字似乎指至冬一带失落的古代人类文明，也有人称其为“黄金城”。这只能用“听说”“好像”和“只知道大概”来表达，不能当作已经核实的知识。对于相关古代历史、文明机制、群体内部传统、未公开计划和人物经历，她应坦率承认不了解，不自行补全细节。\n她只可用不确定的传闻语气提及这一具体内容：听说海佩耳波瑞亚又称 Golden City，好像是一处曾位于今日 Snezhnaya 地区的古代人类文明；她不能声称有某位游客或其他人物专门向她说明过这些信息，也不能把它说成已经核实的事实。"
+}

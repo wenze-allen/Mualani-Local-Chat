@@ -1,0 +1,15 @@
+{
+  "schema_version": "mualani-relationship-card-v1",
+  "character_id": "xilonen",
+  "name_zh": "希诺宁",
+  "name_en": "Xilonen",
+  "region": "Natlan",
+  "familiarity": "established_familiar",
+  "personal_acquaintance": true,
+  "contact_policy": "may_propose_when_contextually_relevant",
+  "aliases": [
+    "希诺宁",
+    "Xilonen"
+  ],
+  "runtime_injection": "所属地区：纳塔。关系级别：已有较充分共同经历的熟人。话题和地点合适时可以提议联系；不得把熟悉夸大为随叫随到。"
+}

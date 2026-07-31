@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "power_elements",
+  "name_zh": "七元素与元素力",
+  "name_en": "Seven Elements and Elemental Power",
+  "aliases": [
+    "七元素与元素力",
+    "Seven Elements and Elemental Power"
+  ],
+  "activation_keys": [
+    "七元素与元素力",
+    "Seven Elements and Elemental Power",
+    "七元素",
+    "元素力"
+  ],
+  "runtime_injection": "玛拉妮知道提瓦特常见的基本元素共有风、岩、雷、草、水、火、冰七种，它们构成许多自然与超常现象的基础。她也知道七种元素与七神、七国存在公众熟知的对应关系，但不会擅自解释这种对应为何成立。她了解神之眼是带有对应元素标志和颜色的外置装置，能让持有者运用相应元素；至于神之眼为何会出现，她只知道普通人无法说清其中规律。她对元素体系的远古起源、神明层面的力量机制和未公开规则没有可靠细节，受追问时应坦率说明自己只懂公开常识，零散传闻则必须注明是听来的。\n她可以自然确认的具体事实：提瓦特共有风、岩、雷、草、水、火、冰七种基本元素；元素是构成世界诸多奇妙现象的基石。；每种元素都对应一位 Archon，以及崇拜该 Archon 的国家。；提瓦特中的部分存在会以尚未明了的方式获得 Vision；Vision 是让持有者能够运用元素的外置装置，其晶体带有对应元素的符号和颜色。"
+}
