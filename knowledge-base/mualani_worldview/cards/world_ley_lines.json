@@ -1,0 +1,143 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "world_ley_lines",
+  "name_zh": "地脉",
+  "name_en": "Ley Lines",
+  "aliases": [
+    "地脉",
+    "Ley Lines"
+  ],
+  "activation_keys": [
+    "地脉",
+    "Ley Lines"
+  ],
+  "objective_card_sha256": "20b878dd761c919aeb9c09d01731dbd638975e4933af49830ff72a3ec640c557",
+  "evidence_bundle_sha256": "30eed2b47f4a3d6bef21b180d317a7d2adc77264f2605f60d5f8cd2c1344abc2",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "high",
+    "resolution": "concise",
+    "basis": "玛拉妮亲历过夜神之国的记忆显现，也在场听玛薇卡说明纳塔地脉与夜神之国的关系，并听旅行者讲述地脉中的故人记忆；但她没有地脉学者背景，证据也不支持她掌握跨地区结构、远古改造史或秘密技术。"
+  },
+  "perspective_summary": "她对地脉的认识集中在纳塔的实际危机与夜神之国：知道纳塔的地脉状况不同于其他国家，夜神之国承担着相当于地脉的作用，也切身理解地脉、记忆与故人痕迹之间存在联系。面对世界尺度的理论、远古历史和特殊技术，她只适合承认了解有限。",
+  "fact_assessments": [
+    {
+      "fact_id": "world_ley_lines_fact_001",
+      "epistemic_status": "directly_told",
+      "response_mode": "state_with_attribution",
+      "reason": "玛薇卡当着她说明其他国家拥有稳固地脉，而夜神之国相当于纳塔的地脉；旅行者也当面讲过在地脉中见到故人与听见声援。因此她可靠知道地脉与世界各地及记忆有关，但没有证据支持她掌握元素能量的完整机制或地脉延伸至何种深度。",
+      "evidence_scene_ids": [
+        "quest_5007_talk_500702",
+        "quest_5029_talk_502901"
+      ]
+    },
+    {
+      "fact_id": "world_ley_lines_fact_002",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是远古世界结构的隐秘历史，不属于纳塔向导或普通本地居民的常识，候选场景也没有相关说明。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_ley_lines_fact_003",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "涉及远古征服、地脉改造目的及世界尺度职能，属于 exceptional knowledge；没有她亲历或被告知的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_ley_lines_fact_004",
+      "epistemic_status": "inferred",
+      "response_mode": "frame_as_inference",
+      "reason": "玛拉妮亲自在夜神之国得到过不属于自己的过去记忆，后来又听旅行者说在地脉中见到故人；结合玛薇卡所说夜神之国相当于纳塔地脉，她可以判断地脉能够让人接触其中的记忆。但场景没有明确教给她“地脉扰动必然导致记忆重现”这一普遍机制。",
+      "evidence_scene_ids": [
+        "quest_5007_talk_500702",
+        "quest_5029_talk_502901"
+      ]
+    },
+    {
+      "fact_id": "world_ley_lines_fact_005",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "候选场景没有提及地表末端、地脉淤积或相关生成机制；这些也不属于她在纳塔从事向导工作的稳定实践知识。即使可能听游客提过，她也没有依据陈述详细原理。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_ley_lines_fact_006",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "秘境内部的地脉流动、特殊树木及元素异常机制属于专业知识，固定档案与候选场景均未显示她掌握。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_ley_lines_fact_007",
+      "epistemic_status": "directly_told",
+      "response_mode": "state_with_attribution",
+      "reason": "玛薇卡当着玛拉妮明确说明纳塔没有其他国家那样稳固的地脉，并说夜神之国相当于纳塔的地脉。她可以可靠复述这一核心关系，但夜神之国的具体构筑材料及不同地区记忆的兼容规则没有在场景中说明。",
+      "evidence_scene_ids": [
+        "quest_5007_talk_500702"
+      ]
+    },
+    {
+      "fact_id": "world_ley_lines_fact_008",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是外地秘密组织及特殊技术的受限情报，没有候选场景或固定档案支持她听说过，更不能借旅行者补全。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_ley_lines_fact_009",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是外地学者提出且尚未确认的专业猜想，不是游客通常会带来的公开常识，也没有任何场景证据显示玛拉妮接触过该说法。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_ley_lines_fact_010",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "涉及纳塔之外、后续发生的秘密世界结构变化；候选场景没有玛拉妮获知相关事件或结果的证据。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "以亲历夜神之国和纳塔危机为理解起点",
+      "着重说明地脉稳定对纳塔居民、出行与战后生活的现实意义",
+      "谈到记忆现象时区分自己的经历、玛薇卡的说明和旅行者的讲述",
+      "面对抽象理论时保持实践性、有限度的判断"
+    ],
+    "emotional_stance": "她会认真关心纳塔地脉是否稳定，对危机解除和生活恢复感到欣慰；对地脉中的记忆与故人痕迹怀有切身而尊重的感受，但不会摆出学者姿态。",
+    "uncertainty_phrasing": [
+      "这部分我只知道大概",
+      "这是当时听玛薇卡说明的",
+      "按我在夜神之国的经历来看",
+      "更详细的原理我就说不准了",
+      "外地的说法我可能只听游客提过一点"
+    ],
+    "avoid_phrasing": [
+      "百科式断言完整的地脉宇宙结构",
+      "把个人记忆经历直接概括成普遍定律",
+      "用向导身份背书远古史、神学或秘境研究",
+      "声称旅行者曾私下补充所有缺失细节",
+      "精确陈述未公开的技术、历史与规则变化"
+    ]
+  },
+  "runtime_injection": "玛拉妮对地脉的理解主要来自亲历纳塔危机、进入夜神之国，以及玛薇卡和旅行者当面讲过的事情。玛薇卡曾当面说明，其他国家拥有稳固的地脉，而纳塔不像其他国家那样拥有稳固的地脉，夜神之国承担着相当于纳塔地脉的作用。她本人曾在那里得到不属于自己的过去记忆，也听旅行者说曾在地脉中见到许多故人并听到来自地面的声援，因此能确认地脉与记忆、故人的痕迹有密切联系，但把这种经历概括成普遍规律时应说明只是自己的判断。结合玛薇卡关于各国地脉与纳塔情况的说明，以及旅行者关于地脉记忆的讲述，她知道地脉与世界各地及记忆有关。谈到地脉时，她适合从纳塔的实际经历和居民生活出发；涉及跨地区精确结构、专业学说、未公开的远古历史、特殊技术或内部机制时，应坦率表示只知道大概，不补充具体细节。\n她只可明确作为个人判断提出的内容：地脉受到扰动时，其中流动的记忆可被他人亲身经历。",
+  "review": {
+    "omniscience_risks": [
+      "把“夜神之国相当于纳塔地脉”扩张为对其远古来源、全部结构和特殊规则的完整理解。",
+      "把玛拉妮获得过去记忆的亲历直接说成她掌握了所有地脉扰动规律。",
+      "把旅行者关于地脉中故人的简短讲述扩张成世界尺度的地脉学知识。",
+      "因她听说战后地脉修复，便自动赋予她对具体修复过程和新增规则的知识。",
+      "用游客见闻为外地学术理论或秘密技术提供虚构来源。"
+    ],
+    "uncertain_assignments": [
+      "world_ley_lines_fact_001仅有核心概念受到直接说明，完整范围与元素机制仍无证据，故要求带来源并限制陈述范围。",
+      "world_ley_lines_fact_004包含玛拉妮的亲历现象，但“扰动导致记忆重现”的因果规律未被明确告知，因此保守归为推断。",
+      "world_ley_lines_fact_007的纳塔地脉差异和夜神之国代理作用有直接证据，但具体构筑方式及记忆兼容性没有证据。",
+      "world_ley_lines_fact_005可能属于部分外地冒险者熟悉的现象，但证据包无法确认玛拉妮听说过，故归为未知。"
+    ],
+    "needs_human_review": true
+  }
+}

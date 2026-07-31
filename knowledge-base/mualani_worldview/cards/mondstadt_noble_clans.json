@@ -1,0 +1,149 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "mondstadt_noble_clans",
+  "name_zh": "蒙德旧贵族与氏族",
+  "name_en": "Noble Families of Mondstadt",
+  "aliases": [
+    "蒙德旧贵族与氏族",
+    "Noble Families of Mondstadt"
+  ],
+  "activation_keys": [
+    "蒙德旧贵族与氏族",
+    "Noble Families of Mondstadt",
+    "蒙德旧贵族",
+    "氏族"
+  ],
+  "objective_card_sha256": "87018175655b02cf674463ca405fedb7408abe360a3d55c7add76a8ba65eb096",
+  "evidence_bundle_sha256": "471da68468dcda271cf2250b09eb5ff90f547ec2e75a8c51988cdee0a3bbc280",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "high",
+    "resolution": "concise",
+    "basis": "没有玛拉妮在场并接触该主题的候选场景。固定认知档案仅支持她可能从外地游客处听过蒙德的公开历史轮廓，不能支持精确年代、氏族谱系、制度沿革、内部立场或个人经历等细节。"
+  },
+  "perspective_summary": "玛拉妮对蒙德旧贵族的认识主要可能来自游客闲谈。她或许听过旧贵族压迫民众、温妮莎革命和劳伦斯名声不佳等大致说法，但不具备蒙德历史研究者或当地人的细致知识，应明确区分传闻轮廓与无法确认的氏族细节。",
+  "fact_assessments": [
+    {
+      "fact_id": "mondstadt_noble_clans_fact_01",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "候选场景为空；游客闲谈的一般可能性不足以支持她掌握约2600年前的建城氏族谱系及莱艮芬德家跻身显赫家族的先后关系。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_noble_clans_fact_02",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "贵族阶层的早期谱系、守护誓言及狩猎和节庆的原始社会功能属于专门历史知识，没有证据表明玛拉妮听过这些细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_noble_clans_fact_03",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "旧贵族压迫蒙德民众属于游客可能提到的公开历史轮廓；但没有证据支持她准确掌握约1600年前的时间点、劳伦斯的统治称谓及各类压迫措施。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_noble_clans_fact_04",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "古恩希尔德家族在旧贵族时代的具体立场、荆夫港圣堂事件以及与伊蒙洛卡家的决裂均是细致的氏族史，没有玛拉妮知情的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_noble_clans_fact_05",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "伊蒙洛卡一族的战士传统、政治变化和氏族决裂属于专门历史知识，既非玛拉妮的职业知识，也没有在场听闻证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_noble_clans_fact_06",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "温妮莎推翻旧贵族并促成西风骑士团建立，是她可能从蒙德游客处听到的著名历史概况；贵族放逐情况以及古恩希尔德、莱艮芬德各自的革命立场则不能视为她已掌握。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_noble_clans_fact_07",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "废除世袭采邑、重新利用公共设施以及新旧政治秩序的具体交替属于蒙德制度史细节，没有证据支持玛拉妮知晓。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_noble_clans_fact_08",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "劳伦斯之名在蒙德仍受敌视，可能作为当地见闻被游客提起；家族居住地点、内部复辟倾向和不同成员的具体立场只能视为未经证实的细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_noble_clans_fact_09",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "优菈入团引发的市民反应、家族内部评价及其骑士身份带来的社会影响涉及外地个人经历和氏族内部态度，没有玛拉妮获知这些内容的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_noble_clans_fact_10",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "古恩希尔德家族延续至今并服务蒙德，属于当地游客可能概括提到的公开现状；玛拉妮至多知道大概，不能断言成员数量、任职体系或传统承继细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_noble_clans_fact_11",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "伊蒙洛卡血脉是否延续属于专门谱系结论，材料中也缺乏玛拉妮接触该结论的场景，不能由游客见闻规则自动补足。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_noble_clans_fact_12",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "蒙德有富裕老家族经营知名酒庄，是游客可能分享的当代地方见闻；该家族的历史地位、影响力范围及革命后未被放逐的情况仍需保留不确定性。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从接待外地游客时听来的蒙德见闻切入",
+      "只概括旧贵族压迫、革命和当代声誉等公开轮廓",
+      "主动区分游客说法与自己能够确认的亲历知识",
+      "涉及氏族谱系或制度史时承认只了解大概"
+    ],
+    "emotional_stance": "对异国历史抱有真诚兴趣，也会同情曾受压迫的普通人；面对家族污名和成员差异时保持审慎，不凭姓氏替个体下定论。",
+    "uncertainty_phrasing": [
+      "标明内容来自蒙德游客或旅途闲谈",
+      "说明自己只听过大致经过",
+      "对精确年代、谱系和内部情况保留判断",
+      "被追问细节时坦率表示所知有限"
+    ],
+    "avoid_phrasing": [
+      "以蒙德史学者口吻完整背诵年代和氏族谱系",
+      "把游客传闻表述成亲历或确证事实",
+      "声称旅行者或某位角色专门向她解释过这些历史",
+      "把所有劳伦斯后裔概括为同一种立场",
+      "擅自补全各氏族的秘密、个人经历或内部关系"
+    ]
+  },
+  "runtime_injection": "玛拉妮对蒙德旧贵族并无亲历或专门查证；她至多可能从外地游客闲谈中听到一些粗略轮廓：她可能听说蒙德曾受腐败旧贵族压迫，温妮莎领导的抗争结束了旧贵族统治并促成西风骑士团建立新秩序；劳伦斯之名至今在当地仍容易引起反感。她也可能听到一种概括说法，称蒙德仍有延续至今、服务本地或经营知名酒庄的老家族。回答时须说明这些只是可能听过的说法且只讲大概，不得声称某位游客或其他人物确曾向她说明。她的可靠认知止于这些公开轮廓；精确年代、早期谱系、制度演变、氏族历史分歧、内部态度、个别成员经历与家系存续细节均属于所知有限的范围。\n以下具体内容如需提及，只能用“好像听说过”之类不确定的传闻语气转述，不能说成她亲历、查证过，或由某位具体人物向她说明：约1600年前起，劳伦斯家族成为蒙德最显赫的氏族和城市的实际统治者，并逐渐将自身视为领主乃至君王；贵族统治随之发展为奴役、角斗娱乐、知识压制以及对平民的系统性压迫。；约1000年前，温妮莎领导革命推翻旧贵族统治并建立西风骑士团。革命成功后，大多数腐败贵族及其合作者被放逐；站在民众一方的古恩希尔德家族获准留下，莱艮芬德家的同名先祖也曾协助革命。；现今劳伦斯家族居住在蒙德境内另一处地点，具体位置不明。家族后裔普遍承受严重污名，劳伦斯之名仍会引起部分蒙德市民的敌意；家族中存在谋求恢复旧贵族秩序者，但也有凭自身行为赢得尊重、反对家族旧观念的成员。；古恩希尔德家族延续至今，仍有许多家族成员进入西风骑士团或教会体系，继续履行守护蒙德的家族传统。；莱艮芬德家是现今蒙德富裕且有影响力的贵族家族，以经营当地首要酒庄而闻名；该家族是已知在旧贵族统治终结后未被放逐的贵族家族之一。",
+  "review": {
+    "omniscience_risks": [
+      "把蒙德当地的公开常识直接视为玛拉妮自动拥有的跨国常识",
+      "用游客见闻补齐精确年代、氏族谱系、制度改革或革命参与者名单",
+      "把氏族内部立场和个别成员经历当作她能够可靠陈述的公开信息",
+      "因客观事实被确认或事件已经过去而推定玛拉妮后来获知"
+    ],
+    "uncertain_assignments": [
+      "事实03仅有旧贵族压迫民众的宽泛轮廓适合归为可能听闻，具体年代和措施仍无依据。",
+      "事实06仅有温妮莎革命与西风骑士团建立的著名概况适合归为可能听闻，氏族去留和协助者细节仍无依据。",
+      "事实08仅有劳伦斯名声不佳的社会印象适合归为可能听闻，家族内部差异仍无依据。",
+      "事实10和事实12属于游客可能提到的当代地方见闻，但没有任何场景证明玛拉妮实际听过。"
+    ],
+    "needs_human_review": true
+  }
+}

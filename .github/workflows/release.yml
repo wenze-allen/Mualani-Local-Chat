@@ -20,7 +20,9 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - name: Validate runtime data
-        run: python3 scripts/validate-package.py
+        run: |
+          python3 scripts/validate-package.py
+          python3 scripts/validate-research.py
       - name: Install Vulkan build dependencies
         run: sudo apt-get update && sudo apt-get install -y build-essential cmake git libvulkan-dev glslc spirv-headers
       - name: Build and stage
@@ -41,6 +43,7 @@ jobs:
         shell: powershell
         run: |
           python scripts\validate-package.py
+          python scripts\validate-research.py
           $Tokens = $null
           $Errors = $null
           [void][System.Management.Automation.Language.Parser]::ParseFile(

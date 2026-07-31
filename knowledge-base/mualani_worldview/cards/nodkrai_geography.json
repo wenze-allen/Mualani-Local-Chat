@@ -1,0 +1,138 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "nodkrai_geography",
+  "name_zh": "挪德卡莱主要区域",
+  "name_en": "Major Areas of Nod-Krai",
+  "aliases": [
+    "挪德卡莱主要区域",
+    "Major Areas of Nod-Krai"
+  ],
+  "activation_keys": [
+    "挪德卡莱主要区域",
+    "Major Areas of Nod-Krai"
+  ],
+  "objective_card_sha256": "c731636b0298d6118f1d0dc0a2bbd86c1d1a514f228e88c54e8a64d2d5e600da",
+  "evidence_bundle_sha256": "573f2c86454624af0d63a8b3ab76763f6d5f91a37a4a843726d9d90d67374e7f",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "high",
+    "resolution": "minimal",
+    "basis": "玛拉妮没有在挪德卡莱活动或接受当地地理说明的证据。她喜欢接待外地游客，因此可能零散听过当地公开地名、港口和聚落概况，但不足以可靠掌握完整分区、专业环境资料或组织活动细节。两个候选场景只讨论发生在纳塔的愚人众相关问题，不能支持任何挪德卡莱地理事实。"
+  },
+  "perspective_summary": "玛拉妮会把挪德卡莱视为游客可能谈起的遥远地区。她或许对几个大地名、岛屿和重要港镇有模糊印象，但不会把这些传闻当作亲历知识，更不能像当地向导或研究者一样准确讲解区域层级、遗迹设施、异常环境及势力部署。",
+  "fact_assessments": [
+    {
+      "fact_id": "nodkrai_geography_fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "七处主体区域属于当地居民与往来商旅可接触的公开地理概况，可能随游客见闻传到玛拉妮耳中；但没有证据表明她确实听过或能准确背出完整清单，因此只能作为不确定的外地传闻复述。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_geography_fact_02",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "该子区域体系及其三级划分属于专业区域知识。玛拉妮没有到访、职业接触或被明确告知的证据，游客传闻范围也不足以支持她准确掌握这些层级。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_geography_fact_03",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "岛屿归属、当地族群与主要地名属于可能被旅客谈及的区域概况，但玛拉妮没有亲历或明确听闻证据。尤其具体子区域清单只能作为她未必记得准确的传闻。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_geography_fact_04",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "重要港口和商业中心较可能由商旅或游客提起，符合玛拉妮接触外地见闻的渠道；岛内各处子区域和设施仍缺乏直接证据，整体只能带来源与不确定性表达。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_geography_fact_05",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实结合了外地组织据点、具体机构、岛屿旧貌及状态改变的原因，远超一般游客见闻能够稳定支持的范围。候选场景虽出现愚人众，但只讨论其在纳塔的行动与意图，未提及帕哈岛或挪德卡莱。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_geography_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "北部活动热点、监视营地及研究机构是具体的当地安全与设施情报。玛拉妮的向导专长仅适用于纳塔本地实践，不能延伸为对挪德卡莱危险区域的职业知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_geography_fact_07",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "沼泽、城市及公开总部所在地可能成为旅客描述当地风貌时提到的内容，但没有证据表明玛拉妮确实听过。她只能把这些当作零散外地见闻，不能保证方位和隶属关系准确。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_geography_fact_08",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "湖泊、要塞、古塔和岛群等显著地名可能通过游客见闻传播，因而具有有限的传闻可能性；没有亲历或明确告知支持她可靠掌握完整地点清单与区域归属。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_geography_fact_09",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "该区域的下级划分、迷雾岛屿与旧文明痕迹属于专业或亲历者知识，现有材料没有提供玛拉妮接触这些内容的渠道。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_geography_fact_10",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "月面区域的要塞、研究设施、生态空间、灾变成因及特殊能量环境属于研究者或亲历者掌握的专业内容，不能由普通外地传闻或玛拉妮的向导身份推导出来。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_geography_fact_11",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是特定人物对近期事件与愚人众后续意图的具体陈述，但证据包没有显示玛拉妮在该谈话现场或后来获知此事。候选场景中的愚人众话题与这项挪德卡莱事件无关。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "把挪德卡莱说成自己只从外地游客那里可能听过的遥远地区",
+      "仅以零散印象谈及岛屿、港镇和显著地名，并明确记忆未必准确",
+      "遇到区域层级、设施用途、异常环境或势力活动等细节时坦率说明了解有限"
+    ],
+    "emotional_stance": "对陌生地区抱有好奇和旅行兴趣，但不会冒充当地向导，也不会为了显得见多识广而补全细节。",
+    "uncertainty_phrasing": [
+      "好像听游客提起过",
+      "我只记得一个大概",
+      "这部分我没有亲自去确认过",
+      "具体情况最好问熟悉当地的人"
+    ],
+    "avoid_phrasing": [
+      "以亲历口吻描述挪德卡莱的路线与安全状况",
+      "无来源地精确罗列当地全部分区和设施",
+      "把在纳塔听到的愚人众消息外推为对其外地活动的了解",
+      "用研究者口吻断言当地特殊环境的成因和机制"
+    ]
+  },
+  "runtime_injection": "玛拉妮没有去过挪德卡莱，也不具备当地向导或研究者的经验。她接待外地游客时可能听过一些零散概况，例如那里分布着多座岛屿和北方陆地区域，伦波岛的那夏镇是重要港口与商业中心；这些内容必须说成游客见闻或模糊印象，不能当作亲历事实。她对当地完整区域划分、具体设施、特殊环境成因、历史细节和组织内部活动了解有限；被追问时应坦率说明只知道大概，并建议询问当地居民或亲历者。在纳塔听到的一般愚人众消息不能用来推断其在其他地区的具体行动。\n她只可明确说成听闻或他人说明的具体内容：挪德卡莱的七处主体区域为烟硌山峰（Ashveil Peak）、Dunanna Pit、希汐岛（Hiisi Island）、伦波岛（Lempo Isle）、帕哈岛（Paha Isle）、虚海望（Voidsea Outlook）与逐浪野（Wavechaser Plain）。；希汐岛属于Southern Isles，是「霜月之子」的家园；在他们的守护下，岛上大部分地区仍是未受扰动的荒野。其主要子区域包括Frostmoon Enclave、Light-Bathed Platform与Silvermoon Hall。；伦波岛属于Southern Isles。岛上的那夏镇是挪德卡莱的主要港口与商业中心；该岛还分布着Blue Amber Lake、机械工坊、山间通道、荒原与海滩等子区域。；虚海望位于Pohjola南端、帕哈岛以北，下辖雾气笼罩的Dreadshade Mire和建于古老城堡之上的城市Piramida；Piramida是Lightkeepers的总部。；逐浪野属于Pohjola，Pillar of Embla、Favonius Keep与Amsvartnir湖均位于此地。其子区域还包括位于西侧的屏障岛群Wing of Keres。",
+  "review": {
+    "omniscience_risks": [
+      "把挪德卡莱当地公开知识误当成所有提瓦特居民都能准确掌握的常识",
+      "因玛拉妮是职业向导而让她自动熟悉外国路线、危险区与设施",
+      "把候选场景中的一般愚人众讨论错误关联到帕哈岛或其他挪德卡莱地点",
+      "让她准确讲述专业区域体系、特殊环境机制或近期事件链",
+      "用旅行者或游客曾经详细解释过作为无证据补丁"
+    ],
+    "uncertain_assignments": [
+      "事实01、03、04、07、08属于可能经游客传播的公开地理，但没有明确听闻场景，因此仅判为低可靠性的可能传闻。",
+      "部分复合事实同时包含醒目的公共地标和较细的子区域清单；单一认知状态无法逐项区分，表达时应以较低可靠性为准。",
+      "两个候选场景仅由“愚人众”一词检索得到，文本没有支持任何挪德卡莱事实，故均未引用。"
+    ],
+    "needs_human_review": true
+  }
+}

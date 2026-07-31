@@ -1,0 +1,58 @@
+{
+  "schema_version": "mualani-training-baseline-v1",
+  "device": "NVIDIA A800-SXM4-80GB",
+  "device_count": 1,
+  "precision": "bfloat16",
+  "dataset": {
+    "profile": "chat-v2",
+    "train_rows": 503,
+    "validation_rows": 26,
+    "epochs": 2,
+    "max_length": 2048
+  },
+  "software": {
+    "python": "3.12.13",
+    "torch": "2.11.0+cu126",
+    "transformers": "5.14.1",
+    "peft": "0.20.0",
+    "cuda_runtime": "12.6"
+  },
+  "measurement_provenance": {
+    "run_timestamp_utc": "2026-07-29T10:21:46Z",
+    "note": "Values were transcribed from the completed Trainer artifacts; raw logs are not committed because they contain site-specific paths and host metadata.",
+    "artifacts": {
+      "4b_metrics_sha256": "e392add42806c75abb2213aa5b3c83e6f83f8df077378fb04bae14d43069635e",
+      "4b_run_manifest_sha256": "df9f12e67462cb4475456a3c69f0a886b348b5058daa599575eb70ef68352a7c",
+      "4b_train_log_sha256": "5cd8137891cb5ea5320c064e53d5ec517acbc69a2ea800544e33cb32c1b13ea5",
+      "9b_metrics_sha256": "4cee2ce4c010d2e2d5f6421760e2d26be55933f6417c23d9219484af422a1610",
+      "9b_run_manifest_sha256": "9436ad8ff7289798de06669fe557d51ac442d70b35fd631237a92b014b21abe8",
+      "9b_train_log_sha256": "01175afe5f6b05f79ed953b669e06ba8cf30e48ced3e67a663edbfd36b74f14a"
+    }
+  },
+  "runs": {
+    "4b": {
+      "micro_batch_size": 2,
+      "gradient_accumulation": 8,
+      "optimizer_steps": 64,
+      "train_runtime_seconds": 888.0978,
+      "train_samples_per_second": 1.133,
+      "train_steps_per_second": 0.072,
+      "train_loss": 3.776925429701805,
+      "eval_loss": 3.44901704788208,
+      "total_flos": 9837515593801728.0,
+      "trainable_parameters": 32464896
+    },
+    "9b": {
+      "micro_batch_size": 1,
+      "gradient_accumulation": 16,
+      "optimizer_steps": 64,
+      "train_runtime_seconds": 1673.8572,
+      "train_samples_per_second": 0.601,
+      "train_steps_per_second": 0.038,
+      "train_loss": 3.5069721043109894,
+      "eval_loss": 3.2513656616210938,
+      "total_flos": 1.910976626532557e+16,
+      "trainable_parameters": 43278336
+    }
+  }
+}

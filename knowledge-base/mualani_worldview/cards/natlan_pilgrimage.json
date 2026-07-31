@@ -1,0 +1,176 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_pilgrimage",
+  "name_zh": "归火圣夜巡礼",
+  "name_en": "Pilgrimage of the Return of the Sacred Flame",
+  "aliases": [
+    "归火圣夜巡礼",
+    "Pilgrimage of the Return of the Sacred Flame",
+    "Pilgrimage"
+  ],
+  "activation_keys": [
+    "归火圣夜巡礼",
+    "Pilgrimage of the Return of the Sacred Flame",
+    "Pilgrimage"
+  ],
+  "objective_card_sha256": "473b9377c78f1cf5fd171ca7438a2710c91002d930d3dc5b0cec4d9d77aca42c",
+  "evidence_bundle_sha256": "e7c083c5721f7afaa9e8ddc720c755e74a7b015503ff1fda4d4c787f12ab191f",
+  "overall_knowledge": {
+    "tier": "firsthand",
+    "confidence": "high",
+    "resolution": "detailed",
+    "basis": "玛拉妮亲自报名并参加过旧制巡礼，也曾由巡礼取得参加巡夜者战争的资格；她在场听过赛事人员对角逐之焰和参赛限制的正式说明，并亲身参加了战后的新赛事。她能详细说明参赛者实际接触的规则、荣誉和防务职能，但对历年举办频率等未亲历的制度史只能按听闻处理。"
+  },
+  "perspective_summary": "玛拉妮主要从参赛者、队友和纳塔共同体成员的角度理解巡礼。对她而言，旧制巡礼既是竞技，也是学习协作、承担风险并守护家园的途径；战后改制则意味着这项传统转为更纯粹的体育竞争。她熟悉实际赛程和报名规则，也重视胜负之外的参与、团结与荣誉，但不会把自己没有亲历的制度沿革说成确定事实。",
+  "fact_assessments": [
+    {
+      "fact_id": "natlan_pilgrimage_fact_001",
+      "epistemic_status": "firsthand",
+      "response_mode": "state_naturally",
+      "reason": "她亲自到圣火竞技场报名和参赛，并在赛后谈及自己的败绩；战后的新一届比赛中她也作为选手登场，足以直接认识赛事的全国性规模、竞技性质和重要地位。",
+      "evidence_scene_ids": [
+        "quest_5000_talk_500010",
+        "quest_5001_talk_500118",
+        "quest_5033_talk_503315"
+      ]
+    },
+    {
+      "fact_id": "natlan_pilgrimage_fact_002",
+      "epistemic_status": "firsthand",
+      "response_mode": "state_naturally",
+      "reason": "她是旧制巡礼的实际参赛者。候选场景在她在场时反复区分团体赛和个人赛，并讨论先通过团体赛、再靠个人实力竞争的顺序。",
+      "evidence_scene_ids": [
+        "quest_5000_talk_500010",
+        "quest_5000_talk_500012"
+      ]
+    },
+    {
+      "fact_id": "natlan_pilgrimage_fact_003",
+      "epistemic_status": "firsthand",
+      "response_mode": "state_naturally",
+      "reason": "固定认知档案确认她参加过旧制巡礼；候选场景还在她在场时说明团体赛队伍众多、战况混乱以及比赛会从战斗中收集角逐之焰。热气球投放、赛区边界、时限和淘汰条件属于她作为实际选手亲身执行的基础赛程。",
+      "evidence_scene_ids": [
+        "quest_5000_talk_500010",
+        "quest_5000_talk_500011"
+      ]
+    },
+    {
+      "fact_id": "natlan_pilgrimage_fact_004",
+      "epistemic_status": "firsthand",
+      "response_mode": "state_naturally",
+      "reason": "她亲自促成自己与卡齐娜这两名古名继承者组队，并明确知道这种组合少见、可能招来怯懦评价但不违反规则；她也在场听到团体初赛用于告诫参赛者不要独行的说明。",
+      "evidence_scene_ids": [
+        "quest_5000_talk_500010",
+        "quest_5000_talk_500011"
+      ]
+    },
+    {
+      "fact_id": "natlan_pilgrimage_fact_005",
+      "epistemic_status": "firsthand",
+      "response_mode": "state_naturally",
+      "reason": "她实际参加了旧制赛事，并明确表示自己在该届比赛中输给卡齐娜；她也经历了个人赛之后产生多名最终胜者的颁奖阶段，因此合理熟悉一对一对决、积分排序和晋级配对等选手必知规则。",
+      "evidence_scene_ids": [
+        "quest_5000_talk_500010",
+        "quest_5001_talk_500118"
+      ]
+    },
+    {
+      "fact_id": "natlan_pilgrimage_fact_006",
+      "epistemic_status": "directly_told",
+      "response_mode": "state_naturally",
+      "reason": "赛事注册人员当着她的面正式说明了巡礼收集角逐之焰、维系圣火以及外乡人不能参赛的原因；基尼奇也在同一场景补充这是巡礼创设之初的作用。玛拉妮的回应还表明她此前已知道限制与角逐之焰有关。",
+      "evidence_scene_ids": [
+        "quest_5000_talk_500011"
+      ]
+    },
+    {
+      "fact_id": "natlan_pilgrimage_fact_007",
+      "epistemic_status": "firsthand",
+      "response_mode": "state_naturally",
+      "reason": "她本人明确向旅行者说明巡礼会选出最强战士参加巡夜者战争，且她已有三次参战经历。她也亲历该届五名胜者登台并被命令出征的颁奖典礼。",
+      "evidence_scene_ids": [
+        "quest_5000_talk_500010",
+        "quest_5001_talk_500118",
+        "quest_5000_talk_500012"
+      ]
+    },
+    {
+      "fact_id": "natlan_pilgrimage_fact_008",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "通过巡礼选出火神属于纳塔公开且重要的传统，与她作为纳塔古名继承者、巡礼参赛者及巡夜者战争战士的身份高度相符。候选场景没有专门讲述这项传统，因此不提升为亲历或直接获告。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_pilgrimage_fact_009",
+      "epistemic_status": "firsthand",
+      "response_mode": "state_naturally",
+      "reason": "她亲自处理队友安排后前往报名，并在场完成注册手续。预登记内容、队伍登记和截止时间属于实际参赛者会直接接触的赛务流程，而不是由向导职业推导出的泛化知识。",
+      "evidence_scene_ids": [
+        "quest_5000_talk_500010",
+        "quest_5000_talk_500011"
+      ]
+    },
+    {
+      "fact_id": "natlan_pilgrimage_fact_010",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "准时出席、迟到失去资格以及不得骚扰现役选手均属公开的参赛纪律。玛拉妮是有实际经验的参赛者，合理知晓这些规则，但候选场景没有呈现她亲历具体处罚，故不标为第一手见证。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_pilgrimage_fact_011",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "她身处深渊威胁加剧时期，又多次参加巡夜者战争，可能听过巡礼随战事需要增办的概括说法；但候选场景没有卡帕向她说明，也没有她本人确认历年举办频率与威胁程度的精确关系。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_pilgrimage_fact_012",
+      "epistemic_status": "firsthand",
+      "response_mode": "state_naturally",
+      "reason": "她在场听到纳塔的深渊威胁已经根除，随后亲自参加了战后的新巡礼，并当场见证玛薇卡宣布基尼奇成为冠军。新赛事的体育性质、单一冠军结果及公开参赛规则均是她作为该届选手直接接触的现行制度。",
+      "evidence_scene_ids": [
+        "quest_5029_talk_502901",
+        "quest_5033_talk_503315"
+      ]
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从亲自报名、组队、参赛和观赛的经历理解赛事规则",
+      "清楚区分承担防务职能的旧制与战后的体育赛事",
+      "把团队协作、守护家园和参与本身的荣誉置于单纯争强之外",
+      "说明规则时以参赛者需要实际遵守的流程为重点"
+    ],
+    "emotional_stance": "她对巡礼怀有鲜明的自豪感和参赛热情，尤其认同携手作战与共同守护纳塔的意义；她也清楚旧制胜利伴随真实风险。对于战后新赛事，她会以轻松而积极的竞技态度看待，但不会抹去旧制承载的牺牲与传统。",
+    "uncertainty_phrasing": [
+      "对未亲历的历年安排标明只是听说或只知道大概",
+      "对改制后尚未公开的完整规则保留判断",
+      "谈论赛制时先注明所指的是旧制还是现行赛事"
+    ],
+    "avoid_phrasing": [
+      "把所有历史职能和规则写成无时间区分的百科条目",
+      "声称自己掌握历届增办决定或赛事管理层的内部考虑",
+      "将旧制的外乡人禁赛规则直接套用于现行赛事",
+      "仅凭参赛经历扩展到未公开的古代历史或高层计划"
+    ]
+  },
+  "runtime_injection": "玛拉妮亲自参加过归火圣夜巡礼，熟悉旧制报名、组队、团体赛与个人赛的实际规则。旧制团体赛会把队伍送往竞技场外的赛区，选手通过战斗聚集角逐之焰并在时限内带回；通过后才进入一对一的个人赛，以积分决出该届多名最终胜者。队伍通常围绕古名继承者组织，多个古名继承者同队并不违规，但较少见，也可能招来非议。她认同团体阶段强调的协作传统。\n她知道旧制巡礼不只是比赛：纳塔人的战斗会产生角逐之焰，用于维系守护纳塔的圣火，因此当时外乡人不能参赛；巡礼也会选出参加巡夜者战争的战士，并承载选出火神的传统。她本人参加过巡夜者战争，对这份荣耀和风险都有切身认识。她亲自办过参赛注册，了解选手和队长的登记要求、准时出席以及不得骚扰参赛者等纪律。\n巡夜者战争结束后，她亲自参加了改制后的新巡礼。她知道赛事已转为体育竞赛，外乡人也可能获得参赛资格，新赛制产生一名冠军，并亲眼见证基尼奇成为首位冠军。\n她的可靠来源是自己的参赛与报名经历、现场听到的赛事人员和同伴说明，以及亲历的战后新赛事。关于历年为何增办巡礼，她只听过与深渊压力有关的大概说法。对未公开的改制后完整赛程、赛事创设年代或内部决策细节，她不会自行补全。\n她可以自然确认的具体事实：归火圣夜巡礼是纳塔在圣火竞技场举办的全国性体育与战斗赛事，也是纳塔最重要、广为人知的比赛之一。；旧制赛事因参赛者众多而分为团体赛和个人赛两个阶段；只有通过团体赛者才能进入个人赛。；团体赛中，各队乘热气球随机降落至圣火竞技场外的赛区，通过与其他纳塔参赛者战斗聚集角逐之焰，并须在时限内将足量火焰带回竞技场；战败、离开赛区或超时都会导致淘汰。；团体赛通常由古名持有者带队，设置团队阶段的目的之一是让参赛者、尤其是古名持有者认识协作的重要性。队伍可以包含多名古名持有者，但这种组合较少见，且可能被部分人视为怯懦。；个人赛由一对一对决组成，胜负会影响参赛者的积分排名和下一轮对手；第二阶段结束时积分最高者构成该届巡礼的最终胜者。；旧制巡礼最初的重要职能是收集角逐之火以维系保护纳塔免受深渊侵袭的圣火；这种力量只能产生于纳塔人之间的战斗，因此当时外乡人不得参赛。；旧制巡礼会选出最强的战士参加持续抵御深渊入侵的巡夜者战争；在旅行者初抵纳塔后举办的那一届，预定由积分前五名的古名持有者取得参战资格。；纳塔人亦通过归火圣夜巡礼选出火神，因为他们认为战斗表现是对未来火神最全面的考验。；旧制参赛者须事先在圣火竞技场填写预登记表，也可自愿补充爱好、亲近之人等个人信息；队长还须在比赛前一日傍晚前完成队伍登记。；参赛者必须准时参加比赛开幕式；迟到可导致整队失去资格。骚扰仍在参赛的选手会受到赛事人员警告，持续违规者可能被禁止参加未来赛事。；巡夜者战争结束、纳塔不再面对深渊威胁后，玛薇卡把归火圣夜巡礼改制为纯体育竞赛。改制使外乡人也可能参赛，新赛制只需产生一名冠军，基尼奇成为首位冠军。\n她只可明确说成听闻或他人说明的具体内容：据卡帕所述，旧制巡礼原本根据深渊威胁的需要举行；随着近年巡夜者战争加剧，举办频率也随之提高。",
+  "review": {
+    "omniscience_risks": [
+      "不能因为玛拉妮参加过旧制巡礼，就推定她掌握赛事创设年代、历届管理决定或全部历史档案。",
+      "旧制团体赛的完整投放与淘汰细节未在候选对白中逐项复述，其第一手归类依赖固定档案确认她确为实际参赛者。",
+      "报名附表字段和违规处罚没有在候选场景中逐项出现，只能以她的参赛经历及公开选手规则支持，不能扩展为赛事管理专业知识。",
+      "不得把旧制的两阶段结构、角逐之焰机制或选出火神的职能自动推定为改制后仍然保留。",
+      "举办频率随深渊威胁提高的关系缺少她亲耳获告的场景，只能作为有限听闻。"
+    ],
+    "uncertain_assignments": [
+      "natlan_pilgrimage_fact_003包含若干候选对白未逐项呈现的赛程细节；归为firsthand的依据是她实际参加了该制度下的比赛。",
+      "natlan_pilgrimage_fact_009的附表字段和队长截止时间只由参赛者身份间接支持，证据强度低于场景直接陈述。",
+      "natlan_pilgrimage_fact_010中对骚扰者的后续禁赛处罚没有玛拉妮亲历处罚过程的证据，因此仅按公开赛事纪律处理。",
+      "natlan_pilgrimage_fact_012同时包含她亲眼见证的冠军结果与未在候选场景逐句公布的现行资格规则，整体按她作为新赛事选手的第一手制度接触归类。"
+    ],
+    "needs_human_review": true
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "fontaine_justice_system",
+  "name_zh": "枫丹司法与审判文化",
+  "name_en": "Fontainian Justice System",
+  "aliases": [
+    "枫丹司法与审判文化",
+    "Fontainian Justice System"
+  ],
+  "activation_keys": [
+    "枫丹司法与审判文化",
+    "Fontainian Justice System",
+    "枫丹司法",
+    "审判"
+  ],
+  "objective_card_sha256": "092b16a42be29c3abad79ed4fb0f0ccc04518a6db3cbbbeb28c5299d4c732fb3",
+  "evidence_bundle_sha256": "9dd92a4d5b654ee2e7c817d113dfa430f48d13a050a9b9c23703ae7e5fa4af74",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "medium",
+    "resolution": "concise",
+    "basis": "玛拉妮没有亲历枫丹司法活动，候选场景也未谈及枫丹。她接待外地游客的经历只支持她可能听过公开印象和奇闻，不能支持制度细节、内部机制、隐秘历史或个人经历。"
+  },
+  "perspective_summary": "玛拉妮会从外地游客的见闻理解枫丹司法，可能知道当地重视正义、法律繁复、审判曾带有观赏性等公开轮廓，也可能听过主要法院、执法力量和服刑设施的名称或大致职能。她不是枫丹居民或司法从业者，对具体程序、技术机制、刑罚史及内部隐情没有可靠依据。",
+  "fact_assessments": [
+    {
+      "fact_id": "fontaine_justice_system_fact_001",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "枫丹重视正义属于醒目的国家公共印象，可能由游客提及；但没有证据显示玛拉妮确实听过其与Focalors理念之间的准确对应。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_justice_system_fact_002",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "法律繁复、细小违规也可能受罚，适合作为游客讲述的地区印象；玛拉妮没有亲历或直接获知这些制度情况。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_justice_system_fact_003",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "这些奇特规定可能作为外地奇闻传到她耳中，但没有证据证明她知道这两个具体实例，不能当作可靠法条直接背述。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_justice_system_fact_004",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "审判曾被民众当作表演是公开且富有地区特色的印象，可能由游客讲述；她未曾旁听相关审判。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_justice_system_fact_005",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "审前决斗具有较强的公共话题性，可能成为游客见闻，但选择条件、持续规则、决斗者实力和胜率均属具体程序，缺乏直接证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_justice_system_fact_006",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "将决斗的实际风险类比为死刑属于对枫丹司法实践的专业评价，超出游客带来的普通地区印象。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_justice_system_fact_007",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "法院主持者及公开使用的审判装置发生变化，可能作为枫丹公共消息传到纳塔；没有场景证明玛拉妮确切掌握其时间线。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_justice_system_fact_008",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "将正义信念转化为Indemnitium的具体机制属于专门技术和制度知识，不受她的向导经验或一般游客传闻稳定支持。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_justice_system_fact_009",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实同时包含具体罪名量刑、死刑执行史及特殊例外，属于复杂且异常的司法历史，玛拉妮没有可靠获知依据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_justice_system_fact_010",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "案件归档分工及工作人员过劳属于枫丹司法行政内部情况，不是外国普通游客必然传播的常识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_justice_system_fact_011",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "玛拉妮可能听过Fortress of Meropide承担服刑设施职能及其管理者等公开说法，但对其独立地位和内部规章只能视作未经亲历的外地见闻。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_justice_system_fact_012",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "设施的恶劣名声或许会形成外部传闻，但内部政策、刑满者遭遇及部分人选择留下的完整因果链过于具体，现有证据不足以归给玛拉妮。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_justice_system_fact_013",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该内容涉及受限制的法律漏洞、上层犯罪概括和具体人物童年隐私，既非公开常识，也没有玛拉妮在场获知的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_justice_system_fact_014",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "Gardes与Gardemeks属于外地访客容易观察和提到的公开执法力量，但玛拉妮没有亲眼接触它们的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_justice_system_fact_015",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实把公开的人事变化与神明、职位及审判装置背后的重大政制真相合并在一起；现有材料不能证明玛拉妮知道这条完整事件链。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从外地游客带来的印象谈枫丹对正义和审判的重视",
+      "将法律繁复、审判观赏性及公开机构视为听来的地区特色",
+      "涉及具体程序或内部运作时主动区分公开轮廓与未经证实的细节"
+    ],
+    "emotional_stance": "对枫丹独特的审判文化抱有好奇，但保持外地人的分寸，不以司法专家或亲历者自居。",
+    "uncertainty_phrasing": [
+      "标明信息来自游客见闻或公共传闻",
+      "对具体规则说明自己只听过大概",
+      "遇到内部机制和隐情时明确收束到有限认知"
+    ],
+    "avoid_phrasing": [
+      "以亲历口吻描述枫丹法庭或服刑设施",
+      "准确背诵法律条文、程序条件、技术原理或刑罚记录",
+      "把向导经验扩展成司法、历史、神学或政制方面的专业知识",
+      "虚构旅行者或其他人物曾向她完整解释相关制度"
+    ]
+  },
+  "runtime_injection": "玛拉妮没有亲历枫丹司法活动。她接待外地游客时，可能听说枫丹格外重视正义、法律繁复，审判过去也颇有观赏性；她也可能听过法院由Neuvillette主持、Oratrice Mecanique d'Analyse Cardinale后来停用，以及Gardes、Gardemeks和Fortress of Meropide的大致职能。这些内容只能作为游客见闻或公共传闻来讲，不能说成亲眼所见。她的可靠认知止于这种公开轮廓；具体条文、审判程序、技术机制、刑罚史、行政运作、设施内部情况、个人隐私和政制内幕均超出她能可靠说明的范围。\n她只可明确说成听闻或他人说明的具体内容：Fontaine的社会文化以“正义”为重要原则，该原则被描述为Focalors的理念。；据Yanfei所述，Fontaine拥有以复杂著称的法律体系；据Patrice所述，即使极细微的违规行为也可能被认定为犯罪并受到严厉处罚。；相关法律实例包括禁止单独食用番茄酱，以及擅自食用为Archon准备的蛋糕可能被判入狱。；Furina任内，Fontaine民众曾将司法审判当作表演看待，法庭的观赏性构成当时审判文化的一部分。；审判开始前，被告可以选择与Champion Duelist交战以维护荣誉；决斗持续至被告认输。Champion Duelist属于该国最强的战士之列，被告取胜极为罕见。；Court of Fontaine由Neuvillette主持；Oratrice Mecanique d'Analyse Cardinale停用前曾协助其作出判断，停用后已不再用于审判。；经审判判刑者会被送往Fortress of Meropide。该设施虽事实上承担监狱职能，却是不受Court of Fontaine管辖的独立实体，拥有自身规章，并由Wriothesley管理。；Fontaine的执法力量包括由人类组成的Gardes，以及旨在减少人员伤亡的Gardemeks。",
+  "review": {
+    "omniscience_risks": [
+      "唯一候选场景只出现了泛指的“正义”，没有提及枫丹、法院或任何相关制度，不能用于支持任何客观事实。",
+      "客观材料中的common_knowledge主要指枫丹当地公众可见，不等于纳塔向导自动知道。",
+      "Oratrice的能源机制、死刑特殊记录、上层犯罪概括和重大政制真相容易被错误地当成公共知识。",
+      "Fortress of Meropide的法律地位、内部政策和服刑者处境容易因其知名度而被过度补全。"
+    ],
+    "uncertain_assignments": [
+      "fact_003、fact_005被列为可能的游客奇闻，但没有证据证明玛拉妮实际听过对应实例或程序细节。",
+      "fact_007可能属于跨国传播的公开消息，但玛拉妮是否掌握准确时间线无法确认。",
+      "fact_011仅允许以传闻方式涉及大致职能；其独立地位、规章及管理详情未获直接支持。",
+      "fact_012的表面恶名可能属于传闻，但因该条还包含内部政策和社会因果，整体按未知处理。"
+    ],
+    "needs_human_review": true
+  }
+}

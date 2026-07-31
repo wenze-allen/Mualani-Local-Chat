@@ -1,0 +1,1452 @@
+{
+  "schema_version": "mualani-relationship-roster-v1",
+  "description": "Derived coverage roster. Regenerate upstream snapshots from the URLs recorded in network.json when refreshing it.",
+  "characters": [
+    {
+      "character_id": "aino",
+      "name_zh": "爱诺",
+      "name_en": "Aino",
+      "aliases": [
+        "爱诺",
+        "Aino"
+      ],
+      "region": "Nod-Krai",
+      "roster_type": "playable",
+      "source_key": "aino"
+    },
+    {
+      "character_id": "ajaw",
+      "name_zh": "阿乔",
+      "name_en": "Ajaw",
+      "aliases": [
+        "阿乔",
+        "Ajaw",
+        "库胡勒阿乔",
+        "K'uhul Ajaw"
+      ],
+      "region": "Natlan",
+      "roster_type": "satellite",
+      "source_key": "manual:ajaw"
+    },
+    {
+      "character_id": "albedo",
+      "name_zh": "阿贝多",
+      "name_en": "Albedo",
+      "aliases": [
+        "阿贝多",
+        "Albedo"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "albedo"
+    },
+    {
+      "character_id": "alhaitham",
+      "name_zh": "艾尔海森",
+      "name_en": "Alhaitham",
+      "aliases": [
+        "艾尔海森",
+        "Alhaitham"
+      ],
+      "region": "Sumeru",
+      "roster_type": "playable",
+      "source_key": "alhaitham"
+    },
+    {
+      "character_id": "alice",
+      "name_zh": "爱丽丝",
+      "name_en": "Alice",
+      "aliases": [
+        "爱丽丝",
+        "Alice"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "satellite",
+      "source_key": "manual:alice"
+    },
+    {
+      "character_id": "aloy",
+      "name_zh": "埃洛伊",
+      "name_en": "Aloy",
+      "aliases": [
+        "埃洛伊",
+        "Aloy"
+      ],
+      "region": "Other",
+      "roster_type": "playable",
+      "source_key": "aloy"
+    },
+    {
+      "character_id": "amber",
+      "name_zh": "安柏",
+      "name_en": "Amber",
+      "aliases": [
+        "安柏",
+        "Amber"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "amber"
+    },
+    {
+      "character_id": "arataki_itto",
+      "name_zh": "荒泷一斗",
+      "name_en": "Arataki Itto",
+      "aliases": [
+        "荒泷一斗",
+        "Arataki Itto",
+        "一斗",
+        "Itto"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "aratakiitto"
+    },
+    {
+      "character_id": "arlecchino",
+      "name_zh": "阿蕾奇诺",
+      "name_en": "Arlecchino",
+      "aliases": [
+        "阿蕾奇诺",
+        "Arlecchino"
+      ],
+      "region": "Snezhnaya",
+      "roster_type": "playable",
+      "source_key": "arlecchino"
+    },
+    {
+      "character_id": "baizhu",
+      "name_zh": "白术",
+      "name_en": "Baizhu",
+      "aliases": [
+        "白术",
+        "Baizhu"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "baizhu"
+    },
+    {
+      "character_id": "barbara",
+      "name_zh": "芭芭拉",
+      "name_en": "Barbara",
+      "aliases": [
+        "芭芭拉",
+        "Barbara"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "barbara"
+    },
+    {
+      "character_id": "beidou",
+      "name_zh": "北斗",
+      "name_en": "Beidou",
+      "aliases": [
+        "北斗",
+        "Beidou"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "beidou"
+    },
+    {
+      "character_id": "bennett",
+      "name_zh": "班尼特",
+      "name_en": "Bennett",
+      "aliases": [
+        "班尼特",
+        "Bennett"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "bennett"
+    },
+    {
+      "character_id": "candace",
+      "name_zh": "坎蒂丝",
+      "name_en": "Candace",
+      "aliases": [
+        "坎蒂丝",
+        "Candace"
+      ],
+      "region": "Sumeru",
+      "roster_type": "playable",
+      "source_key": "candace"
+    },
+    {
+      "character_id": "charlotte",
+      "name_zh": "夏洛蒂",
+      "name_en": "Charlotte",
+      "aliases": [
+        "夏洛蒂",
+        "Charlotte"
+      ],
+      "region": "Fontaine",
+      "roster_type": "playable",
+      "source_key": "charlotte"
+    },
+    {
+      "character_id": "chasca",
+      "name_zh": "恰斯卡",
+      "name_en": "Chasca",
+      "aliases": [
+        "恰斯卡",
+        "Chasca"
+      ],
+      "region": "Natlan",
+      "roster_type": "playable",
+      "source_key": "chasca"
+    },
+    {
+      "character_id": "chevreuse",
+      "name_zh": "夏沃蕾",
+      "name_en": "Chevreuse",
+      "aliases": [
+        "夏沃蕾",
+        "Chevreuse"
+      ],
+      "region": "Fontaine",
+      "roster_type": "playable",
+      "source_key": "chevreuse"
+    },
+    {
+      "character_id": "chiori",
+      "name_zh": "千织",
+      "name_en": "Chiori",
+      "aliases": [
+        "千织",
+        "Chiori"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "chiori"
+    },
+    {
+      "character_id": "chongyun",
+      "name_zh": "重云",
+      "name_en": "Chongyun",
+      "aliases": [
+        "重云",
+        "Chongyun"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "chongyun"
+    },
+    {
+      "character_id": "citlali",
+      "name_zh": "茜特菈莉",
+      "name_en": "Citlali",
+      "aliases": [
+        "茜特菈莉",
+        "Citlali",
+        "茜特菈莉奶奶",
+        "Granny Citlali"
+      ],
+      "region": "Natlan",
+      "roster_type": "playable",
+      "source_key": "citlali"
+    },
+    {
+      "character_id": "clorinde",
+      "name_zh": "克洛琳德",
+      "name_en": "Clorinde",
+      "aliases": [
+        "克洛琳德",
+        "Clorinde"
+      ],
+      "region": "Fontaine",
+      "roster_type": "playable",
+      "source_key": "clorinde"
+    },
+    {
+      "character_id": "collei",
+      "name_zh": "柯莱",
+      "name_en": "Collei",
+      "aliases": [
+        "柯莱",
+        "Collei"
+      ],
+      "region": "Sumeru",
+      "roster_type": "playable",
+      "source_key": "collei"
+    },
+    {
+      "character_id": "columbina",
+      "name_zh": "哥伦比娅",
+      "name_en": "Columbina",
+      "aliases": [
+        "哥伦比娅",
+        "Columbina"
+      ],
+      "region": "Nod-Krai",
+      "roster_type": "playable",
+      "source_key": "columbina"
+    },
+    {
+      "character_id": "cyno",
+      "name_zh": "赛诺",
+      "name_en": "Cyno",
+      "aliases": [
+        "赛诺",
+        "Cyno"
+      ],
+      "region": "Sumeru",
+      "roster_type": "playable",
+      "source_key": "cyno"
+    },
+    {
+      "character_id": "dahlia",
+      "name_zh": "塔利雅",
+      "name_en": "Dahlia",
+      "aliases": [
+        "塔利雅",
+        "Dahlia"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "dahlia"
+    },
+    {
+      "character_id": "dehya",
+      "name_zh": "迪希雅",
+      "name_en": "Dehya",
+      "aliases": [
+        "迪希雅",
+        "Dehya"
+      ],
+      "region": "Sumeru",
+      "roster_type": "playable",
+      "source_key": "dehya"
+    },
+    {
+      "character_id": "diluc",
+      "name_zh": "迪卢克",
+      "name_en": "Diluc",
+      "aliases": [
+        "迪卢克",
+        "Diluc"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "diluc"
+    },
+    {
+      "character_id": "diona",
+      "name_zh": "迪奥娜",
+      "name_en": "Diona",
+      "aliases": [
+        "迪奥娜",
+        "Diona"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "diona"
+    },
+    {
+      "character_id": "dori",
+      "name_zh": "多莉",
+      "name_en": "Dori",
+      "aliases": [
+        "多莉",
+        "Dori"
+      ],
+      "region": "Sumeru",
+      "roster_type": "playable",
+      "source_key": "dori"
+    },
+    {
+      "character_id": "durin",
+      "name_zh": "杜林",
+      "name_en": "Durin",
+      "aliases": [
+        "杜林",
+        "Durin"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "durin"
+    },
+    {
+      "character_id": "emilie",
+      "name_zh": "艾梅莉埃",
+      "name_en": "Emilie",
+      "aliases": [
+        "艾梅莉埃",
+        "Emilie"
+      ],
+      "region": "Fontaine",
+      "roster_type": "playable",
+      "source_key": "emilie"
+    },
+    {
+      "character_id": "escoffier",
+      "name_zh": "爱可菲",
+      "name_en": "Escoffier",
+      "aliases": [
+        "爱可菲",
+        "Escoffier"
+      ],
+      "region": "Fontaine",
+      "roster_type": "playable",
+      "source_key": "escoffier"
+    },
+    {
+      "character_id": "eula",
+      "name_zh": "优菈",
+      "name_en": "Eula",
+      "aliases": [
+        "优菈",
+        "Eula"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "eula"
+    },
+    {
+      "character_id": "faruzan",
+      "name_zh": "珐露珊",
+      "name_en": "Faruzan",
+      "aliases": [
+        "珐露珊",
+        "Faruzan"
+      ],
+      "region": "Sumeru",
+      "roster_type": "playable",
+      "source_key": "faruzan"
+    },
+    {
+      "character_id": "fischl",
+      "name_zh": "菲谢尔",
+      "name_en": "Fischl",
+      "aliases": [
+        "菲谢尔",
+        "Fischl"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "fischl"
+    },
+    {
+      "character_id": "flins",
+      "name_zh": "菲林斯",
+      "name_en": "Flins",
+      "aliases": [
+        "菲林斯",
+        "Flins"
+      ],
+      "region": "Nod-Krai",
+      "roster_type": "playable",
+      "source_key": "flins"
+    },
+    {
+      "character_id": "freminet",
+      "name_zh": "菲米尼",
+      "name_en": "Freminet",
+      "aliases": [
+        "菲米尼",
+        "Freminet"
+      ],
+      "region": "Fontaine",
+      "roster_type": "playable",
+      "source_key": "freminet"
+    },
+    {
+      "character_id": "furina",
+      "name_zh": "芙宁娜",
+      "name_en": "Furina",
+      "aliases": [
+        "芙宁娜",
+        "Furina"
+      ],
+      "region": "Fontaine",
+      "roster_type": "playable",
+      "source_key": "furina"
+    },
+    {
+      "character_id": "gaming",
+      "name_zh": "嘉明",
+      "name_en": "Gaming",
+      "aliases": [
+        "嘉明",
+        "Gaming"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "gaming"
+    },
+    {
+      "character_id": "ganyu",
+      "name_zh": "甘雨",
+      "name_en": "Ganyu",
+      "aliases": [
+        "甘雨",
+        "Ganyu"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "ganyu"
+    },
+    {
+      "character_id": "gorou",
+      "name_zh": "五郎",
+      "name_en": "Gorou",
+      "aliases": [
+        "五郎",
+        "Gorou"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "gorou"
+    },
+    {
+      "character_id": "hutao",
+      "name_zh": "胡桃",
+      "name_en": "Hu Tao",
+      "aliases": [
+        "胡桃",
+        "Hu Tao"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "hutao"
+    },
+    {
+      "character_id": "iansan",
+      "name_zh": "伊安珊",
+      "name_en": "Iansan",
+      "aliases": [
+        "伊安珊",
+        "Iansan"
+      ],
+      "region": "Natlan",
+      "roster_type": "playable",
+      "source_key": "iansan"
+    },
+    {
+      "character_id": "ifa",
+      "name_zh": "伊法",
+      "name_en": "Ifa",
+      "aliases": [
+        "伊法",
+        "Ifa"
+      ],
+      "region": "Natlan",
+      "roster_type": "playable",
+      "source_key": "ifa"
+    },
+    {
+      "character_id": "illuga",
+      "name_zh": "叶洛亚",
+      "name_en": "Illuga",
+      "aliases": [
+        "叶洛亚",
+        "Illuga"
+      ],
+      "region": "Nod-Krai",
+      "roster_type": "playable",
+      "source_key": "illuga"
+    },
+    {
+      "character_id": "ineffa",
+      "name_zh": "伊涅芙",
+      "name_en": "Ineffa",
+      "aliases": [
+        "伊涅芙",
+        "Ineffa"
+      ],
+      "region": "Nod-Krai",
+      "roster_type": "playable",
+      "source_key": "ineffa"
+    },
+    {
+      "character_id": "jahoda",
+      "name_zh": "雅珂达",
+      "name_en": "Jahoda",
+      "aliases": [
+        "雅珂达",
+        "Jahoda"
+      ],
+      "region": "Nod-Krai",
+      "roster_type": "playable",
+      "source_key": "jahoda"
+    },
+    {
+      "character_id": "jean",
+      "name_zh": "琴",
+      "name_en": "Jean",
+      "aliases": [
+        "琴",
+        "Jean"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "jean"
+    },
+    {
+      "character_id": "kachina",
+      "name_zh": "卡齐娜",
+      "name_en": "Kachina",
+      "aliases": [
+        "卡齐娜",
+        "Kachina"
+      ],
+      "region": "Natlan",
+      "roster_type": "playable",
+      "source_key": "kachina"
+    },
+    {
+      "character_id": "kaedeharakazuha",
+      "name_zh": "枫原万叶",
+      "name_en": "Kaedehara Kazuha",
+      "aliases": [
+        "枫原万叶",
+        "Kaedehara Kazuha"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "kaedeharakazuha"
+    },
+    {
+      "character_id": "kaeya",
+      "name_zh": "凯亚",
+      "name_en": "Kaeya",
+      "aliases": [
+        "凯亚",
+        "Kaeya"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "kaeya"
+    },
+    {
+      "character_id": "kamisatoayaka",
+      "name_zh": "神里绫华",
+      "name_en": "Kamisato Ayaka",
+      "aliases": [
+        "神里绫华",
+        "Kamisato Ayaka"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "kamisatoayaka"
+    },
+    {
+      "character_id": "kamisatoayato",
+      "name_zh": "神里绫人",
+      "name_en": "Kamisato Ayato",
+      "aliases": [
+        "神里绫人",
+        "Kamisato Ayato"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "kamisatoayato"
+    },
+    {
+      "character_id": "kaveh",
+      "name_zh": "卡维",
+      "name_en": "Kaveh",
+      "aliases": [
+        "卡维",
+        "Kaveh"
+      ],
+      "region": "Sumeru",
+      "roster_type": "playable",
+      "source_key": "kaveh"
+    },
+    {
+      "character_id": "keqing",
+      "name_zh": "刻晴",
+      "name_en": "Keqing",
+      "aliases": [
+        "刻晴",
+        "Keqing"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "keqing"
+    },
+    {
+      "character_id": "kinich",
+      "name_zh": "基尼奇",
+      "name_en": "Kinich",
+      "aliases": [
+        "基尼奇",
+        "Kinich"
+      ],
+      "region": "Natlan",
+      "roster_type": "playable",
+      "source_key": "kinich"
+    },
+    {
+      "character_id": "kirara",
+      "name_zh": "绮良良",
+      "name_en": "Kirara",
+      "aliases": [
+        "绮良良",
+        "Kirara"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "kirara"
+    },
+    {
+      "character_id": "klee",
+      "name_zh": "可莉",
+      "name_en": "Klee",
+      "aliases": [
+        "可莉",
+        "Klee"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "klee"
+    },
+    {
+      "character_id": "kujousara",
+      "name_zh": "九条裟罗",
+      "name_en": "Kujou Sara",
+      "aliases": [
+        "九条裟罗",
+        "Kujou Sara"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "kujousara"
+    },
+    {
+      "character_id": "kuki_shinobu",
+      "name_zh": "久岐忍",
+      "name_en": "Kuki Shinobu",
+      "aliases": [
+        "久岐忍",
+        "Kuki Shinobu",
+        "阿忍",
+        "Shinobu"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "kukishinobu"
+    },
+    {
+      "character_id": "lanyan",
+      "name_zh": "蓝砚",
+      "name_en": "Lan Yan",
+      "aliases": [
+        "蓝砚",
+        "Lan Yan"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "lanyan"
+    },
+    {
+      "character_id": "lauma",
+      "name_zh": "菈乌玛",
+      "name_en": "Lauma",
+      "aliases": [
+        "菈乌玛",
+        "Lauma"
+      ],
+      "region": "Nod-Krai",
+      "roster_type": "playable",
+      "source_key": "lauma"
+    },
+    {
+      "character_id": "layla",
+      "name_zh": "莱依拉",
+      "name_en": "Layla",
+      "aliases": [
+        "莱依拉",
+        "Layla"
+      ],
+      "region": "Sumeru",
+      "roster_type": "playable",
+      "source_key": "layla"
+    },
+    {
+      "character_id": "linnea",
+      "name_zh": "莉奈娅",
+      "name_en": "Linnea",
+      "aliases": [
+        "莉奈娅",
+        "Linnea",
+        "莉老师",
+        "Professor Linnea"
+      ],
+      "region": "Nod-Krai",
+      "roster_type": "playable",
+      "source_key": "linnea"
+    },
+    {
+      "character_id": "lisa",
+      "name_zh": "丽莎",
+      "name_en": "Lisa",
+      "aliases": [
+        "丽莎",
+        "Lisa"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "lisa"
+    },
+    {
+      "character_id": "lohen",
+      "name_zh": "洛恩",
+      "name_en": "Lohen",
+      "aliases": [
+        "洛恩",
+        "Lohen"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "lohen"
+    },
+    {
+      "character_id": "lynette",
+      "name_zh": "琳妮特",
+      "name_en": "Lynette",
+      "aliases": [
+        "琳妮特",
+        "Lynette"
+      ],
+      "region": "Fontaine",
+      "roster_type": "playable",
+      "source_key": "lynette"
+    },
+    {
+      "character_id": "lyney",
+      "name_zh": "林尼",
+      "name_en": "Lyney",
+      "aliases": [
+        "林尼",
+        "Lyney"
+      ],
+      "region": "Fontaine",
+      "roster_type": "playable",
+      "source_key": "lyney"
+    },
+    {
+      "character_id": "mavuika",
+      "name_zh": "玛薇卡",
+      "name_en": "Mavuika",
+      "aliases": [
+        "玛薇卡",
+        "Mavuika",
+        "火神大人",
+        "Pyro Archon"
+      ],
+      "region": "Natlan",
+      "roster_type": "playable",
+      "source_key": "mavuika"
+    },
+    {
+      "character_id": "mika",
+      "name_zh": "米卡",
+      "name_en": "Mika",
+      "aliases": [
+        "米卡",
+        "Mika"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "mika"
+    },
+    {
+      "character_id": "mona",
+      "name_zh": "莫娜",
+      "name_en": "Mona",
+      "aliases": [
+        "莫娜",
+        "Mona"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "mona"
+    },
+    {
+      "character_id": "nahida",
+      "name_zh": "纳西妲",
+      "name_en": "Nahida",
+      "aliases": [
+        "纳西妲",
+        "Nahida"
+      ],
+      "region": "Sumeru",
+      "roster_type": "playable",
+      "source_key": "nahida"
+    },
+    {
+      "character_id": "navia",
+      "name_zh": "娜维娅",
+      "name_en": "Navia",
+      "aliases": [
+        "娜维娅",
+        "Navia"
+      ],
+      "region": "Fontaine",
+      "roster_type": "playable",
+      "source_key": "navia"
+    },
+    {
+      "character_id": "nefer",
+      "name_zh": "奈芙尔",
+      "name_en": "Nefer",
+      "aliases": [
+        "奈芙尔",
+        "Nefer"
+      ],
+      "region": "Nod-Krai",
+      "roster_type": "playable",
+      "source_key": "nefer"
+    },
+    {
+      "character_id": "neuvillette",
+      "name_zh": "那维莱特",
+      "name_en": "Neuvillette",
+      "aliases": [
+        "那维莱特",
+        "Neuvillette"
+      ],
+      "region": "Fontaine",
+      "roster_type": "playable",
+      "source_key": "neuvillette"
+    },
+    {
+      "character_id": "nicole",
+      "name_zh": "尼可",
+      "name_en": "Nicole",
+      "aliases": [
+        "尼可",
+        "Nicole"
+      ],
+      "region": "Other",
+      "roster_type": "playable",
+      "source_key": "nicole"
+    },
+    {
+      "character_id": "nilou",
+      "name_zh": "妮露",
+      "name_en": "Nilou",
+      "aliases": [
+        "妮露",
+        "Nilou"
+      ],
+      "region": "Sumeru",
+      "roster_type": "playable",
+      "source_key": "nilou"
+    },
+    {
+      "character_id": "ningguang",
+      "name_zh": "凝光",
+      "name_en": "Ningguang",
+      "aliases": [
+        "凝光",
+        "Ningguang"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "ningguang"
+    },
+    {
+      "character_id": "noelle",
+      "name_zh": "诺艾尔",
+      "name_en": "Noelle",
+      "aliases": [
+        "诺艾尔",
+        "Noelle"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "noelle"
+    },
+    {
+      "character_id": "ororon",
+      "name_zh": "欧洛伦",
+      "name_en": "Ororon",
+      "aliases": [
+        "欧洛伦",
+        "Ororon"
+      ],
+      "region": "Natlan",
+      "roster_type": "playable",
+      "source_key": "ororon"
+    },
+    {
+      "character_id": "paimon",
+      "name_zh": "派蒙",
+      "name_en": "Paimon",
+      "aliases": [
+        "派蒙",
+        "Paimon"
+      ],
+      "region": "Other",
+      "roster_type": "companion",
+      "source_key": "manual:paimon"
+    },
+    {
+      "character_id": "prune",
+      "name_zh": "布伦妮",
+      "name_en": "Prune",
+      "aliases": [
+        "布伦妮",
+        "Prune"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "prune"
+    },
+    {
+      "character_id": "qiqi",
+      "name_zh": "七七",
+      "name_en": "Qiqi",
+      "aliases": [
+        "七七",
+        "Qiqi"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "qiqi"
+    },
+    {
+      "character_id": "raidenshogun",
+      "name_zh": "雷电将军",
+      "name_en": "Raiden Shogun",
+      "aliases": [
+        "雷电将军",
+        "Raiden Shogun"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "raidenshogun"
+    },
+    {
+      "character_id": "razor",
+      "name_zh": "雷泽",
+      "name_en": "Razor",
+      "aliases": [
+        "雷泽",
+        "Razor"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "razor"
+    },
+    {
+      "character_id": "rosaria",
+      "name_zh": "罗莎莉亚",
+      "name_en": "Rosaria",
+      "aliases": [
+        "罗莎莉亚",
+        "Rosaria"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "rosaria"
+    },
+    {
+      "character_id": "sandrone",
+      "name_zh": "桑多涅",
+      "name_en": "Sandrone",
+      "aliases": [
+        "桑多涅",
+        "Sandrone"
+      ],
+      "region": "Snezhnaya",
+      "roster_type": "playable",
+      "source_key": "sandrone"
+    },
+    {
+      "character_id": "sangonomiyakokomi",
+      "name_zh": "珊瑚宫心海",
+      "name_en": "Sangonomiya Kokomi",
+      "aliases": [
+        "珊瑚宫心海",
+        "Sangonomiya Kokomi"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "sangonomiyakokomi"
+    },
+    {
+      "character_id": "sayu",
+      "name_zh": "早柚",
+      "name_en": "Sayu",
+      "aliases": [
+        "早柚",
+        "Sayu"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "sayu"
+    },
+    {
+      "character_id": "sethos",
+      "name_zh": "赛索斯",
+      "name_en": "Sethos",
+      "aliases": [
+        "赛索斯",
+        "Sethos"
+      ],
+      "region": "Sumeru",
+      "roster_type": "playable",
+      "source_key": "sethos"
+    },
+    {
+      "character_id": "shenhe",
+      "name_zh": "申鹤",
+      "name_en": "Shenhe",
+      "aliases": [
+        "申鹤",
+        "Shenhe"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "shenhe"
+    },
+    {
+      "character_id": "shikanoinheizou",
+      "name_zh": "鹿野院平藏",
+      "name_en": "Shikanoin Heizou",
+      "aliases": [
+        "鹿野院平藏",
+        "Shikanoin Heizou"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "shikanoinheizou"
+    },
+    {
+      "character_id": "sigewinne",
+      "name_zh": "希格雯",
+      "name_en": "Sigewinne",
+      "aliases": [
+        "希格雯",
+        "Sigewinne"
+      ],
+      "region": "Fontaine",
+      "roster_type": "playable",
+      "source_key": "sigewinne"
+    },
+    {
+      "character_id": "skirk",
+      "name_zh": "丝柯克",
+      "name_en": "Skirk",
+      "aliases": [
+        "丝柯克",
+        "Skirk"
+      ],
+      "region": "Other",
+      "roster_type": "playable",
+      "source_key": "skirk"
+    },
+    {
+      "character_id": "sucrose",
+      "name_zh": "砂糖",
+      "name_en": "Sucrose",
+      "aliases": [
+        "砂糖",
+        "Sucrose"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "sucrose"
+    },
+    {
+      "character_id": "tartaglia",
+      "name_zh": "达达利亚",
+      "name_en": "Tartaglia",
+      "aliases": [
+        "达达利亚",
+        "Tartaglia"
+      ],
+      "region": "Snezhnaya",
+      "roster_type": "playable",
+      "source_key": "tartaglia"
+    },
+    {
+      "character_id": "thoma",
+      "name_zh": "托马",
+      "name_en": "Thoma",
+      "aliases": [
+        "托马",
+        "Thoma"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "thoma"
+    },
+    {
+      "character_id": "tighnari",
+      "name_zh": "提纳里",
+      "name_en": "Tighnari",
+      "aliases": [
+        "提纳里",
+        "Tighnari"
+      ],
+      "region": "Sumeru",
+      "roster_type": "playable",
+      "source_key": "tighnari"
+    },
+    {
+      "character_id": "traveler",
+      "name_zh": "旅行者",
+      "name_en": "Traveler",
+      "aliases": [
+        "旅行者",
+        "Traveler",
+        "{NICKNAME}",
+        "Player"
+      ],
+      "region": "Other",
+      "roster_type": "playable",
+      "source_key": "aether+lumine"
+    },
+    {
+      "character_id": "varesa",
+      "name_zh": "瓦雷莎",
+      "name_en": "Varesa",
+      "aliases": [
+        "瓦雷莎",
+        "Varesa"
+      ],
+      "region": "Natlan",
+      "roster_type": "playable",
+      "source_key": "varesa"
+    },
+    {
+      "character_id": "varka",
+      "name_zh": "法尔伽",
+      "name_en": "Varka",
+      "aliases": [
+        "法尔伽",
+        "Varka"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "varka"
+    },
+    {
+      "character_id": "venti",
+      "name_zh": "温迪",
+      "name_en": "Venti",
+      "aliases": [
+        "温迪",
+        "Venti",
+        "温迪老师",
+        "Professor Venti"
+      ],
+      "region": "Mondstadt",
+      "roster_type": "playable",
+      "source_key": "venti"
+    },
+    {
+      "character_id": "wanderer",
+      "name_zh": "流浪者",
+      "name_en": "Wanderer",
+      "aliases": [
+        "流浪者",
+        "Wanderer"
+      ],
+      "region": "Sumeru",
+      "roster_type": "playable",
+      "source_key": "wanderer"
+    },
+    {
+      "character_id": "wriothesley",
+      "name_zh": "莱欧斯利",
+      "name_en": "Wriothesley",
+      "aliases": [
+        "莱欧斯利",
+        "Wriothesley"
+      ],
+      "region": "Fontaine",
+      "roster_type": "playable",
+      "source_key": "wriothesley"
+    },
+    {
+      "character_id": "xiangling",
+      "name_zh": "香菱",
+      "name_en": "Xiangling",
+      "aliases": [
+        "香菱",
+        "Xiangling"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "xiangling"
+    },
+    {
+      "character_id": "xianyun",
+      "name_zh": "闲云",
+      "name_en": "Xianyun",
+      "aliases": [
+        "闲云",
+        "Xianyun"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "xianyun"
+    },
+    {
+      "character_id": "xiao",
+      "name_zh": "魈",
+      "name_en": "Xiao",
+      "aliases": [
+        "魈",
+        "Xiao"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "xiao"
+    },
+    {
+      "character_id": "xilonen",
+      "name_zh": "希诺宁",
+      "name_en": "Xilonen",
+      "aliases": [
+        "希诺宁",
+        "Xilonen"
+      ],
+      "region": "Natlan",
+      "roster_type": "playable",
+      "source_key": "xilonen"
+    },
+    {
+      "character_id": "xingqiu",
+      "name_zh": "行秋",
+      "name_en": "Xingqiu",
+      "aliases": [
+        "行秋",
+        "Xingqiu"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "xingqiu"
+    },
+    {
+      "character_id": "xinyan",
+      "name_zh": "辛焱",
+      "name_en": "Xinyan",
+      "aliases": [
+        "辛焱",
+        "Xinyan"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "xinyan"
+    },
+    {
+      "character_id": "yaemiko",
+      "name_zh": "八重神子",
+      "name_en": "Yae Miko",
+      "aliases": [
+        "八重神子",
+        "Yae Miko"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "yaemiko"
+    },
+    {
+      "character_id": "yanfei",
+      "name_zh": "烟绯",
+      "name_en": "Yanfei",
+      "aliases": [
+        "烟绯",
+        "Yanfei"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "yanfei"
+    },
+    {
+      "character_id": "yaoyao",
+      "name_zh": "瑶瑶",
+      "name_en": "Yaoyao",
+      "aliases": [
+        "瑶瑶",
+        "Yaoyao"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "yaoyao"
+    },
+    {
+      "character_id": "yelan",
+      "name_zh": "夜兰",
+      "name_en": "Yelan",
+      "aliases": [
+        "夜兰",
+        "Yelan"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "yelan"
+    },
+    {
+      "character_id": "yoimiya",
+      "name_zh": "宵宫",
+      "name_en": "Yoimiya",
+      "aliases": [
+        "宵宫",
+        "Yoimiya"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "yoimiya"
+    },
+    {
+      "character_id": "yumemizuki_mizuki",
+      "name_zh": "梦见月瑞希",
+      "name_en": "Yumemizuki Mizuki",
+      "aliases": [
+        "梦见月瑞希",
+        "Yumemizuki Mizuki",
+        "瑞希",
+        "Mizuki"
+      ],
+      "region": "Inazuma",
+      "roster_type": "playable",
+      "source_key": "yumemizukimizuki"
+    },
+    {
+      "character_id": "yunjin",
+      "name_zh": "云堇",
+      "name_en": "Yun Jin",
+      "aliases": [
+        "云堇",
+        "Yun Jin"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "yunjin"
+    },
+    {
+      "character_id": "zhongli",
+      "name_zh": "钟离",
+      "name_en": "Zhongli",
+      "aliases": [
+        "钟离",
+        "Zhongli"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "zhongli"
+    },
+    {
+      "character_id": "zibai",
+      "name_zh": "兹白",
+      "name_en": "Zibai",
+      "aliases": [
+        "兹白",
+        "Zibai"
+      ],
+      "region": "Liyue",
+      "roster_type": "playable",
+      "source_key": "zibai"
+    }
+  ]
+}

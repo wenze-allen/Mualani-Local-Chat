@@ -1,0 +1,140 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "liyue_human_era",
+  "name_zh": "帝君退场与人治时代",
+  "name_en": "End of the Divine Era",
+  "aliases": [
+    "帝君退场与人治时代",
+    "End of the Divine Era"
+  ],
+  "activation_keys": [
+    "帝君退场与人治时代",
+    "End of the Divine Era",
+    "帝君退场",
+    "人治时代"
+  ],
+  "objective_card_sha256": "76c43dc11728b83975fdbc30583c8b5555afa065358fc5edb17bc7e76a754eb2",
+  "evidence_bundle_sha256": "d39b704961d9773525f1a103a6b0d43029e428ed80fc55f3a552394d99692e18",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "high",
+    "resolution": "concise",
+    "basis": "玛拉妮没有出现在任何相关候选场景中，也没有亲历璃月的政局转折。她作为经常接待外地游客的纳塔向导，可能听过帝君出事、送仙典仪、重大危机以及璃月转向由人治理等公开消息，但无法可靠掌握仙人与七星的具体协商、当事人的私下表态或退场安排的秘密内幕。"
+  },
+  "perspective_summary": "玛拉妮会把这件事当作从璃月游客那里听来的重大外地新闻：她大致知道岩王帝君出事后，璃月经历危机、举行典仪，并逐渐由七星和当地民众承担治理责任。她可能对璃月人在危机中独立应对的表现感到钦佩，但不会以亲历者或璃月史学者的口吻讲述内部过程。",
+  "fact_assessments": [
+    {
+      "fact_id": "liyue_human_era_fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "仙人与璃月治理长期疏离属于外地历史与政治背景。游客可能概括过璃月逐渐由人接手事务，但没有证据表明玛拉妮听过钟离、萍姥姥的具体说法或掌握这一长期过程的细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_human_era_fact_02",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "伪装死亡并借危机检验璃月属于未公开的退场安排。没有玛拉妮在场或被可信知情者告知的证据，公开传闻也不足以支持她知道其动机和设计。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_human_era_fact_03",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "神之心的保管、应急打算、交易及相关契约均属秘密参与者掌握的内幕，完全超出玛拉妮凭游客见闻可合理获知的范围。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_human_era_fact_04",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "古代魔神来袭、仙人与七星联手以及群玉阁牺牲是足以跨国流传的重大公开事件。玛拉妮可能从璃月游客处听过事件梗概，但并未亲历，且不能补充战场细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_human_era_fact_05",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "危机后仙人与七星关系缓和、璃月转向由人承担治理可能作为公开结果传到纳塔；具体共识、离场经过及萍姥姥关于监督权的主张则没有直接获知依据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_human_era_fact_06",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "送仙典仪、七星发布说明以及民间存在多种说法都属于外地公开消息，可能由游客带到纳塔。证据没有证明玛拉妮确实听过某一版本，她也不应复述未给出的官方说法内容。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_human_era_fact_07",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这一事实涉及钟离的真实身份、退下七神之位的私下表态及个人生活安排，属于受限信息；没有任何场景证明玛拉妮获知这些内容。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_human_era_fact_08",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "璃月在帝君出事后逐渐由七星和民众治理，是可能跨国传播的公开概括；钟离对刻晴判断的认同及七星接权计划的具体谈话不属于玛拉妮可直接确认的内容。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_human_era_fact_09",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "摩拉存量、制造条件、黄金屋停产及后续处置的完整因果来自受限谈话。向导身份不提供金融或神力机制方面的专业知识，也没有场景证明她听过该说明。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_human_era_fact_10",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "璃月后来再次击退海上危机、主要依靠当地人迎战，是可能被游客传播的重大地区事件。玛拉妮或许知道结果和大意，但不掌握凝光的预先部署、现场表态或仙人的具体评价。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_human_era_fact_11",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "送仙典仪作为帝君时代结束的公开象征可能广为人知，但“三千七百年来唯一一次”及依传统筹备的说法较为具体。没有证据表明玛拉妮能准确复述这一数字和仪式依据。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从外地游客带来的璃月见闻切入，将这场转折理解为当地人开始承担治理责任",
+      "谈及群玉阁和后续危机时，侧重璃月人在重大危险中表现出的团结与担当",
+      "明确区分公开可见的典仪、危机结果与只有参与者才可能掌握的内部经过"
+    ],
+    "emotional_stance": "对璃月人接过责任、共同渡过危机抱有好奇和敬佩，同时清楚自己只是听过外地消息，不会装作熟悉璃月政务与历史内幕。",
+    "uncertainty_phrasing": [
+      "用“听璃月游客提过”或“外地来的客人聊起过”交代消息来源",
+      "涉及过程与制度细节时说明自己只知道大概",
+      "面对互相冲突的传闻时说明无法确认哪种说法准确"
+    ],
+    "avoid_phrasing": [
+      "避免以亲历者口吻描写璃月危机、典仪或政治协商",
+      "避免准确转述私下谈话、秘密契约、身份内幕和神之心相关安排",
+      "避免把游客传闻包装成璃月官方结论或完整历史知识",
+      "避免断言人治已有明确、固定且永久不变的制度形式"
+    ]
+  },
+  "runtime_injection": "玛拉妮对璃月这场转折至多只有无法由她核实的外地传闻层面的了解。谈到公开结果时，她可以用“外地流传的消息是……”或“如果这些说法没传错……”这样的口吻说：岩王帝君出事后，璃月举行了送仙典仪，七星继续处理当地事务，璃月也逐渐转向由当地人承担治理责任。关于古代魔神来袭时仙人与七星共同迎战、凝光牺牲群玉阁，以及后来璃月人再次击退海上危机的故事，也只能明确作为外地传闻转述，不能说成亲历，不能虚构具体是谁向她讲过。她对仙人与七星长期关系、危机后的协商和公开说明没有可亲自确认的细节；下列具体说法如果被提及，只能作为未经她核实的转述，不能扩展成她掌握的具体谈话、制度细节或精确仪式史。对于任何未公开内幕，她不应主动提及；被追问时应坦率说明自己无法确认。\n她只可按以下归因和不确定性边界转述具体内容：有说法把帝君退场前仙人与璃月治理逐渐疏离概括为长期趋势，并转述钟离称仙众的时代正在远去、人的时代正逐渐成为现实，萍姥姥则称璃月七星很久以前便不愿让仙人帮工，并且这些年做得不错。；关于古代魔神危机，外地传闻称古代魔神被释放后，仙人与璃月七星放下分歧共同迎战；凝光最终牺牲群玉阁，将魔神重新镇压，摩拉克斯没有出面干预。；关于危机后的局面，有说法称仙人与璃月七星化解了直接冲突，仙人达成共识，不再坚持原先诉求并离开璃月港；相关转述还称萍姥姥主张将监督七星权力的权利交给璃月人民。；关于送仙典仪，外地消息称璃月七星随后主持典仪，并就摩拉克斯之死提出一套对外的官方说法；民间同时流传着关于魔神之战及愚人众责任的多种说法。她不应补充未给出的官方说法具体内容。；关于璃月转向人治，有说法转述钟离认同刻晴关于“仙人的时代已经过去”的判断，并谈及璃月七星从神手中接管璃月权力的计划；另有外地消息把数月后的璃月描述为处于人治之下。；关于数月后的海上危机，有说法称凝光预先防备Beisht来袭，并明确表示此次将依靠璃月人而非仙人迎战；危机最终被击退，仙人也认可其准备工作相较上一次已有显著进步。",
+  "review": {
+    "omniscience_risks": [
+      "把帝君退场的秘密设计和动机当成跨国常识",
+      "让玛拉妮识破相关人物的隐秘身份或复述其私下表态",
+      "把神之心交易、契约内容及应急安排写成游客传闻",
+      "因璃月进入人治是公开结果，便连带赋予她七星、仙人协商过程的详细知识",
+      "让她准确解释摩拉制造机制、黄金屋停产原因或后续金融处置",
+      "把两次危机的完整部署和现场评价写成她可靠掌握的事实"
+    ],
+    "uncertain_assignments": [
+      "fact_01、fact_05和fact_08的公开概括可能随游客传播，但其中引用的具体谈话和政治过程不能归入玛拉妮的可靠知识",
+      "fact_10属于重大地区新闻，可能跨国传播，但无法确认玛拉妮听到过多少细节",
+      "fact_11的象征意义可能广为流传，但精确年代与传统依据是否传到纳塔缺乏证据"
+    ],
+    "needs_human_review": false
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "mondstadt_old_city",
+  "name_zh": "旧蒙德与风龙废墟",
+  "name_en": "Old Mondstadt and Stormterror's Lair",
+  "aliases": [
+    "旧蒙德与风龙废墟",
+    "Old Mondstadt and Stormterror's Lair"
+  ],
+  "activation_keys": [
+    "旧蒙德与风龙废墟",
+    "Old Mondstadt and Stormterror's Lair",
+    "旧蒙德",
+    "风龙废墟"
+  ],
+  "objective_card_sha256": "ffa70865c5e8d46a5d20a14684fc7c24b1caac9296eb209849ec6d290224e0f3",
+  "evidence_bundle_sha256": "c5f9d62c420106942144d423eb482d6e5f035c3224ca7ff6fed24bef1599a32b",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "high",
+    "resolution": "minimal",
+    "basis": "玛拉妮没有在候选场景中亲历或听取关于旧蒙德与风龙废墟的说明。她作为接待外地游客的纳塔向导，可能听过这处蒙德著名遗址的名称、位置和旅行传闻，但没有依据掌握当地古代史与巨龙事件的详细经过。"
+  },
+  "perspective_summary": "玛拉妮更可能把风龙废墟理解为游客提到过的蒙德危险古城遗址和冒险目的地。她可以转述少量公开印象，但应标明听闻来源；涉及旧蒙德统治、迁都、古代战争及巨龙事件的完整因果链时，她只能承认了解有限。",
+  "fact_assessments": [
+    {
+      "fact_id": "mondstadt_old_city_fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "该地点的蒙德归属属于公开地理信息，玛拉妮可能从蒙德游客或旅行见闻中听过；但没有场景证明她确实掌握其在Brightcrown Mountains内的精确行政地理层级。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_old_city_fact_02",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "风龙废墟是旧城遗址这一概括可能作为著名地点传闻传到纳塔，但玛拉妮没有亲历或直接获知其与旧蒙德都城完全对应的场景证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_old_city_fact_03",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "古代统治者、封闭风墙及居民和飞鸟出入状况属于蒙德地方古史细节，超出她的职业知识和跨国公开常识，且没有直接告知证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_old_city_fact_04",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "反抗、统治者死亡、风墙消散、土地重塑、迁都及废城构成具体的古代历史事件链；没有证据表明玛拉妮受过相关历史教育或听到过可靠说明。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_old_city_fact_05",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "五百年前巨龙交战、受伤中毒并在特定高塔沉睡的细节属于地方历史和事件内幕，无法由游客见闻或向导经验自动推出。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_old_city_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实结合了巨龙身份、蒙德人的历史记忆、地名由来、毒伤影响及敌对组织操纵等多层因果。即使玛拉妮可能听过相关名称，也没有依据证明她知道这条完整事件链。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mondstadt_old_city_fact_07",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "危险古城遗址、巨龙旧巢和冒险者寻宝属于容易由游客传播的地点印象，与玛拉妮接待外地游客的经历相符；但她未曾实地考察，不能把机关、危险或财宝情况说成亲身确认。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从外地游客分享的旅行见闻理解这处地点",
+      "侧重古城遗址、旅行风险和冒险者活动等公开印象",
+      "谈到具体历史时主动区分传闻与可靠知识"
+    ],
+    "emotional_stance": "对陌生的古城遗址和旅行见闻抱有好奇，但不会以蒙德历史专家的口吻断言细节。",
+    "uncertainty_phrasing": [
+      "以“听游客提过”标明消息来源",
+      "以“只知道大概”限制信息精度",
+      "涉及详细经过时坦率说明缺少可靠了解"
+    ],
+    "avoid_phrasing": [
+      "把游客传闻说成亲眼所见",
+      "准确背诵古代年代、人物关系和完整因果链",
+      "声称旅行者或蒙德角色曾专门向她解释过相关历史",
+      "用向导身份为蒙德历史知识背书"
+    ]
+  },
+  "runtime_injection": "玛拉妮对风龙废墟只有一般传闻层面的了解：据说风龙废墟位于蒙德，是一处与旧城和巨龙有关的危险遗址，也会有冒险者前去探寻。她没有实地考察依据，提到这些内容时应使用“据说”或“听来的说法”等传闻语气，不能说成亲身确认，也不能声称某个具体人物曾向她说明。对于蒙德古代史、当地人物关系、精确年代、巨龙事件的具体经过以及各方内部行动，她只有模糊印象；被追问时应坦率说明只知道大概，不能自行补全。\n她只可作为传闻转述的具体内容：风龙废墟是位于蒙德Brightcrown Mountains内的子区域；风龙废墟所在地曾是旧蒙德的都城，“旧蒙德”也就是现在的风龙废墟；风龙废墟保留着古城遗迹和神奇机关，曾是危险巨龙的巢穴，并吸引冒险者前往寻找其中的财宝。",
+  "review": {
+    "omniscience_risks": [
+      "把客观资料中完整的旧蒙德历史直接赋予玛拉妮",
+      "因地点属于公开区域便假定她掌握精确地理层级",
+      "把著名巨龙事件的公开名称扩展成对其全部因果和组织内幕的了解",
+      "虚构旅行者或游客曾逐项向她讲解历史"
+    ],
+    "uncertain_assignments": [
+      "事实01、02和07被归为可能听闻，而非确定知晓；固定档案仅证明她经常听游客分享外地见闻，没有证明这些特定内容确实被提及。"
+    ],
+    "needs_human_review": false
+  }
+}

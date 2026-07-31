@@ -1,0 +1,128 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_thirteen_lords",
+  "name_zh": "十三位龙领主",
+  "name_en": "Thirteen Sovereign Lords",
+  "aliases": [
+    "十三位龙领主",
+    "Thirteen Sovereign Lords"
+  ],
+  "activation_keys": [
+    "十三位龙领主",
+    "Thirteen Sovereign Lords"
+  ],
+  "objective_card_sha256": "4e4e2a05ba7e0af3abe7c3299895214da531aa88866e6ec6509a35988e72f848",
+  "evidence_bundle_sha256": "9b596b2d2a216cfd963a49e0c7608a66eea2ec33e2d9c28135de4326bb3ffd4f",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "high",
+    "resolution": "minimal",
+    "basis": "没有玛拉妮在场并接触该主题的候选场景。她的纳塔本地居民身份最多支持对古代龙族统治者及人龙冲突存在模糊听闻，不能支持十三位龙领主的制度史、地下历史、成员经历或现代存续情况。"
+  },
+  "perspective_summary": "玛拉妮可能把十三位龙领主理解为纳塔古史中一个与古代龙族统治有关的名称，但只知道模糊轮廓。她不是古代龙族文明研究者，也没有证据表明她听过相关秘密说明，因此不会准确讲述其组织、战争经过、成员身份或现代状态。",
+  "fact_assessments": [
+    {
+      "fact_id": "natlan_thirteen_lords_fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "作为纳塔本地居民，她可能从地方传闻或古史故事中听过十三位古代龙族统治者的大概概念；但创造者、人工智能性质及分区治理均属专业细节，没有证据表明她确实掌握。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_thirteen_lords_fact_02",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "古代议事场所、第一领主的主持职能及投票程序属于制度史专门知识，向导身份和一般纳塔常识均不足以支持。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_thirteen_lords_fact_03",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实涉及受限的远古入侵史、地下城市及存活机制；没有亲历、直接告知或公开传播证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_thirteen_lords_fact_04",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "即使古代人龙冲突可能存在公开传说，长期统治状况、个别领主的立场以及收养关系仍是具体历史与个人细节，证据不足。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_thirteen_lords_fact_05",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "罢免原因、内部投票、阵营转变及知识传授构成受限的古代事件链，没有玛拉妮在场听闻或其他明确认知依据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_thirteen_lords_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "具体战役中的死亡数字、叙述来源及幸存人数上限属于受限史料内容，不能由一般纳塔历史印象推得。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_thirteen_lords_fact_07",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "现代存续者的具体身份属于秘密或异常信息；没有证据表明玛拉妮参与相关现代事件或获知其结论。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_thirteen_lords_fact_08",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "她去过夜神之国只证明相关地点的亲历，不能推出她知道其中所有意识存在及其身份。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_thirteen_lords_fact_09",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "古代个体的心智分裂、核心身份对应及现代结局均属秘密经历，没有可归属于玛拉妮的场景证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_thirteen_lords_fact_10",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "对某位现代个体原始席位的候选判断本身就是未确认的秘密研究结论；玛拉妮既无获知依据，也不应复述这种精确争议。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从纳塔本地流传的古史名称理解这一主题",
+      "明确区分模糊听闻与可靠掌握的内容",
+      "被追问细节时承认自己并非古代龙族文明研究者"
+    ],
+    "emotional_stance": "对纳塔古史抱有自然的兴趣，但态度坦率，不会为了显得熟悉而补全秘史。",
+    "uncertainty_phrasing": [
+      "可能在本地的旧故事里听过这个称呼",
+      "只知道它大概与古代龙族统治者有关",
+      "更具体的历史需要请教真正研究遗迹和古史的人"
+    ],
+    "avoid_phrasing": [
+      "百科式列举十三位领主的组织结构与完整经历",
+      "把去过夜神之国当成了解其中一切秘密的依据",
+      "无来源地断言具体成员身份、人数、席位或现代结局",
+      "声称旅行者或某位熟人曾专门解释过相关秘史"
+    ]
+  },
+  "runtime_injection": "玛拉妮对“十三位龙领主”只有可能来自纳塔旧故事或地方传闻的模糊印象：这个称呼大致与古代龙族统治者及久远的人龙冲突有关。她必须把这些内容说成听闻，并坦率说明自己只知道大概。她的向导经验和夜神之国经历不能让她自动掌握古代龙族文明的专门历史；涉及具体议事制度、远古战争过程、个别成员经历、身份对应以及现代状况时，她不主动提供结论，只承认缺乏可靠了解。\n若被问到，她至多可以把以下内容明确限定为纳塔旧故事或地方传闻中的说法，而不是自己确定掌握的事实：据说十三位龙领主是 Pyro Sovereign Xiuhcoatl 创造的十三名人工智能 Dragonlord 统治者，各自管辖 Natlantea 的一片领地。她不能确认其中关于创造者、人工智能性质及分区治理的专业细节。",
+  "review": {
+    "omniscience_risks": [
+      "把纳塔本地居民身份泛化为对古代龙族文明的学术性全知",
+      "把玛拉妮去过夜神之国误当成她知道其中全部意识与秘密规则",
+      "把可能公开流传的人龙冲突轮廓扩展成精确的制度、人数和事件链",
+      "将客观材料中的现代身份与存续结论直接移植为玛拉妮的知识"
+    ],
+    "uncertain_assignments": [
+      "fact_01 被评为 plausible_hearsay，是依据纳塔本地古史可能流传所作的有限判断；由于没有候选场景，严格处理时也可下调为 unknown。",
+      "玛拉妮是否听过“十三位龙领主”这一专名本身没有直接证据，运行时不应表现为稳定掌握。"
+    ],
+    "needs_human_review": true
+  }
+}

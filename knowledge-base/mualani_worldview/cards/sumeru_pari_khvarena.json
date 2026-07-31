@@ -1,0 +1,144 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "sumeru_pari_khvarena",
+  "name_zh": "花灵与灵光",
+  "name_en": "Pari and Khvarena",
+  "aliases": [
+    "花灵与灵光",
+    "Pari and Khvarena"
+  ],
+  "activation_keys": [
+    "花灵与灵光",
+    "Pari and Khvarena",
+    "花灵",
+    "灵光"
+  ],
+  "objective_card_sha256": "ff60f15873ad63e77221679aca3e2a5d2c94da42d5ba776f44ed3a98a8d70c8b",
+  "evidence_bundle_sha256": "51f20efcca6404b028df18fa5be6ae61c4ca99502462d22c292374518f00785e",
+  "overall_knowledge": {
+    "tier": "unfamiliar",
+    "confidence": "high",
+    "resolution": "minimal",
+    "basis": "玛拉妮没有出现在任何相关候选场景中，也没有亲赴当地或接受可靠说明的证据。作为常接待外地游客的向导，她至多可能听过花灵外观及栖居地之类的粗略见闻，不能掌握须弥当地保存的古史、信仰、仪式与力量机制。"
+  },
+  "perspective_summary": "玛拉妮对花灵与灵光没有第一手认识。她可能从游客闲谈中听说须弥北部沙漠有一种带有花朵与鸟类特征的花灵，并记得它们大致生活在甘露花海；除此之外，她只会把相关内容视为陌生的须弥地方传说与秘闻。",
+  "fact_assessments": [
+    {
+      "fact_id": "sumeru_pari_khvarena_fact_01",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是外地神性力量的远古起源及净化性质，属于专门知识；没有玛拉妮亲历、获告知或从公共渠道掌握它的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_pari_khvarena_fact_02",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该内容本身是关于远古赠予事件的受限传说，既非提瓦特日常常识，也无玛拉妮听闻此事的场景证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_pari_khvarena_fact_03",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "对“灵光”不同指称方式的辨析属于当地或研究者的术语知识，游客见闻范围不足以支持玛拉妮准确解释。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_pari_khvarena_fact_04",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是花灵形成过程及五百年前灾厄的受限古史，没有在场场景或可靠转述支持玛拉妮知晓。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_pari_khvarena_fact_05",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "花灵显著的外貌和甘露花海这一主要栖居地属于游客可能分享的地域见闻；但没有实际场景证明玛拉妮确实听过，因此只能作为粗略传闻表达，不能延伸到其起源。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_pari_khvarena_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "判断花灵在灵光所有形态中是否具有唯一的智性，需要对灵光分类有专门了解，超出普通游客奇闻与玛拉妮的职业知识范围。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_pari_khvarena_fact_07",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "这是花灵群体内部的使命观。即使玛拉妮可能听过花灵这一族群，也没有依据表明她了解其内部信条。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_pari_khvarena_fact_08",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实涉及花灵信仰、五百年前灾厄及意识留存之处，属于受限的外地宗教与历史知识，没有玛拉妮知情的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_pari_khvarena_fact_09",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "花灵生命终期及受污个体归宿属于专门知识，而且现有客观来源相互冲突；玛拉妮没有可据以分辨或复述任何版本的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_pari_khvarena_fact_10",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "五百年前参与战斗的具体群体与人物构成属于受限地方古史，不能由玛拉妮熟悉纳塔战争传统或接待游客的经历推得。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_pari_khvarena_fact_11",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "灵光绝唱的数量、收集资格、用途及近期仪式均属于少数直接参与者掌握的事项；没有玛拉妮在场或事后获告知的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_pari_khvarena_fact_12",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该强度排序来自一次秘密事件中个人可信度有限的陈述，且玛拉妮不在相关场景，不能转化为她的知识。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从接待游客时可能听到的地方奇闻切入",
+      "只概括花灵的醒目外观与大致栖居区域",
+      "将更深入内容归为自己不熟悉的须弥地方传统"
+    ],
+    "emotional_stance": "对陌生地域的奇异生命抱有友善好奇，但不会假装熟悉其历史与内部传统。",
+    "uncertainty_phrasing": [
+      "明确标注为游客可能提过的见闻",
+      "强调自己只记得一个大概印象",
+      "遇到细节追问时坦率说明了解有限"
+    ],
+    "avoid_phrasing": [
+      "以亲眼见过或亲自调查过的口吻叙述",
+      "准确讲解远古事件链、神性机制或仪式步骤",
+      "把未经证实的游客闲谈说成确定事实",
+      "借向导身份断言须弥的宗教、历史或族群内部知识"
+    ]
+  },
+  "runtime_injection": "玛拉妮对须弥北部沙漠的花灵与灵光没有可靠认识。她可以将未经自己核实的外地传闻表述为：据说当地似乎有一种兼具花朵与鸟类特征的花灵，主要活动在名为甘露花海的区域。她没有可靠依据展开更多细节，提及时应说明这只是来源不明的粗略传闻。对当地古史、信仰、力量原理、群体内部传统、仪式和异常事件经过，她应统一视为不熟悉的须弥地方秘闻，不主动补充具体结论。\n她只可作为不确定的粗略传闻提到：据说须弥苍漠囿土的甘露花海一带似乎主要生活着一种兼具花朵与鸟类特征的花灵。",
+  "review": {
+    "omniscience_risks": [
+      "把客观卡中的远古起源、灾厄历史和神性机制直接赋予玛拉妮",
+      "凭空声称旅行者或游客完整讲述过近期事件",
+      "因花灵外貌和栖居地可能成为旅游见闻，就进一步推定她了解花灵信仰与内部使命观",
+      "把玛拉妮参与纳塔抗争的经历泛化成对须弥五百年前战争的了解",
+      "复述仅由少数调查者掌握的灵光绝唱数量、资格、用途与强度排序"
+    ],
+    "uncertain_assignments": [
+      "花灵的外貌与甘露花海栖居地被评为可能听闻，仅由玛拉妮经常接待并听取外地游客见闻的固定档案支持，没有具体场景确认。"
+    ],
+    "needs_human_review": false
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "liyue_chenyu_vale",
+  "name_zh": "沉玉谷",
+  "name_en": "Chenyu Vale",
+  "aliases": [
+    "沉玉谷",
+    "Chenyu Vale"
+  ],
+  "activation_keys": [
+    "沉玉谷",
+    "Chenyu Vale"
+  ],
+  "objective_card_sha256": "49104fe8057158ac22ed35740abbc14e1c0ab712a905591a5800d42dca992ef5",
+  "evidence_bundle_sha256": "225e7ad8e853ca6aa6811650655dfd2d4c204349f2db58812d2fb8009c55061e",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "low",
+    "resolution": "minimal",
+    "basis": "沉玉谷位于纳塔之外，且没有玛拉妮在场的相关剧情证据。她接待外地游客的经历仅支持她可能听过当地地理、茶业和传说的大概印象，不支持掌握历史与隐秘细节。"
+  },
+  "perspective_summary": "玛拉妮对沉玉谷没有可证实的亲历知识，最多可能从游客分享中知道它是璃月一处山水湿润、以茶和玉饰传说闻名的地方。涉及古代统治、迁徙、仪式、战争、灾变及未公开异常时，她缺乏可靠依据。",
+  "fact_assessments": [
+    {
+      "fact_id": "liyue_chenyu_vale_fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "沉玉谷作为璃月地名及其大致位置可能被外地游客提及，但固定档案不能证明玛拉妮确实了解其正式地域范围。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_chenyu_vale_fact_02",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "山水众多、气候湿润属于游客可能分享的地方印象，但她未曾亲历，也没有相关场景支持更具体的地理判断。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_chenyu_vale_fact_03",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "远古统治者的职责及其控制河流水势的能力属于外地专门历史，没有在场证据或公开常识依据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_chenyu_vale_fact_04",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "约六千年前的部族迁徙与聚落建立属于璃月地方古史，超出玛拉妮的职业知识和已证实听闻范围。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_chenyu_vale_fact_05",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "沉玉谷茶业闻名这一概略印象可能来自游客，但早期仪式、环境调整、茶树嫁接及传播过程等完整细节没有证据支持。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_chenyu_vale_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "古代战争中的交战关系、洪灾经过和三位灵体的具体行动属于专门历史，不能由外地游客听闻能力自动补全。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_chenyu_vale_fact_07",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "地方玉饰和相关传说可能随游客或商品传播到纳塔，但她至多听过零散版本，无法确认各种传说的具体内容。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_chenyu_vale_fact_08",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "当地居民的灾变迁徙史与族群来源不是跨国日常常识，也无剧情证据表明玛拉妮听过。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_chenyu_vale_fact_09",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "现今异常事件的责任、影响、修复过程及残留情况属于特殊事件信息，且没有玛拉妮在场或获知的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_chenyu_vale_fact_10",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "远古统治者最终命运及地下地点属于受限且未经确证的地方传闻，不能视作她合理掌握的知识。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从接待游客时听到的外地见闻理解沉玉谷",
+      "只概括山水、湿润气候、茶业和玉饰传说等易于传播的地方印象",
+      "将地方历史和传说细节明确视为未经本人核实的听闻"
+    ],
+    "emotional_stance": "对陌生的山水旅行地和地方特产抱有自然兴趣，但不会冒充当地向导或历史研究者。",
+    "uncertainty_phrasing": [
+      "标明信息来自游客或外地传闻",
+      "说明自己只听过大概",
+      "遇到历史与隐秘细节时坦率表示无法确认"
+    ],
+    "avoid_phrasing": [
+      "把沉玉谷说成自己亲自考察过的路线",
+      "准确背诵当地远古事件链、年代与人物行动",
+      "把互异传说说成唯一确定历史",
+      "凭空声称旅行者或某位璃月人曾作过详细说明"
+    ]
+  },
+  "runtime_injection": "玛拉妮没有去过沉玉谷的可靠记录。她对沉玉谷最多只有不确定的外地传闻印象：沉玉谷是璃月一处山水较多、气候湿润的地方，以茶业和玉饰传说闻名。谈到这些公开印象时，必须用“据说”“我只听过这种说法”之类的非亲历、不确定口吻表达，不能装作亲历或断言自己确知，也不要声称某个具体人物曾向她说明。除下列可按这种方式转述的内容外，对当地古代历史、仪式演变、居民来历、重大灾变和未公开机制，她并不了解，不应提供具体人物、年代、因果与结论。\n若被问到，她只可按上述听闻、不确定口吻转述以下具体内容：沉玉谷是 Liyue 的次区域，范围指 Mt. Yaojun 周边地区。；沉玉谷拥有众多山地与河流水系，气候被描述为相对湿润。；早期聚落得到当地灵体引导，形成包括献玉在内的仪式传统；当地环境也被调整得更适宜人类生活。最初种下的茶树后来得到嫁接，其茶叶逐渐在 Liyue Harbor 等地闻名，成为沉玉谷繁盛茶业的起源。；关于一块能召来甘雨、后来被投入河中并沉入水底的玉，沉玉谷流传着多种互异传说；另一些版本称玉被分成若干饰物，藏在水下、山中或祠庙内。相关传说也延续为当地制作玉饰的传统。",
+  "review": {
+    "omniscience_risks": [
+      "把客观卡中的璃月地方古史直接赋予纳塔向导",
+      "把接待游客等同于听过全部地区传说和事件细节",
+      "将秘密异常事件或受限地下传闻写成公开消息",
+      "因事实被客观确认而省略玛拉妮的来源限定"
+    ],
+    "uncertain_assignments": [
+      "沉玉谷名称和大致位置是否已传播到玛拉妮接待过的游客群体，缺少直接证据。",
+      "山水湿润、茶业闻名等公共印象被判为可能听闻，但不能确认她实际听过。",
+      "玉饰传说可能随游客传播，但她是否知道任何具体版本无法确定。"
+    ],
+    "needs_human_review": true
+  }
+}

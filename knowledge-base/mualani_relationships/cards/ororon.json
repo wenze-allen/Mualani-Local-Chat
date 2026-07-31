@@ -1,0 +1,51 @@
+{
+  "schema_version": "mualani-relationship-card-v1",
+  "character_id": "ororon",
+  "name_zh": "欧洛伦",
+  "name_en": "Ororon",
+  "aliases": [
+    "欧洛伦",
+    "Ororon"
+  ],
+  "region": "Natlan",
+  "roster_type": "playable",
+  "personal_acquaintance": true,
+  "familiarity": "familiar",
+  "familiarity_label_zh": "熟悉的同伴或熟人",
+  "contact_policy": "may_propose_when_contextually_relevant",
+  "runtime_injection": "所属地区：纳塔。关系级别：熟悉的同伴或熟人。话题和地点合适时可以提议联系；不得把熟悉夸大为随叫随到。",
+  "evidence": {
+    "status": "supported_by_impression_card",
+    "impression_card": "character_impressions/cards/ororon.json",
+    "evidence_types": [
+      "direct_dialogue",
+      "shared_event"
+    ],
+    "scene_scan": {
+      "speaker_scene_count": 17,
+      "mualani_mention_count": 2,
+      "scene_refs": [
+        "Quest/Quest_15044.json#1504417",
+        "Quest/Quest_40177.json#4017708",
+        "Quest/Quest_40177.json#4017711",
+        "Quest/Quest_40178.json#4017809",
+        "Quest/Quest_40179.json#4017904",
+        "Quest/Quest_40179.json#4017915",
+        "Quest/Quest_40179.json#4017916",
+        "Quest/Quest_40179.json#4017917",
+        "Quest/Quest_5012.json#501205",
+        "Quest/Quest_5012.json#501238",
+        "Quest/Quest_5013.json#501308",
+        "Quest/Quest_5023.json#502308",
+        "Quest/Quest_5023.json#502323",
+        "Quest/Quest_5026.json#502615",
+        "Quest/Quest_5028.json#502802",
+        "Quest/Quest_5029.json#502901",
+        "Quest/Quest_5033.json#503309",
+        "Quest/Quest_5034.json#503406",
+        "Quest/Quest_6000.json#600001"
+      ]
+    }
+  },
+  "roster_source_key": "ororon"
+}

@@ -1,0 +1,110 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "fontaine_people_origin",
+  "name_zh": "枫丹人的起源与转化",
+  "name_en": "Origin and Transformation of Fontainians",
+  "aliases": [
+    "枫丹人的起源与转化",
+    "Origin and Transformation of Fontainians"
+  ],
+  "activation_keys": [
+    "枫丹人的起源与转化",
+    "Origin and Transformation of Fontainians",
+    "枫丹人的起源",
+    "转化"
+  ],
+  "objective_card_sha256": "6ad2e7be6e5a7afe04114bd7cc833b8dd8a49efc17a10b56ae59fb348e9cb0f3",
+  "evidence_bundle_sha256": "b382d475d3675e1f130946a93ab26c84eb5edafa846336989899b940f870a2c6",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "high",
+    "resolution": "concise",
+    "basis": "玛拉妮没有亲历枫丹相关事件，也没有在候选场景中听到有关枫丹人起源的说明。凭借接待外国游客的经历，她至多可能听过已经在枫丹公开流传的粗略说法，不能可靠掌握远古转化、繁衍仪式或灾后变化的具体机制。"
+  },
+  "perspective_summary": "她会从外国游客见闻的角度理解这一主题，可能知道枫丹人、纯水精灵、原罪与胎海灾难之间存在某种联系，但应把这些内容明确当作外地传闻。涉及创造过程、身体构造、秘密仪式、神明权能及灾后转化时，她没有足够依据作出确定说明。",
+  "fact_assessments": [
+    {
+      "fact_id": "fontaine_people_origin_fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "这一说法曾在枫丹公开场合披露，可能随枫丹游客或跨国传闻传到纳塔；但没有证据显示玛拉妮亲自听过正式说明，因此只能作为听来的起源概述。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_people_origin_fact_02",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "厄歌莉娅的权能限制、借用原始胎海力量、血管包裹胎海水及“不完全人类”等内容属于详细的远古转化机制，超出普通外国向导可合理掌握的范围，也无在场证据支持。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_people_origin_fact_03",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "枫丹人与原始胎海之水接触后溶解的灾难现象可能成为跨国传闻；玛拉妮至多可能听过现象层面的说法，不能把体内力量回归胎海及变回纯水精灵的完整机制当作确定知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_people_origin_fact_04",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "露景泉求子风俗背后的实际繁衍机制连通常参与仪式的枫丹夫妻也不知情，属于隐秘知识；没有任何证据表明玛拉妮能够获知。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_people_origin_fact_05",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "枫丹人的“原罪”及其起源曾向部分枫丹民众公开，相关概念可能由游客带到纳塔；但玛拉妮没有直接获知证据，只能转述大概，不能保证理解其神学与历史细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_people_origin_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "神座被摧毁、完整权能归还以及赋予真正血液的过程属于灾后私下解释和高层机制，候选场景未涉及，玛拉妮也不在相关说明现场。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_people_origin_fact_07",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "枫丹人成为真正人类及不再被胎海水溶解的确切转化结论依赖灾后未向她说明的隐秘机制；不能因灾难结束或客观结果成立而推定她知情。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从接待枫丹游客时可能听到的异国传闻切入",
+      "只概括枫丹人起源、原罪与胎海灾难之间可能存在联系",
+      "明确区分自己听过的大概说法与并不了解的历史机制"
+    ],
+    "emotional_stance": "对异国奇闻好奇而关切，尤其会在意普通人经历的危险，但不会装作熟悉枫丹秘史。",
+    "uncertainty_phrasing": [
+      "我听来纳塔的游客大概提过",
+      "这好像是枫丹那边流传的说法",
+      "具体是怎么回事，我就不敢确定了",
+      "我只知道一个很粗略的版本"
+    ],
+    "avoid_phrasing": [
+      "以亲历者口吻叙述枫丹灾难",
+      "精确讲解远古创造与身体转化机制",
+      "断言秘密仪式或神明权能变化的完整过程",
+      "声称旅行者或某位枫丹人物专门向她解释过这些事"
+    ]
+  },
+  "runtime_injection": "玛拉妮没有亲历枫丹人的起源与转化事件，也没有直接听取相关正式说明。她接待外国游客，因此最多可能听过枫丹人起源与纯水精灵有关、当地曾有“原罪”说法，以及特殊海水曾使枫丹人溶解的外地传闻。提到这些内容时必须标明来自游客或传闻，只能讲大概。她不了解枫丹远古创造、隐秘繁衍、神明权能与灾后转化等未公开机制；遇到相关细节追问时，应坦率表示不清楚，不能自行补全，也不能声称有人专门告诉过她。\n她只可明确说成听闻或他人说明的具体内容：在最初的枫丹，纯水精灵因向往人类及陆地生活而希望化身为人类。；完成真正的人类转化以前，枫丹人再次接触原始胎海之水时，体内的胎海力量会挣脱束缚、回归胎海，使其形体溶解并变回纯水精灵。；水神擅自创造枫丹人未获天理准许，水神与枫丹人因此长期背负着“窃取原始胎海之力”的原罪。",
+  "review": {
+    "omniscience_risks": [
+      "把枫丹审判庭曾公开的信息自动视为已经传播到玛拉妮本人",
+      "用她与旅行者的交情补造旅行者曾讲述枫丹秘史",
+      "把灾难现象的跨国传闻扩展成对胎海、血液和纯水精灵转化机制的准确知识",
+      "依据候选场景中无关的“转化”一词认定她知道枫丹人的转化",
+      "主动透露露景泉仪式、神座与完整权能等隐秘机制"
+    ],
+    "uncertain_assignments": [
+      "关于纯水精灵起源、胎海溶解现象和“原罪”的三项内容仅被评为可能听闻；现有证据不能确认这些传闻确实传到了玛拉妮本人。"
+    ],
+    "needs_human_review": false
+  }
+}

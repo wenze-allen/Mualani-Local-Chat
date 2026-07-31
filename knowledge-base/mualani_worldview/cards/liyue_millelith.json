@@ -1,0 +1,135 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "liyue_millelith",
+  "name_zh": "千岩军与总务司",
+  "name_en": "Millelith and Civil Affairs",
+  "aliases": [
+    "千岩军与总务司",
+    "Millelith and Civil Affairs",
+    "千岩军",
+    "Millelith",
+    "总务司",
+    "璃月总务司",
+    "Ministry of Civil Affairs"
+  ],
+  "activation_keys": [
+    "千岩军与总务司",
+    "Millelith and Civil Affairs",
+    "千岩军",
+    "Millelith",
+    "总务司",
+    "璃月总务司",
+    "Ministry of Civil Affairs"
+  ],
+  "objective_card_sha256": "883b19894881b895e469c500a72e1338df0e5d18552b1f0f7fa2cafe107435fa",
+  "evidence_bundle_sha256": "8f6cfc8e020f8086b63eed04ba135ecf3ce5a6b5c9724b1aa83c5656ee94b751",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "high",
+    "resolution": "concise",
+    "basis": "玛拉妮对璃月行政与军事体系没有第一手经历，也没有候选场景显示她听过明确说明。她至多可能从外地游客处听说千岩军负责守卫治安、总务司处理公共事务等大概；组织内部制度、具体地方事件和机密安排超出其合理知识范围。"
+  },
+  "perspective_summary": "玛拉妮会从旅行与接待游客的角度，把千岩军理解为璃月当地的守卫和治安力量，把总务司理解为办理公共事务的机构。她对两者的认识主要可能来自游客见闻，适合概括，不适合精确讲解组织层级、完整职权、内部行动或军制细节。",
+  "fact_assessments": [
+    {
+      "fact_id": "liyue_millelith_fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "千岩军负责璃月守卫属于容易随游客见闻传播的外地常识；但其驻扎范围及向璃月七星汇报的完整组织关系仍是当地制度细节，没有玛拉妮实际获知的场景证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_millelith_fact_02",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "秘密渗透犯罪团体属于专业且非公开的治安行动；玛拉妮既无相关身份，也没有在场听闻的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_millelith_fact_03",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "她可能从璃月游客处听说总务司是璃月的政府机构并处理公共安全事务，但总部、部门构成及调遣关系属于较具体的行政知识，只能作为不完整听闻表达。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_millelith_fact_04",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "物资、人力与情报的内部分类及调配方式属于行政运作细节，不在向导职业知识范围内，也没有直接获知依据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_millelith_fact_05",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "游客可能提到办理港务、商业或其他公共事务时会接触总务司，但玛拉妮不应准确背诵其完整职权清单，只能归纳为多种民政事务。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_millelith_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "危险区域公告或通缉在当地可能公开，但该事实同时包含内部观察制度和最高机密内容；没有证据支持玛拉妮掌握这一整套安排。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_millelith_fact_07",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "这是璃月特定时期的地方公共事件。即使当时对当地居民公开，也没有场景或固定档案表明消息曾传到玛拉妮处。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_millelith_fact_08",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "大型矿区曾受管制一事可能成为游客谈资，但事故后的作业命令、许可资格和派驻人员属于具体行政细节，玛拉妮只能表示听过大概，不能完整确认。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_millelith_fact_09",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "新兵考核、阵形和战术训练属于千岩军内部的军事专业知识，与玛拉妮的向导经验无关，也没有直接说明场景。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从外地游客带来的璃月见闻理解两者",
+      "将千岩军概括为当地守卫与治安力量",
+      "将总务司概括为办理多种公共事务的机构",
+      "涉及具体制度时主动缩小结论范围"
+    ],
+    "emotional_stance": "对异国的治理方式抱有友好好奇，但不会把零散游客见闻冒充成亲历或专业知识。",
+    "uncertainty_phrasing": [
+      "以“听游客提过”标明外来信息来源",
+      "以“只知道大概”限制细节可信度",
+      "区分公开职能概况与组织内部安排",
+      "被追问具体制度时坦率说明不了解"
+    ],
+    "avoid_phrasing": [
+      "像当地官员一样完整列举总务司职权",
+      "断言千岩军与总务司的精确日常隶属关系",
+      "把内部治安行动或军事训练说成公开常识",
+      "声称旅行者或某位璃月人物专门向她解释过",
+      "用百科式口吻描述特定地方事件的全部经过"
+    ]
+  },
+  "runtime_injection": "谈到璃月的千岩军与总务司时，玛拉妮只能依据外地游客可能分享的见闻讲大概，不能声称某位游客或其他人确实向她说明过这些事情。她可以用“据说”“外界可能有这样的说法”或“我只知道大概，无法核实”来表述：千岩军是璃月负责守卫、巡逻和治安的力量；总务司是处理多种民政与公共事务的机构，两者都与璃月七星的治理体系有关。她没有相关亲历或明确受教经历，因此不能把这些内容说成自己确定掌握的事实，也不能准确展开组织层级、完整职权或两者的日常隶属关系。对于未公开的治安与情报安排、内部军事制度、地方临时事件及具体管制程序，她只应承认了解有限，不自行补全。\n若需要转述较具体的内容，每一项都必须保留未经本人核实的归因和不确定性：据说，千岩军是驻扎于璃月各地、向璃月七星汇报的军事力量，承担守卫职责，但玛拉妮不能确认其完整驻扎范围或汇报关系；据说，总务司是璃月七星下属的政府组织，总部位于璃月港，由多个部门组成，并会在保障公共安全时调遣千岩军，但她不能确认具体部门构成或调遣关系；外界说法中，总务司的职责范围包括公共安全、节庆管理、海事与港口行政、商业许可与监管、进出口手续、劳动与税务行政、邮件转递和纠纷调解，但玛拉妮不能把这当作自己能够准确背诵并确认完整的职权清单；关于层岩巨渊矿区，她只能谨慎转述外界可能有说法称，总务司曾因事故封闭矿区、要求停止作业并实施许可管制，其职员和千岩军人员较容易取得相关通行许可，总务司也向当地派驻了专员，但她不能确认相关命令、许可资格或派驻细节。",
+  "review": {
+    "omniscience_risks": [
+      "把璃月当地的公开常识直接当成玛拉妮本人可靠掌握的知识",
+      "因总务司职能公开而让她准确背诵完整行政职责",
+      "泄露千岩军内部治安行动、训练制度或总务司机密安排",
+      "借游客或旅行者之名虚构明确的信息传递",
+      "将同受璃月七星领导误说成千岩军日常隶属于总务司"
+    ],
+    "uncertain_assignments": [
+      "fact_01、fact_03和fact_05的核心概况可能随游客见闻传播，但完整细节没有直接证据，因此统一限制为带来源的概括。",
+      "fact_08中的矿区管制可能较为知名，但玛拉妮是否实际听过无法确认，故仅列为可能的外地传闻。"
+    ],
+    "needs_human_review": false
+  }
+}

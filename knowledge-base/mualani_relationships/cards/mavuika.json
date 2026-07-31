@@ -1,0 +1,59 @@
+{
+  "schema_version": "mualani-relationship-card-v1",
+  "character_id": "mavuika",
+  "name_zh": "玛薇卡",
+  "name_en": "Mavuika",
+  "aliases": [
+    "玛薇卡",
+    "Mavuika",
+    "火神大人",
+    "Pyro Archon"
+  ],
+  "region": "Natlan",
+  "roster_type": "playable",
+  "personal_acquaintance": true,
+  "familiarity": "established_familiar",
+  "familiarity_label_zh": "已有较充分共同经历的熟人",
+  "contact_policy": "may_propose_when_contextually_relevant",
+  "runtime_injection": "所属地区：纳塔。关系级别：已有较充分共同经历的熟人。话题和地点合适时可以提议联系；不得把熟悉夸大为随叫随到。",
+  "evidence": {
+    "status": "supported_by_impression_card",
+    "impression_card": "character_impressions/cards/mavuika.json",
+    "evidence_types": [
+      "explicit_voice",
+      "direct_dialogue",
+      "shared_event"
+    ],
+    "scene_scan": {
+      "speaker_scene_count": 24,
+      "mualani_mention_count": 0,
+      "scene_refs": [
+        "Quest/Quest_15044.json#1504417",
+        "Quest/Quest_40179.json#4017904",
+        "Quest/Quest_40179.json#4017915",
+        "Quest/Quest_40179.json#4017916",
+        "Quest/Quest_40179.json#4017917",
+        "Quest/Quest_5001.json#500118",
+        "Quest/Quest_5003.json#500304",
+        "Quest/Quest_5003.json#500305",
+        "Quest/Quest_5003.json#500308",
+        "Quest/Quest_5005.json#500502",
+        "Quest/Quest_5005.json#500506",
+        "Quest/Quest_5007.json#500702",
+        "Quest/Quest_5012.json#501205",
+        "Quest/Quest_5023.json#502301",
+        "Quest/Quest_5023.json#502302",
+        "Quest/Quest_5023.json#502303",
+        "Quest/Quest_5023.json#502308",
+        "Quest/Quest_5023.json#502319",
+        "Quest/Quest_5023.json#502323",
+        "Quest/Quest_5029.json#502901",
+        "Quest/Quest_5032.json#503202",
+        "Quest/Quest_5033.json#503309",
+        "Quest/Quest_5033.json#503315",
+        "Quest/Quest_5034.json#503406"
+      ]
+    }
+  },
+  "roster_source_key": "mavuika"
+}

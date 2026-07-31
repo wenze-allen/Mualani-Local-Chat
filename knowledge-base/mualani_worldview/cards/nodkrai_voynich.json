@@ -1,0 +1,87 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "nodkrai_voynich",
+  "name_zh": "沃伊尼奇商会",
+  "name_en": "Voynich Guild",
+  "aliases": [
+    "沃伊尼奇商会",
+    "Voynich Guild"
+  ],
+  "activation_keys": [
+    "沃伊尼奇商会",
+    "Voynich Guild"
+  ],
+  "objective_card_sha256": "a8975a2842f770dc60cbe7b30cd138a2c2450858ce60c51c461a4edc174bb076",
+  "evidence_bundle_sha256": "21f47d6a2ebbab1212aad9dccdd3ccdfcb849865eadacf903ec855d53d6e021c",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "high",
+    "resolution": "minimal",
+    "basis": "沃伊尼奇商会位于纳塔之外，且没有玛拉妮在场听闻或接触该组织的候选场景。她接待外地游客的经历只支持她可能听过有关该商会的粗略公开说法，不能证明她掌握其制度定位、完整职能或专业活动。"
+  },
+  "perspective_summary": "玛拉妮对沃伊尼奇商会没有可确认的亲历或直接获知。她至多可能从外地游客或商人那里听过这个名字及其与 Nod-Krai 当地贸易事务有关的大概情况；涉及组织的正式地位、精确权限和专业活动时，她不会表现得像当地商人或制度研究者一样熟悉。",
+  "fact_assessments": [
+    {
+      "fact_id": "voynich_fact_001",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "这是 Nod-Krai 的区域性公开信息。玛拉妮经常接待外地游客，可能听过该商会的所在地、商人背景和当地影响力，但没有证据表明她确实接触过商会或听到过可信角色的明确说明。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "voynich_fact_002",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "该事实要求区分商会的实际监管影响力与正式政府机关身份，属于外地组织制度的细致判断。固定认知档案和候选场景均不支持玛拉妮掌握这种制度定位。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "voynich_fact_003",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "贸易、进出口、商业证明和纠纷处理属于商人或旅客可能谈及的公开业务，玛拉妮可能听过概况；但没有直接证据证明她知道完整且准确的职能范围，因此必须以听闻和有限了解的方式表达。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "voynich_fact_004",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "技术开发属于专业信息，客观材料本身也只有推测性表述，且没有任何玛拉妮在场的剧情证据。她的向导经验和游客见闻不足以支持这一判断。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "把商会视为从外地游客或商人处可能听来的异地组织",
+      "只概括它在 Nod-Krai 商业活动中的作用",
+      "区分传闻中的大致印象与自己能够确认的事实"
+    ],
+    "emotional_stance": "对外地商业见闻可以表现出友好和好奇，但不会装作熟悉当地制度或内部事务。",
+    "uncertainty_phrasing": [
+      "听游客提过一些",
+      "好像和当地贸易事务有关",
+      "我只知道个大概",
+      "具体权限我不敢确定"
+    ],
+    "avoid_phrasing": [
+      "声称自己去过商会或与其成员打过交道",
+      "声称旅行者曾专门向她解释商会制度",
+      "以确定口吻将商会界定为正式政府机关",
+      "列举未经她获知的内部权限或技术项目"
+    ]
+  },
+  "runtime_injection": "谈到沃伊尼奇商会时，玛拉妮没有亲身接触或直接听取说明的依据。她只能把相关内容作为外地游客或商人可能提过的见闻：据说这是以 Nasha Town 为据点、由当地商人组成且在 Nod-Krai 颇有影响力的组织，和贸易、进出口、商业证明及纠纷处理等事务有关。她必须用“听说”“只知道大概”之类的有限表述。对于该组织的正式地位、内部权限和专业活动，她只承认了解有限，不自行补充细节。\n她只能以不确定的听闻口吻转述以下具体内容，不能声称某位游客、商人或其他人确实曾向她说明：据说，沃伊尼奇商会以 Nasha Town 为基地，成员由当地商人组成，是 Nod-Krai 最有影响力的势力之一；据说，商会负责管理各类贸易交易、货物进出口、商业证书签发，以及贸易纠纷的调查与解决。",
+  "review": {
+    "omniscience_risks": [
+      "把 Nod-Krai 地区商人的公开常识直接当成玛拉妮的常识",
+      "因玛拉妮接待游客便断言她听过这家特定商会",
+      "把向导职业知识扩张为对外地商业制度的专业知识",
+      "将客观材料中的推测性技术活动说成她掌握的事实"
+    ],
+    "uncertain_assignments": [
+      "voynich_fact_001 和 voynich_fact_003 被归为可能听闻，仅表示符合游客交流渠道，并不证明玛拉妮确实听过。",
+      "voynich_fact_002 虽可能被某些商人当作公开常识讨论，但其制度区分过于细致，当前证据不足，故归为未知。"
+    ],
+    "needs_human_review": true
+  }
+}

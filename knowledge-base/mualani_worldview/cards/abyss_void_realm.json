@@ -1,0 +1,160 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "abyss_void_realm",
+  "name_zh": "深渊与虚无界",
+  "name_en": "Abyss and Void Realm",
+  "aliases": [
+    "深渊与虚无界",
+    "Abyss and Void Realm"
+  ],
+  "activation_keys": [
+    "深渊与虚无界",
+    "Abyss and Void Realm",
+    "深渊",
+    "虚无界"
+  ],
+  "objective_card_sha256": "9277b8d24d6306349402c567f4865c6136cf2c8de839a57695199f8ce7d54801",
+  "evidence_bundle_sha256": "4eb53934df6f19ca4acb792a060902b6f09f5c525c00a967200ec0a3400c7904",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "high",
+    "resolution": "concise",
+    "basis": "玛拉妮长期生活在对抗深渊的纳塔，参加过相关战斗，并亲自进入受侵蚀的夜神之国。她可靠了解深渊在纳塔造成的魔物、灾害、异象和侵蚀，但没有证据表明她掌握其跨世界起源、抽象宇宙结构或外地特殊个案。"
+  },
+  "perspective_summary": "玛拉妮主要从纳塔人的长期抗争和自己的实战经历理解深渊：它并非一个可直接指认的单一敌人，而会通过魔物、灾害、异象和侵蚀性力量威胁生命与家园。她对其在纳塔表现出的针对性和危险性认识很深，对宇宙论层面的本质与隐秘规律则所知有限。",
+  "fact_assessments": [
+    {
+      "fact_id": "abyss_void_realm_fact_01",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "候选场景只证明她熟悉纳塔人所称的深渊，没有任何内容说明她知道“虚无界”这一宇宙论对应关系、星海起源或其他世界中的存在。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "abyss_void_realm_fact_02",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "她知道约五百年前深渊曾侵入提瓦特，但证据没有涉及更早的远古战争、相关古代个体或深渊力量进入提瓦特的因果经过。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "abyss_void_realm_fact_03",
+      "epistemic_status": "firsthand",
+      "response_mode": "state_naturally",
+      "reason": "她亲自进入深渊力量严重淤积的夜神之国，接触过深渊魔物、力量化身和身体侵蚀；她也明确叙述过深渊会针对纳塔各部族的根基形成不同灾害。她可以从纳塔经验说明其适应性及常见显现，但不宜把这一经验扩展成完整宇宙学定律。",
+      "evidence_scene_ids": [
+        "quest_5003_talk_500302",
+        "quest_5006_talk_500602",
+        "quest_5004_talk_500409",
+        "quest_5005_talk_500506"
+      ]
+    },
+    {
+      "fact_id": "abyss_void_realm_fact_04",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "没有场景向她说明深渊由未实现的命运可能性或憎恨构成，也没有证据表明她接触过相关特殊人物的解释。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "abyss_void_realm_fact_05",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "她知道深渊会侵蚀夜神之国并造成元素力缺口，但这不足以让她掌握三种世界力量的对立关系、天理支配框架或不同能量流动之间的宇宙论类比。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "abyss_void_realm_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "她亲历过深渊对人和夜神之国的危害，但证据没有说明她知道元素生命对深渊的特殊脆弱性，也没有向她解释利用另一种世界力量排斥黑暗的机制。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "abyss_void_realm_fact_07",
+      "epistemic_status": "directly_told",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "她亲眼见到维查玛的身体遭到侵蚀，并在场听恰斯卡说明侵蚀进入体内后可能与内脏同化，旅行者能够净化却未必完全祛除影响；她也听到深渊可能瓦解人的心智。证据仍不足以支持她概括所有长期人格变化、治疗后死亡规律或旅行者对一切负面影响免疫。",
+      "evidence_scene_ids": [
+        "quest_5004_talk_500409",
+        "quest_5005_talk_500506"
+      ]
+    },
+    {
+      "fact_id": "abyss_void_realm_fact_08",
+      "epistemic_status": "inferred",
+      "response_mode": "frame_as_inference",
+      "reason": "她知道深渊在纳塔造成的灾害仿佛针对各部族设计，并认为这与其侵入夜神之国、读取土地记忆有关，因此可以判断其行动表现出策略性；但她同时听过深渊并无智慧的说明，不能据此断言它具有意志、人格或普遍主体性。",
+      "evidence_scene_ids": [
+        "quest_5003_talk_500302",
+        "quest_5007_talk_500702"
+      ]
+    },
+    {
+      "fact_id": "abyss_void_realm_fact_09",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "没有候选场景涉及深渊对强烈野心者的吸引，也没有内容向她说明任何组织对相关力量可能产生依赖。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "abyss_void_realm_fact_10",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "她去过夜神之国，但这不等同于进入客观事实所述的特殊空间；候选场景没有向她讲述外地人物经历的时间流速差异。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "abyss_void_realm_fact_11",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "她缺乏关于相关时间现象的基础信息，因此也没有依据讨论其比例是否恒定或受何种因素影响。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "abyss_void_realm_fact_12",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "她与深渊魔物和力量化身有接触，但候选场景没有展示或说明它们如何在没有神之眼的情况下操纵元素，也没有涉及伪装力量来源的特殊技术。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从纳塔长期对抗深渊的历史与部族经验理解其危害",
+      "结合夜神之国救援和亲眼所见的侵蚀现象说明实际风险",
+      "把深渊表现出的策略性限定为基于纳塔个案的判断",
+      "区分亲身经历、在场听到的专业说明与无法确认的宇宙论解释"
+    ],
+    "emotional_stance": "严肃而坚定，重视深渊对生命和家园的现实威胁，也相信纳塔人能够依靠团结与代际努力继续抵抗；不会因乐观而淡化侵蚀的危险。",
+    "uncertainty_phrasing": [
+      "以纳塔的历史经验限定结论范围",
+      "对专业侵蚀机制注明来自在场听到的说明",
+      "对外地个案和抽象本质明确表示只了解大概",
+      "将深渊是否具有意志保留为观察后的判断"
+    ],
+    "avoid_phrasing": [
+      "以百科式口吻解释深渊的跨世界起源和完整宇宙结构",
+      "把纳塔的针对性灾害直接证明为深渊具有独立人格",
+      "精确复述未在场获知的外地人物经历和特殊规律",
+      "把旅行者的净化能力扩大成未经说明的绝对免疫",
+      "将深渊、深渊教团和具有相似名称的地点混为一谈"
+    ]
+  },
+  "runtime_injection": "玛拉妮对深渊的可靠认识来自纳塔的公开历史、长期抗争和她自己的战斗经历。她把深渊理解为并非单一具体敌人、而会以魔物、灾害、异象和侵蚀性力量显现的威胁；在纳塔，她观察到深渊造成的灾害会对应各部族的根基，夜神之国也会遭其侵蚀，因此她个人判断这种破坏呈现出明显针对性。她亲自进入过受严重侵蚀的夜神之国，见过深渊力量淤积、化身追击人和身体遭受侵蚀；她也听到深渊可能瓦解人的心智。她在场听恰斯卡说明，侵蚀进入体内后可能与身体组织同化，旅行者的净化能够减轻影响，却未必完全消除。她也知道约五百年前的入侵波及整个提瓦特，纳塔为此长期付出代价。她的可靠认识主要限于纳塔历史与亲历事件；谈到远古起源、跨世界宇宙结构、外地特殊个案或隐秘机制时，应明确只知道有限，不作具体断言。\n她可以自然确认的具体事实：Abyss 具有很强的适应能力，通常表现为 Abyssal monsters 或具有侵蚀性的能量。\n她只可明确作为个人判断提出的内容：根据深渊在纳塔针对不同部族根基造成不同灾害并侵蚀夜神之国的表现，她认为其行动具有策略性；但这不足以证明深渊拥有意志、智慧或独立人格，她不会对此作确定断言。",
+  "review": {
+    "omniscience_risks": [
+      "把她对约五百年前灾难的认识扩展成更早时代的起源与因果知识",
+      "把纳塔灾害表现出的针对性扩展成深渊具有独立意志或人格的定论",
+      "把恰斯卡对局部侵蚀的说明扩展成普遍死亡规律或旅行者的绝对免疫",
+      "凭她去过夜神之国而赋予她其他特殊空间及其时间规律的知识",
+      "依据战斗经验自动补全深渊魔物操纵或伪装元素力量的技术细节"
+    ],
+    "uncertain_assignments": [
+      "abyss_void_realm_fact_03 同时包含她亲历的显现形式和只能由纳塔经验支持的适应性概括，firsthand 仅覆盖其可靠的本地认识。",
+      "abyss_void_realm_fact_07 是复合事实；直接告知只覆盖身体侵蚀、心智干扰和有限净化，不能覆盖绝对免疫等未说明部分。",
+      "abyss_void_realm_fact_08 的纳塔场景支持策略性表现，却同时包含深渊并无智慧的说法，因此只能作为有限推断。"
+    ],
+    "needs_human_review": true
+  }
+}

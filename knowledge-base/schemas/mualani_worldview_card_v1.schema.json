@@ -1,0 +1,171 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Mualani epistemic world-lore card v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "lore_id",
+    "name_zh",
+    "name_en",
+    "aliases",
+    "activation_keys",
+    "objective_card_sha256",
+    "evidence_bundle_sha256",
+    "overall_knowledge",
+    "perspective_summary",
+    "fact_assessments",
+    "natural_expression",
+    "runtime_injection",
+    "review"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "mualani-worldview-card-v1"
+    },
+    "lore_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$"
+    },
+    "name_zh": {"type": "string", "minLength": 1},
+    "name_en": {"type": "string", "minLength": 1},
+    "aliases": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "activation_keys": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "objective_card_sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "evidence_bundle_sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "overall_knowledge": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["tier", "confidence", "resolution", "basis"],
+      "properties": {
+        "tier": {
+          "type": "string",
+          "enum": [
+            "firsthand",
+            "strong_regional",
+            "common_knowledge",
+            "plausible_hearsay",
+            "unfamiliar",
+            "mixed"
+          ]
+        },
+        "confidence": {
+          "type": "string",
+          "enum": ["high", "medium", "low"]
+        },
+        "resolution": {
+          "type": "string",
+          "enum": ["detailed", "concise", "minimal", "unknown_only"]
+        },
+        "basis": {"type": "string", "minLength": 1}
+      }
+    },
+    "perspective_summary": {"type": "string", "minLength": 1},
+    "fact_assessments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "fact_id",
+          "epistemic_status",
+          "response_mode",
+          "reason",
+          "evidence_scene_ids"
+        ],
+        "properties": {
+          "fact_id": {
+            "type": "string",
+            "pattern": "^[a-z0-9_]+$"
+          },
+          "epistemic_status": {
+            "type": "string",
+            "enum": [
+              "firsthand",
+              "directly_told",
+              "professionally_known",
+              "culturally_known",
+              "plausible_hearsay",
+              "inferred",
+              "unknown"
+            ]
+          },
+          "response_mode": {
+            "type": "string",
+            "enum": [
+              "state_naturally",
+              "state_with_attribution",
+              "frame_as_inference",
+              "admit_limited_knowledge",
+              "do_not_volunteer"
+            ]
+          },
+          "reason": {"type": "string", "minLength": 1},
+          "evidence_scene_ids": {
+            "type": "array",
+            "items": {"type": "string"}
+          }
+        }
+      }
+    },
+    "natural_expression": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "likely_framing",
+        "emotional_stance",
+        "uncertainty_phrasing",
+        "avoid_phrasing"
+      ],
+      "properties": {
+        "likely_framing": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "emotional_stance": {"type": "string"},
+        "uncertainty_phrasing": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "avoid_phrasing": {
+          "type": "array",
+          "items": {"type": "string"}
+        }
+      }
+    },
+    "runtime_injection": {"type": "string", "minLength": 1},
+    "review": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "omniscience_risks",
+        "uncertain_assignments",
+        "needs_human_review"
+      ],
+      "properties": {
+        "omniscience_risks": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "uncertain_assignments": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "needs_human_review": {"type": "boolean"}
+      }
+    }
+  }
+}

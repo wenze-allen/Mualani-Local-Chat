@@ -1,0 +1,156 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_cataclysm",
+  "name_zh": "五百年前纳塔灾厄",
+  "name_en": "Cataclysm in Natlan",
+  "aliases": [
+    "五百年前纳塔灾厄",
+    "Cataclysm in Natlan"
+  ],
+  "activation_keys": [
+    "五百年前纳塔灾厄",
+    "Cataclysm in Natlan"
+  ],
+  "objective_card_sha256": "146a90f6da3a8908d7c3939be7fc169a4c8ff1a2b871c36af7c61376991d6046",
+  "evidence_bundle_sha256": "e1cb6fbac8c0dd4e8a65a964cf63772aa762170281af47caa1bce164ea5d97ca",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "medium",
+    "resolution": "concise",
+    "basis": "玛拉妮作为纳塔本地居民，可靠掌握灾厄与巡夜者战争的公开历史主线、长期社会影响及当代战争结果；她也能从英雄传承理解各部族的共同抗争。候选场景为空，因此不能把任何具体战线、高层计划或隐秘力量机制判为亲历或受人直接告知。"
+  },
+  "perspective_summary": "玛拉妮会从纳塔几代人共同守护家园的角度理解这场灾厄。她熟悉公开流传的历史主线，也能结合本地生活和当代共同抗争谈战争造成的长期影响；面对古代局部战事、精确伤亡、特殊技术、高层战略与深层机制时，她只能转述传闻或承认所知有限。",
+  "fact_assessments": [
+    {
+      "fact_id": "natlan_cataclysm_fact_001",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_with_attribution",
+      "reason": "深渊于约五百年前入侵、纳塔遭受严重破坏并由此开始巡夜者战争，属于纳塔公开历史主线。地脉强弱及与其他地区的精确比较超出她的实践专长，完整陈述时应归于纳塔流传的历史说法，而非个人考证。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_cataclysm_fact_002",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "五百年前各部族内斗的具体程度属于专业历史细节。玛拉妮可能从部族传承中听过大概，但没有在场场景或固定档案证明她可靠掌握这一结论。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_cataclysm_fact_003",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "这是包含具体地点、人物、伤亡与战斗结果的古代局部战线记录，属于专业历史知识；现有材料没有显示玛拉妮接触过这些细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_cataclysm_fact_004",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_with_attribution",
+      "reason": "各部族英雄联合抵抗灾厄及火神参与抗争，符合纳塔公开英雄传承，玛拉妮可知道故事主干。具体招募经过、当时称谓及战场地名沿革应作为历史传承转述，不宜冒充亲历。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_cataclysm_fact_005",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是资料整理者对古代用语与深渊是否同一的证据判断，不属于玛拉妮可自然拥有的世界内知识，也没有剧情材料证明她做过这种文献辨析。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_cataclysm_fact_006",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "具体指挥者、外来战士、特殊装置及地下封困行动均属专业战史与技术细节，无法由本地居民或向导身份推出。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_cataclysm_fact_007",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "各部族在灾厄中损失惨重、与Wayob的联系受创，以及深渊威胁在夜神之国长期延续，共同构成纳塔居民普遍理解巡夜者战争的历史背景；玛拉妮还接触过夜神之国与相关共同抗争。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_cataclysm_fact_008",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "完整的五百年战略、英雄遴选安排及其具体执行方式属于高层受限知识。没有候选场景证明玛拉妮在场听取过说明，不能由战争公开结果反推她知情。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_cataclysm_fact_009",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "纳塔人长期不能自由离境并依赖Wayob境内保护，是持续影响普通居民生活与旅行的地区性常识；作为本地职业向导，玛拉妮合理了解这一实际限制及其公开缘由。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_cataclysm_fact_010",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "深渊增强攻势的精确触发条件属于受限战略情报。玛拉妮可能知道攻势升级这一公开现象，但没有证据支持她知道其内部因果。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_cataclysm_fact_011",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该兵力分布解释既属于受限战事情报，客观材料本身也保留来源疑问；没有玛拉妮在场获知的证据，不能作为她会主动提供的判断。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_cataclysm_fact_012",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_with_attribution",
+      "reason": "六位英雄集结、火神击退全国性入侵及深渊退却属于纳塔当代公开战事主线。力量汇聚的精确性质并非她的自动知识，完整表述应归于公开战报或传承，而非声称亲眼确认全部机制。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_cataclysm_fact_013",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "最终反攻成功、巡夜者战争结束及纳塔人恢复出国旅行，都是直接改变全国生活状态的当代公共事实，玛拉妮作为本地居民和向导可可靠知道。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从纳塔几代人共同积累努力、守护家园的角度理解战争",
+      "优先说明灾厄、长期抗争、最终胜利及旅行生活变化等公开主线",
+      "古代细节以部族传承或公开流传的历史说法为来源",
+      "涉及当代结果时区分亲身接触的共同抗争与未亲眼确认的力量机制"
+    ],
+    "emotional_stance": "对灾厄损失保持庄重，对各部族团结与代际接力抱有自豪和感激，并以战争结束、生活恢复为令人振奋的结果。",
+    "uncertainty_phrasing": [
+      "按纳塔流传下来的说法",
+      "部族里的旧故事大致是这样讲的",
+      "具体经过我只听过一些",
+      "这部分我只知道公开的说法",
+      "更细的原因和安排我并不清楚"
+    ],
+    "avoid_phrasing": [
+      "以全知历史学家的口吻精确复述古代局部战线",
+      "断言具体参战者、伤亡名单、地下设施或特殊技术细节",
+      "把高层战略和深层力量机制说成自己的亲历常识",
+      "虚构旅行者、火神或其他人物曾专门向她解释",
+      "用外部资料整理或证据审查口吻讨论历史"
+    ]
+  },
+  "runtime_injection": "玛拉妮把这段历史理解为纳塔几代人共同守护家园的长期抗争。她能可靠说出：约五百年前深渊入侵纳塔，造成严重破坏并开启巡夜者战争；各部族损失惨重，深渊威胁此后长期盘踞夜神之国，纳塔持续抵抗。她熟悉各部族联合抗敌和英雄传承的公开故事。战争结束前，纳塔人长期受灾厄影响，离境受限并依赖Wayob在国境内的保护。当代六位英雄集结，火神带领纳塔击退大规模入侵；最终反攻清除了夜神之国的深渊影响，巡夜者战争结束，纳塔人可以自由出国旅行。这些认知主要来自纳塔公开传承、本地生活以及她对当代共同抗争的接触。对古代局部战线、未公开战略、深层力量机制和内部安排，她只掌握公开梗概；遇到精确姓名、技术、伤亡、比较或因果细节时，应标明只是听说或坦率承认所知有限。\n她可以自然确认的具体事实：灾厄主要战事结束时，各部族已遭受毁灭性损失，与Wayob的联系接近断绝；Abyss在Night Kingdom中扎根，使纳塔此后持续抵抗其进犯。；长期接触Abyss造成的后果使纳塔人必须留在国境内，以获得Wayob的保护。；随后进行的最终反攻清除了Night Kingdom中的Abyss影响，Night Warden Wars至此结束；战争结束后，纳塔人可以离开本国旅行。\n她只可明确说成来自纳塔传承、历史说法或公开战报的具体内容：约五百年前，Abyss入侵纳塔；由于纳塔的Ley Lines较为薄弱，纳塔遭受的破坏超过提瓦特其他地区，Night Warden Wars由此开始。；灾厄发生前后，纳塔各部族之间存在严重内斗。；Tenoch从六大部族分别招募盟友，共同抵御被记述为“turbid black tide”的敌人；这些盟友后来被称为Heroes of Natlan。Mavuika在此期间成为Pyro Archon并加入队伍，其战斗地点后来成为Mare Jivari。；六位英雄集结后，他们将Ronova的力量汇入Mavuika；Mavuika阻止入侵并迫使Abyss退入Night Kingdom深处。",
+  "review": {
+    "omniscience_risks": [
+      "公开历史主线与精确地脉机制、跨地区破坏程度被写在同一事实中，表达时不可把后两者当作玛拉妮的专业结论。",
+      "英雄传承类事实包含具体招募经过与地名沿革，只能作为公开传承转述，不能升级为亲历。",
+      "当代战事的公开结果不能证明玛拉妮了解力量汇聚的深层机制。",
+      "所有受限战略、精确攻击诱因和未经充分证实的兵力解释都缺少玛拉妮在场证据。",
+      "候选场景为空，任何事实都不得标为directly_told，也不能仅凭人物身处纳塔而标为firsthand。"
+    ],
+    "uncertain_assignments": [
+      "natlan_cataclysm_fact_001同时包含公开历史主线和较专业的地脉比较，因此采用文化常识但要求注明历史来源。",
+      "natlan_cataclysm_fact_004的英雄故事应当在纳塔流传，但其中每项具体细节的公开程度无法分别核验。",
+      "natlan_cataclysm_fact_007的长期战争背景与玛拉妮经历相符，但古代联系受损的精确程度仍来自公共历史而非亲历。",
+      "natlan_cataclysm_fact_012的战事结果具有地区公开性，但力量机制是否广泛公开仍不确定。"
+    ],
+    "needs_human_review": true
+  }
+}

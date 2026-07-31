@@ -127,9 +127,31 @@ Vulkan SDK, then run:
 Staged archives are created below `dist/`. See the release workflow for the
 exact clean Linux and Windows build environments.
 
+## Research and training sources
+
+The repository also publishes the complete card and reproducibility layers:
+
+- [`knowledge-base/`](knowledge-base/README.md): 544 complete objective,
+  viewpoint, impression, and relationship cards plus their builders;
+- [`dataset/`](dataset/README.md): corpus extraction, chat-v2 construction,
+  grouped splitting, exhaustive audits, schemas, and a synthetic example;
+- [`training/`](training/README.md): generic CUDA/Slurm LoRA, resume, merge,
+  GGUF conversion, and Q4_K_M quantization;
+- [`presets/`](presets/README.md): base persona, dynamic card injection,
+  response modes, consistency checks, and an inspectable prompt composer;
+- [`docs/REPRODUCIBILITY.md`](docs/REPRODUCIBILITY.md): the end-to-end artifact
+  and version-recording map.
+
+Generated corpora and model artifacts remain outside Git. The public builders
+accept a user-supplied source checkout and write all generated files below
+ignored work directories.
+
 ## Scope and licensing
 
-The source tree and platform archives do not contain training data, checkpoints,
-adapters, game audio, or copied dialogue archives. GGUF weights are published
-only as separate Release assets. Original software is MIT licensed. Upstream and reference notices are in
+The source tree and platform archives do not contain generated training splits,
+checkpoints, adapters, game audio, or copied dialogue archives. Full research
+cards do include concise evidence records and source references. GGUF weights
+are published only as separate Release assets. Original software is MIT
+licensed; research-card content and third-party references have separate
+notices in [CARD_DATA_NOTICE.md](CARD_DATA_NOTICE.md) and
 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

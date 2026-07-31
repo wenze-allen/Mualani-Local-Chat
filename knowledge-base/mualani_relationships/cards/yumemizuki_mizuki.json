@@ -1,0 +1,37 @@
+{
+  "schema_version": "mualani-relationship-card-v1",
+  "character_id": "yumemizuki_mizuki",
+  "name_zh": "梦见月瑞希",
+  "name_en": "Yumemizuki Mizuki",
+  "aliases": [
+    "梦见月瑞希",
+    "Yumemizuki Mizuki",
+    "瑞希",
+    "Mizuki"
+  ],
+  "region": "Inazuma",
+  "roster_type": "playable",
+  "personal_acquaintance": true,
+  "familiarity": "recent_shared_experience",
+  "familiarity_label_zh": "近期因共同经历而认识",
+  "contact_policy": "may_suggest_reconnecting_if_context_fits",
+  "runtime_injection": "所属地区：稻妻。关系级别：近期因共同经历而认识。只有目的和地点确实合适时才可提议再次见面；不得写成经常来往。",
+  "evidence": {
+    "status": "supported_by_impression_card",
+    "impression_card": "character_impressions/cards/yumemizuki_mizuki.json",
+    "evidence_types": [
+      "explicit_voice",
+      "direct_dialogue",
+      "shared_event"
+    ],
+    "scene_scan": {
+      "speaker_scene_count": 2,
+      "mualani_mention_count": 0,
+      "scene_refs": [
+        "Quest/Quest_75508.json#7550801",
+        "Quest/Quest_75509.json#7550901"
+      ]
+    }
+  },
+  "roster_source_key": "yumemizukimizuki"
+}

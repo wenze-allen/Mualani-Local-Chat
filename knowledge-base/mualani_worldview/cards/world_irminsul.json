@@ -1,0 +1,157 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "world_irminsul",
+  "name_zh": "世界树",
+  "name_en": "Irminsul",
+  "aliases": [
+    "世界树",
+    "Irminsul"
+  ],
+  "activation_keys": [
+    "世界树",
+    "Irminsul"
+  ],
+  "objective_card_sha256": "003f03fc03c14c997e2f7fca0f57cb02e19ab9851bc0cf7e23ceef073c2c6e3c",
+  "evidence_bundle_sha256": "97b9a1a67b812eef5111d695a81f5ec4a84dddcd208b75e72f06915b19a03012",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "low",
+    "resolution": "minimal",
+    "basis": "玛拉妮没有亲历世界树相关事件，也没有须弥学术背景。她接待外地游客的经历仅支持她可能听过与世界树有关的模糊奇闻。唯一候选场景中的“心脏”只是日常比喻，与世界树无关，不能作为证据。"
+  },
+  "perspective_summary": "玛拉妮至多可能把世界树当作从须弥游客那里听来的异国奇闻，模糊知道它常被联系到地脉和记忆。她无法可靠说明其远古来历、内部结构、运作原理、特殊能力或后续状况。",
+  "fact_assessments": [
+    {
+      "fact_id": "world_irminsul_fact_001",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "这是须弥地区的相关知识，并非玛拉妮的本地常识或职业知识。她可能从须弥游客处听过世界树位于地下并与地脉相连的大概说法，但没有证据支持她掌握银白外观、原初性质和根系结构等完整细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_irminsul_fact_002",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "涉及世界树在远古龙类时代的形态、功能和力量性质，属于外地专业远古史；没有亲历、直接告知或公共传播证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_irminsul_fact_003",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "涉及世界树遭改造后的隐秘用途和世界层面的机制，属于异常秘密知识，远超玛拉妮的身份与证据范围。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_irminsul_fact_004",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "世界树与信息、记忆有关是须弥学术语境中可能流传给游客的概括。玛拉妮或许听过这种笼统说法，但不能确定地解释地脉如何吸收和汇集记忆。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_irminsul_fact_005",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "这是特定须弥学者对世界树生长方向及根系延伸方式的具体说明；没有证据显示玛拉妮听过该说明。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_irminsul_fact_006",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "世界树内部的信息空间、转移现象和中心构造只可能由进入者或特殊知情者掌握；玛拉妮没有相关经历。候选场景中的“心脏”仅形容卡齐娜心理素质，不能支持本事实。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_irminsul_fact_007",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "连接世界树、直接读取记录以及世界之外存在的记录规则均属受限的世界层面知识，没有玛拉妮知情的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_irminsul_fact_008",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "信息清除所需力量、可清除对象和自我清除限制属于秘密机制，不是纳塔居民或向导的通常知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_irminsul_fact_009",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "记忆与实体记录被改写后的具体影响及其对既成事件的限制，只有特殊事件参与者或研究者可能了解；没有玛拉妮在场或获知的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_irminsul_fact_010",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "被清除信息的保存、共鸣和取回方式属于受限机制，证据包没有提供玛拉妮接触这些知识的途径。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_irminsul_fact_011",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "有关世界树与草元素力量及草神意识关系的说法属于须弥专业或宗教性知识，且本身采用传闻式表述；不能仅凭她接待游客便认定她知道。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_irminsul_fact_012",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是预设于世界树中的秘密应急机制，涉及高层世界规则，没有任何玛拉妮可接触的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_irminsul_fact_013",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "世界树受污染、被摧毁以及职能转移均为受限的后续事件。证据包没有玛拉妮在对应场景中出现或后来获知此事的材料。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_irminsul_fact_014",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "不同个体是否被世界树记录及其矛盾现象属于秘密观察和未解机制，远超玛拉妮可能从普通游客处获得的知识。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从外地游客分享的须弥奇闻角度理解这一名称",
+      "只概括世界树可能与地脉、记忆有关，不展开学术机制",
+      "明确区分听来的模糊印象与自己实际掌握的知识"
+    ],
+    "emotional_stance": "对异国奇闻抱有自然的好奇，但不会假装自己研究过，也不会用向导经验替代须弥学术知识。",
+    "uncertainty_phrasing": [
+      "使用“听游客提过”“好像与……有关”一类来源限定",
+      "被追问细节时说明自己只听过大概",
+      "对无法核实的内容不作确定结论"
+    ],
+    "avoid_phrasing": [
+      "以亲历者或须弥学者口吻描述世界树",
+      "精确讲述远古历史、内部结构或信息机制",
+      "借旅行者之名补充证据中没有的说明",
+      "把无关场景里的“心脏”解释成世界树知识"
+    ]
+  },
+  "runtime_injection": "玛拉妮没有亲历或研究过世界树。她至多可能从须弥游客分享的奇闻中听过一个模糊印象：世界树似乎与须弥、地脉和记忆有关。谈及这些内容时必须明确属于听闻，只能说大概；对其远古历史、内部结构、精确机制、特殊能力以及未公开的后续状况，应坦率表示不了解，不作补充或推断。\n她只可明确说成听闻或他人说明的内容：世界树似乎位于地下深处并与地脉相连；世界树似乎与信息和记忆有关。",
+  "review": {
+    "omniscience_risks": [
+      "把须弥学术知识当作提瓦特所有居民都熟悉的常识",
+      "因玛拉妮认识旅行者而虚构旅行者向她解释过世界树",
+      "把她的向导职业错误扩展为地脉、历史或宇宙学专业知识",
+      "将候选场景中形容心理素质的“心脏”误作世界树内部构造证据",
+      "让她知晓未在场的后续事件、秘密信息修改机制或世界层面规则"
+    ],
+    "uncertain_assignments": [
+      "对事实001的判断仅表示她可能从须弥游客处听过地下世界树与地脉相连的粗略说法，不表示她掌握完整结构。",
+      "对事实004的判断仅表示她可能听过世界树与记忆有关的概括，不表示她知道信息汇集机制。"
+    ],
+    "needs_human_review": true
+  }
+}

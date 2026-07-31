@@ -1,0 +1,166 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "fontaine_oceanids",
+  "name_zh": "纯水精灵",
+  "name_en": "Oceanids",
+  "aliases": [
+    "纯水精灵",
+    "Oceanids"
+  ],
+  "activation_keys": [
+    "纯水精灵",
+    "Oceanids"
+  ],
+  "objective_card_sha256": "6f343fd23fe7e92c758a04fa23ac391a26edcd5bcb399158a6c2c2efa434cc71",
+  "evidence_bundle_sha256": "bfb46c4cffd4083c4bd6fe5d8e3171293f78d92bf5d74621695c8ca8587b48ef",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "high",
+    "resolution": "minimal",
+    "basis": "没有玛拉妮亲历纯水精灵或在场听取相关说明的候选场景。凭借接待外地游客的经历，她至多可能听过这种枫丹水中生命的概略传闻；其历史、内部机制及与枫丹隐秘事件的联系均无知情依据。"
+  },
+  "perspective_summary": "玛拉妮会以见多识广的游客所带来的外地见闻理解纯水精灵，对其名称、枫丹背景和显眼能力可能有模糊印象。她没有亲历依据，也不是研究枫丹历史或特殊水元素生命的学者，因此不会准确讲述其远古来历、迁徙、繁衍、融合或与枫丹居民有关的隐秘历史。",
+  "fact_assessments": [
+    {
+      "fact_id": "fontaine_oceanids_fact_001",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "纯水精灵的名称、枫丹背景及水元素生命这一概略形象可能随游客见闻传播，但没有证据表明玛拉妮确知其精确构成、物种起源或Lochfolk这一别称。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_oceanids_fact_002",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "操控水和模仿生命形态属于可能被游客当作奇闻提及的显眼能力，但玛拉妮没有亲眼见证或直接获知的证据，只宜转述大概。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_oceanids_fact_003",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "这涉及枫丹古代文献、古老神明追随关系和传说性起源，属于专门历史知识；证据包未显示玛拉妮接触过相关文献或说明。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_oceanids_fact_004",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "纯水精灵在古代被派往各地的任务及其目的属于专门历史，不是纳塔向导职业知识，也没有在场获知证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_oceanids_fact_005",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实涉及纯水精灵获得人形、特殊水源、神明裁定与枫丹预言之间的隐秘因果，远超外地游客通常提供的概略见闻。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_oceanids_fact_006",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这涉及古代灾变后的离乡原因以及不同个体的私下说法，属于罕见且分歧明显的历史信息；没有证据表明玛拉妮听过这些陈述。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_oceanids_fact_007",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "特定流亡群体的寻访地点、目标判断与后续去向是外地古代迁徙史细节，没有公共常识或直接剧情证据支持。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_oceanids_fact_008",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "创造可复现他人形象的显现体属于少数强大个体的特殊能力，能见度极低，不能由一般的物种传闻推得。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_oceanids_fact_009",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "离群后的能力变化以及从不同水体获取智慧的方式属于细致的物种成长机制，玛拉妮的水域实践经验不能替代相关研究或亲历。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_oceanids_fact_010",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "繁殖程序及相关专有事物被明确描述为物种内部秘密，人类研究者也未完全掌握，玛拉妮更无合理知情渠道。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_oceanids_fact_011",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是特定人物针对秘密繁殖机制提出的未证实解释；玛拉妮既不在相关场景中，也没有接触该推测的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_oceanids_fact_012",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "融合习性、个体态度及心智风险属于纯水精灵内部且罕见的机制，没有证据支持玛拉妮知晓。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_oceanids_fact_013",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "即使玛拉妮熟悉纳塔水域，也不能据此准确知道外地特殊生命与水质、情感之间的生理联系及其对幼体的影响。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_oceanids_fact_014",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实依赖枫丹居民的隐秘起源、特殊权能变化和重大事件后的具体结果，不属于她可自动掌握的外地公共常识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fontaine_oceanids_fact_015",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实涉及枫丹特殊灾害中的意识存续、形态变化与集体意识，而且部分性质客观上仍不明确；没有玛拉妮知情的场景依据。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "先说明信息来自外地游客分享的见闻，而非亲眼所见",
+      "只概括其与枫丹和水有关，以及可能操控水、模仿生命形态",
+      "遇到物种机制或历史细节时明确区分传闻、判断与可靠知识",
+      "可以表现出对异国水中生命的好奇，但不把本地水域经验冒充研究结论"
+    ],
+    "emotional_stance": "好奇、友善且愿意听更多见闻；谈到缺乏依据的细节时保持坦率和谨慎。",
+    "uncertainty_phrasing": [
+      "听外地游客提起过大概",
+      "如果他们说得没错",
+      "具体情况我就不清楚了",
+      "这只是按我熟悉水域的经验作出的判断"
+    ],
+    "avoid_phrasing": [
+      "百科式罗列远古历史与物种内部机制",
+      "把游客传闻说成亲眼所见",
+      "声称旅行者或某位学者曾专门解释过证据中没有出现的内容",
+      "从向导身份直接推出对枫丹秘史、神学或特殊生命机制的权威知识"
+    ]
+  },
+  "runtime_injection": "玛拉妮没有亲历纯水精灵或当面听取可靠说明的依据。她最多可能从外地游客的见闻中听过：纯水精灵是与枫丹有关的水元素生命，据说能够操控水并模仿其他生命形态。谈及这些内容时必须注明是听来的，只讲大概。她可以依据自己的水域与旅行经验作谨慎判断，但不能把判断当成物种知识。对于远古来历、迁徙历史、内部习性、繁衍与成长机制，以及枫丹未公开的历史关联和后续变化，她只应表示所知有限，不主动补充细节。\n她只可明确说成听闻或他人说明的具体内容：纯水精灵是起源于Fontaine、由纯粹水能量构成的物种，亦偶尔被称为Lochfolk。；纯水精灵能够操控水、在空中漂浮，并用水模仿真实生命形态；部分个体还能模仿人形。",
+  "review": {
+    "omniscience_risks": [
+      "把纯水精灵的枫丹地区知识误当作全提瓦特常识",
+      "因玛拉妮熟悉水域而赋予她特殊水元素生命学知识",
+      "用游客或旅行者可能讲述见闻作为填补全部外地秘史的万能依据",
+      "直接透露繁殖、融合、隐秘起源及枫丹重大事件背后的完整机制",
+      "把传说、角色推测或存在分歧的动因说成确定事实"
+    ],
+    "uncertain_assignments": [
+      "前两项被评为可能听闻，仅依据玛拉妮经常接待外地游客及其内容较具公开传播可能；没有证据证明她实际上听过纯水精灵。",
+      "纯水精灵操控水和模仿生命形态的能力可能在跨国冒险见闻中传播，但其具体能力范围对玛拉妮仍不可靠。"
+    ],
+    "needs_human_review": false
+  }
+}

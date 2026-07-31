@@ -1,6 +1,11 @@
 .build/
 dist/
 data/
+dataset/work/
+training/work/
+training/config/local.env
+training/config/slurm.env
+knowledge-base/work/
 models/**/*.gguf
 models/**/*.ggml
 *.log

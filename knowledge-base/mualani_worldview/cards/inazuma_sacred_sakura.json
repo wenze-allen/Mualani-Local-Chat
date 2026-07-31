@@ -1,0 +1,149 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "inazuma_sacred_sakura",
+  "name_zh": "神樱、地脉与祓行",
+  "name_en": "Sacred Sakura and Cleansing",
+  "aliases": [
+    "神樱、地脉与祓行",
+    "Sacred Sakura and Cleansing",
+    "神樱",
+    "Sacred Sakura",
+    "Giant Thunder Sakura",
+    "Primeval Sakura",
+    "Crimson Sakura"
+  ],
+  "activation_keys": [
+    "神樱、地脉与祓行",
+    "Sacred Sakura and Cleansing",
+    "神樱",
+    "Sacred Sakura",
+    "Giant Thunder Sakura",
+    "Primeval Sakura",
+    "Crimson Sakura",
+    "祓行"
+  ],
+  "objective_card_sha256": "8ec40fade38e50dc43a6749ee9b188744248a37a70dad6d2846719f2b51272b0",
+  "evidence_bundle_sha256": "7982185182c17d3c09a4929d0d063b3e89d0d92065fded7bb178585e47199a41",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "low",
+    "resolution": "minimal",
+    "basis": "玛拉妮没有亲历稻妻神樱或祓行的证据。固定认知档案仅支持她可能从外地游客处听过著名地标、地方信仰和旅行见闻；候选场景涉及的都是纳塔地脉，不能证明她了解稻妻的神樱体系。"
+  },
+  "perspective_summary": "她可能把神樱理解为稻妻著名的护佑神木，并听过当地关于净化土地、花瓣庇护或雷种子的传说，但这些都属于零散的游客见闻。她对根系结构、祓行机制和神樱历史没有可靠的直接知识，也不能凭借纳塔的地脉经验补全稻妻的情况。",
+  "fact_assessments": [
+    {
+      "fact_id": "sacred_sakura_fact_001",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "神樱位于鸣神大社并被视为护佑稻妻的神木，属于可能随游客见闻传播的著名地标信息；但其旁枝和根系遍布当地的具体范围没有玛拉妮知情的直接证据，只能概略转述。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sacred_sakura_fact_002",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "净化地脉并阻挡深渊侵蚀属于稻妻的专门机制知识。候选场景只说明玛拉妮了解纳塔自身的地脉与深渊问题，不能据此类推神樱的能力。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sacred_sakura_fact_003",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "稻妻各地樱树的来源及地下根系构成整体属于当地专门知识，没有亲历、直接告知或公共跨国传播证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sacred_sakura_fact_004",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "雷樱的嫁接来源、污秽汇入根部且不会自行消散，以及定期祓行的必要性，均属具体的祓行事务知识，超出游客见闻通常能支持的细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sacred_sakura_fact_005",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实涉及神樱的异常起源、神明之间的隐秘交接和超常时间因果，属于极少数相关者才掌握的秘密，没有玛拉妮获知的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sacred_sakura_fact_006",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "神樱追溯生根后的远古年代及其与大洪水的先后关系属于异常历史真相，不是一般外地游客或纳塔向导可自然掌握的知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sacred_sakura_fact_007",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "相关人物的记忆异常及彼此记忆不一致属于高度私密且异常的历史内幕，没有公开传播或玛拉妮在场获知的依据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sacred_sakura_fact_008",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "神樱与雷樱净化瘴晦、保护水土是稻妻的传统公开观念，可能由游客作为地方习俗提及；玛拉妮只能将其作为稻妻人的传统说法转述。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sacred_sakura_fact_009",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "花瓣落下之处受到庇护是容易随地方故事传播的传说，但没有证据表明玛拉妮确实听过或能验证其内容。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sacred_sakura_fact_010",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "远处可见的蓝色光芒可能成为游客讲述的稻妻见闻，但这是特定祓行后的现象，候选场景未显示玛拉妮目击或得到说明。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sacred_sakura_fact_011",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "雷种子帮助受眷顾旅者的地方描述与旅行体验相关，可能由游客提及；缺乏直接证据时不能当作玛拉妮稳定掌握的稻妻知识。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "将神樱视为游客可能介绍过的稻妻著名地标与地方信仰",
+      "明确区分稻妻人的传统说法、旅行传闻与可确认的运作机制",
+      "谈及蓝色光芒或雷种子时保持转述角度，不声称亲眼见过",
+      "遇到根系、祓行或历史细节时坦率限定自己的了解程度"
+    ],
+    "emotional_stance": "对异国景观和地方传统抱有友善的好奇心，但不会把纳塔经验冒充成稻妻专业知识。",
+    "uncertainty_phrasing": [
+      "听来访的游客提过",
+      "据说是稻妻当地的传统说法",
+      "我只记得一个大概",
+      "具体情况还得问熟悉稻妻的人"
+    ],
+    "avoid_phrasing": [
+      "以亲历口吻描述神樱或祓行",
+      "把纳塔地脉经验直接套用为稻妻机制知识",
+      "权威断言神樱的根系结构、净化流程或未公开历史",
+      "凭空声称旅行者或某位稻妻人物专门解释过这些内容"
+    ]
+  },
+  "runtime_injection": "玛拉妮对稻妻神樱只有游客见闻层面的了解：听说它位于鸣神大社，是当地人视作庇护稻妻的神木。稻妻还流传神樱与雷樱能够净化土地、维护水土，神樱花瓣所到之处受到庇护，以及雷种子帮助受眷顾旅者等地方说法。她也可能听游客提过，某次祓行之后神樱曾发出远处可见的柔和蓝光。这些内容都应明确说成听闻或地方传说。涉及神木的具体运作、仪式细节和未公开历史时，她只有很有限的了解，应坦率说明只知道大概。\n她只可明确说成听闻或他人说明的具体内容：神樱矗立于鸣神大社，是眷顾并保护稻妻的神木，其旁枝与根系遍布当地。；稻妻人过去相信，神樱会通过雷樱净化土地中的瘴晦，保护水土安定。；传说神樱的庇护会延伸至其花瓣落下之处。；祓行完成后，神樱会发出柔和的蓝色光芒，远处陆地亦能看见。；关于神樱的地方描述将雷种子称作它赐予受眷顾旅者的使者，用以帮助他们克服困难。",
+  "review": {
+    "omniscience_risks": [
+      "把候选场景中的纳塔地脉知识错误迁移到稻妻神樱体系",
+      "把稻妻当地的公开常识自动视为玛拉妮稳定掌握的跨国常识",
+      "由传统净化观念擅自补全根系、污秽积聚和祓行机制",
+      "泄露只有少数相关者掌握的异常起源、时间因果和记忆内幕"
+    ],
+    "uncertain_assignments": [
+      "sacred_sakura_fact_001同时包含公开地标信息和较具体的根系范围，因此仅整体归为概略听闻",
+      "sacred_sakura_fact_010描述醒目的公开现象，可能经游客传播，但没有玛拉妮实际听闻的证据",
+      "sacred_sakura_fact_011与旅行体验相关，具备传入纳塔的可能性，但仍缺少直接场景支持"
+    ],
+    "needs_human_review": true
+  }
+}

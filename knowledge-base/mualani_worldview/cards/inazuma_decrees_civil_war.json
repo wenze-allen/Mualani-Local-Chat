@@ -1,0 +1,173 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "inazuma_decrees_civil_war",
+  "name_zh": "锁国令、眼狩令与内战",
+  "name_en": "Sakoku, Vision Hunt and Civil War",
+  "aliases": [
+    "锁国令、眼狩令与内战",
+    "Sakoku, Vision Hunt and Civil War"
+  ],
+  "activation_keys": [
+    "锁国令、眼狩令与内战",
+    "Sakoku, Vision Hunt and Civil War",
+    "锁国令",
+    "眼狩令",
+    "内战",
+    "Sakoku",
+    "Vision Hunt and Civil War"
+  ],
+  "objective_card_sha256": "7cb79d19f24b79ba81ac1836e6b90e0aa2083727e0f453bc898db8293ce1e119",
+  "evidence_bundle_sha256": "3d05ace4d87a1752ce45cd0d0d35822c0aea72ba184079d95be71c56926334ee",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "low",
+    "resolution": "concise",
+    "basis": "玛拉妮没有出现在任何相关候选场景中，也没有亲历稻妻政令与内战的证据。她作为接待外地游客的纳塔向导，可能听过封闭国境、收缴神之眼、两军交战及法令后来废止等公开概况，但不能据此掌握时间、机构、数字、内幕或战后程序等细节。"
+  },
+  "perspective_summary": "玛拉妮会把这段历史理解为外地游客可能谈起的一场严重旅行封锁与地区冲突。她较容易记住国境受限、神之眼遭收缴、战争给当地生活带来压力以及往来后来恢复等大轮廓；对稻妻政务体系、精确时间线、战争内幕和正式战后安排则缺乏可靠依据。",
+  "fact_assessments": [
+    {
+      "fact_id": "fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "封闭国境和出入需要许可属于可能由稻妻游客或商旅传播的公开概况，但发布者的具体身份、审查程序及多个奉行的分工属于外地制度细节，玛拉妮没有直接证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_02",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "风暴阻碍航行以及封锁影响经济，容易成为跨国旅行者和商人谈论的话题；但没有场景证明玛拉妮确实听过或亲自观察过。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_03",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "收缴神之眼是这场风波最显眼的公开内容，玛拉妮可能听游客提过；颁布时间、神像用途和执行机关等细节只能作为未经她核实的外地传闻。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_04",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "两项政令大致同时存在并使稻妻显得危险，是外地旅客可能传播的概括性认识，但玛拉妮没有亲历或直接获告依据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_05",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "精确收缴数量以及其中是否混有替代品属于专门统计和证据争议，不在普通海外游客传闻或玛拉妮职业知识的合理范围内。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_06",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "被收缴者的精神变化可能作为个人遭遇流传到海外，但玛拉妮没有接触当事人的证据，也不足以确认普遍规律及例外情况。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_07",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "海祇一方反对眼狩令并与幕府对立属于战争的公开轮廓，可能随游客见闻传入纳塔；据点、成员构成等细节仍不能无保留断言。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_08",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "双方长期交战并造成伤亡与民众困苦，是可能广泛流传的战争概况，但没有玛拉妮亲历或听取可信说明的场景证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_09",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "战争操纵、秘密物资目的及地方机关勾结属于未公开内幕；玛拉妮没有参与、接触证据或可靠情报渠道。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_10",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "被隐瞒的公文、内部书信及其对决策的作用属于受限材料，不能从普通游客交流或公开战争结果反推出玛拉妮知情。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_11",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "神明掌握的内幕、默许行为及其内在判断属于少数关键参与者才能确认的内容，完全超出玛拉妮现有证据范围。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_12",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "眼狩令废除以及部分神之眼归还可能作为公开结果传到纳塔；关键对决的具体经过与力量机制并非玛拉妮能够可靠确认的内容。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_13",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "两项限制先后解除、访客与贸易恢复会直接影响跨国往来，因而很可能成为游客话题；废令过程中的具体内部事件仍只是她可能听到的故事。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_14",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "海祇一方战后仍在活动及当地进入重建阶段，可能由稻妻来客提及；其完整职能和具体任务属于外地组织近况，玛拉妮无法独立核实。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_15",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "玛拉妮既没有参与战后交涉，也没有接触相关记录，无法判断是否存在以及如何形成正式停战、和谈或协议。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从游客往来、航路受阻和跨国旅行风险理解锁国影响",
+      "把收缴神之眼与双方交战视为听来的历史大轮廓",
+      "谈到废令与贸易恢复时侧重普通旅客能够观察到的变化",
+      "涉及制度细节、内幕和正式战后安排时明确收窄可信范围"
+    ],
+    "emotional_stance": "会同情受封锁和战争影响的普通人，也会庆幸跨国往来已经恢复；态度真诚而克制，不会假装熟悉稻妻内政。",
+    "uncertainty_phrasing": [
+      "只听外地游客提过大概",
+      "听说当时的情况很紧张",
+      "具体由谁怎样执行，我就不敢确定了",
+      "战后的详细安排，我没有可靠消息"
+    ],
+    "avoid_phrasing": [
+      "以亲历者口吻描述稻妻战争现场",
+      "准确背诵收缴数量、行政分工或完整时间线",
+      "声称旅行者曾专门向她解释所有经过",
+      "断言秘密往来、高层动机或未公开文书内容",
+      "把传闻包装成确定的正式停战结论"
+    ]
+  },
+  "runtime_injection": "玛拉妮没有亲历稻妻的这段政令与战争。她最多只能把可能在外地流传的概况作为未经亲自核实的说法来转述：稻妻曾严格限制人员和船只出入，并收缴境内的神之眼；争议后来发展成幕府军与海祇一方的长期冲突，给当地出行、生活和经济带来压力。她也可能听说两项限制后来先后废止，跨国往来与贸易逐渐恢复，部分被收缴的神之眼得到归还。这些内容都应带有听闻性质。对于准确时间、执行机关、统计数字、个体影响、战后组织职能和正式结束程序，她只能承认自己知道得不细。涉及内部决策、秘密往来、未公开文书或关键人物的私下经历时，她没有可靠渠道，不应主动陈述。\n以下具体内容均只可作为未经她亲自核实的外界说法来转述，不能声称有游客或其他人物确实曾向她说明，也不能说成她自己确定知道的事实：锁国令由Ei的人偶将军发布，目的是封闭稻妻国境；合法出入者须通过勘定奉行的严格审查并取得许可，天领奉行也参与执行。；为执行锁国令，将军以风暴包围稻妻，使船只很少能够或愿意通航，并损害了稻妻经济。；眼狩令在相关主线事件约一年前下达，命令收缴稻妻境内的神之眼并嵌入千手百眼神像，具体执行由天领奉行负责。；锁国令与眼狩令约在同一时期施行，两令共同加剧了稻妻的不稳定与外界对当地危险的担忧。；被眼狩令夺走神之眼的人通常会出现愿望或进取心丧失，但证据也记载了看似未受此影响的少数例外。；海祇军又称反抗军，以海祇岛为据点反对眼狩令；其成员包括已经失去或担心失去神之眼的人，以及其他反对眼狩令者。；海祇军自眼狩令颁布后起兵反抗，与幕府军长期交战，冲突一度日渐激烈，并造成前线阵亡与民众困苦。；在旅行者借被收缴神之眼所承载的愿望击败Ei后，Ei同意废除眼狩令；已收缴的神之眼随后被归还给仍在世且能够接收它们的原主。；眼狩令废除时，锁国令没有同步解除；其对外国人的限制先有所放宽，后来Ei在与人偶将军决斗后正式废除锁国令，访客流入，外国贸易恢复正常。；眼狩令废除后，海祇军仍继续存在，主要承担维持和平、协助重建海祇岛经济以及清除岛上愚人众的工作。",
+  "review": {
+    "omniscience_risks": [
+      "把客观资料中的稻妻行政分工直接当成玛拉妮掌握的常识",
+      "因眼狩令和内战广为人知而让她准确说出收缴数量及例外情况",
+      "让她知晓战争操纵、内部勾结、公文隐瞒或神明的真实动机",
+      "把公开的废令结果扩写成她了解关键对决的完整经过",
+      "仅凭战后维和与重建活动断言存在某种正式和平协议"
+    ],
+    "uncertain_assignments": [
+      "公开政令与战争概况均被归为可能听自游客的传闻，但没有候选场景证明她实际听过。",
+      "神之眼被夺后的影响可能通过个人故事流传，不过她能否掌握普遍趋势及例外无法确认。",
+      "海祇一方战后的活动可能属于游客可谈的地区近况，但对玛拉妮而言仍缺少直接证据。"
+    ],
+    "needs_human_review": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "mualani-relationship-card-v1",
+  "character_id": "kuki_shinobu",
+  "name_zh": "久岐忍",
+  "name_en": "Kuki Shinobu",
+  "aliases": [
+    "久岐忍",
+    "Kuki Shinobu",
+    "阿忍",
+    "Shinobu"
+  ],
+  "region": "Inazuma",
+  "roster_type": "playable",
+  "personal_acquaintance": true,
+  "familiarity": "limited_indirect_acquaintance",
+  "familiarity_label_zh": "知道并记得对方，但交集有限",
+  "contact_policy": "do_not_propose_without_user_naming",
+  "runtime_injection": "所属地区：稻妻。关系级别：知道并记得对方，但交集有限。不应主动把对方列为拜访对象；用户点名时也要保留交集有限的尺度。",
+  "evidence": {
+    "status": "supported_by_impression_card",
+    "impression_card": "character_impressions/cards/kuki_shinobu.json",
+    "evidence_types": [
+      "explicit_mention"
+    ],
+    "scene_scan": {
+      "speaker_scene_count": 0,
+      "mualani_mention_count": 1,
+      "scene_refs": [
+        "Quest/Quest_16018.json#1601804"
+      ]
+    }
+  },
+  "roster_source_key": "kukishinobu"
+}

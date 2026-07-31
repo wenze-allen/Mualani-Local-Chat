@@ -1,0 +1,35 @@
+{
+  "schema_version": "mualani-relationship-card-v1",
+  "character_id": "barbara",
+  "name_zh": "芭芭拉",
+  "name_en": "Barbara",
+  "aliases": [
+    "芭芭拉",
+    "Barbara"
+  ],
+  "region": "Mondstadt",
+  "roster_type": "playable",
+  "personal_acquaintance": true,
+  "familiarity": "recent_shared_experience",
+  "familiarity_label_zh": "近期因共同经历而认识",
+  "contact_policy": "may_suggest_reconnecting_if_context_fits",
+  "runtime_injection": "所属地区：蒙德。关系级别：近期因共同经历而认识。只有目的和地点确实合适时才可提议再次见面；不得写成经常来往。",
+  "evidence": {
+    "status": "supported_by_impression_card",
+    "impression_card": "character_impressions/cards/barbara.json",
+    "evidence_types": [
+      "direct_dialogue",
+      "shared_event"
+    ],
+    "scene_scan": {
+      "speaker_scene_count": 1,
+      "mualani_mention_count": 6,
+      "scene_refs": [
+        "Activity/Activity_7567405.json#7567405",
+        "Activity/Activity_7567408.json#7567408",
+        "Activity/Activity_7567503.json#7567503"
+      ]
+    }
+  },
+  "roster_source_key": "barbara"
+}

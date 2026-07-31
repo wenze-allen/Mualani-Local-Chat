@@ -1,0 +1,104 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "mondstadt_freedom_faith",
+  "name_zh": "自由信仰与巴巴托斯",
+  "name_en": "Freedom and Worship of Barbatos",
+  "aliases": [
+    "自由信仰与巴巴托斯",
+    "Freedom and Worship of Barbatos"
+  ],
+  "activation_keys": [
+    "自由信仰与巴巴托斯",
+    "Freedom and Worship of Barbatos",
+    "自由信仰",
+    "巴巴托斯"
+  ],
+  "objective_card_sha256": "df880e72c1f99105bd4d81fcc86324e5597d40b41d7aedf01bd1132d7bf50420",
+  "evidence_bundle_sha256": "1a31930eb4d9f1b3f4152ff555b270338cbc3962ff720089f9d25f156eb74501",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "medium",
+    "resolution": "concise",
+    "basis": "玛拉妮接待外地游客，可能听过蒙德崇尚自由、信奉巴巴托斯的概括性印象；候选场景仅证明她接触过蒙德来客和吟游诗人，没有实际说明蒙德信仰、节庆或政治传统。"
+  },
+  "perspective_summary": "玛拉妮对蒙德的了解主要是游客带来的外地见闻。她可能知道蒙德常被描述为重视自由并信奉巴巴托斯，但不具备可靠讲解当地宗教实践、节庆由来或政治历史细节的依据。",
+  "fact_assessments": [
+    {
+      "fact_id": "freedom_faith_fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "这是蒙德对外鲜明的文化形象，符合她可能从外地游客处听到的大概见闻；但没有候选场景显示有人向她明确讲过自由与巴巴托斯理想之间的关系。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "freedom_faith_fact_02",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "她可能听游客形容蒙德自由、随和或开放，但将整个社会氛围准确归因于一种共同信念，已经超出当前场景能够证明的范围。她与个别蒙德人的接触也不足以验证整体社会特征。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "freedom_faith_fact_03",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "七国与各自神明属于基本常识，她也可能听说蒙德人信奉巴巴托斯；不过大教堂中的修女、信徒及持续祈祷等具体宗教实践没有得到候选场景支持。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "freedom_faith_fact_04",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "外地著名节庆可能成为游客谈资，但她是否听过该节庆以及是否掌握其纪念对象、酿酒传说、自由理想、酒与音乐之间的完整联系均无直接证据，只能作为模糊听闻处理。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "freedom_faith_fact_05",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "酿酒节庆可能通过游客见闻传到纳塔，但围绕新酒酿造以及邀请风神饮酒的具体习俗属于蒙德地方传统，候选场景没有显示玛拉妮实际听到过这些细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "freedom_faith_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "该事实涉及外国组织的建立背景、历史要求、制度定位以及其他组织对其地位的看法，属于政治机构与历史传统的细节，不能由向导身份、一般游客见闻或现有候选场景推出。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "以接待外地游客时积累的整体印象理解蒙德",
+      "将蒙德与自由、风神信仰及轻松开放的文化形象联系起来",
+      "谈到地方节庆或制度沿革时主动区分概括性听闻与可靠细节"
+    ],
+    "emotional_stance": "对蒙德自由、开放的生活气氛容易产生友善与好奇，但不会自居为当地文化或历史专家。",
+    "uncertainty_phrasing": [
+      "明确标注信息主要来自蒙德游客或外地见闻",
+      "涉及节庆传统时说明只听过大概",
+      "遇到宗教和政治细节时坦率表示不够了解"
+    ],
+    "avoid_phrasing": [
+      "把蒙德社会作风概括成自己亲自考察得出的结论",
+      "准确背诵地方节庆的起源、仪式流程或神学含义",
+      "以确定口吻解释当地机构的历史与政治定位",
+      "因为见过蒙德人或吟游诗人便声称对方讲过这些知识"
+    ]
+  },
+  "runtime_injection": "玛拉妮没有可靠依据断言自己曾从某位游客或其他人物口中听到这些内容；若谈及蒙德，她应将相关认识明确表述为不指认具体讲述者的外地传闻或常见文化印象。她大致可以把蒙德概括为以自由闻名、当地人信奉风神巴巴托斯，祈祷、诗歌、酒与庆典常出现在相关文化印象中。她可以带着来源说明概括这些特点，但对当地节庆的具体起源和仪式、宗教场所的日常实践以及政治制度的历史沿革只了解有限；被追问时应说明自己只知道外地流传的大概说法，不补写确定细节。\n她只可以“据说”或“外地流传的说法是”这类不指认具体讲述者的听闻语气表述以下具体内容：Mondstadt以“自由”为其鲜明的国家文化特征，而自由被明确视为巴巴托斯的理想。；当地人重视自由胜过其他事物；证据将Mondstadt整体随和、悠闲且较为开放的社会氛围归因于这种信念。；Mondstadt居民崇拜巴巴托斯；当地大教堂中有修女和信徒持续祈祷，显示这种崇拜具有公开的宗教实践。；Ludi Harpastum被描述为纪念巴巴托斯教导其人民酿酒并自由生活的节庆，体现了对巴巴托斯的纪念与自由理想、酒和音乐等文化活动的结合。；Weinlesefest围绕酿造新酒展开，并包含邀请Anemo Archon在满意时前来饮酒的习俗。",
+  "review": {
+    "omniscience_risks": [
+      "不能因自由是蒙德的公开形象，就把当地居民的价值排序和社会氛围归因视为玛拉妮亲自确认的事实。",
+      "不能把她与班尼特、温迪同场自动视为有人向她讲解过蒙德信仰；候选场景没有相应说明。",
+      "不能由她喜欢派对、自由活动或吟游诗人的提议，反推她熟悉蒙德节庆与宗教传统。",
+      "不能将向导经验扩展为对外国宗教、历史和政治制度的专业知识。"
+    ],
+    "uncertain_assignments": [
+      "freedom_faith_fact_01位于跨国常识与游客听闻的边界；依照固定档案对外地知识的限制，保守归为plausible_hearsay。",
+      "freedom_faith_fact_03的风神信仰概况可能接近提瓦特常识，但其包含具体教堂实践，因此整体仍归为plausible_hearsay。",
+      "freedom_faith_fact_04与freedom_faith_fact_05可能从游客处听过节庆名称或概况，但没有实际知情证据；若要求严格确认知情，也可下调为unknown。",
+      "freedom_faith_fact_06中的组织存在本身或许广为人知，但该事实重点是建立背景及制度定位，故整体归为unknown。"
+    ],
+    "needs_human_review": true
+  }
+}

@@ -1,0 +1,6771 @@
+{
+  "schema_version": "genshin-world-lore-catalog-v1",
+  "notes": [
+    "Fandom is mandatory and primary.",
+    "BWiki is optional and cross-language verification only.",
+    "Miyoushe and HoYoLAB are forbidden.",
+    "Cross-card relationships are intentionally disabled in the first isolated pass."
+  ],
+  "topics": [
+    {
+      "lore_id": "world_teyvat_structure",
+      "name_zh": "提瓦特、暗之外海与星海",
+      "name_en": "Teyvat, Dark Sea and Sea of Stars",
+      "aliases": [
+        "提瓦特、暗之外海与星海",
+        "Teyvat, Dark Sea and Sea of Stars"
+      ],
+      "activation_keys": [
+        "提瓦特、暗之外海与星海",
+        "Teyvat, Dark Sea and Sea of Stars"
+      ],
+      "category": "cosmology",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_world_teyvat_structure",
+          "provider": "fandom",
+          "page": "Teyvat",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_world_teyvat_structure",
+          "provider": "bwiki",
+          "page": "提瓦特",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "world_three_realms",
+      "name_zh": "三界",
+      "name_en": "Three Realms",
+      "aliases": [
+        "三界",
+        "Three Realms"
+      ],
+      "activation_keys": [
+        "三界",
+        "Three Realms"
+      ],
+      "category": "cosmology",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_world_three_realms",
+          "provider": "fandom",
+          "page": "Realm",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "world_heavenly_principles",
+      "name_zh": "天理",
+      "name_en": "Heavenly Principles",
+      "aliases": [
+        "天理",
+        "Heavenly Principles"
+      ],
+      "activation_keys": [
+        "天理",
+        "Heavenly Principles"
+      ],
+      "category": "cosmology",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_world_heavenly_principles",
+          "provider": "fandom",
+          "page": "Heavenly Principles",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_world_heavenly_principles",
+          "provider": "bwiki",
+          "page": "天理",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "world_four_shades",
+      "name_zh": "四重影子",
+      "name_en": "Four Shades",
+      "aliases": [
+        "四重影子",
+        "Four Shades"
+      ],
+      "activation_keys": [
+        "四重影子",
+        "Four Shades"
+      ],
+      "category": "cosmology",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_world_four_shades",
+          "provider": "fandom",
+          "page": "Four Shades",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "world_celestia",
+      "name_zh": "天空岛",
+      "name_en": "Celestia",
+      "aliases": [
+        "天空岛",
+        "Celestia"
+      ],
+      "activation_keys": [
+        "天空岛",
+        "Celestia"
+      ],
+      "category": "cosmology",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_world_celestia",
+          "provider": "fandom",
+          "page": "Celestia",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_world_celestia",
+          "provider": "bwiki",
+          "page": "天空岛",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "world_celestial_nails",
+      "name_zh": "天钉",
+      "name_en": "Celestial Nails",
+      "aliases": [
+        "天钉",
+        "Celestial Nails"
+      ],
+      "activation_keys": [
+        "天钉",
+        "Celestial Nails"
+      ],
+      "category": "natural_law",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_world_celestial_nails",
+          "provider": "fandom",
+          "page": "Celestial Nail",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "world_descenders",
+      "name_zh": "降临者",
+      "name_en": "Descenders",
+      "aliases": [
+        "降临者",
+        "Descenders"
+      ],
+      "activation_keys": [
+        "降临者",
+        "Descenders"
+      ],
+      "category": "cosmology",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_world_descenders",
+          "provider": "fandom",
+          "page": "Descender",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_world_descenders",
+          "provider": "bwiki",
+          "page": "降临者",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "world_false_sky",
+      "name_zh": "虚假之天与世界边界",
+      "name_en": "False Sky and World Borders",
+      "aliases": [
+        "虚假之天与世界边界",
+        "False Sky and World Borders"
+      ],
+      "activation_keys": [
+        "虚假之天与世界边界",
+        "False Sky and World Borders"
+      ],
+      "category": "cosmology",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_world_false_sky",
+          "provider": "fandom",
+          "page": "False Sky",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "world_three_moons",
+      "name_zh": "三月与月神",
+      "name_en": "Three Moons and Moon Goddesses",
+      "aliases": [
+        "三月与月神",
+        "Three Moons and Moon Goddesses"
+      ],
+      "activation_keys": [
+        "三月与月神",
+        "Three Moons and Moon Goddesses"
+      ],
+      "category": "cosmology",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_world_three_moons",
+          "provider": "fandom",
+          "page": "Three Moons",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_world_three_moons",
+          "provider": "bwiki",
+          "page": "三月",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "world_fate_law",
+      "name_zh": "命运与世界法则",
+      "name_en": "Fate and World Laws",
+      "aliases": [
+        "命运与世界法则",
+        "Fate and World Laws"
+      ],
+      "activation_keys": [
+        "命运与世界法则",
+        "Fate and World Laws"
+      ],
+      "category": "natural_law",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_world_fate_law",
+          "provider": "fandom",
+          "page": "Heavenly Principles",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "world_constellations",
+      "name_zh": "星座、星辰与占星术",
+      "name_en": "Constellations, Stars and Astrology",
+      "aliases": [
+        "星座、星辰与占星术",
+        "Constellations, Stars and Astrology"
+      ],
+      "activation_keys": [
+        "星座、星辰与占星术",
+        "Constellations, Stars and Astrology"
+      ],
+      "category": "natural_law",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_world_constellations",
+          "provider": "fandom",
+          "page": "Constellation",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_world_constellations",
+          "provider": "bwiki",
+          "page": "命之座",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "power_elements",
+      "name_zh": "七元素与元素力",
+      "name_en": "Seven Elements and Elemental Power",
+      "aliases": [
+        "七元素与元素力",
+        "Seven Elements and Elemental Power"
+      ],
+      "activation_keys": [
+        "七元素与元素力",
+        "Seven Elements and Elemental Power"
+      ],
+      "category": "power_system",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_power_elements",
+          "provider": "fandom",
+          "page": "Element",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_power_elements",
+          "provider": "bwiki",
+          "page": "元素",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "power_elemental_sight",
+      "name_zh": "元素感知与元素视野",
+      "name_en": "Elemental Sensitivity and Sight",
+      "aliases": [
+        "元素感知与元素视野",
+        "Elemental Sensitivity and Sight"
+      ],
+      "activation_keys": [
+        "元素感知与元素视野",
+        "Elemental Sensitivity and Sight"
+      ],
+      "category": "power_system",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_power_elemental_sight",
+          "provider": "fandom",
+          "page": "Elemental Sight",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_power_elemental_sight",
+          "provider": "bwiki",
+          "page": "元素视野",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "species_elemental_lifeforms",
+      "name_zh": "元素生命",
+      "name_en": "Elemental Lifeforms",
+      "aliases": [
+        "元素生命",
+        "Elemental Lifeforms"
+      ],
+      "activation_keys": [
+        "元素生命",
+        "Elemental Lifeforms"
+      ],
+      "category": "species",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_species_elemental_lifeforms",
+          "provider": "fandom",
+          "page": "Elemental Lifeforms",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_species_elemental_lifeforms",
+          "provider": "bwiki",
+          "page": "元素生命",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "power_vision",
+      "name_zh": "神之眼与原神",
+      "name_en": "Vision and Allogenes",
+      "aliases": [
+        "神之眼与原神",
+        "Vision and Allogenes"
+      ],
+      "activation_keys": [
+        "神之眼与原神",
+        "Vision and Allogenes"
+      ],
+      "category": "power_system",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_power_vision",
+          "provider": "fandom",
+          "page": "Vision",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_power_vision",
+          "provider": "bwiki",
+          "page": "神之眼",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "power_gnosis",
+      "name_zh": "神之心",
+      "name_en": "Gnosis",
+      "aliases": [
+        "神之心",
+        "Gnosis"
+      ],
+      "activation_keys": [
+        "神之心",
+        "Gnosis"
+      ],
+      "category": "power_system",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_power_gnosis",
+          "provider": "fandom",
+          "page": "Gnosis",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_power_gnosis",
+          "provider": "bwiki",
+          "page": "神之心",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "power_delusion",
+      "name_zh": "邪眼",
+      "name_en": "Delusion",
+      "aliases": [
+        "邪眼",
+        "Delusion"
+      ],
+      "activation_keys": [
+        "邪眼",
+        "Delusion"
+      ],
+      "category": "power_system",
+      "scope": "cross_regional",
+      "regions": [
+        "Snezhnaya"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_power_delusion",
+          "provider": "fandom",
+          "page": "Delusion",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_power_delusion",
+          "provider": "bwiki",
+          "page": "邪眼",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "power_moon_wheel",
+      "name_zh": "月之轮",
+      "name_en": "Moon Wheel",
+      "aliases": [
+        "月之轮",
+        "Moon Wheel"
+      ],
+      "activation_keys": [
+        "月之轮",
+        "Moon Wheel"
+      ],
+      "category": "power_system",
+      "scope": "regional",
+      "regions": [
+        "Nod-Krai"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_power_moon_wheel",
+          "provider": "fandom",
+          "page": "Moon Wheel",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_power_moon_wheel",
+          "provider": "bwiki",
+          "page": "月之轮",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "species_gods",
+      "name_zh": "魔神与神明",
+      "name_en": "Gods",
+      "aliases": [
+        "魔神与神明",
+        "Gods"
+      ],
+      "activation_keys": [
+        "魔神与神明",
+        "Gods"
+      ],
+      "category": "species",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_species_gods",
+          "provider": "fandom",
+          "page": "God",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_species_gods",
+          "provider": "bwiki",
+          "page": "魔神",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "institution_the_seven",
+      "name_zh": "尘世七执政",
+      "name_en": "The Seven Archons",
+      "aliases": [
+        "尘世七执政",
+        "The Seven Archons"
+      ],
+      "activation_keys": [
+        "尘世七执政",
+        "The Seven Archons"
+      ],
+      "category": "institution",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_institution_the_seven",
+          "provider": "fandom",
+          "page": "The Seven",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_institution_the_seven",
+          "provider": "bwiki",
+          "page": "尘世七执政",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "power_divine_authorities",
+      "name_zh": "神座、古龙大权与元素权柄",
+      "name_en": "Divine Thrones and Elemental Authorities",
+      "aliases": [
+        "神座、古龙大权与元素权柄",
+        "Divine Thrones and Elemental Authorities"
+      ],
+      "activation_keys": [
+        "神座、古龙大权与元素权柄",
+        "Divine Thrones and Elemental Authorities"
+      ],
+      "category": "power_system",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_power_divine_authorities",
+          "provider": "fandom",
+          "page": "Seven Sovereigns",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "species_dragons_vishaps",
+      "name_zh": "龙与龙蜥",
+      "name_en": "Dragons and Vishaps",
+      "aliases": [
+        "龙与龙蜥",
+        "Dragons and Vishaps"
+      ],
+      "activation_keys": [
+        "龙与龙蜥",
+        "Dragons and Vishaps"
+      ],
+      "category": "species",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_species_dragons_vishaps",
+          "provider": "fandom",
+          "page": "Dragon",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_species_dragons_vishaps",
+          "provider": "bwiki",
+          "page": "龙",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "institution_seven_sovereigns",
+      "name_zh": "七龙王",
+      "name_en": "Seven Sovereigns",
+      "aliases": [
+        "七龙王",
+        "Seven Sovereigns"
+      ],
+      "activation_keys": [
+        "七龙王",
+        "Seven Sovereigns"
+      ],
+      "category": "institution",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_institution_seven_sovereigns",
+          "provider": "fandom",
+          "page": "Seven Sovereigns",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_institution_seven_sovereigns",
+          "provider": "bwiki",
+          "page": "七龙王",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "species_angels_seelies",
+      "name_zh": "天使与仙灵",
+      "name_en": "Angels and Seelies",
+      "aliases": [
+        "天使与仙灵",
+        "Angels and Seelies"
+      ],
+      "activation_keys": [
+        "天使与仙灵",
+        "Angels and Seelies"
+      ],
+      "category": "species",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_species_angels_seelies",
+          "provider": "fandom",
+          "page": "Angel",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_species_angels_seelies",
+          "provider": "bwiki",
+          "page": "仙灵",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "world_ley_lines",
+      "name_zh": "地脉",
+      "name_en": "Ley Lines",
+      "aliases": [
+        "地脉",
+        "Ley Lines"
+      ],
+      "activation_keys": [
+        "地脉",
+        "Ley Lines"
+      ],
+      "category": "natural_law",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_world_ley_lines",
+          "provider": "fandom",
+          "page": "Ley Line",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_world_ley_lines",
+          "provider": "bwiki",
+          "page": "地脉",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "world_irminsul",
+      "name_zh": "世界树",
+      "name_en": "Irminsul",
+      "aliases": [
+        "世界树",
+        "Irminsul"
+      ],
+      "activation_keys": [
+        "世界树",
+        "Irminsul"
+      ],
+      "category": "natural_law",
+      "scope": "global",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_world_irminsul",
+          "provider": "fandom",
+          "page": "Irminsul",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_world_irminsul",
+          "provider": "bwiki",
+          "page": "世界树",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "world_irminsul_modification",
+      "name_zh": "世界树修改与历史重构",
+      "name_en": "Irminsul Modification",
+      "aliases": [
+        "世界树修改与历史重构",
+        "Irminsul Modification"
+      ],
+      "activation_keys": [
+        "世界树修改与历史重构",
+        "Irminsul Modification"
+      ],
+      "category": "natural_law",
+      "scope": "global",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_world_irminsul_modification",
+          "provider": "fandom",
+          "page": "Irminsul/Modifications",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "abyss_void_realm",
+      "name_zh": "深渊与虚无界",
+      "name_en": "Abyss and Void Realm",
+      "aliases": [
+        "深渊与虚无界",
+        "Abyss and Void Realm"
+      ],
+      "activation_keys": [
+        "深渊与虚无界",
+        "Abyss and Void Realm"
+      ],
+      "category": "cosmology",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_abyss_void_realm",
+          "provider": "fandom",
+          "page": "Abyss",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_abyss_void_realm",
+          "provider": "bwiki",
+          "page": "深渊",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "abyss_forbidden_knowledge",
+      "name_zh": "禁忌知识",
+      "name_en": "Forbidden Knowledge",
+      "aliases": [
+        "禁忌知识",
+        "Forbidden Knowledge"
+      ],
+      "activation_keys": [
+        "禁忌知识",
+        "Forbidden Knowledge"
+      ],
+      "category": "power_system",
+      "scope": "global",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_abyss_forbidden_knowledge",
+          "provider": "fandom",
+          "page": "Abyss",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_abyss_forbidden_knowledge",
+          "provider": "bwiki",
+          "page": "禁忌知识",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "life_soul_death_cycle",
+      "name_zh": "灵魂、死亡与地脉回归",
+      "name_en": "Soul, Death and Ley-Line Return",
+      "aliases": [
+        "灵魂、死亡与地脉回归",
+        "Soul, Death and Ley-Line Return"
+      ],
+      "activation_keys": [
+        "灵魂、死亡与地脉回归",
+        "Soul, Death and Ley-Line Return"
+      ],
+      "category": "natural_law",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_life_soul_death_cycle",
+          "provider": "fandom",
+          "page": "Ghost",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_life_soul_death_cycle",
+          "provider": "bwiki",
+          "page": "灵魂",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "mind_realms_consciousness",
+      "name_zh": "意识空间",
+      "name_en": "Realms of Consciousness",
+      "aliases": [
+        "意识空间",
+        "Realms of Consciousness"
+      ],
+      "activation_keys": [
+        "意识空间",
+        "Realms of Consciousness"
+      ],
+      "category": "natural_law",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_mind_realms_consciousness",
+          "provider": "fandom",
+          "page": "Realm of Consciousness",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "life_erosion",
+      "name_zh": "磨损",
+      "name_en": "Erosion",
+      "aliases": [
+        "磨损",
+        "Erosion"
+      ],
+      "activation_keys": [
+        "磨损",
+        "Erosion"
+      ],
+      "category": "natural_law",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_life_erosion",
+          "provider": "fandom",
+          "page": "Erosion",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_life_erosion",
+          "provider": "bwiki",
+          "page": "磨损",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "life_divine_curses",
+      "name_zh": "神罚诅咒",
+      "name_en": "Divine Curses",
+      "aliases": [
+        "神罚诅咒",
+        "Divine Curses"
+      ],
+      "activation_keys": [
+        "神罚诅咒",
+        "Divine Curses"
+      ],
+      "category": "natural_law",
+      "scope": "global",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_life_divine_curses",
+          "provider": "fandom",
+          "page": "Khaenri'ah",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_life_divine_curses",
+          "provider": "bwiki",
+          "page": "坎瑞亚",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "magic_mystic_arts",
+      "name_zh": "提瓦特秘术总览",
+      "name_en": "Mystic Arts in Teyvat",
+      "aliases": [
+        "提瓦特秘术总览",
+        "Mystic Arts in Teyvat"
+      ],
+      "activation_keys": [
+        "提瓦特秘术总览",
+        "Mystic Arts in Teyvat"
+      ],
+      "category": "power_system",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_magic_mystic_arts",
+          "provider": "fandom",
+          "page": "Mystic Arts in Teyvat",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "magic_alchemy",
+      "name_zh": "炼金术",
+      "name_en": "Alchemy",
+      "aliases": [
+        "炼金术",
+        "Alchemy"
+      ],
+      "activation_keys": [
+        "炼金术",
+        "Alchemy"
+      ],
+      "category": "technology",
+      "scope": "cross_regional",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_magic_alchemy",
+          "provider": "fandom",
+          "page": "Alchemy",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_magic_alchemy",
+          "provider": "bwiki",
+          "page": "炼金",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "magic_art_khemia",
+      "name_zh": "黑土之术",
+      "name_en": "Art of Khemia",
+      "aliases": [
+        "黑土之术",
+        "Art of Khemia"
+      ],
+      "activation_keys": [
+        "黑土之术",
+        "Art of Khemia"
+      ],
+      "category": "technology",
+      "scope": "regional",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_magic_art_khemia",
+          "provider": "fandom",
+          "page": "Art of Khemia",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_magic_art_khemia",
+          "provider": "bwiki",
+          "page": "黑土之术",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "magic_pocket_realms",
+      "name_zh": "洞天、秘境与人工子空间",
+      "name_en": "Pocket Realms and Sub-Spaces",
+      "aliases": [
+        "洞天、秘境与人工子空间",
+        "Pocket Realms and Sub-Spaces"
+      ],
+      "activation_keys": [
+        "洞天、秘境与人工子空间",
+        "Pocket Realms and Sub-Spaces"
+      ],
+      "category": "technology",
+      "scope": "cross_regional",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_magic_pocket_realms",
+          "provider": "fandom",
+          "page": "Sub-Space Creation",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_magic_pocket_realms",
+          "provider": "bwiki",
+          "page": "洞天",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "mondstadt_overview",
+      "name_zh": "蒙德",
+      "name_en": "Mondstadt",
+      "aliases": [
+        "蒙德",
+        "Mondstadt"
+      ],
+      "activation_keys": [
+        "蒙德",
+        "Mondstadt"
+      ],
+      "category": "nation",
+      "scope": "regional",
+      "regions": [
+        "Mondstadt"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_mondstadt_overview",
+          "provider": "fandom",
+          "page": "Mondstadt",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_mondstadt_overview",
+          "provider": "bwiki",
+          "page": "蒙德",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "mondstadt_geography",
+      "name_zh": "蒙德核心地理",
+      "name_en": "Core Mondstadt Geography",
+      "aliases": [
+        "蒙德核心地理",
+        "Core Mondstadt Geography"
+      ],
+      "activation_keys": [
+        "蒙德核心地理",
+        "Core Mondstadt Geography"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Mondstadt"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_mondstadt_geography",
+          "provider": "fandom",
+          "page": "Viewpoint/Mondstadt",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_mondstadt_geography",
+          "provider": "bwiki",
+          "page": "蒙德·地理",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "mondstadt_old_city",
+      "name_zh": "旧蒙德与风龙废墟",
+      "name_en": "Old Mondstadt and Stormterror's Lair",
+      "aliases": [
+        "旧蒙德与风龙废墟",
+        "Old Mondstadt and Stormterror's Lair"
+      ],
+      "activation_keys": [
+        "旧蒙德与风龙废墟",
+        "Old Mondstadt and Stormterror's Lair"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Mondstadt"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_mondstadt_old_city",
+          "provider": "fandom",
+          "page": "Brightcrown Mountains",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_mondstadt_old_city",
+          "provider": "bwiki",
+          "page": "风龙废墟",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "mondstadt_dragonspine",
+      "name_zh": "龙脊雪山与沙尔·芬德尼尔",
+      "name_en": "Dragonspine and Sal Vindagnyr",
+      "aliases": [
+        "龙脊雪山与沙尔·芬德尼尔",
+        "Dragonspine and Sal Vindagnyr"
+      ],
+      "activation_keys": [
+        "龙脊雪山与沙尔·芬德尼尔",
+        "Dragonspine and Sal Vindagnyr"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Mondstadt"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_mondstadt_dragonspine",
+          "provider": "fandom",
+          "page": "Dragonspine",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_mondstadt_dragonspine",
+          "provider": "bwiki",
+          "page": "龙脊雪山",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "mondstadt_knights",
+      "name_zh": "西风骑士团",
+      "name_en": "Knights of Favonius",
+      "aliases": [
+        "西风骑士团",
+        "Knights of Favonius"
+      ],
+      "activation_keys": [
+        "西风骑士团",
+        "Knights of Favonius"
+      ],
+      "category": "organization",
+      "scope": "regional",
+      "regions": [
+        "Mondstadt"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_mondstadt_knights",
+          "provider": "fandom",
+          "page": "Knights of Favonius",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_mondstadt_knights",
+          "provider": "bwiki",
+          "page": "西风骑士团",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "mondstadt_church",
+      "name_zh": "西风教会",
+      "name_en": "Church of Favonius",
+      "aliases": [
+        "西风教会",
+        "Church of Favonius"
+      ],
+      "activation_keys": [
+        "西风教会",
+        "Church of Favonius"
+      ],
+      "category": "organization",
+      "scope": "regional",
+      "regions": [
+        "Mondstadt"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_mondstadt_church",
+          "provider": "fandom",
+          "page": "Church of Favonius",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_mondstadt_church",
+          "provider": "bwiki",
+          "page": "西风教会",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "mondstadt_four_winds",
+      "name_zh": "四风守护",
+      "name_en": "Four Winds",
+      "aliases": [
+        "四风守护",
+        "Four Winds"
+      ],
+      "activation_keys": [
+        "四风守护",
+        "Four Winds"
+      ],
+      "category": "institution",
+      "scope": "regional",
+      "regions": [
+        "Mondstadt"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_mondstadt_four_winds",
+          "provider": "fandom",
+          "page": "Four Winds",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_mondstadt_four_winds",
+          "provider": "bwiki",
+          "page": "四风守护",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "mondstadt_noble_clans",
+      "name_zh": "蒙德旧贵族与氏族",
+      "name_en": "Noble Families of Mondstadt",
+      "aliases": [
+        "蒙德旧贵族与氏族",
+        "Noble Families of Mondstadt"
+      ],
+      "activation_keys": [
+        "蒙德旧贵族与氏族",
+        "Noble Families of Mondstadt"
+      ],
+      "category": "society",
+      "scope": "regional",
+      "regions": [
+        "Mondstadt"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_mondstadt_noble_clans",
+          "provider": "fandom",
+          "page": "Mondstadt/History",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "mondstadt_freedom_faith",
+      "name_zh": "自由信仰与巴巴托斯",
+      "name_en": "Freedom and Worship of Barbatos",
+      "aliases": [
+        "自由信仰与巴巴托斯",
+        "Freedom and Worship of Barbatos"
+      ],
+      "activation_keys": [
+        "自由信仰与巴巴托斯",
+        "Freedom and Worship of Barbatos"
+      ],
+      "category": "culture",
+      "scope": "regional",
+      "regions": [
+        "Mondstadt"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_mondstadt_freedom_faith",
+          "provider": "fandom",
+          "page": "Mondstadt/Culture",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "mondstadt_daily_culture",
+      "name_zh": "诗歌、酒业与节庆",
+      "name_en": "Bards, Wine and Festivals",
+      "aliases": [
+        "诗歌、酒业与节庆",
+        "Bards, Wine and Festivals"
+      ],
+      "activation_keys": [
+        "诗歌、酒业与节庆",
+        "Bards, Wine and Festivals"
+      ],
+      "category": "culture",
+      "scope": "regional",
+      "regions": [
+        "Mondstadt"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_mondstadt_daily_culture",
+          "provider": "fandom",
+          "page": "Mondstadt/Culture",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "mondstadt_decarabian_rebellion",
+      "name_zh": "高塔孤王与旧蒙德起义",
+      "name_en": "Decarabian and Old Mondstadt Rebellion",
+      "aliases": [
+        "高塔孤王与旧蒙德起义",
+        "Decarabian and Old Mondstadt Rebellion"
+      ],
+      "activation_keys": [
+        "高塔孤王与旧蒙德起义",
+        "Decarabian and Old Mondstadt Rebellion"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Mondstadt"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_mondstadt_decarabian_rebellion",
+          "provider": "fandom",
+          "page": "Mondstadt/History",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "mondstadt_aristocracy_rebellion",
+      "name_zh": "旧贵族暴政与温妮莎革命",
+      "name_en": "Aristocracy and Vennessa's Rebellion",
+      "aliases": [
+        "旧贵族暴政与温妮莎革命",
+        "Aristocracy and Vennessa's Rebellion"
+      ],
+      "activation_keys": [
+        "旧贵族暴政与温妮莎革命",
+        "Aristocracy and Vennessa's Rebellion"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Mondstadt"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_mondstadt_aristocracy_rebellion",
+          "provider": "fandom",
+          "page": "Mondstadt/History",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "mondstadt_cataclysm_durin",
+      "name_zh": "灾厄、杜林与特瓦林",
+      "name_en": "Cataclysm, Durin and Dvalin",
+      "aliases": [
+        "灾厄、杜林与特瓦林",
+        "Cataclysm, Durin and Dvalin"
+      ],
+      "activation_keys": [
+        "灾厄、杜林与特瓦林",
+        "Cataclysm, Durin and Dvalin"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Mondstadt"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_mondstadt_cataclysm_durin",
+          "provider": "fandom",
+          "page": "Mondstadt/History",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_overview",
+      "name_zh": "璃月",
+      "name_en": "Liyue",
+      "aliases": [
+        "璃月",
+        "Liyue"
+      ],
+      "activation_keys": [
+        "璃月",
+        "Liyue"
+      ],
+      "category": "nation",
+      "scope": "regional",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_overview",
+          "provider": "fandom",
+          "page": "Liyue",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_liyue_overview",
+          "provider": "bwiki",
+          "page": "璃月",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_geography",
+      "name_zh": "璃月核心地理",
+      "name_en": "Core Liyue Geography",
+      "aliases": [
+        "璃月核心地理",
+        "Core Liyue Geography"
+      ],
+      "activation_keys": [
+        "璃月核心地理",
+        "Core Liyue Geography"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_geography",
+          "provider": "fandom",
+          "page": "Viewpoint/Liyue",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_liyue_geography",
+          "provider": "bwiki",
+          "page": "璃月·地理",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_harbor",
+      "name_zh": "璃月港",
+      "name_en": "Liyue Harbor",
+      "aliases": [
+        "璃月港",
+        "Liyue Harbor"
+      ],
+      "activation_keys": [
+        "璃月港",
+        "Liyue Harbor"
+      ],
+      "category": "geography",
+      "scope": "local",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_harbor",
+          "provider": "fandom",
+          "page": "Liyue Harbor",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_liyue_harbor",
+          "provider": "bwiki",
+          "page": "璃月港",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_chasm",
+      "name_zh": "层岩巨渊",
+      "name_en": "The Chasm",
+      "aliases": [
+        "层岩巨渊",
+        "The Chasm"
+      ],
+      "activation_keys": [
+        "层岩巨渊",
+        "The Chasm"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_chasm",
+          "provider": "fandom",
+          "page": "The Chasm",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_liyue_chasm",
+          "provider": "bwiki",
+          "page": "层岩巨渊",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_chenyu_vale",
+      "name_zh": "沉玉谷",
+      "name_en": "Chenyu Vale",
+      "aliases": [
+        "沉玉谷",
+        "Chenyu Vale"
+      ],
+      "activation_keys": [
+        "沉玉谷",
+        "Chenyu Vale"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_chenyu_vale",
+          "provider": "fandom",
+          "page": "Chenyu Vale",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_liyue_chenyu_vale",
+          "provider": "bwiki",
+          "page": "沉玉谷",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_qixing",
+      "name_zh": "璃月七星与八门",
+      "name_en": "Liyue Qixing and Eight Trades",
+      "aliases": [
+        "璃月七星与八门",
+        "Liyue Qixing and Eight Trades"
+      ],
+      "activation_keys": [
+        "璃月七星与八门",
+        "Liyue Qixing and Eight Trades"
+      ],
+      "category": "institution",
+      "scope": "regional",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_qixing",
+          "provider": "fandom",
+          "page": "Liyue Qixing",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_liyue_qixing",
+          "provider": "bwiki",
+          "page": "璃月七星",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_millelith",
+      "name_zh": "千岩军与总务司",
+      "name_en": "Millelith and Civil Affairs",
+      "aliases": [
+        "千岩军与总务司",
+        "Millelith and Civil Affairs"
+      ],
+      "activation_keys": [
+        "千岩军与总务司",
+        "Millelith and Civil Affairs"
+      ],
+      "category": "organization",
+      "scope": "regional",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_millelith",
+          "provider": "fandom",
+          "page": "Millelith",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_liyue_millelith",
+          "provider": "bwiki",
+          "page": "千岩军",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_adepti",
+      "name_zh": "仙人与绝云间传统",
+      "name_en": "Adepti",
+      "aliases": [
+        "仙人与绝云间传统",
+        "Adepti"
+      ],
+      "activation_keys": [
+        "仙人与绝云间传统",
+        "Adepti"
+      ],
+      "category": "species",
+      "scope": "regional",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_adepti",
+          "provider": "fandom",
+          "page": "Adeptus",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_liyue_adepti",
+          "provider": "bwiki",
+          "page": "仙人",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_yakshas",
+      "name_zh": "夜叉",
+      "name_en": "Yakshas",
+      "aliases": [
+        "夜叉",
+        "Yakshas"
+      ],
+      "activation_keys": [
+        "夜叉",
+        "Yakshas"
+      ],
+      "category": "species",
+      "scope": "regional",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_yakshas",
+          "provider": "fandom",
+          "page": "Yaksha",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_liyue_yakshas",
+          "provider": "bwiki",
+          "page": "夜叉",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_contracts_commerce",
+      "name_zh": "契约、商业与信用",
+      "name_en": "Contracts, Commerce and Credit",
+      "aliases": [
+        "契约、商业与信用",
+        "Contracts, Commerce and Credit"
+      ],
+      "activation_keys": [
+        "契约、商业与信用",
+        "Contracts, Commerce and Credit"
+      ],
+      "category": "culture",
+      "scope": "regional",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_contracts_commerce",
+          "provider": "fandom",
+          "page": "Liyue/Culture",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_mora_golden_house",
+      "name_zh": "摩拉与黄金屋",
+      "name_en": "Mora and Golden House",
+      "aliases": [
+        "摩拉与黄金屋",
+        "Mora and Golden House"
+      ],
+      "activation_keys": [
+        "摩拉与黄金屋",
+        "Mora and Golden House"
+      ],
+      "category": "institution",
+      "scope": "cross_regional",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_mora_golden_house",
+          "provider": "fandom",
+          "page": "Mora",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_liyue_mora_golden_house",
+          "provider": "bwiki",
+          "page": "摩拉",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_rites_festivals",
+      "name_zh": "璃月典仪与节庆",
+      "name_en": "Rites and Festivals of Liyue",
+      "aliases": [
+        "璃月典仪与节庆",
+        "Rites and Festivals of Liyue"
+      ],
+      "activation_keys": [
+        "璃月典仪与节庆",
+        "Rites and Festivals of Liyue"
+      ],
+      "category": "culture",
+      "scope": "regional",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_rites_festivals",
+          "provider": "fandom",
+          "page": "Liyue/Culture",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_afterlife",
+      "name_zh": "葬仪、往生与生死边界",
+      "name_en": "Funerary Traditions and Boundary",
+      "aliases": [
+        "葬仪、往生与生死边界",
+        "Funerary Traditions and Boundary"
+      ],
+      "activation_keys": [
+        "葬仪、往生与生死边界",
+        "Funerary Traditions and Boundary"
+      ],
+      "category": "culture",
+      "scope": "regional",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_afterlife",
+          "provider": "fandom",
+          "page": "Wangsheng Funeral Parlor",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_liyue_afterlife",
+          "provider": "bwiki",
+          "page": "往生堂",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_adeptal_arts",
+      "name_zh": "仙术、符箓与洞天",
+      "name_en": "Adeptal Arts, Sigils and Abodes",
+      "aliases": [
+        "仙术、符箓与洞天",
+        "Adeptal Arts, Sigils and Abodes"
+      ],
+      "activation_keys": [
+        "仙术、符箓与洞天",
+        "Adeptal Arts, Sigils and Abodes"
+      ],
+      "category": "power_system",
+      "scope": "regional",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_adeptal_arts",
+          "provider": "fandom",
+          "page": "Adeptal Energy",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_liyue_adeptal_arts",
+          "provider": "bwiki",
+          "page": "仙术",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_archon_war",
+      "name_zh": "归离集与魔神战争",
+      "name_en": "Guili Assembly and Archon War",
+      "aliases": [
+        "归离集与魔神战争",
+        "Guili Assembly and Archon War"
+      ],
+      "activation_keys": [
+        "归离集与魔神战争",
+        "Guili Assembly and Archon War"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_archon_war",
+          "provider": "fandom",
+          "page": "Liyue/History",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "liyue_human_era",
+      "name_zh": "帝君退场与人治时代",
+      "name_en": "End of the Divine Era",
+      "aliases": [
+        "帝君退场与人治时代",
+        "End of the Divine Era"
+      ],
+      "activation_keys": [
+        "帝君退场与人治时代",
+        "End of the Divine Era"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Liyue"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_liyue_human_era",
+          "provider": "fandom",
+          "page": "Liyue/History",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_overview",
+      "name_zh": "稻妻",
+      "name_en": "Inazuma",
+      "aliases": [
+        "稻妻",
+        "Inazuma"
+      ],
+      "activation_keys": [
+        "稻妻",
+        "Inazuma"
+      ],
+      "category": "nation",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_overview",
+          "provider": "fandom",
+          "page": "Inazuma",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_inazuma_overview",
+          "provider": "bwiki",
+          "page": "稻妻",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_narukami",
+      "name_zh": "鸣神岛",
+      "name_en": "Narukami Island",
+      "aliases": [
+        "鸣神岛",
+        "Narukami Island"
+      ],
+      "activation_keys": [
+        "鸣神岛",
+        "Narukami Island"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_narukami",
+          "provider": "fandom",
+          "page": "Narukami Island",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_inazuma_narukami",
+          "provider": "bwiki",
+          "page": "鸣神岛",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_kannazuka",
+      "name_zh": "神无冢与踏鞴砂",
+      "name_en": "Kannazuka and Tatarasuna",
+      "aliases": [
+        "神无冢与踏鞴砂",
+        "Kannazuka and Tatarasuna"
+      ],
+      "activation_keys": [
+        "神无冢与踏鞴砂",
+        "Kannazuka and Tatarasuna"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_kannazuka",
+          "provider": "fandom",
+          "page": "Kannazuka",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_inazuma_kannazuka",
+          "provider": "bwiki",
+          "page": "神无冢",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_yashiori",
+      "name_zh": "八酝岛",
+      "name_en": "Yashiori Island",
+      "aliases": [
+        "八酝岛",
+        "Yashiori Island"
+      ],
+      "activation_keys": [
+        "八酝岛",
+        "Yashiori Island"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_yashiori",
+          "provider": "fandom",
+          "page": "Yashiori Island",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_inazuma_yashiori",
+          "provider": "bwiki",
+          "page": "八酝岛",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_seirai",
+      "name_zh": "清籁岛",
+      "name_en": "Seirai Island",
+      "aliases": [
+        "清籁岛",
+        "Seirai Island"
+      ],
+      "activation_keys": [
+        "清籁岛",
+        "Seirai Island"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_seirai",
+          "provider": "fandom",
+          "page": "Seirai Island",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_inazuma_seirai",
+          "provider": "bwiki",
+          "page": "清籁岛",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_watatsumi",
+      "name_zh": "海祇岛",
+      "name_en": "Watatsumi Island",
+      "aliases": [
+        "海祇岛",
+        "Watatsumi Island"
+      ],
+      "activation_keys": [
+        "海祇岛",
+        "Watatsumi Island"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_watatsumi",
+          "provider": "fandom",
+          "page": "Watatsumi Island",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_inazuma_watatsumi",
+          "provider": "bwiki",
+          "page": "海祇岛",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_tsurumi",
+      "name_zh": "鹤观",
+      "name_en": "Tsurumi Island",
+      "aliases": [
+        "鹤观",
+        "Tsurumi Island"
+      ],
+      "activation_keys": [
+        "鹤观",
+        "Tsurumi Island"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_tsurumi",
+          "provider": "fandom",
+          "page": "Tsurumi Island",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_inazuma_tsurumi",
+          "provider": "bwiki",
+          "page": "鹤观",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_enkanomiya",
+      "name_zh": "渊下宫与白夜国",
+      "name_en": "Enkanomiya and Byakuyakoku",
+      "aliases": [
+        "渊下宫与白夜国",
+        "Enkanomiya and Byakuyakoku"
+      ],
+      "activation_keys": [
+        "渊下宫与白夜国",
+        "Enkanomiya and Byakuyakoku"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_enkanomiya",
+          "provider": "fandom",
+          "page": "Enkanomiya",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_inazuma_enkanomiya",
+          "provider": "bwiki",
+          "page": "渊下宫",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_shogunate",
+      "name_zh": "稻妻幕府",
+      "name_en": "Inazuma Shogunate",
+      "aliases": [
+        "稻妻幕府",
+        "Inazuma Shogunate"
+      ],
+      "activation_keys": [
+        "稻妻幕府",
+        "Inazuma Shogunate"
+      ],
+      "category": "institution",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_shogunate",
+          "provider": "fandom",
+          "page": "Inazuma Shogunate",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_inazuma_shogunate",
+          "provider": "bwiki",
+          "page": "稻妻幕府",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_tri_commission",
+      "name_zh": "三奉行",
+      "name_en": "Tri-Commission",
+      "aliases": [
+        "三奉行",
+        "Tri-Commission"
+      ],
+      "activation_keys": [
+        "三奉行",
+        "Tri-Commission"
+      ],
+      "category": "institution",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_tri_commission",
+          "provider": "fandom",
+          "page": "Tri-Commission",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_inazuma_tri_commission",
+          "provider": "bwiki",
+          "page": "三奉行",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_narukami_faith",
+      "name_zh": "鸣神信仰与鸣神大社",
+      "name_en": "Narukami Faith and Shrine",
+      "aliases": [
+        "鸣神信仰与鸣神大社",
+        "Narukami Faith and Shrine"
+      ],
+      "activation_keys": [
+        "鸣神信仰与鸣神大社",
+        "Narukami Faith and Shrine"
+      ],
+      "category": "culture",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_narukami_faith",
+          "provider": "fandom",
+          "page": "Grand Narukami Shrine",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_inazuma_narukami_faith",
+          "provider": "bwiki",
+          "page": "鸣神大社",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_sacred_sakura",
+      "name_zh": "神樱、地脉与祓行",
+      "name_en": "Sacred Sakura and Cleansing",
+      "aliases": [
+        "神樱、地脉与祓行",
+        "Sacred Sakura and Cleansing"
+      ],
+      "activation_keys": [
+        "神樱、地脉与祓行",
+        "Sacred Sakura and Cleansing"
+      ],
+      "category": "power_system",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_sacred_sakura",
+          "provider": "fandom",
+          "page": "Sacred Sakura",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_inazuma_sacred_sakura",
+          "provider": "bwiki",
+          "page": "神樱",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_yokai",
+      "name_zh": "稻妻妖怪",
+      "name_en": "Inazuman Yokai",
+      "aliases": [
+        "稻妻妖怪",
+        "Inazuman Yokai"
+      ],
+      "activation_keys": [
+        "稻妻妖怪",
+        "Inazuman Yokai"
+      ],
+      "category": "species",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_yokai",
+          "provider": "fandom",
+          "page": "Yokai",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_inazuma_yokai",
+          "provider": "bwiki",
+          "page": "妖怪",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_raiden_gokaden",
+      "name_zh": "雷电五传与锻刀传统",
+      "name_en": "Raiden Gokaden",
+      "aliases": [
+        "雷电五传与锻刀传统",
+        "Raiden Gokaden"
+      ],
+      "activation_keys": [
+        "雷电五传与锻刀传统",
+        "Raiden Gokaden"
+      ],
+      "category": "culture",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_raiden_gokaden",
+          "provider": "fandom",
+          "page": "Raiden Gokaden",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_inazuma_raiden_gokaden",
+          "provider": "bwiki",
+          "page": "雷电五传",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_orobashi_war",
+      "name_zh": "奥罗巴斯、海祇与八酝战争",
+      "name_en": "Orobashi and Watatsumi War",
+      "aliases": [
+        "奥罗巴斯、海祇与八酝战争",
+        "Orobashi and Watatsumi War"
+      ],
+      "activation_keys": [
+        "奥罗巴斯、海祇与八酝战争",
+        "Orobashi and Watatsumi War"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_orobashi_war",
+          "provider": "fandom",
+          "page": "Inazuma/History",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "inazuma_decrees_civil_war",
+      "name_zh": "锁国令、眼狩令与内战",
+      "name_en": "Sakoku, Vision Hunt and Civil War",
+      "aliases": [
+        "锁国令、眼狩令与内战",
+        "Sakoku, Vision Hunt and Civil War"
+      ],
+      "activation_keys": [
+        "锁国令、眼狩令与内战",
+        "Sakoku, Vision Hunt and Civil War"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_inazuma_decrees_civil_war",
+          "provider": "fandom",
+          "page": "Vision Hunt Decree",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_inazuma_decrees_civil_war",
+          "provider": "bwiki",
+          "page": "眼狩令",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_overview",
+      "name_zh": "须弥",
+      "name_en": "Sumeru",
+      "aliases": [
+        "须弥",
+        "Sumeru"
+      ],
+      "activation_keys": [
+        "须弥",
+        "Sumeru"
+      ],
+      "category": "nation",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_overview",
+          "provider": "fandom",
+          "page": "Sumeru",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_sumeru_overview",
+          "provider": "bwiki",
+          "page": "须弥",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_rainforest",
+      "name_zh": "须弥雨林",
+      "name_en": "Dharma Forest",
+      "aliases": [
+        "须弥雨林",
+        "Dharma Forest"
+      ],
+      "activation_keys": [
+        "须弥雨林",
+        "Dharma Forest"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_rainforest",
+          "provider": "fandom",
+          "page": "Dharma Forest",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_sumeru_rainforest",
+          "provider": "bwiki",
+          "page": "须弥雨林",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_great_red_sand",
+      "name_zh": "大赤沙海",
+      "name_en": "Great Red Sand",
+      "aliases": [
+        "大赤沙海",
+        "Great Red Sand"
+      ],
+      "activation_keys": [
+        "大赤沙海",
+        "Great Red Sand"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_great_red_sand",
+          "provider": "fandom",
+          "page": "Great Red Sand",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_sumeru_great_red_sand",
+          "provider": "bwiki",
+          "page": "大赤沙海",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_hadramaveth",
+      "name_zh": "千壑沙地与居尔城",
+      "name_en": "Hadramaveth and Gurabad",
+      "aliases": [
+        "千壑沙地与居尔城",
+        "Hadramaveth and Gurabad"
+      ],
+      "activation_keys": [
+        "千壑沙地与居尔城",
+        "Hadramaveth and Gurabad"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_hadramaveth",
+          "provider": "fandom",
+          "page": "Desert of Hadramaveth",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_sumeru_hadramaveth",
+          "provider": "bwiki",
+          "page": "千壑沙地",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_girdle_sands",
+      "name_zh": "苍漠囿土",
+      "name_en": "Girdle of the Sands",
+      "aliases": [
+        "苍漠囿土",
+        "Girdle of the Sands"
+      ],
+      "activation_keys": [
+        "苍漠囿土",
+        "Girdle of the Sands"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_girdle_sands",
+          "provider": "fandom",
+          "page": "Girdle of the Sands",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_sumeru_girdle_sands",
+          "provider": "bwiki",
+          "page": "苍漠囿土",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_akademiya",
+      "name_zh": "须弥教令院",
+      "name_en": "Sumeru Akademiya",
+      "aliases": [
+        "须弥教令院",
+        "Sumeru Akademiya"
+      ],
+      "activation_keys": [
+        "须弥教令院",
+        "Sumeru Akademiya"
+      ],
+      "category": "institution",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_akademiya",
+          "provider": "fandom",
+          "page": "Sumeru Akademiya",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_sumeru_akademiya",
+          "provider": "bwiki",
+          "page": "须弥教令院",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_six_darshans",
+      "name_zh": "教令院六大学派",
+      "name_en": "Six Darshans",
+      "aliases": [
+        "教令院六大学派",
+        "Six Darshans"
+      ],
+      "activation_keys": [
+        "教令院六大学派",
+        "Six Darshans"
+      ],
+      "category": "institution",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_six_darshans",
+          "provider": "fandom",
+          "page": "Sumeru Akademiya",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_akasha",
+      "name_zh": "虚空系统与虚空终端",
+      "name_en": "Akasha System",
+      "aliases": [
+        "虚空系统与虚空终端",
+        "Akasha System"
+      ],
+      "activation_keys": [
+        "虚空系统与虚空终端",
+        "Akasha System"
+      ],
+      "category": "technology",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_akasha",
+          "provider": "fandom",
+          "page": "Akasha System",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_sumeru_akasha",
+          "provider": "bwiki",
+          "page": "虚空",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_eremites",
+      "name_zh": "镀金旅团与沙漠部族",
+      "name_en": "Eremites",
+      "aliases": [
+        "镀金旅团与沙漠部族",
+        "Eremites"
+      ],
+      "activation_keys": [
+        "镀金旅团与沙漠部族",
+        "Eremites"
+      ],
+      "category": "society",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_eremites",
+          "provider": "fandom",
+          "page": "Eremites",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_sumeru_eremites",
+          "provider": "bwiki",
+          "page": "镀金旅团",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_wisdom_dreams",
+      "name_zh": "智慧观、梦境与知识社会",
+      "name_en": "Wisdom, Dreams and Knowledge",
+      "aliases": [
+        "智慧观、梦境与知识社会",
+        "Wisdom, Dreams and Knowledge"
+      ],
+      "activation_keys": [
+        "智慧观、梦境与知识社会",
+        "Wisdom, Dreams and Knowledge"
+      ],
+      "category": "culture",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_wisdom_dreams",
+          "provider": "fandom",
+          "page": "Sumeru/Culture",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_forest_desert_divide",
+      "name_zh": "雨林与沙漠的社会分裂",
+      "name_en": "Forest-Desert Divide",
+      "aliases": [
+        "雨林与沙漠的社会分裂",
+        "Forest-Desert Divide"
+      ],
+      "activation_keys": [
+        "雨林与沙漠的社会分裂",
+        "Forest-Desert Divide"
+      ],
+      "category": "society",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_forest_desert_divide",
+          "provider": "fandom",
+          "page": "Sumeru/History",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_aranara",
+      "name_zh": "兰那罗、梦境与桓那兰那",
+      "name_en": "Aranara, Dreams and Vanarana",
+      "aliases": [
+        "兰那罗、梦境与桓那兰那",
+        "Aranara, Dreams and Vanarana"
+      ],
+      "activation_keys": [
+        "兰那罗、梦境与桓那兰那",
+        "Aranara, Dreams and Vanarana"
+      ],
+      "category": "species",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_aranara",
+          "provider": "fandom",
+          "page": "Aranara",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_sumeru_aranara",
+          "provider": "bwiki",
+          "page": "兰那罗",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_jinn",
+      "name_zh": "镇灵",
+      "name_en": "Jinn",
+      "aliases": [
+        "镇灵",
+        "Jinn"
+      ],
+      "activation_keys": [
+        "镇灵",
+        "Jinn"
+      ],
+      "category": "species",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_jinn",
+          "provider": "fandom",
+          "page": "Jinn",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_sumeru_jinn",
+          "provider": "bwiki",
+          "page": "镇灵",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_pari_khvarena",
+      "name_zh": "花灵与灵光",
+      "name_en": "Pari and Khvarena",
+      "aliases": [
+        "花灵与灵光",
+        "Pari and Khvarena"
+      ],
+      "activation_keys": [
+        "花灵与灵光",
+        "Pari and Khvarena"
+      ],
+      "category": "species",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_pari_khvarena",
+          "provider": "fandom",
+          "page": "Pari",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_sumeru_pari_khvarena",
+          "provider": "bwiki",
+          "page": "花灵",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_three_god_kings",
+      "name_zh": "须弥三神王同盟",
+      "name_en": "Three God-Kings of Sumeru",
+      "aliases": [
+        "须弥三神王同盟",
+        "Three God-Kings of Sumeru"
+      ],
+      "activation_keys": [
+        "须弥三神王同盟",
+        "Three God-Kings of Sumeru"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_three_god_kings",
+          "provider": "fandom",
+          "page": "Sumeru/History",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_deshret",
+      "name_zh": "赤王文明",
+      "name_en": "King Deshret's Civilization",
+      "aliases": [
+        "赤王文明",
+        "King Deshret's Civilization"
+      ],
+      "activation_keys": [
+        "赤王文明",
+        "King Deshret's Civilization"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_deshret",
+          "provider": "fandom",
+          "page": "King Deshret",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_sumeru_deshret",
+          "provider": "bwiki",
+          "page": "赤王",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_forbidden_knowledge",
+      "name_zh": "禁忌知识、死域与无留陀",
+      "name_en": "Forbidden Knowledge and Withering",
+      "aliases": [
+        "禁忌知识、死域与无留陀",
+        "Forbidden Knowledge and Withering"
+      ],
+      "activation_keys": [
+        "禁忌知识、死域与无留陀",
+        "Forbidden Knowledge and Withering"
+      ],
+      "category": "power_system",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_forbidden_knowledge",
+          "provider": "fandom",
+          "page": "Forbidden Knowledge",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_sumeru_forbidden_knowledge",
+          "provider": "bwiki",
+          "page": "死域",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "sumeru_modern_transition",
+      "name_zh": "贤者统治结束与现代须弥",
+      "name_en": "Fall of the Sages and Modern Sumeru",
+      "aliases": [
+        "贤者统治结束与现代须弥",
+        "Fall of the Sages and Modern Sumeru"
+      ],
+      "activation_keys": [
+        "贤者统治结束与现代须弥",
+        "Fall of the Sages and Modern Sumeru"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Sumeru"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_sumeru_modern_transition",
+          "provider": "fandom",
+          "page": "Sumeru/History",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_overview",
+      "name_zh": "枫丹",
+      "name_en": "Fontaine",
+      "aliases": [
+        "枫丹",
+        "Fontaine"
+      ],
+      "activation_keys": [
+        "枫丹",
+        "Fontaine"
+      ],
+      "category": "nation",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_overview",
+          "provider": "fandom",
+          "page": "Fontaine",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_fontaine_overview",
+          "provider": "bwiki",
+          "page": "枫丹",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_geography",
+      "name_zh": "枫丹大区与大枫丹湖",
+      "name_en": "Regions of Fontaine",
+      "aliases": [
+        "枫丹大区与大枫丹湖",
+        "Regions of Fontaine"
+      ],
+      "activation_keys": [
+        "枫丹大区与大枫丹湖",
+        "Regions of Fontaine"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_geography",
+          "provider": "fandom",
+          "page": "Viewpoint/Fontaine",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_fontaine_geography",
+          "provider": "bwiki",
+          "page": "枫丹·地理",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_current_governance",
+      "name_zh": "枫丹现行政体",
+      "name_en": "Current Government of Fontaine",
+      "aliases": [
+        "枫丹现行政体",
+        "Current Government of Fontaine"
+      ],
+      "activation_keys": [
+        "枫丹现行政体",
+        "Current Government of Fontaine"
+      ],
+      "category": "institution",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_current_governance",
+          "provider": "fandom",
+          "page": "Fontaine",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_justice_system",
+      "name_zh": "枫丹司法与审判文化",
+      "name_en": "Fontainian Justice System",
+      "aliases": [
+        "枫丹司法与审判文化",
+        "Fontainian Justice System"
+      ],
+      "activation_keys": [
+        "枫丹司法与审判文化",
+        "Fontainian Justice System"
+      ],
+      "category": "institution",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_justice_system",
+          "provider": "fandom",
+          "page": "Fontaine/Culture",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_oratrice",
+      "name_zh": "谕示裁定枢机与律偿混能",
+      "name_en": "Oratrice and Indemnitium",
+      "aliases": [
+        "谕示裁定枢机与律偿混能",
+        "Oratrice and Indemnitium"
+      ],
+      "activation_keys": [
+        "谕示裁定枢机与律偿混能",
+        "Oratrice and Indemnitium"
+      ],
+      "category": "technology",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_oratrice",
+          "provider": "fandom",
+          "page": "Oratrice Mecanique d'Analyse Cardinale",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_fontaine_oratrice",
+          "provider": "bwiki",
+          "page": "谕示裁定枢机",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_meropide",
+      "name_zh": "梅洛彼得堡",
+      "name_en": "Fortress of Meropide",
+      "aliases": [
+        "梅洛彼得堡",
+        "Fortress of Meropide"
+      ],
+      "activation_keys": [
+        "梅洛彼得堡",
+        "Fortress of Meropide"
+      ],
+      "category": "institution",
+      "scope": "local",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_meropide",
+          "provider": "fandom",
+          "page": "Fortress of Meropide",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_fontaine_meropide",
+          "provider": "bwiki",
+          "page": "梅洛彼得堡",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_research_institute",
+      "name_zh": "枫丹科学院",
+      "name_en": "Fontaine Research Institute",
+      "aliases": [
+        "枫丹科学院",
+        "Fontaine Research Institute"
+      ],
+      "activation_keys": [
+        "枫丹科学院",
+        "Fontaine Research Institute"
+      ],
+      "category": "organization",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_research_institute",
+          "provider": "fandom",
+          "page": "Fontaine Research Institute",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_fontaine_research_institute",
+          "provider": "bwiki",
+          "page": "枫丹科学院",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_spina",
+      "name_zh": "刺玫会",
+      "name_en": "Spina di Rosula",
+      "aliases": [
+        "刺玫会",
+        "Spina di Rosula"
+      ],
+      "activation_keys": [
+        "刺玫会",
+        "Spina di Rosula"
+      ],
+      "category": "organization",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_spina",
+          "provider": "fandom",
+          "page": "Spina di Rosula",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_fontaine_spina",
+          "provider": "bwiki",
+          "page": "刺玫会",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_narzissenkreuz",
+      "name_zh": "水仙十字院与结社",
+      "name_en": "Narzissenkreuz Institute and Ordo",
+      "aliases": [
+        "水仙十字院与结社",
+        "Narzissenkreuz Institute and Ordo"
+      ],
+      "activation_keys": [
+        "水仙十字院与结社",
+        "Narzissenkreuz Institute and Ordo"
+      ],
+      "category": "organization",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_narzissenkreuz",
+          "provider": "fandom",
+          "page": "Narzissenkreuz Ordo",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_fontaine_narzissenkreuz",
+          "provider": "bwiki",
+          "page": "水仙十字结社",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_people_origin",
+      "name_zh": "枫丹人的起源与转化",
+      "name_en": "Origin and Transformation of Fontainians",
+      "aliases": [
+        "枫丹人的起源与转化",
+        "Origin and Transformation of Fontainians"
+      ],
+      "activation_keys": [
+        "枫丹人的起源与转化",
+        "Origin and Transformation of Fontainians"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_people_origin",
+          "provider": "fandom",
+          "page": "Fontainian",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_oceanids",
+      "name_zh": "纯水精灵",
+      "name_en": "Oceanids",
+      "aliases": [
+        "纯水精灵",
+        "Oceanids"
+      ],
+      "activation_keys": [
+        "纯水精灵",
+        "Oceanids"
+      ],
+      "category": "species",
+      "scope": "cross_regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_oceanids",
+          "provider": "fandom",
+          "page": "Oceanid",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_fontaine_oceanids",
+          "provider": "bwiki",
+          "page": "纯水精灵",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_melusines",
+      "name_zh": "美露莘与厄里那斯",
+      "name_en": "Melusines and Elynas",
+      "aliases": [
+        "美露莘与厄里那斯",
+        "Melusines and Elynas"
+      ],
+      "activation_keys": [
+        "美露莘与厄里那斯",
+        "Melusines and Elynas"
+      ],
+      "category": "species",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_melusines",
+          "provider": "fandom",
+          "page": "Melusine",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_fontaine_melusines",
+          "provider": "bwiki",
+          "page": "美露莘",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_performing_arts",
+      "name_zh": "歌剧、电影与表演文化",
+      "name_en": "Performing Arts of Fontaine",
+      "aliases": [
+        "歌剧、电影与表演文化",
+        "Performing Arts of Fontaine"
+      ],
+      "activation_keys": [
+        "歌剧、电影与表演文化",
+        "Performing Arts of Fontaine"
+      ],
+      "category": "culture",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_performing_arts",
+          "provider": "fandom",
+          "page": "Fontaine/Culture",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_technology",
+      "name_zh": "枫丹工程与发条机关",
+      "name_en": "Fontainian Technology and Meka",
+      "aliases": [
+        "枫丹工程与发条机关",
+        "Fontainian Technology and Meka"
+      ],
+      "activation_keys": [
+        "枫丹工程与发条机关",
+        "Fontainian Technology and Meka"
+      ],
+      "category": "technology",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_technology",
+          "provider": "fandom",
+          "page": "Clockwork Meka",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_fontaine_technology",
+          "provider": "bwiki",
+          "page": "发条机关",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_arkhe",
+      "name_zh": "芒荒能量",
+      "name_en": "Arkhe",
+      "aliases": [
+        "芒荒能量",
+        "Arkhe"
+      ],
+      "activation_keys": [
+        "芒荒能量",
+        "Arkhe"
+      ],
+      "category": "power_system",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_arkhe",
+          "provider": "fandom",
+          "page": "Arkhe",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_fontaine_arkhe",
+          "provider": "bwiki",
+          "page": "芒荒",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_primordial_sea",
+      "name_zh": "原始胎海",
+      "name_en": "Primordial Sea",
+      "aliases": [
+        "原始胎海",
+        "Primordial Sea"
+      ],
+      "activation_keys": [
+        "原始胎海",
+        "Primordial Sea"
+      ],
+      "category": "natural_law",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_primordial_sea",
+          "provider": "fandom",
+          "page": "Primordial Sea",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_fontaine_primordial_sea",
+          "provider": "bwiki",
+          "page": "原始胎海",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_remuria",
+      "name_zh": "雷穆利亚文明",
+      "name_en": "Remuria",
+      "aliases": [
+        "雷穆利亚文明",
+        "Remuria"
+      ],
+      "activation_keys": [
+        "雷穆利亚文明",
+        "Remuria"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_remuria",
+          "provider": "fandom",
+          "page": "Remuria",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_fontaine_remuria",
+          "provider": "bwiki",
+          "page": "雷穆利亚",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_grand_symphony",
+      "name_zh": "大乐章、福波斯与命运",
+      "name_en": "Grand Symphony, Phobos and Fortuna",
+      "aliases": [
+        "大乐章、福波斯与命运",
+        "Grand Symphony, Phobos and Fortuna"
+      ],
+      "activation_keys": [
+        "大乐章、福波斯与命运",
+        "Grand Symphony, Phobos and Fortuna"
+      ],
+      "category": "power_system",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_grand_symphony",
+          "provider": "fandom",
+          "page": "Remuria",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "fontaine_prophecy",
+      "name_zh": "枫丹预言与芙卡洛斯计划",
+      "name_en": "Fontaine Prophecy and Focalors' Plan",
+      "aliases": [
+        "枫丹预言与芙卡洛斯计划",
+        "Fontaine Prophecy and Focalors' Plan"
+      ],
+      "activation_keys": [
+        "枫丹预言与芙卡洛斯计划",
+        "Fontaine Prophecy and Focalors' Plan"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Fontaine"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_fontaine_prophecy",
+          "provider": "fandom",
+          "page": "Prophecy of Fontaine",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_fontaine_prophecy",
+          "provider": "bwiki",
+          "page": "枫丹预言",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_overview",
+      "name_zh": "纳塔",
+      "name_en": "Natlan",
+      "aliases": [
+        "纳塔",
+        "Natlan"
+      ],
+      "activation_keys": [
+        "纳塔",
+        "Natlan"
+      ],
+      "category": "nation",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_overview",
+          "provider": "fandom",
+          "page": "Natlan",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_overview",
+          "provider": "bwiki",
+          "page": "纳塔",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_geography",
+      "name_zh": "纳塔主要地理区域",
+      "name_en": "Major Regions of Natlan",
+      "aliases": [
+        "纳塔主要地理区域",
+        "Major Regions of Natlan"
+      ],
+      "activation_keys": [
+        "纳塔主要地理区域",
+        "Major Regions of Natlan"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_geography",
+          "provider": "fandom",
+          "page": "Viewpoint/Natlan",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_geography",
+          "provider": "bwiki",
+          "page": "地理志纳塔",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_six_tribes",
+      "name_zh": "纳塔六大部族",
+      "name_en": "Six Tribes of Natlan",
+      "aliases": [
+        "纳塔六大部族",
+        "Six Tribes of Natlan"
+      ],
+      "activation_keys": [
+        "纳塔六大部族",
+        "Six Tribes of Natlan"
+      ],
+      "category": "society",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_six_tribes",
+          "provider": "fandom",
+          "page": "Natlan/Culture",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_six_tribes",
+          "provider": "bwiki",
+          "page": "纳塔",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_children_echoes",
+      "name_zh": "回声之子",
+      "name_en": "Children of Echoes",
+      "aliases": [
+        "回声之子",
+        "Children of Echoes"
+      ],
+      "activation_keys": [
+        "回声之子",
+        "Children of Echoes"
+      ],
+      "category": "society",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_children_echoes",
+          "provider": "fandom",
+          "page": "Children of Echoes",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_children_echoes",
+          "provider": "bwiki",
+          "page": "回声之子",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_scions_canopy",
+      "name_zh": "悬木人",
+      "name_en": "Scions of the Canopy",
+      "aliases": [
+        "悬木人",
+        "Scions of the Canopy"
+      ],
+      "activation_keys": [
+        "悬木人",
+        "Scions of the Canopy"
+      ],
+      "category": "society",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_scions_canopy",
+          "provider": "fandom",
+          "page": "Scions of the Canopy",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_scions_canopy",
+          "provider": "bwiki",
+          "page": "悬木人",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_people_springs",
+      "name_zh": "流泉之众",
+      "name_en": "People of the Springs",
+      "aliases": [
+        "流泉之众",
+        "People of the Springs"
+      ],
+      "activation_keys": [
+        "流泉之众",
+        "People of the Springs"
+      ],
+      "category": "society",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_people_springs",
+          "provider": "fandom",
+          "page": "People of the Springs",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_people_springs",
+          "provider": "bwiki",
+          "page": "流泉之众",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_flower_feather",
+      "name_zh": "花羽会",
+      "name_en": "Flower-Feather Clan",
+      "aliases": [
+        "花羽会",
+        "Flower-Feather Clan"
+      ],
+      "activation_keys": [
+        "花羽会",
+        "Flower-Feather Clan"
+      ],
+      "category": "society",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_flower_feather",
+          "provider": "fandom",
+          "page": "Flower-Feather Clan",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_flower_feather",
+          "provider": "bwiki",
+          "page": "花羽会",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_masters_night_wind",
+      "name_zh": "烟谜主",
+      "name_en": "Masters of the Night-Wind",
+      "aliases": [
+        "烟谜主",
+        "Masters of the Night-Wind"
+      ],
+      "activation_keys": [
+        "烟谜主",
+        "Masters of the Night-Wind"
+      ],
+      "category": "society",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_masters_night_wind",
+          "provider": "fandom",
+          "page": "Masters of the Night-Wind",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_masters_night_wind",
+          "provider": "bwiki",
+          "page": "烟谜主",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_collective_plenty",
+      "name_zh": "沃陆之邦",
+      "name_en": "Collective of Plenty",
+      "aliases": [
+        "沃陆之邦",
+        "Collective of Plenty"
+      ],
+      "activation_keys": [
+        "沃陆之邦",
+        "Collective of Plenty"
+      ],
+      "category": "society",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_collective_plenty",
+          "provider": "fandom",
+          "page": "Collective of Plenty",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_collective_plenty",
+          "provider": "bwiki",
+          "page": "沃陆之邦",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_stadium",
+      "name_zh": "圣火竞技场",
+      "name_en": "Stadium of the Sacred Flame",
+      "aliases": [
+        "圣火竞技场",
+        "Stadium of the Sacred Flame"
+      ],
+      "activation_keys": [
+        "圣火竞技场",
+        "Stadium of the Sacred Flame"
+      ],
+      "category": "geography",
+      "scope": "local",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_stadium",
+          "provider": "fandom",
+          "page": "Stadium of the Sacred Flame",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_stadium",
+          "provider": "bwiki",
+          "page": "圣火竞技场",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_ochkanatlan",
+      "name_zh": "奥奇卡纳塔",
+      "name_en": "Ochkanatlan",
+      "aliases": [
+        "奥奇卡纳塔",
+        "Ochkanatlan"
+      ],
+      "activation_keys": [
+        "奥奇卡纳塔",
+        "Ochkanatlan"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_ochkanatlan",
+          "provider": "fandom",
+          "page": "Ochkanatlan",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_ochkanatlan",
+          "provider": "bwiki",
+          "page": "奥奇卡纳塔",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_sacred_mountain",
+      "name_zh": "远古圣山与托兰大火山",
+      "name_en": "Ancient Sacred Mountain",
+      "aliases": [
+        "远古圣山与托兰大火山",
+        "Ancient Sacred Mountain"
+      ],
+      "activation_keys": [
+        "远古圣山与托兰大火山",
+        "Ancient Sacred Mountain"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_sacred_mountain",
+          "provider": "fandom",
+          "page": "Ancient Sacred Mountain",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_sacred_mountain",
+          "provider": "bwiki",
+          "page": "远古圣山",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_mare_jivari",
+      "name_zh": "烬寂海",
+      "name_en": "Mare Jivari",
+      "aliases": [
+        "烬寂海",
+        "Mare Jivari"
+      ],
+      "activation_keys": [
+        "烬寂海",
+        "Mare Jivari"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_mare_jivari",
+          "provider": "fandom",
+          "page": "Mare Jivari",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_mare_jivari",
+          "provider": "bwiki",
+          "page": "烬寂海",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_daily_culture",
+      "name_zh": "纳塔日常文化",
+      "name_en": "Daily Culture of Natlan",
+      "aliases": [
+        "纳塔日常文化",
+        "Daily Culture of Natlan"
+      ],
+      "activation_keys": [
+        "纳塔日常文化",
+        "Daily Culture of Natlan"
+      ],
+      "category": "culture",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_daily_culture",
+          "provider": "fandom",
+          "page": "Natlan/Culture",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_saurians",
+      "name_zh": "纳塔龙众",
+      "name_en": "Saurians",
+      "aliases": [
+        "纳塔龙众",
+        "Saurians"
+      ],
+      "activation_keys": [
+        "纳塔龙众",
+        "Saurians"
+      ],
+      "category": "species",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_saurians",
+          "provider": "fandom",
+          "page": "Saurian",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_saurians",
+          "provider": "bwiki",
+          "page": "龙",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_human_saurian_bond",
+      "name_zh": "人与龙伙伴共生",
+      "name_en": "Human-Saurian Bond",
+      "aliases": [
+        "人与龙伙伴共生",
+        "Human-Saurian Bond"
+      ],
+      "activation_keys": [
+        "人与龙伙伴共生",
+        "Human-Saurian Bond"
+      ],
+      "category": "society",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_human_saurian_bond",
+          "provider": "fandom",
+          "page": "Saurian",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_natlantea",
+      "name_zh": "纳塔兰提亚",
+      "name_en": "Natlantea",
+      "aliases": [
+        "纳塔兰提亚",
+        "Natlantea"
+      ],
+      "activation_keys": [
+        "纳塔兰提亚",
+        "Natlantea"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_natlantea",
+          "provider": "fandom",
+          "page": "Natlantea",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_thirteen_lords",
+      "name_zh": "十三位龙领主",
+      "name_en": "Thirteen Sovereign Lords",
+      "aliases": [
+        "十三位龙领主",
+        "Thirteen Sovereign Lords"
+      ],
+      "activation_keys": [
+        "十三位龙领主",
+        "Thirteen Sovereign Lords"
+      ],
+      "category": "institution",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_thirteen_lords",
+          "provider": "fandom",
+          "page": "Thirteen Sovereign Lords",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_night_kingdom",
+      "name_zh": "夜神之国",
+      "name_en": "Night Kingdom",
+      "aliases": [
+        "夜神之国",
+        "Night Kingdom"
+      ],
+      "activation_keys": [
+        "夜神之国",
+        "Night Kingdom"
+      ],
+      "category": "cosmology",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_night_kingdom",
+          "provider": "fandom",
+          "page": "Night Kingdom",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_night_kingdom",
+          "provider": "bwiki",
+          "page": "夜神之国",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_wayob",
+      "name_zh": "大灵",
+      "name_en": "Wayob",
+      "aliases": [
+        "大灵",
+        "Wayob"
+      ],
+      "activation_keys": [
+        "大灵",
+        "Wayob"
+      ],
+      "category": "species",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_wayob",
+          "provider": "fandom",
+          "page": "Wayob",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_wayob",
+          "provider": "bwiki",
+          "page": "大灵",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_ancient_names",
+      "name_zh": "古名",
+      "name_en": "Ancient Names",
+      "aliases": [
+        "古名",
+        "Ancient Names"
+      ],
+      "activation_keys": [
+        "古名",
+        "Ancient Names"
+      ],
+      "category": "institution",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_ancient_names",
+          "provider": "fandom",
+          "page": "Ancient Name",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_ancient_names",
+          "provider": "bwiki",
+          "page": "古名",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_pilgrimage",
+      "name_zh": "归火圣夜巡礼",
+      "name_en": "Pilgrimage of the Return of the Sacred Flame",
+      "aliases": [
+        "归火圣夜巡礼",
+        "Pilgrimage of the Return of the Sacred Flame"
+      ],
+      "activation_keys": [
+        "归火圣夜巡礼",
+        "Pilgrimage of the Return of the Sacred Flame"
+      ],
+      "category": "institution",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_pilgrimage",
+          "provider": "fandom",
+          "page": "Pilgrimage of the Return of the Sacred Flame",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_pilgrimage",
+          "provider": "bwiki",
+          "page": "归火圣夜巡礼",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_night_warden_wars",
+      "name_zh": "巡夜者战争",
+      "name_en": "Night Warden Wars",
+      "aliases": [
+        "巡夜者战争",
+        "Night Warden Wars"
+      ],
+      "activation_keys": [
+        "巡夜者战争",
+        "Night Warden Wars"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_night_warden_wars",
+          "provider": "fandom",
+          "page": "Night Warden Wars",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_ode_resurrection",
+      "name_zh": "还魂诗",
+      "name_en": "Ode of Resurrection",
+      "aliases": [
+        "还魂诗",
+        "Ode of Resurrection"
+      ],
+      "activation_keys": [
+        "还魂诗",
+        "Ode of Resurrection"
+      ],
+      "category": "power_system",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_ode_resurrection",
+          "provider": "fandom",
+          "page": "Ode of Resurrection",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_ode_resurrection",
+          "provider": "bwiki",
+          "page": "还魂诗",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_sacred_flame",
+      "name_zh": "圣火与角逐之焰",
+      "name_en": "Sacred Flame and Contending Fire",
+      "aliases": [
+        "圣火与角逐之焰",
+        "Sacred Flame and Contending Fire"
+      ],
+      "activation_keys": [
+        "圣火与角逐之焰",
+        "Sacred Flame and Contending Fire"
+      ],
+      "category": "power_system",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_sacred_flame",
+          "provider": "fandom",
+          "page": "Sacred Flame",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_sacred_flame",
+          "provider": "bwiki",
+          "page": "圣火",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_pyro_succession",
+      "name_zh": "火神继承规则",
+      "name_en": "Pyro Archon Succession",
+      "aliases": [
+        "火神继承规则",
+        "Pyro Archon Succession"
+      ],
+      "activation_keys": [
+        "火神继承规则",
+        "Pyro Archon Succession"
+      ],
+      "category": "institution",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_pyro_succession",
+          "provider": "fandom",
+          "page": "Pyro Archon",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_pyro_succession",
+          "provider": "bwiki",
+          "page": "火神",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_phlogiston",
+      "name_zh": "燃素",
+      "name_en": "Phlogiston",
+      "aliases": [
+        "燃素",
+        "Phlogiston"
+      ],
+      "activation_keys": [
+        "燃素",
+        "Phlogiston"
+      ],
+      "category": "power_system",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_phlogiston",
+          "provider": "fandom",
+          "page": "Phlogiston",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_phlogiston",
+          "provider": "bwiki",
+          "page": "燃素",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_nightsoul",
+      "name_zh": "夜魂",
+      "name_en": "Nightsoul",
+      "aliases": [
+        "夜魂",
+        "Nightsoul"
+      ],
+      "activation_keys": [
+        "夜魂",
+        "Nightsoul"
+      ],
+      "category": "power_system",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_nightsoul",
+          "provider": "fandom",
+          "page": "Nightsoul",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_nightsoul",
+          "provider": "bwiki",
+          "page": "夜魂",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_secret_source",
+      "name_zh": "秘源机关与燃素信息技术",
+      "name_en": "Secret Source Technology",
+      "aliases": [
+        "秘源机关与燃素信息技术",
+        "Secret Source Technology"
+      ],
+      "activation_keys": [
+        "秘源机关与燃素信息技术",
+        "Secret Source Technology"
+      ],
+      "category": "technology",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_secret_source",
+          "provider": "fandom",
+          "page": "Secret Source Automaton",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_natlan_secret_source",
+          "provider": "bwiki",
+          "page": "秘源机关",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_ancient_dragon_war",
+      "name_zh": "远古龙文明与希巴拉克的反抗",
+      "name_en": "Ancient Dragon Era and Xbalanque's Rebellion",
+      "aliases": [
+        "远古龙文明与希巴拉克的反抗",
+        "Ancient Dragon Era and Xbalanque's Rebellion"
+      ],
+      "activation_keys": [
+        "远古龙文明与希巴拉克的反抗",
+        "Ancient Dragon Era and Xbalanque's Rebellion"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_ancient_dragon_war",
+          "provider": "fandom",
+          "page": "Natlan/History",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_ochkan_era",
+      "name_zh": "奥奇坎时代",
+      "name_en": "Och-Kan's Era",
+      "aliases": [
+        "奥奇坎时代",
+        "Och-Kan's Era"
+      ],
+      "activation_keys": [
+        "奥奇坎时代",
+        "Och-Kan's Era"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_ochkan_era",
+          "provider": "fandom",
+          "page": "Natlan/History",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_cataclysm",
+      "name_zh": "五百年前纳塔灾厄",
+      "name_en": "Cataclysm in Natlan",
+      "aliases": [
+        "五百年前纳塔灾厄",
+        "Cataclysm in Natlan"
+      ],
+      "activation_keys": [
+        "五百年前纳塔灾厄",
+        "Cataclysm in Natlan"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_cataclysm",
+          "provider": "fandom",
+          "page": "Natlan/History",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_mavuika_plan",
+      "name_zh": "玛薇卡的五百年计划与六英雄",
+      "name_en": "Mavuika's Plan and Six Heroes",
+      "aliases": [
+        "玛薇卡的五百年计划与六英雄",
+        "Mavuika's Plan and Six Heroes"
+      ],
+      "activation_keys": [
+        "玛薇卡的五百年计划与六英雄",
+        "Mavuika's Plan and Six Heroes"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_mavuika_plan",
+          "provider": "fandom",
+          "page": "Heroes of Natlan",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_abyss_war",
+      "name_zh": "当代纳塔深渊战争",
+      "name_en": "Modern Abyss War in Natlan",
+      "aliases": [
+        "当代纳塔深渊战争",
+        "Modern Abyss War in Natlan"
+      ],
+      "activation_keys": [
+        "当代纳塔深渊战争",
+        "Modern Abyss War in Natlan"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_abyss_war",
+          "provider": "fandom",
+          "page": "Natlan/History",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_postwar_state",
+      "name_zh": "战后纳塔",
+      "name_en": "Postwar Natlan",
+      "aliases": [
+        "战后纳塔",
+        "Postwar Natlan"
+      ],
+      "activation_keys": [
+        "战后纳塔",
+        "Postwar Natlan"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_postwar_state",
+          "provider": "fandom",
+          "page": "Natlan",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "natlan_travel_restriction",
+      "name_zh": "纳塔人离境限制及解除",
+      "name_en": "Natlanese Travel Restriction",
+      "aliases": [
+        "纳塔人离境限制及解除",
+        "Natlanese Travel Restriction"
+      ],
+      "activation_keys": [
+        "纳塔人离境限制及解除",
+        "Natlanese Travel Restriction"
+      ],
+      "category": "natural_law",
+      "scope": "regional",
+      "regions": [
+        "Natlan"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_natlan_travel_restriction",
+          "provider": "fandom",
+          "page": "Natlan",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "snezhnaya_overview",
+      "name_zh": "至冬",
+      "name_en": "Snezhnaya",
+      "aliases": [
+        "至冬",
+        "Snezhnaya"
+      ],
+      "activation_keys": [
+        "至冬",
+        "Snezhnaya"
+      ],
+      "category": "nation",
+      "scope": "regional",
+      "regions": [
+        "Snezhnaya"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_snezhnaya_overview",
+          "provider": "fandom",
+          "page": "Snezhnaya",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_snezhnaya_overview",
+          "provider": "bwiki",
+          "page": "至冬",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "snezhnaya_culture",
+      "name_zh": "至冬社会与严寒生活",
+      "name_en": "Snezhnayan Culture",
+      "aliases": [
+        "至冬社会与严寒生活",
+        "Snezhnayan Culture"
+      ],
+      "activation_keys": [
+        "至冬社会与严寒生活",
+        "Snezhnayan Culture"
+      ],
+      "category": "culture",
+      "scope": "regional",
+      "regions": [
+        "Snezhnaya"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_snezhnaya_culture",
+          "provider": "fandom",
+          "page": "Snezhnaya/Culture",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "snezhnaya_government",
+      "name_zh": "冰之女皇与至冬治理",
+      "name_en": "Tsaritsa and Government",
+      "aliases": [
+        "冰之女皇与至冬治理",
+        "Tsaritsa and Government"
+      ],
+      "activation_keys": [
+        "冰之女皇与至冬治理",
+        "Tsaritsa and Government"
+      ],
+      "category": "institution",
+      "scope": "regional",
+      "regions": [
+        "Snezhnaya"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_snezhnaya_government",
+          "provider": "fandom",
+          "page": "Snezhnaya",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "snezhnaya_fatui",
+      "name_zh": "愚人众",
+      "name_en": "Fatui",
+      "aliases": [
+        "愚人众",
+        "Fatui"
+      ],
+      "activation_keys": [
+        "愚人众",
+        "Fatui"
+      ],
+      "category": "organization",
+      "scope": "cross_regional",
+      "regions": [
+        "Snezhnaya"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_snezhnaya_fatui",
+          "provider": "fandom",
+          "page": "Fatui",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_snezhnaya_fatui",
+          "provider": "bwiki",
+          "page": "愚人众",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "snezhnaya_harbingers",
+      "name_zh": "愚人众执行官制度",
+      "name_en": "Eleven Fatui Harbingers",
+      "aliases": [
+        "愚人众执行官制度",
+        "Eleven Fatui Harbingers"
+      ],
+      "activation_keys": [
+        "愚人众执行官制度",
+        "Eleven Fatui Harbingers"
+      ],
+      "category": "institution",
+      "scope": "cross_regional",
+      "regions": [
+        "Snezhnaya"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_snezhnaya_harbingers",
+          "provider": "fandom",
+          "page": "Eleven Fatui Harbingers",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_snezhnaya_harbingers",
+          "provider": "bwiki",
+          "page": "愚人众执行官",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "snezhnaya_military",
+      "name_zh": "愚人众军制",
+      "name_en": "Fatui Military",
+      "aliases": [
+        "愚人众军制",
+        "Fatui Military"
+      ],
+      "activation_keys": [
+        "愚人众军制",
+        "Fatui Military"
+      ],
+      "category": "organization",
+      "scope": "cross_regional",
+      "regions": [
+        "Snezhnaya"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_snezhnaya_military",
+          "provider": "fandom",
+          "page": "Fatui",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "snezhnaya_house_hearth",
+      "name_zh": "壁炉之家",
+      "name_en": "House of the Hearth",
+      "aliases": [
+        "壁炉之家",
+        "House of the Hearth"
+      ],
+      "activation_keys": [
+        "壁炉之家",
+        "House of the Hearth"
+      ],
+      "category": "organization",
+      "scope": "cross_regional",
+      "regions": [
+        "Snezhnaya"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_snezhnaya_house_hearth",
+          "provider": "fandom",
+          "page": "House of the Hearth",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_snezhnaya_house_hearth",
+          "provider": "bwiki",
+          "page": "壁炉之家",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "snezhnaya_northland_bank",
+      "name_zh": "北国银行",
+      "name_en": "Northland Bank",
+      "aliases": [
+        "北国银行",
+        "Northland Bank"
+      ],
+      "activation_keys": [
+        "北国银行",
+        "Northland Bank"
+      ],
+      "category": "organization",
+      "scope": "cross_regional",
+      "regions": [
+        "Snezhnaya"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_snezhnaya_northland_bank",
+          "provider": "fandom",
+          "page": "Northland Bank",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_snezhnaya_northland_bank",
+          "provider": "bwiki",
+          "page": "北国银行",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "snezhnaya_industry",
+      "name_zh": "至冬工业与机械",
+      "name_en": "Snezhnayan Industry and Technology",
+      "aliases": [
+        "至冬工业与机械",
+        "Snezhnayan Industry and Technology"
+      ],
+      "activation_keys": [
+        "至冬工业与机械",
+        "Snezhnayan Industry and Technology"
+      ],
+      "category": "technology",
+      "scope": "regional",
+      "regions": [
+        "Snezhnaya"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_snezhnaya_industry",
+          "provider": "fandom",
+          "page": "Snezhnaya",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "snezhnaya_fatui_foundation",
+      "name_zh": "愚人众的建立",
+      "name_en": "Founding of the Fatui",
+      "aliases": [
+        "愚人众的建立",
+        "Founding of the Fatui"
+      ],
+      "activation_keys": [
+        "愚人众的建立",
+        "Founding of the Fatui"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Snezhnaya"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_snezhnaya_fatui_foundation",
+          "provider": "fandom",
+          "page": "Snezhnaya/History",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "nodkrai_overview",
+      "name_zh": "挪德卡莱",
+      "name_en": "Nod-Krai",
+      "aliases": [
+        "挪德卡莱",
+        "Nod-Krai"
+      ],
+      "activation_keys": [
+        "挪德卡莱",
+        "Nod-Krai"
+      ],
+      "category": "nation",
+      "scope": "regional",
+      "regions": [
+        "Nod-Krai"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_nodkrai_overview",
+          "provider": "fandom",
+          "page": "Nod-Krai",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_nodkrai_overview",
+          "provider": "bwiki",
+          "page": "挪德卡莱",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "nodkrai_geography",
+      "name_zh": "挪德卡莱主要区域",
+      "name_en": "Major Areas of Nod-Krai",
+      "aliases": [
+        "挪德卡莱主要区域",
+        "Major Areas of Nod-Krai"
+      ],
+      "activation_keys": [
+        "挪德卡莱主要区域",
+        "Major Areas of Nod-Krai"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Nod-Krai"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_nodkrai_geography",
+          "provider": "fandom",
+          "page": "Viewpoint/Nod-Krai",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_nodkrai_geography",
+          "provider": "bwiki",
+          "page": "地理志挪德卡莱",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "nodkrai_autonomy",
+      "name_zh": "挪德卡莱自治与地方秩序",
+      "name_en": "Autonomy and Local Order",
+      "aliases": [
+        "挪德卡莱自治与地方秩序",
+        "Autonomy and Local Order"
+      ],
+      "activation_keys": [
+        "挪德卡莱自治与地方秩序",
+        "Autonomy and Local Order"
+      ],
+      "category": "institution",
+      "scope": "regional",
+      "regions": [
+        "Nod-Krai"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_nodkrai_autonomy",
+          "provider": "fandom",
+          "page": "Nod-Krai",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "nodkrai_voynich",
+      "name_zh": "沃伊尼奇商会",
+      "name_en": "Voynich Guild",
+      "aliases": [
+        "沃伊尼奇商会",
+        "Voynich Guild"
+      ],
+      "activation_keys": [
+        "沃伊尼奇商会",
+        "Voynich Guild"
+      ],
+      "category": "organization",
+      "scope": "regional",
+      "regions": [
+        "Nod-Krai"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_nodkrai_voynich",
+          "provider": "fandom",
+          "page": "Voynich Guild",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_nodkrai_voynich",
+          "provider": "bwiki",
+          "page": "沃伊尼奇商会",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "nodkrai_curatorium",
+      "name_zh": "秘闻馆",
+      "name_en": "Curatorium of Secrets",
+      "aliases": [
+        "秘闻馆",
+        "Curatorium of Secrets"
+      ],
+      "activation_keys": [
+        "秘闻馆",
+        "Curatorium of Secrets"
+      ],
+      "category": "organization",
+      "scope": "regional",
+      "regions": [
+        "Nod-Krai"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_nodkrai_curatorium",
+          "provider": "fandom",
+          "page": "Curatorium of Secrets (Faction)",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_nodkrai_curatorium",
+          "provider": "bwiki",
+          "page": "秘闻馆",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "nodkrai_frostmoon",
+      "name_zh": "霜月之子",
+      "name_en": "Frostmoon Scions",
+      "aliases": [
+        "霜月之子",
+        "Frostmoon Scions"
+      ],
+      "activation_keys": [
+        "霜月之子",
+        "Frostmoon Scions"
+      ],
+      "category": "society",
+      "scope": "regional",
+      "regions": [
+        "Nod-Krai"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_nodkrai_frostmoon",
+          "provider": "fandom",
+          "page": "Frostmoon Scions",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_nodkrai_frostmoon",
+          "provider": "bwiki",
+          "page": "霜月之子",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "nodkrai_lightkeepers",
+      "name_zh": "执灯人",
+      "name_en": "Lightkeepers",
+      "aliases": [
+        "执灯人",
+        "Lightkeepers"
+      ],
+      "activation_keys": [
+        "执灯人",
+        "Lightkeepers"
+      ],
+      "category": "organization",
+      "scope": "regional",
+      "regions": [
+        "Nod-Krai"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_nodkrai_lightkeepers",
+          "provider": "fandom",
+          "page": "Lightkeepers",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_nodkrai_lightkeepers",
+          "provider": "bwiki",
+          "page": "执灯人",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "nodkrai_wild_hunt",
+      "name_zh": "狂猎",
+      "name_en": "The Wild Hunt",
+      "aliases": [
+        "狂猎",
+        "The Wild Hunt"
+      ],
+      "activation_keys": [
+        "狂猎",
+        "The Wild Hunt"
+      ],
+      "category": "power_system",
+      "scope": "regional",
+      "regions": [
+        "Nod-Krai"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_nodkrai_wild_hunt",
+          "provider": "fandom",
+          "page": "The Wild Hunt",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_nodkrai_wild_hunt",
+          "provider": "bwiki",
+          "page": "狂猎",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "nodkrai_kuuvahki",
+      "name_zh": "月矩力",
+      "name_en": "Kuuvahki",
+      "aliases": [
+        "月矩力",
+        "Kuuvahki"
+      ],
+      "activation_keys": [
+        "月矩力",
+        "Kuuvahki"
+      ],
+      "category": "power_system",
+      "scope": "regional",
+      "regions": [
+        "Nod-Krai"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_nodkrai_kuuvahki",
+          "provider": "fandom",
+          "page": "Kuuvahki",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_nodkrai_kuuvahki",
+          "provider": "bwiki",
+          "page": "月矩力",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "nodkrai_moon_marrows",
+      "name_zh": "月髓",
+      "name_en": "Moon Marrows",
+      "aliases": [
+        "月髓",
+        "Moon Marrows"
+      ],
+      "activation_keys": [
+        "月髓",
+        "Moon Marrows"
+      ],
+      "category": "power_system",
+      "scope": "regional",
+      "regions": [
+        "Nod-Krai"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_nodkrai_moon_marrows",
+          "provider": "fandom",
+          "page": "Moon Marrow",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_nodkrai_moon_marrows",
+          "provider": "bwiki",
+          "page": "月髓",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "nodkrai_hyperborea",
+      "name_zh": "海佩耳波瑞亚",
+      "name_en": "Hyperborea",
+      "aliases": [
+        "海佩耳波瑞亚",
+        "Hyperborea"
+      ],
+      "activation_keys": [
+        "海佩耳波瑞亚",
+        "Hyperborea"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Nod-Krai"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_nodkrai_hyperborea",
+          "provider": "fandom",
+          "page": "Hyperborea",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_nodkrai_hyperborea",
+          "provider": "bwiki",
+          "page": "海佩耳波瑞亚",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "nodkrai_cataclysm",
+      "name_zh": "挪德卡莱灾厄与执灯人起源",
+      "name_en": "Cataclysm in Nod-Krai",
+      "aliases": [
+        "挪德卡莱灾厄与执灯人起源",
+        "Cataclysm in Nod-Krai"
+      ],
+      "activation_keys": [
+        "挪德卡莱灾厄与执灯人起源",
+        "Cataclysm in Nod-Krai"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Nod-Krai"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_nodkrai_cataclysm",
+          "provider": "fandom",
+          "page": "Cataclysm",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "nodkrai_current_crisis",
+      "name_zh": "空月之歌时期的挪德卡莱",
+      "name_en": "Nod-Krai during Song of Welkin Moon",
+      "aliases": [
+        "空月之歌时期的挪德卡莱",
+        "Nod-Krai during Song of Welkin Moon"
+      ],
+      "activation_keys": [
+        "空月之歌时期的挪德卡莱",
+        "Nod-Krai during Song of Welkin Moon"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Nod-Krai"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_nodkrai_current_crisis",
+          "provider": "fandom",
+          "page": "Song of the Welkin Moon",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "khaenriah_overview",
+      "name_zh": "坎瑞亚",
+      "name_en": "Khaenri'ah",
+      "aliases": [
+        "坎瑞亚",
+        "Khaenri'ah"
+      ],
+      "activation_keys": [
+        "坎瑞亚",
+        "Khaenri'ah"
+      ],
+      "category": "nation",
+      "scope": "regional",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_khaenriah_overview",
+          "provider": "fandom",
+          "page": "Khaenri'ah",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_khaenriah_overview",
+          "provider": "bwiki",
+          "page": "坎瑞亚",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "khaenriah_geography",
+      "name_zh": "地下王国与已知入口",
+      "name_en": "Subterranean Khaenri'ah",
+      "aliases": [
+        "地下王国与已知入口",
+        "Subterranean Khaenri'ah"
+      ],
+      "activation_keys": [
+        "地下王国与已知入口",
+        "Subterranean Khaenri'ah"
+      ],
+      "category": "geography",
+      "scope": "regional",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_khaenriah_geography",
+          "provider": "fandom",
+          "page": "Khaenri'ah",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "khaenriah_godless",
+      "name_zh": "无神之国与人类文明观",
+      "name_en": "Godless Human Civilization",
+      "aliases": [
+        "无神之国与人类文明观",
+        "Godless Human Civilization"
+      ],
+      "activation_keys": [
+        "无神之国与人类文明观",
+        "Godless Human Civilization"
+      ],
+      "category": "culture",
+      "scope": "regional",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_khaenriah_godless",
+          "provider": "fandom",
+          "page": "Khaenri'ah/Culture",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "khaenriah_dynasties",
+      "name_zh": "赤月与黑日两王朝",
+      "name_en": "Crimson Moon and Eclipse Dynasties",
+      "aliases": [
+        "赤月与黑日两王朝",
+        "Crimson Moon and Eclipse Dynasties"
+      ],
+      "activation_keys": [
+        "赤月与黑日两王朝",
+        "Crimson Moon and Eclipse Dynasties"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_khaenriah_dynasties",
+          "provider": "fandom",
+          "page": "Khaenri'ahn Dynasties",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_khaenriah_dynasties",
+          "provider": "bwiki",
+          "page": "坎瑞亚",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "khaenriah_alberich",
+      "name_zh": "亚尔伯里奇一族",
+      "name_en": "Alberich Clan",
+      "aliases": [
+        "亚尔伯里奇一族",
+        "Alberich Clan"
+      ],
+      "activation_keys": [
+        "亚尔伯里奇一族",
+        "Alberich Clan"
+      ],
+      "category": "society",
+      "scope": "regional",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_khaenriah_alberich",
+          "provider": "fandom",
+          "page": "Alberich Clan",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_khaenriah_alberich",
+          "provider": "bwiki",
+          "page": "亚尔伯里奇",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "khaenriah_royal_guard",
+      "name_zh": "王家卫队与黑蛇骑士",
+      "name_en": "Royal Guard and Black Serpents",
+      "aliases": [
+        "王家卫队与黑蛇骑士",
+        "Royal Guard and Black Serpents"
+      ],
+      "activation_keys": [
+        "王家卫队与黑蛇骑士",
+        "Royal Guard and Black Serpents"
+      ],
+      "category": "organization",
+      "scope": "regional",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_khaenriah_royal_guard",
+          "provider": "fandom",
+          "page": "The Black Serpents",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_khaenriah_royal_guard",
+          "provider": "bwiki",
+          "page": "黑蛇骑士",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "khaenriah_schwanenritter",
+      "name_zh": "白鹄骑士团",
+      "name_en": "Schwanenritter",
+      "aliases": [
+        "白鹄骑士团",
+        "Schwanenritter"
+      ],
+      "activation_keys": [
+        "白鹄骑士团",
+        "Schwanenritter"
+      ],
+      "category": "organization",
+      "scope": "regional",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_khaenriah_schwanenritter",
+          "provider": "fandom",
+          "page": "Schwanenritter",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_khaenriah_schwanenritter",
+          "provider": "bwiki",
+          "page": "白鹄骑士",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "khaenriah_ruin_machines",
+      "name_zh": "耕地机与遗迹机械",
+      "name_en": "Field Tillers and Ruin Machines",
+      "aliases": [
+        "耕地机与遗迹机械",
+        "Field Tillers and Ruin Machines"
+      ],
+      "activation_keys": [
+        "耕地机与遗迹机械",
+        "Field Tillers and Ruin Machines"
+      ],
+      "category": "technology",
+      "scope": "cross_regional",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_khaenriah_ruin_machines",
+          "provider": "fandom",
+          "page": "Ruin Machine",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_khaenriah_ruin_machines",
+          "provider": "bwiki",
+          "page": "遗迹机械",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "khaenriah_five_sinners",
+      "name_zh": "坎瑞亚五大罪人",
+      "name_en": "Five Sinners of Khaenri'ah",
+      "aliases": [
+        "坎瑞亚五大罪人",
+        "Five Sinners of Khaenri'ah"
+      ],
+      "activation_keys": [
+        "坎瑞亚五大罪人",
+        "Five Sinners of Khaenri'ah"
+      ],
+      "category": "institution",
+      "scope": "regional",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_khaenriah_five_sinners",
+          "provider": "fandom",
+          "page": "Five Sinners of Khaenri'ah",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_khaenriah_five_sinners",
+          "provider": "bwiki",
+          "page": "坎瑞亚五大罪人",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "khaenriah_cataclysm",
+      "name_zh": "坎瑞亚灾厄与毁灭",
+      "name_en": "Fall of Khaenri'ah",
+      "aliases": [
+        "坎瑞亚灾厄与毁灭",
+        "Fall of Khaenri'ah"
+      ],
+      "activation_keys": [
+        "坎瑞亚灾厄与毁灭",
+        "Fall of Khaenri'ah"
+      ],
+      "category": "history",
+      "scope": "global",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_khaenriah_cataclysm",
+          "provider": "fandom",
+          "page": "Cataclysm",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_khaenriah_cataclysm",
+          "provider": "bwiki",
+          "page": "坎瑞亚灾厄",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "khaenriah_curses",
+      "name_zh": "不死诅咒与荒野诅咒",
+      "name_en": "Curses of Immortality and Wilderness",
+      "aliases": [
+        "不死诅咒与荒野诅咒",
+        "Curses of Immortality and Wilderness"
+      ],
+      "activation_keys": [
+        "不死诅咒与荒野诅咒",
+        "Curses of Immortality and Wilderness"
+      ],
+      "category": "natural_law",
+      "scope": "cross_regional",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_khaenriah_curses",
+          "provider": "fandom",
+          "page": "Khaenri'ah",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_khaenriah_curses",
+          "provider": "bwiki",
+          "page": "坎瑞亚",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "khaenriah_diaspora",
+      "name_zh": "坎瑞亚遗民与幸存血脉",
+      "name_en": "Khaenri'ahn Diaspora",
+      "aliases": [
+        "坎瑞亚遗民与幸存血脉",
+        "Khaenri'ahn Diaspora"
+      ],
+      "activation_keys": [
+        "坎瑞亚遗民与幸存血脉",
+        "Khaenri'ahn Diaspora"
+      ],
+      "category": "society",
+      "scope": "cross_regional",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_khaenriah_diaspora",
+          "provider": "fandom",
+          "page": "Khaenri'ah",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "khaenriah_abyss_order",
+      "name_zh": "深渊教团的坎瑞亚起源",
+      "name_en": "Khaenri'ahn Origin of Abyss Order",
+      "aliases": [
+        "深渊教团的坎瑞亚起源",
+        "Khaenri'ahn Origin of Abyss Order"
+      ],
+      "activation_keys": [
+        "深渊教团的坎瑞亚起源",
+        "Khaenri'ahn Origin of Abyss Order"
+      ],
+      "category": "organization",
+      "scope": "cross_regional",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_khaenriah_abyss_order",
+          "provider": "fandom",
+          "page": "Abyss Order",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_khaenriah_abyss_order",
+          "provider": "bwiki",
+          "page": "深渊教团",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "khaenriah_hilichurls",
+      "name_zh": "丘丘人与受诅咒文明",
+      "name_en": "Hilichurls and Cursed Civilizations",
+      "aliases": [
+        "丘丘人与受诅咒文明",
+        "Hilichurls and Cursed Civilizations"
+      ],
+      "activation_keys": [
+        "丘丘人与受诅咒文明",
+        "Hilichurls and Cursed Civilizations"
+      ],
+      "category": "species",
+      "scope": "cross_regional",
+      "regions": [
+        "Khaenri'ah"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_khaenriah_hilichurls",
+          "provider": "fandom",
+          "page": "Hilichurl",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_khaenriah_hilichurls",
+          "provider": "bwiki",
+          "page": "丘丘人",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "dark_sea_overview",
+      "name_zh": "暗之外海",
+      "name_en": "Dark Sea",
+      "aliases": [
+        "暗之外海",
+        "Dark Sea"
+      ],
+      "activation_keys": [
+        "暗之外海",
+        "Dark Sea"
+      ],
+      "category": "geography",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_dark_sea_overview",
+          "provider": "fandom",
+          "page": "Dark Sea",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_dark_sea_overview",
+          "provider": "bwiki",
+          "page": "暗之外海",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "enkanomiya_unified_civilization",
+      "name_zh": "统一人类文明遗存",
+      "name_en": "Unified Human Civilization",
+      "aliases": [
+        "统一人类文明遗存",
+        "Unified Human Civilization"
+      ],
+      "activation_keys": [
+        "统一人类文明遗存",
+        "Unified Human Civilization"
+      ],
+      "category": "history",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_enkanomiya_unified_civilization",
+          "provider": "fandom",
+          "page": "Enkanomiya",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_enkanomiya_unified_civilization",
+          "provider": "bwiki",
+          "page": "白夜国",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "enkanomiya_sunchildren",
+      "name_zh": "大日御舆与太阳之子统治",
+      "name_en": "Dainichi Mikoshi and Sunchildren",
+      "aliases": [
+        "大日御舆与太阳之子统治",
+        "Dainichi Mikoshi and Sunchildren"
+      ],
+      "activation_keys": [
+        "大日御舆与太阳之子统治",
+        "Dainichi Mikoshi and Sunchildren"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_enkanomiya_sunchildren",
+          "provider": "fandom",
+          "page": "Sunchildren",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_enkanomiya_sunchildren",
+          "provider": "bwiki",
+          "page": "太阳之子",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "enkanomiya_orobashi",
+      "name_zh": "奥罗巴斯、海祇迁徙与白夜国终结",
+      "name_en": "Orobashi and Migration to Watatsumi",
+      "aliases": [
+        "奥罗巴斯、海祇迁徙与白夜国终结",
+        "Orobashi and Migration to Watatsumi"
+      ],
+      "activation_keys": [
+        "奥罗巴斯、海祇迁徙与白夜国终结",
+        "Orobashi and Migration to Watatsumi"
+      ],
+      "category": "history",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_enkanomiya_orobashi",
+          "provider": "fandom",
+          "page": "Enkanomiya",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_enkanomiya_orobashi",
+          "provider": "bwiki",
+          "page": "渊下宫",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "enkanomiya_dragonheirs",
+      "name_zh": "深海龙蜥与龙嗣",
+      "name_en": "Bathysmal Vishaps and Dragonheirs",
+      "aliases": [
+        "深海龙蜥与龙嗣",
+        "Bathysmal Vishaps and Dragonheirs"
+      ],
+      "activation_keys": [
+        "深海龙蜥与龙嗣",
+        "Bathysmal Vishaps and Dragonheirs"
+      ],
+      "category": "species",
+      "scope": "regional",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_enkanomiya_dragonheirs",
+          "provider": "fandom",
+          "page": "Bathysmal Vishap",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_enkanomiya_dragonheirs",
+          "provider": "bwiki",
+          "page": "深海龙蜥",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "enkanomiya_before_sun_moon",
+      "name_zh": "《日月前事》与被禁历史",
+      "name_en": "Before Sun and Moon",
+      "aliases": [
+        "《日月前事》与被禁历史",
+        "Before Sun and Moon"
+      ],
+      "activation_keys": [
+        "《日月前事》与被禁历史",
+        "Before Sun and Moon"
+      ],
+      "category": "culture",
+      "scope": "global",
+      "regions": [
+        "Inazuma"
+      ],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_enkanomiya_before_sun_moon",
+          "provider": "fandom",
+          "page": "Before Sun and Moon",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_enkanomiya_before_sun_moon",
+          "provider": "bwiki",
+          "page": "日月前事",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "old_world_dragons",
+      "name_zh": "古龙世界与七王",
+      "name_en": "Old World and Seven Sovereigns",
+      "aliases": [
+        "古龙世界与七王",
+        "Old World and Seven Sovereigns"
+      ],
+      "activation_keys": [
+        "古龙世界与七王",
+        "Old World and Seven Sovereigns"
+      ],
+      "category": "history",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_old_world_dragons",
+          "provider": "fandom",
+          "page": "Seven Sovereigns",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_old_world_dragons",
+          "provider": "bwiki",
+          "page": "七龙王",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "heavenly_conquest",
+      "name_zh": "天理对旧世界的征服",
+      "name_en": "Heavenly Principles' Conquest",
+      "aliases": [
+        "天理对旧世界的征服",
+        "Heavenly Principles' Conquest"
+      ],
+      "activation_keys": [
+        "天理对旧世界的征服",
+        "Heavenly Principles' Conquest"
+      ],
+      "category": "history",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_heavenly_conquest",
+          "provider": "fandom",
+          "page": "Heavenly Principles",
+          "role": "primary",
+          "language": "en"
+        },
+        {
+          "source_id": "bwiki_heavenly_conquest",
+          "provider": "bwiki",
+          "page": "天理",
+          "role": "cross_language_verification",
+          "language": "zh-CN",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "lore_id": "war_funerary_flame",
+      "name_zh": "葬火之战",
+      "name_en": "War of Funerary Flame",
+      "aliases": [
+        "葬火之战",
+        "War of Funerary Flame"
+      ],
+      "activation_keys": [
+        "葬火之战",
+        "War of Funerary Flame"
+      ],
+      "category": "history",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_war_funerary_flame",
+          "provider": "fandom",
+          "page": "War of Funerary Flame",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "lore_id": "ancient_civilization_network",
+      "name_zh": "统一文明解体后的古文明网络",
+      "name_en": "Post-Unified Ancient Civilizations",
+      "aliases": [
+        "统一文明解体后的古文明网络",
+        "Post-Unified Ancient Civilizations"
+      ],
+      "activation_keys": [
+        "统一文明解体后的古文明网络",
+        "Post-Unified Ancient Civilizations"
+      ],
+      "category": "history",
+      "scope": "global",
+      "regions": [],
+      "allowed_relationship_ids": [],
+      "sources": [
+        {
+          "source_id": "fandom_ancient_civilization_network",
+          "provider": "fandom",
+          "page": "Timeline",
+          "role": "primary",
+          "language": "en"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Genshin objective world-lore card v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "lore_id",
+    "name_zh",
+    "name_en",
+    "aliases",
+    "category",
+    "scope",
+    "regions",
+    "summary",
+    "canonical_facts",
+    "timeline",
+    "relationships",
+    "in_world_visibility",
+    "activation_keys",
+    "excluded_material",
+    "sources",
+    "evidence_bundle_sha256",
+    "review"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "genshin-world-lore-card-v1"
+    },
+    "lore_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$"
+    },
+    "name_zh": {"type": "string", "minLength": 1},
+    "name_en": {"type": "string", "minLength": 1},
+    "aliases": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "cosmology",
+        "natural_law",
+        "power_system",
+        "nation",
+        "geography",
+        "society",
+        "institution",
+        "organization",
+        "species",
+        "culture",
+        "technology",
+        "history"
+      ]
+    },
+    "scope": {
+      "type": "string",
+      "enum": ["global", "cross_regional", "regional", "local"]
+    },
+    "regions": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "summary": {"type": "string", "minLength": 1},
+    "canonical_facts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "fact_id",
+          "text",
+          "status",
+          "temporal_scope",
+          "visibility",
+          "source_ids"
+        ],
+        "properties": {
+          "fact_id": {
+            "type": "string",
+            "pattern": "^[a-z0-9_]+$"
+          },
+          "text": {"type": "string", "minLength": 1},
+          "status": {
+            "type": "string",
+            "enum": ["confirmed", "reported", "disputed", "unknown"]
+          },
+          "temporal_scope": {"type": "string"},
+          "visibility": {
+            "type": "string",
+            "enum": [
+              "common_knowledge",
+              "regional_knowledge",
+              "specialist_knowledge",
+              "restricted_knowledge",
+              "secret_or_exceptional",
+              "not_applicable"
+            ]
+          },
+          "source_ids": {
+            "type": "array",
+            "items": {"type": "string"},
+            "minItems": 1
+          }
+        }
+      }
+    },
+    "timeline": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "period",
+          "order_hint",
+          "events",
+          "current_status",
+          "source_ids"
+        ],
+        "properties": {
+          "period": {"type": "string"},
+          "order_hint": {"type": "integer"},
+          "events": {
+            "type": "array",
+            "items": {"type": "string"}
+          },
+          "current_status": {"type": "string"},
+          "source_ids": {
+            "type": "array",
+            "items": {"type": "string"},
+            "minItems": 1
+          }
+        }
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "relation",
+          "target_id",
+          "description",
+          "source_ids"
+        ],
+        "properties": {
+          "relation": {"type": "string"},
+          "target_id": {
+            "type": "string",
+            "pattern": "^[a-z0-9_]+$"
+          },
+          "description": {"type": "string"},
+          "source_ids": {
+            "type": "array",
+            "items": {"type": "string"},
+            "minItems": 1
+          }
+        }
+      }
+    },
+    "in_world_visibility": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "public_summary",
+        "likely_known_by",
+        "unlikely_known_by",
+        "common_beliefs_or_misconceptions"
+      ],
+      "properties": {
+        "public_summary": {"type": "string"},
+        "likely_known_by": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "unlikely_known_by": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "common_beliefs_or_misconceptions": {
+          "type": "array",
+          "items": {"type": "string"}
+        }
+      }
+    },
+    "activation_keys": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "excluded_material": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["gameplay_only", "unsupported_or_speculative"],
+      "properties": {
+        "gameplay_only": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "unsupported_or_speculative": {
+          "type": "array",
+          "items": {"type": "string"}
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "source_id",
+          "provider",
+          "role",
+          "title",
+          "url",
+          "language",
+          "revision_id",
+          "source_text_sha256"
+        ],
+        "properties": {
+          "source_id": {"type": "string"},
+          "provider": {
+            "type": "string",
+            "enum": ["fandom", "bwiki", "local_dialogue"]
+          },
+          "role": {
+            "type": "string",
+            "enum": [
+              "primary",
+              "cross_language_verification",
+              "local_dialogue_verification"
+            ]
+          },
+          "title": {"type": "string"},
+          "url": {"type": "string"},
+          "language": {"type": "string"},
+          "revision_id": {"type": "string"},
+          "source_text_sha256": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          }
+        }
+      }
+    },
+    "evidence_bundle_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "review": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "cross_language_conflicts",
+        "uncertain_claims",
+        "missing_evidence",
+        "needs_human_review"
+      ],
+      "properties": {
+        "cross_language_conflicts": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "uncertain_claims": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "missing_evidence": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "needs_human_review": {"type": "boolean"}
+      }
+    }
+  }
+}

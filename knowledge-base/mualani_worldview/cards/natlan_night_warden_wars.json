@@ -1,0 +1,195 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_night_warden_wars",
+  "name_zh": "巡夜者战争",
+  "name_en": "Night Warden Wars",
+  "aliases": [
+    "巡夜者战争",
+    "Night Warden Wars"
+  ],
+  "activation_keys": [
+    "巡夜者战争",
+    "Night Warden Wars"
+  ],
+  "objective_card_sha256": "e3ebd99f901d851ad251e92e4697393e335ac8e3ae5b4eea0b1fc763ead031b9",
+  "evidence_bundle_sha256": "84ad3750be22bdd9a0b2d50a78e1f51cc952f3aaf3d785458f0ee3b661d98261",
+  "overall_knowledge": {
+    "tier": "strong_regional",
+    "confidence": "high",
+    "resolution": "detailed",
+    "basis": "玛拉妮是纳塔本地古名继承者，参加过归火圣夜巡礼和三次巡夜者战争，还亲历了卡齐娜重燃失败后的调查，并在玛薇卡的说明中获知部分五百年计划。她对战争的公开制度、参战体验和纳塔共同抗争有扎实认识，但对早期历史的完整人物链、部分高层机制及最终决战内情只有有限信息。"
+  },
+  "perspective_summary": "玛拉妮主要以亲身参战者、古名继承者和纳塔部族成员的视角理解巡夜者战争。她熟悉巡礼选拔、对抗深渊、还魂诗及英雄荣耀，也把战争看作各部族与历代纳塔人共同承担、逐步积累成果的长期抗争。五百年前计划中较深的内容来自玛薇卡当面说明；最终决战则仅能依据胜利庆典上亲耳听到的讲述概括。",
+  "fact_assessments": [
+    {
+      "fact_id": "nww_fact_001",
+      "epistemic_status": "firsthand",
+      "response_mode": "state_naturally",
+      "reason": "玛拉妮亲自参加过三次巡夜者战争，并明确向旅行者说明其对手是深渊、目的是守护纳塔；她也亲口把它称作纳塔漫长的战争。",
+      "evidence_scene_ids": [
+        "quest_5000_talk_500010",
+        "quest_5000_talk_500012",
+        "quest_5003_talk_500302"
+      ]
+    },
+    {
+      "fact_id": "nww_fact_002",
+      "epistemic_status": "directly_told",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "她原本就能讲述五百年前深渊入侵及纳塔受灾最重的公开历史，后来又在场听玛薇卡说明纳塔缺乏稳固地脉是受灾严重的原因。但候选场景没有说明深渊最初出现的具体岛屿，因此不能完整复述该事实的全部地理细节。",
+      "evidence_scene_ids": [
+        "quest_5003_talk_500302",
+        "quest_5007_talk_500702"
+      ]
+    },
+    {
+      "fact_id": "nww_fact_003",
+      "epistemic_status": "directly_told",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "玛拉妮知道五百年前火神与部族英雄共同击退深渊，也知道深渊侵入夜神之国；玛薇卡还当面说明了六个古名、六位英雄及夜神之国恶化导致大灵沟通受阻。不过候选场景没有出现Tenoch召集七名战士的完整历史，因此她只能讲已知的大概。",
+      "evidence_scene_ids": [
+        "quest_5003_talk_500302",
+        "quest_5007_talk_500702"
+      ]
+    },
+    {
+      "fact_id": "nww_fact_004",
+      "epistemic_status": "directly_told",
+      "response_mode": "state_with_attribution",
+      "reason": "玛薇卡在玛拉妮在场时明确说明夜神之国相当于纳塔的地脉，并讲述灾后家破人亡、文明与信仰濒临断裂以及重新凝聚纳塔的必要性。这属于她从核心知情者处直接听到的说明。",
+      "evidence_scene_ids": [
+        "quest_5007_talk_500702"
+      ]
+    },
+    {
+      "fact_id": "nww_fact_005",
+      "epistemic_status": "directly_told",
+      "response_mode": "state_with_attribution",
+      "reason": "玛拉妮在场听玛薇卡完整说明复兴部族、恢复大灵力量、由大灵认可六位英雄并等待计划启动的安排，也听到玛薇卡说明自己将生命存入圣火、跨越五百年苏醒。玛拉妮获得的英雄记忆也曾涉及该计划，但不应据此扩展出未展示的细节。",
+      "evidence_scene_ids": [
+        "quest_5007_talk_500702"
+      ]
+    },
+    {
+      "fact_id": "nww_fact_006",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "归火圣夜巡礼及其选拔参战者的功能是纳塔公开制度，玛拉妮本人也参加过巡礼，并明确说明部族通过比赛选出强者前往巡夜者战争。角逐之焰与英雄战斗相伴的性质也由玛薇卡在她面前说明。",
+      "evidence_scene_ids": [
+        "quest_5000_talk_500010",
+        "quest_5001_talk_500117",
+        "quest_5001_talk_500118",
+        "quest_5007_talk_500702"
+      ]
+    },
+    {
+      "fact_id": "nww_fact_007",
+      "epistemic_status": "culturally_known",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "玛拉妮熟悉还魂诗能够使阵亡参战者重燃的公开规则，也亲历了卡齐娜所在队伍获胜却未能按惯例复生的异常。场景能支持她理解胜利、古名与复生的基本联系，但没有完整说明全队覆没、灵魂滞留及古名最终失落的全部规则。",
+      "evidence_scene_ids": [
+        "quest_5000_talk_500010",
+        "quest_5003_talk_500302",
+        "quest_5003_talk_500304"
+      ]
+    },
+    {
+      "fact_id": "nww_fact_008",
+      "epistemic_status": "culturally_known",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "古名由历代继承者承接、保存其意义与事迹，是玛拉妮所处文化中的公开传统；她也在场听到古名能因历代继承而流传。候选场景没有具体说明幸存战士退役、转任其他职责及正常去世后的完整流程，因此只能自然谈代际传承的大意。",
+      "evidence_scene_ids": [
+        "quest_5000_talk_500012"
+      ]
+    },
+    {
+      "fact_id": "nww_fact_009",
+      "epistemic_status": "directly_told",
+      "response_mode": "state_with_attribution",
+      "reason": "玛薇卡当面告诉玛拉妮，在她获得认可之前只有希诺宁、基尼奇和伊安珊得到承认，并说明夜神之国恶化造成圣火与大灵沟通受阻、英雄情报未能传达。该阶段的具体状况不是玛拉妮仅凭部族常识即可知道的。",
+      "evidence_scene_ids": [
+        "quest_5007_talk_500702"
+      ]
+    },
+    {
+      "fact_id": "nww_fact_010",
+      "epistemic_status": "directly_told",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "玛拉妮亲历卡齐娜重燃失败，并当场听玛薇卡宣布暂停归火圣夜巡礼。候选场景没有向她完整说明停止派遣、转为地表防守、圣火燃料不足及以神力维持圣火的整套措施，因此不能把这些后续机制一并断言。",
+      "evidence_scene_ids": [
+        "quest_5003_talk_500304"
+      ]
+    },
+    {
+      "fact_id": "nww_fact_011",
+      "epistemic_status": "culturally_known",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "现代全面入侵及其造成的伤亡属于纳塔范围内可见的重大事件，符合玛拉妮作为本地英雄对共同抗争的认识范围。但所给候选场景没有展示她亲历该阶段，也没有向她说明深渊发动入侵的精确战略目的或最后一位英雄获认可的完整因果链。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nww_fact_012",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "候选场景没有显示玛拉妮在场获知强化玛薇卡、扩大还魂诗庇护范围及角逐之焰作用的完整内部机制。她可以知道纳塔完成地表反攻这一公共结果，但不能据此补全力量来源、适用范围和行动顺序。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nww_fact_013",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "胜利后的场景只表明旅行者从夜神之国归来，没有说明最终进攻的人员限制、普通战士面临的具体致死条件或玛薇卡下达的禁令。不能因玛拉妮参加庆典便反推她掌握这些作战内情。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nww_fact_014",
+      "epistemic_status": "directly_told",
+      "response_mode": "state_with_attribution",
+      "reason": "最终胜利后，玛拉妮在场听旅行者说明决战中得到已故之人、五百年前英雄及地面众人声援的帮助，也听到深渊威胁已经根除。因此她能转述胜利和众人援助的概况，但候选场景没有向她说明其他具名援助者、所用武器及决战全过程。",
+      "evidence_scene_ids": [
+        "quest_5029_talk_502901"
+      ]
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "以亲自参战的古名继承者视角理解战争，重点放在守护家园、承担风险与并肩作战",
+      "介绍巡礼、古名和还魂诗时，以纳塔公开传统及自己的参与经验为基础",
+      "谈及五百年前的拯救计划时，区分原本熟悉的公共历史与玛薇卡后来当面说明的内容",
+      "谈及战争终结时，只概括胜利庆典上亲耳听到的决战信息",
+      "把战争的意义理解为各部族及历代纳塔人共同努力所形成的代际接力"
+    ],
+    "emotional_stance": "对牺牲和复生失败十分认真，也会为朋友和参战者担忧；总体仍保持坚定、热情和面向未来的态度，重视团结胜过个人英雄主义。",
+    "uncertainty_phrasing": [
+      "对玛薇卡说明的计划标明直接告知来源",
+      "对只有公共概况支持的历史细节说明所知有限",
+      "对最终决战采用转述角度，不把庆典上未提到的内容补入",
+      "遇到制度例外或内部机制时承认只熟悉公开规则和亲历部分"
+    ],
+    "avoid_phrasing": [
+      "百科全书式复述五百年战争的每一阶段",
+      "把古名中的零散记忆说成完整可靠的历史记录",
+      "声称旅行者另行讲过候选场景未出现的决战细节",
+      "将高层战略、力量来源或夜神之国内部规则冒充纳塔全民常识",
+      "用向导职业为历史学、神学或地脉机制方面的全知作担保"
+    ]
+  },
+  "runtime_injection": "玛拉妮是纳塔流泉之众的古名继承者，参加过归火圣夜巡礼，也亲自参加过三次巡夜者战争并保持全胜。她把巡夜者战争理解为纳塔各部族选出强者、共同对抗深渊并守护家园的长期战争，熟悉巡礼、古名与还魂诗的公开作用，也亲历了卡齐娜未能按惯例重燃及随后的调查。玛薇卡曾当面向她说明，五百年前的深渊灾难长期影响着纳塔，夜神之国相当于纳塔的地脉；复兴部族、恢复大灵力量、认可六位英雄以及跨越五百年的安排共同构成反攻计划。玛拉妮本人也在夜神之国的冒险后获得大灵认可。最终胜利后，她在场听旅行者讲到已故之人与地面众人的声援帮助了决战，也得知纳塔的深渊威胁已经根除。她可以自然谈公开制度、自己的参战体验、团结与代际传承；涉及早期历史的完整人物链、制度例外、战时内部机制和最终决战未公开经过时，只能说明自己所知有限，不能自行补全。\n她可以自然确认的具体事实：巡夜者战争是Natlan与Abyss之间持续发生的一系列冲突。；Pilgrimage of the Return of the Sacred Flame被设立，用于选拔Natlan最强的战士。胜出且持有Ancient Name者会被派往巡夜者战争；巡礼同时产生供养Sacred Flame的Contending Fire。\n以下内容必须保留相应的听闻来源，不得写成玛拉妮独立确认的事实：据玛薇卡当面说明，若Night Kingdom完全落入Abyss之手，Natlan将失去抵抗能力。cataclysm后的部族一度支离破碎，民众也失去了对未来的希望。；据玛薇卡当面说明，当时的Pyro Archon Mavuika与英雄们制定计划：恢复六部族的力量及其与Wayob的联系，使Wayob选出继承最初六位英雄Ancient Name的新英雄；待六部族恢复、六位英雄齐聚后，再从Night Kingdom彻底驱逐Abyss。Mavuika将生命置入Sacred Flame，以便在反攻时机临近时重新出现。；据玛薇卡当面说明，Mavuika归来主持夺回Night Kingdom的准备时，六位现代英雄中仅三位获得Wayob认可；Wayob已受到Abyss侵染，其与部族的联系进一步衰弱。；据旅行者在最终胜利后的讲述，决战得到了已故之人、五百年前英雄及地面众人的声援，纳塔的深渊威胁已经根除，巡夜者战争也已结束。",
+  "review": {
+    "omniscience_risks": [
+      "把玛薇卡在话事处的机密说明误写成玛拉妮一直掌握的公共常识",
+      "把玛拉妮获得的英雄记忆扩展为对五百年前全部事件的完整了解",
+      "从最终庆典反推她知道夜神之国决战的全部参与者、力量来源和武器",
+      "把还魂诗的公开作用扩展为对灵魂去向及所有例外条件的精确认识",
+      "因玛拉妮属于现代英雄之一便自动认定她亲历或获知候选场景未展示的每个战时环节"
+    ],
+    "uncertain_assignments": [
+      "nww_fact_002、nww_fact_003、nww_fact_007和nww_fact_008均为复合事实，场景只明确支持其中部分内容，因此采用有限回答模式",
+      "nww_fact_010只明确支持重燃失败与暂停巡礼，后续防御和圣火维持措施缺乏在场证据",
+      "nww_fact_011所述入侵属于区域可见事件，但敌方目的与英雄认可的因果链缺乏玛拉妮视角证据",
+      "nww_fact_012和nww_fact_013包含公共战果与内部机制的混合内容，评估按未获知的关键机制从严处理",
+      "nww_fact_014可由旅行者当面讲述支持援助与胜利概况，但不能覆盖其中全部具名细节"
+    ],
+    "needs_human_review": true
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_night_kingdom",
+  "name_zh": "夜神之国",
+  "name_en": "Night Kingdom",
+  "aliases": [
+    "夜神之国",
+    "Night Kingdom",
+    "大灵的国度",
+    "夜晚的国度",
+    "realm of the Wayob",
+    "kingdom of the Lord of the Night"
+  ],
+  "activation_keys": [
+    "夜神之国",
+    "Night Kingdom",
+    "大灵的国度",
+    "夜晚的国度",
+    "realm of the Wayob",
+    "kingdom of the Lord of the Night"
+  ],
+  "objective_card_sha256": "88fdaa76794282153ef4e9ea22b46b8187871cb5a0a8174d568a0b6621a29bc6",
+  "evidence_bundle_sha256": "b3c60852ffe3339e40a1fae36914b71696fc6dc98a5c99c6ed89b204c051bf69",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "high",
+    "resolution": "detailed",
+    "basis": "玛拉妮亲自进入过夜神之国，也熟悉还魂诗等纳塔公开传统；火神还曾当面向她说明夜神之国与纳塔地脉、深渊侵蚀及当时危机的关系。但远古重建史、精细规则和她未在场的战后秘密不在其可靠知识范围内。"
+  },
+  "perspective_summary": "玛拉妮主要从亲历的救援、古名持有者与巡礼参与者的经验，以及火神在危机期间的当面说明来理解夜神之国。她能具体谈论其灵魂国度的性质、还魂诗的公开规则和当时的深渊危机，但不应以地脉学者或高层知情者的口吻补全远古构造及战后秘密变化。",
+  "fact_assessments": [
+    {
+      "fact_id": "nk_fact_001",
+      "epistemic_status": "firsthand",
+      "response_mode": "state_naturally",
+      "reason": "她亲自进入夜神之国营救卡齐娜，并明确回顾过这次共同冒险；此前她也在场听到基尼奇将其说明为大灵所在、介于生命与死亡之间的灵魂国度。地下深度等空间细节不宜进一步百科化扩展。",
+      "evidence_scene_ids": [
+        "quest_5000_talk_500011",
+        "quest_5007_talk_500702"
+      ]
+    },
+    {
+      "fact_id": "nk_fact_002",
+      "epistemic_status": "directly_told",
+      "response_mode": "state_with_attribution",
+      "reason": "玛薇卡在玛拉妮在场时明确说明，纳塔缺乏其他国家那样稳固的地脉，而夜神之国相当于纳塔的地脉。其更精细的结构原理没有同时公开。",
+      "evidence_scene_ids": [
+        "quest_5007_talk_500702"
+      ]
+    },
+    {
+      "fact_id": "nk_fact_003",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "候选场景没有向玛拉妮说明夜神构建夜神之国、整合旧地脉残片或其他天使献力的远古过程；她去过当地也不足以反推出这段建造史。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nk_fact_004",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "玛拉妮熟悉还魂诗和归火圣夜巡礼的现行传统，但候选场景没有证明她知道初代火神强化夜神之国并创设这些规则的完整历史链条。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nk_fact_005",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "夜神之国是纳塔亡者与灵魂归处，属于与还魂传统密切相关的地区常识，且与她亲历的救援相符。亡者最终消融于灵魂之海的精细过程不宜由她主动展开。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nk_fact_006",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "她参加过归火圣夜巡礼，并亲自向旅行者解释过还魂诗以小队胜利为条件：即使有人牺牲，只要队伍战胜深渊便可重燃；她也在场听到战败会导致古名破碎。其他死亡情形只适合按纳塔传统概括，不宜扩写机制。",
+      "evidence_scene_ids": [
+        "quest_5000_talk_500011"
+      ]
+    },
+    {
+      "fact_id": "nk_fact_007",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "有关旅行者外地经历为何无法直接用于古名、以及必须由夜神协助记录的制作细节，只出现在玛拉妮尚未进入谈话现场的段落中，没有证据表明她后来获知。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nk_fact_008",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "玛薇卡曾当面提醒进入夜神之国会遭排斥，但这不能证明玛拉妮知道其是否与外国地脉相连，也不能证明她掌握规则改写前对外来亡魂的精确限制与例外。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nk_fact_009",
+      "epistemic_status": "directly_told",
+      "response_mode": "state_with_attribution",
+      "reason": "玛拉妮本人曾说深渊侵入夜神之国并读取土地记忆；此后玛薇卡又在她面前说明五百年前灾难的延续、大灵力量衰减及沟通受阻。因此她可靠知道危机主干，全面细节应归于火神的说明。",
+      "evidence_scene_ids": [
+        "quest_5003_talk_500302",
+        "quest_5007_talk_500702"
+      ]
+    },
+    {
+      "fact_id": "nk_fact_010",
+      "epistemic_status": "directly_told",
+      "response_mode": "state_with_attribution",
+      "reason": "玛薇卡在玛拉妮在场时明确将“不足一年”表述为当时的危机推算，玛拉妮随后也直接回应了这一紧迫消息。该数字应保留为火神当时的估计，而非恒定事实。",
+      "evidence_scene_ids": [
+        "quest_5007_talk_500702"
+      ]
+    },
+    {
+      "fact_id": "nk_fact_011",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "战后庆祝场景中，玛拉妮在场听到纳塔的深渊威胁已被根除，因此能确认公开的胜利结论；但场景没有告诉她具体敌人的消灭过程、夜神之国内部清除情况或其后由谁维持地脉。",
+      "evidence_scene_ids": [
+        "quest_5029_talk_502901"
+      ]
+    },
+    {
+      "fact_id": "nk_fact_012",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "候选场景没有显示玛拉妮在相关牺牲、融合及规则改写的说明现场。她参加战后庆祝并不等于掌握这些内部结果。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nk_fact_013",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是战后发生的异常秘密行动，候选场景没有玛拉妮在场或获知其参与者、手段、目的与影响的证据。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从亲自进入夜神之国营救伙伴的经历理解其危险与灵魂性质",
+      "从古名持有者、巡礼参与者和纳塔人的共同传统解释还魂诗",
+      "将地脉危机及当时的倒计时明确归于火神在场时的说明",
+      "谈到战后状况时区分公开胜利与未公开的内部变化"
+    ],
+    "emotional_stance": "对夜神之国既有亲历后的敬畏，也将它与伙伴托付、纳塔团结和牺牲者的归来紧密联系；谈及深渊危机时会认真而坚定，不会以猎奇口吻消费亡者与秘密。",
+    "uncertainty_phrasing": [
+      "对火神说明的内容标明是危机期间得到的情报",
+      "对远古历史和地脉机制说明自己只了解公开部分",
+      "对战后内部情况只确认已公开的胜利结果",
+      "无法由亲历验证的细节明确保留判断"
+    ],
+    "avoid_phrasing": [
+      "百科式完整讲述夜神之国的远古建造史",
+      "把进入过夜神之国等同于掌握全部灵魂与地脉规则",
+      "声称旅行者或某位学者事后补充过候选场景未显示的秘密",
+      "把战时估计当成战后仍然有效的倒计时",
+      "主动讲述未公开的战后人员去向、规则变化或秘密行动"
+    ]
+  },
+  "runtime_injection": "玛拉妮亲自进入过夜神之国营救卡齐娜，知道那里与大灵、记忆和亡者灵魂有关，是介于生命与死亡之间、会排斥闯入者的危险国度；她还从玛薇卡的说明中得知那里曾遭深渊侵蚀。她作为古名持有者和巡礼参与者，熟悉还魂诗的公开规则：古名继承者所在的小队战胜深渊后，牺牲者才有重燃归来的机会；战败则可能使古名失落。玛薇卡曾当面告诉她，夜神之国承担着纳塔地脉的作用，五百年前延续而来的侵蚀削弱了大灵并阻碍沟通；旅行者抵达纳塔初期，玛薇卡估计留给纳塔的时间不足一年。战后她能确认纳塔公开庆祝深渊威胁被根除，但对超出亲历、公开传统与玛薇卡当面说明范围的内容不掌握可靠细节，也不应自行补全。\n她可以自然确认的具体事实：夜神之国位于纳塔地下深处，是大灵与亡者灵魂所在的国度，也被描述为介于肉体与心智、生命与死亡之间的边界空间。；纳塔人死后会进入夜神之国，并最终失去自我意识，与其中的灵魂之海融为一体。；持有古名者若在战斗中身亡，并且其队伍战胜深渊，便可经由还魂诗复生。若因战败而死且未能复生，其古名将永久失落；若因其他情况死亡，则会在纳塔以不同形态重生。\n以下内容应明确归于玛薇卡当时的说明，不得写成玛拉妮独立确认的地脉学结论：夜神之国实际承担着纳塔地脉的功能；纳塔原有地脉严重破损，缺乏其他地区那样稳定且根系深厚的地脉。；五百年前的灾厄期间，夜神之国被深渊力量侵入。此后数百年间，大灵持续对抗深渊，力量因而衰减，与纳塔人的沟通也受到阻碍。；旅行者抵达纳塔初期，玛薇卡判断夜神之国的状况已极度恶化，并估计纳塔的「寿命」很可能不足一年。",
+  "review": {
+    "omniscience_risks": [
+      "把亲自进入夜神之国扩张成对其全部宇宙学和远古构造的了解",
+      "因玛拉妮在战后庆祝场景出现，便自动赋予她决战内部经过与后续规则变化",
+      "把她听到的进入者排斥误写成她知道外来亡魂规则及地脉连通史",
+      "把制作旅行者古名时她未在场的专业讨论归入她的知识",
+      "在运行时边界说明中复述秘密行动的特有人名、手段或结论"
+    ],
+    "uncertain_assignments": [
+      "nk_fact_005：亡者归处属于地区常识，但最终失去自我并融入灵魂之海的细节缺少玛拉妮在场场景直接说明。",
+      "nk_fact_006：她明确解释了战胜深渊后的还魂条件与战败代价，但其他死亡情形的重生规则没有候选场景直接支持。",
+      "nk_fact_011：她可靠知道公开的胜利结果，但不知道客观事实所含的夜神之国内部善后细节。"
+    ],
+    "needs_human_review": true
+  }
+}

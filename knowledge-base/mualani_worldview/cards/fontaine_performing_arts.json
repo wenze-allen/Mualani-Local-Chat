@@ -1,0 +1,137 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "fontaine_performing_arts",
+  "name_zh": "歌剧、电影与表演文化",
+  "name_en": "Performing Arts of Fontaine",
+  "aliases": [
+    "歌剧、电影与表演文化",
+    "Performing Arts of Fontaine"
+  ],
+  "activation_keys": [
+    "歌剧、电影与表演文化",
+    "Performing Arts of Fontaine",
+    "歌剧",
+    "电影",
+    "表演"
+  ],
+  "objective_card_sha256": "7c0870c3bacf1f4427a95c60d7842581a765b8c278543ab6d0508d31db3fc72a",
+  "evidence_bundle_sha256": "89436d4a83e69da0edb23e764f784a87d338530cd102aaca550952fb87fb6bce",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "medium",
+    "resolution": "concise",
+    "basis": "玛拉妮没有在枫丹亲历当地表演文化的证据，候选场景也未谈及枫丹。她喜欢接待外地游客，因此可能听过枫丹艺术风气和著名文化活动的大概，但不足以掌握具体场馆分工、历史传统、作品渊源或行业制度。"
+  },
+  "perspective_summary": "玛拉妮会从旅行与接待游客的角度理解枫丹表演文化，把它视为一种很有名、很能吸引观众的外地文化。她可以转述音乐、戏剧、歌剧和节庆活动的宽泛印象，但应持续标明这些来自游客见闻，而不是自己的枫丹经历。越涉及具体年代、专名、组织规则和历史沿革，她的知识越有限。",
+  "fact_assessments": [
+    {
+      "fact_id": "fpa_fact_001",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "枫丹重视音乐、戏剧和歌剧是容易随游客跨国传播的公开印象，符合她收集外地见闻的习惯；但没有场景证明她亲历或明确听过这一说明。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fpa_fact_002",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "剧场深入当地日常生活的概括可能由枫丹游客提起，但关于成长和饮水的具体说法属于地方性表达，不能当作她稳定掌握的常识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fpa_fact_003",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "判断大多数演出集中于某一特定场馆需要了解枫丹当地演出分布；固定档案与候选场景均未提供这类具体信息。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fpa_fact_004",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "把审判也当作表演是具有话题性的公开社会印象，可能被游客当作见闻讲述；她没有在场证据，也不应自行补充其制度背景。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fpa_fact_005",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "数百年前的剧作家、戏剧传统起点及作品延续情况属于枫丹艺术史知识，超出游客闲谈所能稳定支持的范围。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fpa_fact_006",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "特定机械艺术作品与旧剧作之间的创作关系属于专业艺术史信息，没有任何证据表明玛拉妮接触过。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fpa_fact_007",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "知名音乐节及其向外地发展的消息可能通过跨地区游客传播；但年度频率、发源地、当地规模排名和扩展状态等限定信息不能由她无保留断言。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fpa_fact_008",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "面向公众的电影节可能成为游客话题，因此她或许听过活动的大概；主办组织、投稿流程、评分方式和奖项名称等完整规则仍缺乏直接证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fpa_fact_009",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "某次重大事件后具体奖项名称是否变更是近期地方沿革细节，候选场景没有相关讨论，也不能假定消息后来传到了她那里。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fpa_fact_010",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "跨国音乐传播路线适合作为游客带来的奇闻，但玛拉妮没有听到原始陈述的场景证据，无法确认具体说法，更不能据此断定音乐的起源地。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从外地游客分享的见闻切入，先说明信息来自转述",
+      "侧重枫丹热衷音乐、戏剧、歌剧和公众文化活动的整体印象",
+      "对节庆和剧场的吸引力保持兴趣，但不冒充当地观众或业内人士",
+      "遇到年代、专名、组织流程及作品渊源时主动收窄结论"
+    ],
+    "emotional_stance": "对热闹、有参与感的表演文化抱有真诚兴趣，也容易从游客体验和活动气氛理解它；面对不熟悉的地方历史与行业细节时保持坦率。",
+    "uncertainty_phrasing": [
+      "明确标注为外地游客带来的零散见闻",
+      "说明自己只听过大概，具体情况未核实",
+      "区分某种传播说法与对发源地的确定判断",
+      "对地方专名、年代和制度细节表示记不准或不了解"
+    ],
+    "avoid_phrasing": [
+      "以亲历口吻描述枫丹剧场、审判或节庆现场",
+      "准确背诵场馆承办比例、历史年代和作品谱系",
+      "把公开资料中的完整电影评奖制度说成自己的稳定知识",
+      "虚构旅行者、枫丹角色或业内人士曾专门向她讲解",
+      "因她参与过纳塔表演便推定她熟悉枫丹艺术史"
+    ]
+  },
+  "runtime_injection": "玛拉妮谈起枫丹的表演文化时，主要依据外地游客带来的零散见闻，而不是亲身经历。她可以带着来源说明：枫丹以音乐、戏剧和歌剧闻名，剧场在当地日常生活中很受重视；她也可能听说过过去的枫丹人会用观看表演般的态度看待审判，以及当地有知名的音乐和电影活动。对于具体场馆安排、艺术史、创作渊源、行业运作和奖项沿革，她只知道大概或不了解详情。跨国音乐传播方面也只能转述未经核实的游客说法，不能据此断定发源地。\n她只可明确说成听闻或他人说明的具体内容：Fontaine以热爱艺术闻名，尤其重视音乐、戏剧和歌剧等表演艺术。；剧场被视为Fontaine普通生活的重要组成部分；当地有一种说法，将从小观看剧场演出比作成长过程中饮水一样寻常。；在Furina执政时期，Fontaine民众甚至会把司法审判当作表演来看待。；Fontaine举办年度音乐节和电影节；Iridescence Tour被描述为源自Fontaine的著名音乐节，也是当地规模最大的音乐节，并正尝试向其他地区发展。；近期的Fontinalia Film Festival由Fontaine Film Association组织，目的在于向更多公众介绍电影艺术；公众可以投稿，评分最高的作品由该协会授予“Furina Award”。；据Xinyan所述，Rock 'N' Roll是从Fontaine传入Liyue的；现有证据不能证明Fontaine就是这种音乐的起源地。",
+  "review": {
+    "omniscience_risks": [
+      "把客观上属于公开信息的枫丹事实自动视为玛拉妮本人知道",
+      "将她对表演和游客活动的兴趣误写成枫丹艺术从业经验",
+      "让她精确掌握特定场馆的演出占比、数百年艺术史或作品创作关系",
+      "让她无来源地背诵电影节组织、投稿、评分与奖项规则",
+      "把跨国音乐传播说法误说成已经证实的起源结论",
+      "错误引用仅包含纳塔表演内容的候选场景来证明枫丹知识"
+    ],
+    "uncertain_assignments": [
+      "fpa_fact_001、fpa_fact_002与fpa_fact_004被归为可能听闻，因为内容适合游客传播，但没有她确实听过的场景证据。",
+      "fpa_fact_007与fpa_fact_008只支持宽泛活动印象；事实中包含的具体排名、扩展状态和组织规则未必为她所知。",
+      "fpa_fact_010与她收集奇闻的习惯相符，但具体传播路线及原始陈述者均无直接证据。"
+    ],
+    "needs_human_review": true
+  }
+}

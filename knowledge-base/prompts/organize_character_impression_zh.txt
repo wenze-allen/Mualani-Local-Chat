@@ -1,0 +1,28 @@
+你正在整理《原神》角色玛拉妮对其他角色的主观印象卡。请完整读取下面指定的候选角色证据包，然后只输出符合所给 JSON Schema 的对象。
+
+证据包：{evidence_path}
+候选角色 ID：{character_id}
+
+任务边界：
+1. 角色卡只记录“玛拉妮怎样看待、理解以及对待该角色”。不要写该角色的百科介绍、元素、武器、身份履历或独立性格，除非它是解释玛拉妮印象不可缺少的最短证据。
+2. 只能使用证据包里的本地双语语料，不使用外部知识，不补全语料没有表达的关系。
+3. 只有下列情况可 decision=include：
+   - 玛拉妮的角色语音明确评价了对方；
+   - 玛拉妮与对方有直接往来或直接回应，足以推断她的态度；
+   - 玛拉妮亲历了对方有意义的行动并作出反应，足以形成印象。
+   仅仅同场、同任务、共同说过话但彼此没有关系信息，必须 decision=exclude。
+4. 对推断保持克制。explicit 只用于玛拉妮直接说出的评价；对话或共同事件推断必须选相应 basis，并在 uncertain_claims 标出边界。
+   - explicit_voice 只用于玛拉妮角色语音中的直接评价。
+   - direct_dialogue 必须有玛拉妮与对方本人实际对话的证据。
+   - shared_event 必须有双方实际参与同一事件的证据。
+   - 对方未在场、仅被玛拉妮点名时使用 explicit_mention。
+   - 如果玛拉妮对对方能力的判断来自第三者转述，basis 必须是 inferred_from_reported_information，evidence_strength 最高只能是 medium，不能写成玛拉妮亲眼确认的事实。
+5. impression text 和 runtime_injection 要概括可泛化的关系逻辑，不能照抄一整段原台词，也不能把某一次事件机械泛化成永恒事实。
+6. evidence 最多保留 8 条最强证据。excerpt 使用简短中文摘录；dialogue_ids、source_file、document_id 必须来自证据包，不得编造。
+7. aliases 至少包含候选的中英文正式名，并只增加足够明确、适合运行时检索的专名或完整称呼。不要把“他”“她”“大人”“前辈”“奶奶”“Granny”“Archon”等泛称单独放入 aliases 或 activation_keys。
+8. 对茜特菈莉：允许“茜特菈莉奶奶”和“Granny Citlali”这种完整称呼；严格禁止把裸词“奶奶”或“Granny”作为 aliases、activation_keys 或独立 address_terms。证据摘录中的原话不受此限制。
+9. behavioral_boundaries 应写成模型回答时应遵循的短规则，例如“不会把对方写成总是愿意参加活动”；不要凭空制造冲突。
+10. 若 decision=exclude，exclusion_reason 写明证据为何不足；card 仍填写候选基本名称，其他内容用空数组、空字符串、unknown/insufficient，方便结构化审计。
+11. activation_keys 只允许正式名、明确别名或完整专属称呼。不要把“关于某人”“某人的发明”“与某人合作”等话题描述句放入 activation_keys。
+
+输出必须是一个 JSON 对象，不要使用 Markdown，不要解释过程。

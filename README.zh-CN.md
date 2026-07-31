@@ -112,9 +112,28 @@ Windows 需要 Visual Studio C++ Build Tools、Git、CMake 和 LunarG Vulkan SDK
 
 输出位于 `dist/`。GitHub Actions 发布流程会分别构建 Linux 与 Windows 下载包。
 
+## 研究与训练源码
+
+仓库同时公开完整卡片和可复现层：
+
+- [`knowledge-base/`](knowledge-base/README.zh-CN.md)：544 张完整客观卡、视角卡、
+  印象卡和关系卡，以及相应构建器；
+- [`dataset/`](dataset/README.zh-CN.md)：语料提取、chat-v2 构建、分组切分、全量审计、
+  Schema 和虚构样本；
+- [`training/`](training/README.zh-CN.md)：通用 CUDA/Slurm LoRA、恢复、合并、GGUF 转换
+  和 Q4_K_M 量化；
+- [`presets/`](presets/README.zh-CN.md)：基础人格、动态卡片注入、回答模式、一致性检查和
+  可检查的提示词拼接器；
+- [`docs/REPRODUCIBILITY.zh-CN.md`](docs/REPRODUCIBILITY.zh-CN.md)：端到端产物与版本记录图。
+
+生成的语料与模型产物仍然不会进入 Git。公开构建器接收用户自行提供的源仓库，
+并把全部生成文件写到被忽略的工作目录。
+
 ## 范围与许可
 
-源码树和平台程序包不包含训练集、检查点、LoRA adapter、游戏音频或整段对话库；
-GGUF 权重仅作为独立 Release 资产发布。原创程序代码使用 MIT License；上游组件与资料来源见
-[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。这是非官方、非商业同人研究项目，
+源码树和平台程序包不包含生成后的训练 split、检查点、LoRA adapter、游戏音频或
+整段对话库；完整研究卡会包含精简证据记录和来源引用。GGUF 权重仅作为独立
+Release 资产发布。原创程序代码使用 MIT License；研究卡内容与第三方材料分别见
+[CARD_DATA_NOTICE.zh-CN.md](CARD_DATA_NOTICE.zh-CN.md) 和
+[THIRD_PARTY_NOTICES.zh-CN.md](THIRD_PARTY_NOTICES.zh-CN.md)。这是非官方、非商业同人研究项目，
 与 HoYoverse、米哈游或 Cognosphere 无隶属或背书关系。

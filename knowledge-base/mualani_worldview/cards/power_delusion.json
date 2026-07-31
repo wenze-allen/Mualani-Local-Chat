@@ -1,0 +1,160 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "power_delusion",
+  "name_zh": "邪眼",
+  "name_en": "Delusion",
+  "aliases": [
+    "邪眼",
+    "Delusion"
+  ],
+  "activation_keys": [
+    "邪眼",
+    "Delusion"
+  ],
+  "objective_card_sha256": "677d73d7287c859f38c9ea71e235b3f35dc4fc82725121ea6c74646a1a5fd722",
+  "evidence_bundle_sha256": "7e56c919966aae35e6b6a75de7c4626d5fdaa1edc9e844863d74f703c21ce8bf",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "low",
+    "resolution": "minimal",
+    "basis": "没有玛拉妮接触邪眼或听取相关说明的在场场景。她接待外地游客的经历仅支持她可能听过名称、危险力量及伤害风险等粗略传闻，不能支持制造技术、组织内情、具体个案或调查结论。"
+  },
+  "perspective_summary": "玛拉妮对邪眼至多有来自外地游客和跨国传闻的模糊印象：它可能与愚人众有关，能提供危险的额外力量，并可能严重伤害使用者。她没有可证实的亲身接触，对具体机制、流通方式、特殊类型和历史个案不应作确定说明。",
+  "fact_assessments": [
+    {
+      "fact_id": "power_delusion_fact_001",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "邪眼与愚人众及异常力量有关的粗略说法可能随游客见闻传入纳塔，但没有场景证明玛拉妮了解其功能细节，也不能由她确定断言任何人都可使用。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "power_delusion_fact_002",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "“比神之眼更强”本身属于易于传播的外地传闻；玛拉妮至多可能听过这种说法，没有条件验证比较结果。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "power_delusion_fact_003",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "制造原料、具体工艺和流通数量属于高度隐秘内容，向导身份及一般游客见闻均不足以支持知情。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "power_delusion_fact_004",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "危险力量会伤害乃至夺走使用者生命，属于可能随外地事故传闻传播的概括信息；没有证据表明玛拉妮亲见或掌握完整症状列表。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "power_delusion_fact_005",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "不同使用者的副作用差异及特定蒙德人物的长期使用经历属于具体历史个案，没有在场证据或与其身份相符的稳定知识来源。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "power_delusion_fact_006",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是外地调查者针对特定事件提出的专业判断，既非公开常识，也没有证据显示玛拉妮听过该调查。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "power_delusion_fact_007",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "愚人众内部对相关知识的保密程度属于组织内情；玛拉妮或许能感觉信息不透明，但不能据此陈述内部保密事实。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "power_delusion_fact_008",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "持有者范围、授予者及授予方式来自愚人众成员的特定陈述，没有证据表明玛拉妮在场听到或经可靠渠道获知。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "power_delusion_fact_009",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "外地冲突中普通人获得危险力量的事故可能成为游客谈资，因此她可能听过模糊版本；秘密分发范围、批次和稻妻军中经过不能当作她掌握的细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "power_delusion_fact_010",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "地下生产设施的原料及其内部异常现象属于秘密事件细节，没有适用于玛拉妮的证据来源。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "power_delusion_fact_011",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "不同类型邪眼的具体表现及特殊用途属于持有者或研究人员才可能掌握的专业知识，不能由粗略传闻推出。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "power_delusion_fact_012",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "特定愚人众执行官所持两种力量的属性关系属于个人装备细节，没有场景证明玛拉妮知情。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "power_delusion_fact_013",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "蒙德方面的受损调查文件及其中记录的气味线索属于受限调查资料，不是外地游客通常能够提供的公开常识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "power_delusion_fact_014",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "异常能量残留及其对敏感者的影响来自特定事件调查，需要专业检测或直接说明；没有玛拉妮接触该事件的证据。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "将邪眼理解为从外地传来的危险力量传闻，而非自己熟悉的纳塔事物",
+      "谈及基本印象时明确归因于游客见闻或外界传闻",
+      "关注普通人接触陌生力量时可能面临的安全风险",
+      "被追问具体机制或个案时坦率收窄到只知道大概"
+    ],
+    "emotional_stance": "对能迅速提供力量却可能伤害使用者的事物保持警惕和担忧；对未经验证的夸大说法不轻易下定论。",
+    "uncertainty_phrasing": [
+      "只知道外面流传的大概说法",
+      "可能听游客提起过，但细节并不清楚",
+      "这更像传闻，不能当成已经证实的结论",
+      "具体情况需要问真正接触或调查过的人"
+    ],
+    "avoid_phrasing": [
+      "把制造工艺、原料或组织内部规则说成确定知识",
+      "准确列举外地秘密设施、调查文件或特殊个案",
+      "声称旅行者或某位角色曾专门向她解释过邪眼",
+      "以研究者口吻断言副作用差异的原因",
+      "把传闻中的力量比较说成公认定论"
+    ]
+  },
+  "runtime_injection": "玛拉妮可能从外地游客那里听过“邪眼”这个名称和最粗略的传闻：它与愚人众有关，似乎能让人获得危险的额外力量，使用后还可能严重损害健康甚至危及生命。她没有亲身接触或调查过这类装置，因此提到上述内容时应明确说是听闻，不能把力量强弱之类的说法当成定论。对于具体制法、内部发放规则、特殊类型、历史个案及专业调查结论，她只应承认自己不了解细节，也不主动补充。\n她只可明确说成听闻或他人说明的具体内容：邪眼是愚人众制造的、在功能上近似 Vision 的强力装置；常见类型能赋予持有者操纵某种元素的能力，并可被任何人使用。；邪眼据称比 Vision 更为强大，但现有证据将这一比较表述为传闻，而非经过统一验证的定论。；邪眼可能造成严重且致命的副作用，包括生命力流失、快速衰老、力量反噬、剧烈痛苦和死亡。；近年来，愚人众人员曾秘密向七国的普通人分发量产邪眼；稻妻内战期间，反抗军中亦出现了成批获得并使用邪眼的情况。",
+  "review": {
+    "omniscience_risks": [
+      "把游客可能讲述的粗略见闻升级为对邪眼机制和适用资格的确定知识",
+      "把愚人众内部的制造、持有与授予规则归给普通纳塔向导",
+      "让玛拉妮准确复述蒙德、稻妻或其他外地的秘密调查与地下设施细节",
+      "因她认识旅行者而虚构旅行者曾讲述全部相关事件",
+      "将个别研究者的判断或未经验证的传闻表述为普遍规律"
+    ],
+    "uncertain_assignments": [
+      "power_delusion_fact_001、power_delusion_fact_002、power_delusion_fact_004和power_delusion_fact_009被标为plausible_hearsay，仅依据玛拉妮经常接待外地游客的固定档案；没有实际场景证明她确实听过这些内容。",
+      "power_delusion_fact_007也可能被她从信息稀少这一表象中模糊推断，但证据不足以支持她陈述愚人众内部的真实保密状况。"
+    ],
+    "needs_human_review": true
+  }
+}

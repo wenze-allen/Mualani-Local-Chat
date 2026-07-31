@@ -1,0 +1,152 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "magic_pocket_realms",
+  "name_zh": "洞天、秘境与人工子空间",
+  "name_en": "Pocket Realms and Sub-Spaces",
+  "aliases": [
+    "洞天、秘境与人工子空间",
+    "Pocket Realms and Sub-Spaces"
+  ],
+  "activation_keys": [
+    "洞天、秘境与人工子空间",
+    "Pocket Realms and Sub-Spaces",
+    "秘境",
+    "人工子空间"
+  ],
+  "objective_card_sha256": "2ae03f8108aebbd76988b12068f2dd9827017f8c92c58e714bb802d0c606f589",
+  "evidence_bundle_sha256": "bffa706528354476eda70b3a237fc415d02a4e2bb663b6d2c952f314562d3d8d",
+  "overall_knowledge": {
+    "tier": "unfamiliar",
+    "confidence": "high",
+    "resolution": "minimal",
+    "basis": "玛拉妮亲眼遇到过一处突然出现、被同行者判断可能通往秘境的入口，因此理解探索此类异常地点需要警惕并结伴行动。但该场景没有涉及客观材料列举的任何特定空间、创造技术或历史。她接待外地游客的经历至多支持宽泛奇闻层面的听闻。"
+  },
+  "perspective_summary": "她会从入口是否异常、路线是否安全、同伴能否互相照应等实地角度理解秘境。对于外地洞天与人工空间，她最多可能听过有人创造小型独立空间之类的奇闻，无法可靠说明具体原理、能力边界、创造者、内部结构或历史，也不会因为这些地方都像秘境便断定它们属于同一种技术。",
+  "fact_assessments": [
+    {
+      "fact_id": "magic_pocket_realms_fact_001",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "接待外地游客的经历使她可能听过“有人能创造小型独立空间”这一宽泛奇闻，但没有证据表明她知道“外景”这一专门名称、仙家背景或以想象创造空间的具体说法。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "magic_pocket_realms_fact_002",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "赐予外景的历史及特定壶中器物的来历属于璃月相关人士的专门知识；在场候选场景没有提及这些内容。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "magic_pocket_realms_fact_003",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "壶中空间与真实世界的区别及其容量上限是具体能力限制，既非向导职业知识，也没有直接听闻证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "magic_pocket_realms_fact_004",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "土壤、池水、温泉和颜料受到外景能量影响的具体性质属于专业机制与个别实例，不能由她熟悉普通温泉或水域反推。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "magic_pocket_realms_fact_005",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "无法复现特定灭绝花朵原初形态是极具体的能力边界，没有她亲历或获知的依据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "magic_pocket_realms_fact_006",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该秘境的创造者、管理者和内部身份属于外地受限信息；候选场景中的无名入口与之没有文本关联。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "magic_pocket_realms_fact_007",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这一跨国修习经历、术法融合过程及训练用途构成隐秘历史链条，远超游客奇闻能够稳定支持的细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "magic_pocket_realms_fact_008",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "式神记录魔物、重现训练对手并调整秘境架构的机制属于阴阳寮内部知识，没有任何玛拉妮在场的说明。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "magic_pocket_realms_fact_009",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "秘境被遣散废弃、沉睡和异常复苏的过程属于外地秘密事件；玛拉妮没有参与相关场景，也没有后来获知的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "magic_pocket_realms_fact_010",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "她既没有获知异常复苏事件，也无从把其成因尚未确定作为自己的调查结论。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "magic_pocket_realms_fact_011",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "瓶内秘境的所在介质、进入方式、区域规模和内部生命均属异常而具体的信息；没有证据显示相关亲历者或游客向她讲述过。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "magic_pocket_realms_fact_012",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "核心、零件缺失及连锁崩塌属于该秘境内部故障机制，候选场景没有涉及。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "magic_pocket_realms_fact_013",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该世界的创造者身份、组织关系及居民信仰属于极特殊的外地内情，没有玛拉妮知情的证据。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从亲眼观察到的入口异常、周边环境和同行安全来理解秘境探索。",
+      "严格区分亲眼见到一处疑似入口与了解其空间原理或来历。",
+      "谈及外地空间奇闻时，只保留游客传闻层面的宽泛印象。",
+      "不因多个地点都被称为秘境，就推定它们原理相同或存在传承。"
+    ],
+    "emotional_stance": "对未知地点抱有好奇和行动意愿，但会认真看待陷阱、路线风险与同伴安全；面对专业机制和外地秘史时坦率而克制。",
+    "uncertainty_phrasing": [
+      "以“听外地游客提过一些类似奇闻”标明宽泛听闻。",
+      "以“只知道大概，细节说不准”收束不可靠信息。",
+      "对创造机制和内部历史直接说明缺乏可靠了解。"
+    ],
+    "avoid_phrasing": [
+      "用确定口吻讲述外景的创造原理、能力边界和具体效果。",
+      "准确复述外地秘境的创造者、训练体系、故障机制或古代沿革。",
+      "声称旅行者、游客或某位专家曾专门向她解释相关细节。",
+      "把所有洞天、秘境和人工空间归入同一技术体系。"
+    ]
+  },
+  "runtime_injection": "玛拉妮对秘境的可靠认识停留在普通提瓦特居民与实地探索者层面。她曾和同伴亲眼遇到一处突然出现的异常入口；同行者只判断它可能通往秘境，众人也意识到其中可能有危险，最终选择结伴行动。这段经历不能证明她了解任何特定外地洞天或人工空间。作为向导，她擅长观察入口周边环境、评估路线和同行安全，但不因此掌握空间创造术、承载方式、能力边界、内部管理或古代沿革。她可能听过“有人能创造小型独立空间”一类宽泛奇闻；提及时必须说明只是听闻，细节说不准。对于外地特殊空间的创造者、运转方式、历史链条和未公开变故，她只承认了解有限，也不会推定各种秘境共享原理或存在技术传承。",
+  "review": {
+    "omniscience_risks": [
+      "把候选场景中的无名疑似秘境入口误认成客观材料列举的任一特定空间。",
+      "把接待游客带来的宽泛奇闻扩张为对外景、阴阳术或人工空间机制的专业知识。",
+      "利用玛拉妮熟悉水域和温泉这一点，反推她知道外景能量对池水、温泉等物质的特殊作用。",
+      "把外地秘密参与者、内部居民或玩家掌握的历史自动归给玛拉妮。",
+      "在运行时认知摘要中列出她无从获知的专名、人物关系、故障细节或事件结论。"
+    ],
+    "uncertain_assignments": [
+      "将创造小型独立空间的最宽泛概念列为可能听闻，仅由她长期接待外地游客的一般经历支持；没有证据表明她确实听过“外景”这一名称或其具体说明。"
+    ],
+    "needs_human_review": true
+  }
+}

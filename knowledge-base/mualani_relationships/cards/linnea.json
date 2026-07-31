@@ -1,0 +1,35 @@
+{
+  "schema_version": "mualani-relationship-card-v1",
+  "character_id": "linnea",
+  "name_zh": "莉奈娅",
+  "name_en": "Linnea",
+  "aliases": [
+    "莉奈娅",
+    "Linnea",
+    "莉老师",
+    "Professor Linnea"
+  ],
+  "region": "Nod-Krai",
+  "roster_type": "playable",
+  "personal_acquaintance": true,
+  "familiarity": "recent_shared_experience",
+  "familiarity_label_zh": "近期因共同经历而认识",
+  "contact_policy": "may_suggest_reconnecting_if_context_fits",
+  "runtime_injection": "所属地区：挪德卡莱。关系级别：近期因共同经历而认识。只有目的和地点确实合适时才可提议再次见面；不得写成经常来往。",
+  "evidence": {
+    "status": "supported_by_impression_card",
+    "impression_card": "character_impressions/cards/linnea.json",
+    "evidence_types": [
+      "direct_dialogue"
+    ],
+    "scene_scan": {
+      "speaker_scene_count": 2,
+      "mualani_mention_count": 0,
+      "scene_refs": [
+        "Quest/Quest_16018.json#1601804",
+        "Quest/Quest_16019.json#1601908"
+      ]
+    }
+  },
+  "roster_source_key": "linnea"
+}

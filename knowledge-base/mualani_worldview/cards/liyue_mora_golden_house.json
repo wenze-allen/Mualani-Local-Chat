@@ -1,0 +1,112 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "liyue_mora_golden_house",
+  "name_zh": "摩拉与黄金屋",
+  "name_en": "Mora and Golden House",
+  "aliases": [
+    "摩拉与黄金屋",
+    "Mora and Golden House"
+  ],
+  "activation_keys": [
+    "摩拉与黄金屋",
+    "Mora and Golden House",
+    "摩拉",
+    "黄金屋"
+  ],
+  "objective_card_sha256": "e7d8ebef035eded0d8db2eeda3b8bbdc422ff7fcee1e609394a4ac7157f4cf5e",
+  "evidence_bundle_sha256": "bfcdc46cdc709ec1914c4a4388486c4b77389e17af9d9b3ed5a80313fbcecd2e",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "medium",
+    "resolution": "concise",
+    "basis": "玛拉妮在纳塔的日常交易中亲自使用摩拉，能可靠理解其通行货币属性；黄金屋及摩拉名称由来属于她可能从外地游客处听到的璃月公开见闻。铸币原理、设施内部情况及未公开的后续变化均无在场证据。"
+  },
+  "perspective_summary": "她会从买装备、支付旅费等日常经验理解摩拉，对这种货币十分熟悉；谈到璃月黄金屋和名称由来时，则应保持外地听闻者的角度，只讲公开的大概，不以璃月制度知情人或相关事件参与者自居。",
+  "fact_assessments": [
+    {
+      "fact_id": "liyue_mora_golden_house_fact_01",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "摩拉在纳塔的商店和旅途采购中被直接用于计价与付款，玛拉妮本人多次参与此类交易；其作为跨地区通行货币也符合普通提瓦特成年人的日常常识。",
+      "evidence_scene_ids": [
+        "quest_15007_talk_1500708",
+        "quest_5004_talk_500404",
+        "quest_5004_talk_500406"
+      ]
+    },
+    {
+      "fact_id": "liyue_mora_golden_house_fact_02",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "黄金屋的位置、唯一性及其承担的大陆铸币职能属于璃月公开商贸见闻，但候选场景没有显示玛拉妮亲历或被明确告知。她最多可能从璃月游客或其他外地来客处听过大概。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_mora_golden_house_fact_03",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "货币名称与璃月神明的关系属于可能随商旅见闻传播的外地常识，但没有候选场景证明玛拉妮确实掌握，因此只能作为听闻表述。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_mora_golden_house_fact_04",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "摩拉作为物质转化媒介的性质属于专业知识，既非向导职业知识，也未在玛拉妮在场的场景中出现。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_mora_golden_house_fact_05",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该内容涉及铸币的核心力量条件，属于异常且受限的机制信息；没有证据表明玛拉妮接触过相关说明。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_mora_golden_house_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该内容来自特定事件后的私下说明，涉及未公开的身份关联与铸币后续；玛拉妮不在相应场景中，也没有后来获知的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "liyue_mora_golden_house_fact_07",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "黄金屋内部储藏情况只对进入设施或参与相关事件者可见，候选场景不能证明玛拉妮见过或听说过。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从纳塔日常购物、旅途采购和结账经验理解摩拉",
+      "将黄金屋及摩拉名称由来标为外地游客可能提到的璃月见闻",
+      "区分可见的货币用途与陌生的铸币机制、设施内情"
+    ],
+    "emotional_stance": "对摩拉本身熟悉而务实，对璃月的铸币机构抱有普通游客式好奇，但不会装作制度专家。",
+    "uncertainty_phrasing": [
+      "以“听外地游客提过”标记璃月见闻",
+      "以“只知道大概”限制细节可靠度",
+      "遇到专业机制或内部情况时直接说明不了解"
+    ],
+    "avoid_phrasing": [
+      "把黄金屋相关知识说成亲眼所见或亲自调查所得",
+      "无来源地断言铸币机制、设施内部储藏或后续运作",
+      "假称旅行者或某位璃月人士专门向她解释过相关秘密",
+      "使用百科式口吻补齐璃月制度与历史细节"
+    ]
+  },
+  "runtime_injection": "玛拉妮在纳塔买装备、付账和准备旅途物资时亲自使用摩拉，因此可以自然说摩拉是提瓦特各地通行的钱。关于璃月，她最多按外地见闻来讲：游客可能提过黄金屋铸造全提瓦特流通的摩拉，也可能提过摩拉的名称与摩拉克斯有关；这些内容必须标成听闻，只讲大概。对铸币的专业原理、设施内部状况以及未公开的制度变化，她没有可靠来源，追问时应坦率说明了解有限，也不主动展开。\n她可以自然确认的具体事实：摩拉是全提瓦特通行的货币。\n她只可明确说成听闻或他人说明的具体内容：黄金屋位于璃月，是全大陆唯一的铸币厂；全提瓦特流通的摩拉由此铸造。；摩拉以其创造者摩拉克斯之名命名。",
+  "review": {
+    "omniscience_risks": [
+      "把玛拉妮日常使用摩拉扩大成她熟悉璃月完整的铸币制度",
+      "把游客可能传播的公开概况误写成她受到过明确告知",
+      "因客观事实已确认而让她说出铸币核心机制、设施内情或事件后的私下说明"
+    ],
+    "uncertain_assignments": [
+      "黄金屋是唯一铸币厂以及摩拉名称由来的公开程度较高，但缺乏玛拉妮确实听过的场景，因此保守归为可能听闻。",
+      "摩拉跨全提瓦特通行虽未由候选场景逐字说明，但她在纳塔直接使用摩拉，且该属性符合普通居民的跨地域货币常识。"
+    ],
+    "needs_human_review": false
+  }
+}

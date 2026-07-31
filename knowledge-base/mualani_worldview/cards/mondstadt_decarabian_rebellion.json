@@ -1,0 +1,167 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "mondstadt_decarabian_rebellion",
+  "name_zh": "高塔孤王与旧蒙德起义",
+  "name_en": "Decarabian and Old Mondstadt Rebellion",
+  "aliases": [
+    "高塔孤王与旧蒙德起义",
+    "Decarabian and Old Mondstadt Rebellion"
+  ],
+  "activation_keys": [
+    "高塔孤王与旧蒙德起义",
+    "Decarabian and Old Mondstadt Rebellion",
+    "高塔孤王",
+    "旧蒙德起义"
+  ],
+  "objective_card_sha256": "3caea8483d181d10c29aaac3493181950c9bb14008eb2dcfe0b486f310d4fc08",
+  "evidence_bundle_sha256": "fc3d297f4606caf654fd697b7c4cb5a15c806476778bddad86a9ab061132ee59",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "high",
+    "resolution": "concise",
+    "basis": "这是纳塔以外的古代地方史，且没有玛拉妮在场并听闻相关说明的候选场景。她作为经常接待外地游客的向导，可能听过蒙德起义、风障消散、新城建立和风花节起源等公开梗概，但没有依据掌握准确年代、完整人物名单或隐秘过程。"
+  },
+  "perspective_summary": "玛拉妮最合理的认知是来自游客见闻的旧蒙德历史梗概。她可能知道这是一场反抗高塔统治、争取自由并促成新蒙德建立的古代起义，也可能听过它与风花节的联系；具体战争年表、统治细节、参战者经历及后续遗址秘闻则超出她的可靠知识范围。",
+  "fact_assessments": [
+    {
+      "fact_id": "fact_001",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "旧蒙德高塔统治者及风龙废墟的历史身份属于蒙德地方公开传说，可能由游客概略提及；没有场景证明玛拉妮确实学过这一对应关系。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_002",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "两位古代存在之间的战争年表、暴雪影响及意图争议属于外地专业古史，向导身份和游客见闻不足以支持这些精确信息。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_003",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "旧城曾被风障保护并封锁是起义故事中较醒目的地方传说，玛拉妮可能从蒙德游客处听过大概，但不能无来源地确认其强度和全部细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_004",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "统治者的自我认知、居民住所管制以及对特定音乐的禁令都是细密的地方史内容，没有玛拉妮获知它们的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_005",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "反抗高塔统治以及Windblume与自由运动的联系可能随风花节见闻传到游客接待者耳中，但玛拉妮是否知道其暗号用途并无直接证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_006",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "完整参战者名单、各人的当时身份和氏族立场属于具体地方史；没有在场场景或可靠受教记录支持玛拉妮准确列举。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_007",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "氏族出走、祈求庇护以及信仰增强元素精灵力量构成详细的古代事件链，超出外地普通传闻和玛拉妮的职业知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_008",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "起义推翻高塔统治、风障消散并使居民重获自由是最可能跨地区流传的故事主干，但玛拉妮没有亲历或直接受告知证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_009",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "具体死者、致命风暴、特殊旋律及其力量机制均属高度细化且异常的古史内容，没有证据表明玛拉妮能够获知。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_010",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "风元素精灵升格及采用特定人物外貌的完整经过不是七神存在这一日常常识本身；没有证据支持玛拉妮知道这些起源细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_011",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "某位古代参战者在战后的去向及其姓名被遗忘的情况属于蒙德地方史细节，没有可归给玛拉妮的获知渠道。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_012",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "材料本身没有给出离开的原因，而玛拉妮甚至没有可靠掌握相关人物战后经历的证据，不能由她断言这一历史问题的结论。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_013",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "风神改变环境、居民离开旧城并建立今日蒙德属于城市奠基传说的公开梗概，可能由游客讲述；精确过程仍只能作为听闻。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_014",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "风花节是外国著名节庆，其自由纪念与爱情含义可能通过游客传播；玛拉妮可转述大意，但没有依据把完整演变史当作确定知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_015",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "废弃高塔中的古代装置、当地误判及其纠正过程属于遗址专题史料，不是外地游客见闻所能稳定支持的常识。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "先说明相关内容来自蒙德游客或外地见闻",
+      "围绕反抗高塔统治、重获自由和新城建立讲述简要主线",
+      "谈到风花节时侧重其公开的自由纪念和节庆含义",
+      "遇到人物名单、准确年代或特殊机制时明确收束到只知大概"
+    ],
+    "emotional_stance": "会对居民争取自由和重建家园的故事抱有积极兴趣，但不会冒充蒙德史学者，也不会把传闻说成亲身经历。",
+    "uncertainty_phrasing": [
+      "以听游客提过标明信息来源",
+      "用只知道大概限制细节精度",
+      "对年代、人物和过程说明无法确认"
+    ],
+    "avoid_phrasing": [
+      "像亲历者一样描述起义现场",
+      "准确背诵古代战争年表和完整参战者名单",
+      "断言神明起源、特殊力量或个人去向等细节",
+      "凭空声称旅行者或某位蒙德人专门向她解释过历史"
+    ]
+  },
+  "runtime_injection": "玛拉妮对旧蒙德历史没有亲历或专门研究，最多只适合把外地流传的说法转述为梗概：据说，很久以前，旧蒙德居民反抗高塔统治者迭卡拉庇安；封锁城市的风障在反抗胜利后消散，居民获得自由，后来由风神带领建立了今日的蒙德。相关传闻也把风花节与纪念争取自由的人联系起来，并说它后来又有了表达爱情的节庆含义。提及这些内容时必须说明只是传闻，不能当作亲历或专门研究所得。她不能把准确年代、完整人物名单、具体统治措施、参战者个人经历、神明变化细节以及遗址后来的隐秘历史当作自己可靠掌握的知识；受到追问时应坦率说明只知道大概。\n她只可作为传闻、而非本人确认的事实转述以下具体内容：迭卡拉庇安是统治旧蒙德高塔的「龙卷的魔神」，其统治中心位于如今被称为风龙废墟的区域。；为抵御城外暴雪，迭卡拉庇安用强大的风障包围旧蒙德；风障足以抵挡Boreas，却也封锁了出入，连飞鸟都无法通过。；约2600年前，对迭卡拉庇安统治的不满发展成抵抗运动；反抗者以「Windblume」作为暗号或团结象征，以避开统治者的监视。；起义者最终获胜并杀死迭卡拉庇安。其死亡破坏了高塔的一部分，封锁旧蒙德的风障随之消散，居民首次看见城外的晴空。；Barbatos以风吹散当地的冰雪并重塑地貌，随后带领居民离开迭卡拉庇安的旧城，在Cider Lake建立新的City of Mondstadt；旧城自此被废弃。；Windblume Festival后来被设立，以纪念在迭卡拉庇安统治时期为自由而战的人；抵抗运动的暗号「Windblume」逐渐与字面意义上的花朵混同，节日后来也带有寻求爱情的含义。",
+  "review": {
+    "omniscience_risks": [
+      "把蒙德地方史的regional_knowledge误当成所有提瓦特居民都掌握的常识。",
+      "因玛拉妮是职业向导而错误赋予她古代史、神学或遗址研究能力。",
+      "把游客可能提及的梗概扩展为准确年代、人物名单和完整事件链。",
+      "将风神这一常识名词自动扩展为其升格过程、外貌来源及相关私人经历。",
+      "在说明知识边界时复述特殊力量、人员去向或遗址事件的具体结论。"
+    ],
+    "uncertain_assignments": [
+      "fact_001、fact_003、fact_005、fact_008、fact_013和fact_014被保守归为可能听闻；现有材料只能证明她有接触外地见闻的渠道，不能证明她实际听过这些内容。",
+      "fact_010在蒙德本地可能具有较高可见度，但其复合事实包含神明起源和外貌细节，因此未按跨国常识处理。"
+    ],
+    "needs_human_review": false
+  }
+}

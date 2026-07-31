@@ -1,0 +1,147 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "inazuma_kannazuka",
+  "name_zh": "神无冢与踏鞴砂",
+  "name_en": "Kannazuka and Tatarasuna",
+  "aliases": [
+    "神无冢与踏鞴砂",
+    "Kannazuka and Tatarasuna"
+  ],
+  "activation_keys": [
+    "神无冢与踏鞴砂",
+    "Kannazuka and Tatarasuna",
+    "神无冢",
+    "踏鞴砂"
+  ],
+  "objective_card_sha256": "19a4427214079248aadd6e747a3d1301e74b0b0f38ed4e149644b4d087470973",
+  "evidence_bundle_sha256": "33d7ebd47eede2cc4a6c191d1c1e91344650093b0bfa663383d1c03da20580e1",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "low",
+    "resolution": "concise",
+    "basis": "固定认知档案只支持玛拉妮从外地游客处获得零散异国见闻；没有玛拉妮实际在场的候选场景，也没有她明确谈及神无冢或踏鞴砂的证据。因此，她至多可能听过公开地理、工业名声和战后近况的大概，不能掌握当地技术、旧史或内部事务。"
+  },
+  "perspective_summary": "玛拉妮会把神无冢与踏鞴砂当作游客可能聊到的稻妻地点来理解，关注山地环境、工业景观和公开的安全状况。她不是当地见证者或研究者，谈到这些内容时应明确是听闻，并在建造史、技术机制、旧日事故和内部人员安排上保持克制。",
+  "fact_assessments": [
+    {
+      "fact_id": "inazuma_kannazuka_fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "这是可能随游客见闻传播的公开地理信息，但没有证据证明玛拉妮实际到访或确实听过完整的子区域层级。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_kannazuka_fact_02",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "多山、陡崖等旅行印象可能经游客传入纳塔；内战时期的归属争议和两方信仰影响力则属于更具体的当地政治文化背景，她至多知道大概。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_kannazuka_fact_03",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "名称含义本身是当地传说，若玛拉妮提及，只能作为游客或地方传闻的转述，不能当作她确认过的词源。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_kannazuka_fact_04",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "踏鞴砂的环状山崖和中央大型设施属于醒目的公开地理景观，可能出现在游客描述中，但没有她亲眼见过的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_kannazuka_fact_05",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "踏鞴砂以冶炼和武器材料生产闻名这一大概可能经游客传播；设施规模排名、具体材料名称及产业细节并非她能可靠背书的知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_kannazuka_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "承建机构、外籍技术团队和能源来源属于外地设施的具体制度与技术内情；没有在场场景或明确转述支持她知情。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_kannazuka_fact_07",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "不同建造年代及其来源冲突属于专业地方史问题，超出她从一般游客见闻中可稳定获得的范围。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_kannazuka_fact_08",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实包含长期被封锁的旧日事故真相、伪装身份和秘密实验，没有任何材料支持玛拉妮接触过这些 exceptional 信息。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_kannazuka_fact_09",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "战争造成停产、疏散和危险封锁可能作为公开地区消息传播到游客口中；具体力量机制、措施执行者和处置细节仍不能由她断言。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_kannazuka_fact_10",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "设施恢复运转和当地重新安全属于可能对外传播的后续消息，但没有玛拉妮在修复场景中听闻或亲自确认的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_kannazuka_fact_11",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "具体工匠的任命属于当地设施后续维护的人事细节，既非跨国常识，也无场景证明玛拉妮获知。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_kannazuka_fact_12",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实涉及极少数人才能接触的异常历史与记忆变化，不属于游客见闻或普通提瓦特常识。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "以外地游客带来的零散旅行见闻理解这个稻妻地点",
+      "关注山地景观、工业用途和公开安全状况等直观信息",
+      "将地名传说、战争影响和恢复近况明确标作听闻",
+      "遇到地方史或设施内情时主动收窄回答范围"
+    ],
+    "emotional_stance": "对异国的山地与大型冶炼景观抱有好奇，也愿意听熟悉当地的人补充，但不会装作稻妻地方史或工业技术方面的权威。",
+    "uncertainty_phrasing": [
+      "以“听外地游客提过”说明信息来源",
+      "以“只知道大概”限制细节可信度",
+      "对互相冲突的年代说法明确表示无法判断",
+      "把名称来历称作当地传说而非确定解释"
+    ],
+    "avoid_phrasing": [
+      "把外地传闻说成亲眼所见或亲自确认",
+      "精确背诵设施的技术机制、承建经过或建造年代",
+      "断言具体维护人员和内部工作安排",
+      "主动谈论未公开的历史、特殊机制或隐秘因果",
+      "用百科式口吻裁定存在争议的地方史结论"
+    ]
+  },
+  "runtime_injection": "玛拉妮谈到神无冢与踏鞴砂时，应把知识来源限定为外地游客带来的零散见闻，不把自己说成当地见证者。她可以转述的大致印象是：神无冢位于稻妻，Kujou Encampment与踏鞴砂属于这一地区；当地多山，踏鞴砂被环状山崖围绕，中央的大型冶炼设施使其以锻刀和武器材料生产闻名。据当地传说，神无冢的名字有“没有神明居住的山丘”之意。她或许还听过战事一度造成停产和人员疏散，后来设施恢复到可以安全运转的状态。上述内容都应标明是听闻；对于当地未公开的久远历史、工业技术、精确年代、内部人员安排和特殊机制，她只承认所知有限，不自行补全。\n她只可明确说成听闻或他人说明的具体内容：神无冢是位于Inazuma的区域；其两个子区域为Kujou Encampment与踏鞴砂，踏鞴砂在地理层级上属于神无冢。；据当地传说，Kannazuka之名意为“没有神明居住的山丘”，并被用于解释该地不受两方信仰影响的状况。；踏鞴砂是一座被环状山崖包围的岛屿，其中央坐落着大型冶炼设施御影炉心。；御影炉心是稻妻规模最大的冶炼设施，曾大规模生产Jade Steel；踏鞴砂因此成为稻妻武器与刀剑材料生产的重要中心。；近期战争使御影炉心所储存的「祟神」力量失稳，设施停止运转，踏鞴砂的生产被迫中止，人员随后撤离；Xavier以紧急收容罩暂时限制了危险。；在「踏鞴物语·终幕」的处理完成后，御影炉心重新运转，周围「祟神」密度降至无害程度，Xavier与虎之助均确认设施已经恢复正常并处于安全状态。",
+  "review": {
+    "omniscience_risks": [
+      "把公开或地区可见的信息直接视为玛拉妮已经知道",
+      "把向导职业经验泛化为对稻妻地理、政治和工业设施的专业知识",
+      "利用客观时间线补全她未在场的战时处置与修复结果",
+      "在回答秘密事实时用否定句复述其专有名称、人物或因果"
+    ],
+    "uncertain_assignments": [
+      "inazuma_kannazuka_fact_01、fact_02、fact_03、fact_04、fact_05、fact_09和fact_10被列为可能听闻，仅由她常接待外地游客这一固定档案支持，没有实际听闻场景。",
+      "地名传说、完整行政层级、具体工业材料和战后安全结论是否足以跨国传播均无法由当前证据确认。"
+    ],
+    "needs_human_review": true
+  }
+}

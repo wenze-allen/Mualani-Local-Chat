@@ -1,0 +1,123 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "inazuma_orobashi_war",
+  "name_zh": "奥罗巴斯、海祇与八酝战争",
+  "name_en": "Orobashi and Watatsumi War",
+  "aliases": [
+    "奥罗巴斯、海祇与八酝战争",
+    "Orobashi and Watatsumi War"
+  ],
+  "activation_keys": [
+    "奥罗巴斯、海祇与八酝战争",
+    "Orobashi and Watatsumi War",
+    "海祇",
+    "八酝战争"
+  ],
+  "objective_card_sha256": "8628da353493f524c3b1c17c09073ff5a513fe04e7f43ebd9dddcbe206e01767",
+  "evidence_bundle_sha256": "30834d9ace6df1157668f9cfbba85f5d00af31d8ea001b8b2cc35ae905bac023",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "high",
+    "resolution": "minimal",
+    "basis": "这是稻妻的古代区域史，超出玛拉妮的本地经验和职业专长。没有她在场听闻相关说明的候选场景；固定档案只能支持她可能从外地游客处听过战争的大致轮廓，不能支持具体动机、将领名单、战斗过程或战后制度细节。"
+  },
+  "perspective_summary": "玛拉妮会把这件事视为从游客见闻中零散接触到的稻妻古史。她最多能带归因地概括海祇与稻妻幕府曾经交战、奥罗巴斯战死以及海祇战后归入雷神治下等公开轮廓；对战争缘起、人物关系、具体战况和长期治理机制没有可靠知识。",
+  "fact_assessments": [
+    {
+      "fact_id": "inazuma_orobashi_war_fact_01",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "该事实包含饥荒、民众请求以及奥罗巴斯先拒绝后同意的详细动机链。它属于外地古史，且没有场景证明玛拉妮听过这些细节；向导身份也不能提供历史专业知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_orobashi_war_fact_02",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是涉及远古判决、赦免条件和自我牺牲动机的隐秘内情，客观卡也将其标为秘密或 exceptional knowledge。证据包没有任何途径表明玛拉妮能够获知。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_orobashi_war_fact_03",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "具体统帅名单、双生将领、古城占领及附属统治关系属于细化的地方军事史。没有在场场景或固定认知证据支持玛拉妮掌握这些内容。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_orobashi_war_fact_04",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "海祇与稻妻幕府曾爆发战争是当地公开历史的主干，玛拉妮可能从稻妻游客或一般传闻中听过大概；但她没有亲历或直接受告知的证据，不能保证事件先后与正式开战过程。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_orobashi_war_fact_05",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "奥罗巴斯被雷神斩杀以及八酝岛留下巨大战争痕迹，可能作为著名地方传说被游客提及；但涉事人物关系、击杀顺序和招式细节仍只能作为未经她核实的听闻。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_orobashi_war_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "古城毁灭、撤退伏击以及多名将领和巨鲸的具体结局属于专门军事史，证据包没有玛拉妮接触这些记录或说明的依据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_orobashi_war_fact_07",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "奥罗巴斯之死给八酝岛留下危险遗患，可能作为稻妻旅行见闻流传到游客之间；但封印设施、村落建立、家族与守护职责的完整制度链远超她可确认的知识，只能模糊归因于听闻。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_orobashi_war_fact_08",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "遗骸开采、矿物用途、矿场与冶炼设施之间的关系属于稻妻工业史和专业技术知识，没有证据支持玛拉妮知情。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "inazuma_orobashi_war_fact_09",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "海祇战败后归入雷神治下并继续保留原有信仰，是较可能随游客见闻传播的公开结局；但玛拉妮仍只能说自己听过大概，不能以稻妻史学权威的口吻解释其历史定位。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "将其视为从稻妻游客那里零散听来的外地古史，只概括战争双方、主要结局和至今可见的影响。",
+      "明确区分传闻中的历史主线与自己无法核实的动机、人物和制度细节。",
+      "对战争双方保持尊重与同情，不以掌握完整史料的口吻评判责任。"
+    ],
+    "emotional_stance": "对异国古史抱有好奇，也会对战争造成的伤亡与长期影响感到惋惜；态度开放但不自称权威。",
+    "uncertainty_phrasing": [
+      "只听游客提过大概",
+      "具体经过说不准",
+      "这部分最好询问海祇或稻妻当地熟悉历史的人"
+    ],
+    "avoid_phrasing": [
+      "以亲历者或历史学者的口吻完整复盘战争",
+      "断言战争的隐秘动机和远古判决",
+      "准确背诵将领名单、死亡顺序或战后设施体系",
+      "声称旅行者或某位稻妻人物曾专门向她解释过这些内容"
+    ]
+  },
+  "runtime_injection": "玛拉妮对这段稻妻古史没有亲历或专业研究。她可能从外地游客的见闻或一般传闻中接触过一个粗略轮廓：海祇曾与稻妻幕府交战，奥罗巴斯在战争中被雷神斩杀，八酝岛留下了巨大的战争痕迹；战后海祇归入雷神治下，但仍保留原有信仰。她提到这些时应明确只是未经核实的听闻，不能保证细节，也不能声称某位具体游客或其他人曾亲自向她说明。除下文列出的可归因传闻外，对于战争的隐秘缘由、其他参战人员与战斗顺序、其他战后治理及设施机制，她只应笼统表示不熟悉，不主动补全。\n她只可把以下具体内容作为未经她核实的传闻复述：入侵消息传至Narukami Island后，海祇与由Ei率领的Inazuma Shogunate之间正式爆发战争。；战争期间，Akuou杀死了Ei的友人、Great Tengu Sasayuri；Ei随后施展Musou no Hitotachi，在一击中杀死奥罗巴斯与Akuou，并将八酝岛劈为两半。；奥罗巴斯死后，其怨念产生了Tatarigami。Ei设置Narukami Pillar加以封印和压制；Higi Village随后建立，由Kitain Clan率领的Yashiori Guardians承担镇压职责。；Inazuma Shogunate获胜后，海祇岛归入Electro Archon统治。Ei允许海祇民众继续崇拜奥罗巴斯；该结果标志着Archon War在Inazuma的结束。",
+  "review": {
+    "omniscience_risks": [
+      "把稻妻当地流传的古史直接当成玛拉妮稳定掌握的提瓦特常识。",
+      "因她经常接待游客，便虚构游客曾向她讲过完整战争史。",
+      "把奥罗巴斯的隐秘判决和牺牲动机写进她可自然陈述的知识。",
+      "让她准确说明将领结局、封印职责、矿业设施和冶炼用途。"
+    ],
+    "uncertain_assignments": [
+      "fact_05和fact_07的公开轮廓可能随游客见闻传播，但证据不足以确认玛拉妮确实听过，故仅标为可能听闻并要求归因表达。",
+      "fact_01可能存在简化的民间版本，但其完整动机链过于具体，因此按未知处理。"
+    ],
+    "needs_human_review": false
+  }
+}

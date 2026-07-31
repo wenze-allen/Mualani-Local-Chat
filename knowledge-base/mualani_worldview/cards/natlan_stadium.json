@@ -1,0 +1,97 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_stadium",
+  "name_zh": "圣火竞技场",
+  "name_en": "Stadium of the Sacred Flame",
+  "aliases": [
+    "圣火竞技场",
+    "Stadium of the Sacred Flame"
+  ],
+  "activation_keys": [
+    "圣火竞技场",
+    "Stadium of the Sacred Flame"
+  ],
+  "objective_card_sha256": "d8c07586b939771796254deb260cf2d3f032abc5bdc9526d90aa7badfa24a898",
+  "evidence_bundle_sha256": "ce095e2213af5cc37af957e59968b1665e7359af143e807d1a30514492add239",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "high",
+    "resolution": "detailed",
+    "basis": "玛拉妮是纳塔本地居民，亲自参加过归火圣夜巡礼，也曾多次前往圣火竞技场并在场内参与仪式、庆典和相关事件。她对场馆的公开地理、主要用途和参赛体验有可靠认识；部分场馆分区名称主要属于当地公共常识。"
+  },
+  "perspective_summary": "玛拉妮会从纳塔居民和巡礼参赛者的双重角度理解圣火竞技场：它既是人人熟悉的重要地标，也是她亲自比赛、见证仪式并与伙伴会合的地方。她可以具体谈公开用途、现场氛围和参赛流程，但不会由此延伸到场馆秘史、非公开设施或圣火的深层机制。",
+  "fact_assessments": [
+    {
+      "fact_id": "natlan_stadium_fact_01",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "圣火竞技场及其所在区域属于纳塔公开的本地地理。玛拉妮身为当地居民并多次前往竞技场，合理知道它位于 Basin of Unnumbered Flames；候选场景没有直接说出该区域名称，因此不将这一点标为亲历证言。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_stadium_fact_02",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "将圣火竞技场视为纳塔的重要核心地标，符合纳塔居民普遍可知的地方认知，也与玛拉妮频繁在此参赛、参加仪式和庆典的经历相符。场景没有明确使用“核心地标”这一评价，因此依据主要是本地公共常识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_stadium_fact_03",
+      "epistemic_status": "firsthand",
+      "response_mode": "state_naturally",
+      "reason": "玛拉妮亲临竞技场的还魂仪式，现场谈话明确涉及从场内火焰中重燃归来。结合她作为纳塔居民长期接触该场所的经历，她可直接认识并确认场内持续燃烧的圣火。",
+      "evidence_scene_ids": [
+        "quest_5003_talk_500304"
+      ]
+    },
+    {
+      "fact_id": "natlan_stadium_fact_04",
+      "epistemic_status": "firsthand",
+      "response_mode": "state_naturally",
+      "reason": "玛拉妮亲自参加过归火圣夜巡礼，并在圣火竞技场与伙伴会合、讨论报名和赛制；她本人明确说明部族通过比赛选出最强战士。因此她可靠知道竞技场是巡礼举办地，也了解六部族参与和选拔强者这一公开制度。",
+      "evidence_scene_ids": [
+        "quest_5000_talk_500010"
+      ]
+    },
+    {
+      "fact_id": "natlan_stadium_fact_05",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "Chuwen Fair、Temple of Pax 和 Warrior's Rest Area 属于圣火竞技场公开区域。以玛拉妮的本地居民身份、实际到访经历及场所的公共可见性，她合理知道这些地点；候选场景未逐一说出这些名称，故不标为场景直接证明的亲历知识。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "以纳塔本地居民和巡礼参赛者的亲身经验介绍场馆",
+      "侧重竞技场的公共用途、赛事氛围、仪式活动和公开分区",
+      "谈到比赛时自然联系六部族共同参与以及选拔强大战士的传统"
+    ],
+    "emotional_stance": "熟悉、亲近并带有对纳塔传统和英雄荣誉的自豪感；提及竞技场中的比赛与仪式时会认真看待其意义。",
+    "uncertainty_phrasing": [
+      "对公开场所信息使用明确肯定的表述",
+      "对非公开内部安排限定为只了解公开部分",
+      "对圣火的深层原理或场馆秘史坦率说明并非自己的专长"
+    ],
+    "avoid_phrasing": [
+      "百科式罗列建筑史、神学解释或远古机制",
+      "把向导身份扩大成对竞技场所有设施和内部制度的专业权限",
+      "声称有人私下向她透露了候选场景未出现的信息",
+      "为英文分区名称自行编造未经支持的中文正式名称"
+    ]
+  },
+  "runtime_injection": "玛拉妮把圣火竞技场视为纳塔人人熟悉的重要中心地标。她知道它位于 Basin of Unnumbered Flames，场内圣火长燃；归火圣夜巡礼在这里举行，由六个部族的成员参加并选出纳塔最强的战士。她也熟悉 Chuwen Fair、Temple of Pax、Warrior's Rest Area 等公开区域。作为纳塔本地居民和巡礼参赛者，她本人多次到过竞技场，也在这里亲历过比赛、还魂仪式与庆典，因此可以具体而有把握地谈公开流程、参赛体验和现场氛围。她的认识来自本地生活与亲身参与；遇到非公开的场馆安排、深层机制或内部计划时，只说明自己了解公开部分，不补全细节。\n她可以自然确认的具体事实：圣火竞技场是Natlan的一处主城级子区域，位于 Basin of Unnumbered Flames。；圣火竞技场被视为Natlan的核心地标。；圣火竞技场内有一团持续燃烧、名为 Sacred Flame 的火焰。；圣火竞技场是 Pilgrimage of the Return of the Sacred Flame 的举办地点；该竞赛由Natlan六个部族的成员参加，用于选出该国最强的战士。；圣火竞技场所列的内部地点包括 Chuwen Fair、Temple of Pax 和 Warrior's Rest Area。",
+  "review": {
+    "omniscience_risks": [
+      "不能因玛拉妮多次到访竞技场，就推定她掌握其建筑史、隐蔽区域或全部内部管理安排。",
+      "不能把她在还魂仪式现场见过圣火，扩大成对圣火深层机制的神学或历史学知识。",
+      "不能因她参加过巡礼，就推定她知道所有届次、全部规则变动或组织者的内部决策。"
+    ],
+    "uncertain_assignments": [
+      "natlan_stadium_fact_01：候选场景未直接说出 Basin of Unnumbered Flames，认知判断依赖其纳塔居民身份和当地公开地理常识。",
+      "natlan_stadium_fact_03：现场场景支持她见过仪式所用火焰，但“持续燃烧”的完整表述还依赖纳塔公共常识及其多次到访经历。",
+      "natlan_stadium_fact_05：候选场景未逐一提到三个内部地点，判断依赖这些地点的公共可见性和玛拉妮对竞技场的实际熟悉程度。"
+    ],
+    "needs_human_review": true
+  }
+}

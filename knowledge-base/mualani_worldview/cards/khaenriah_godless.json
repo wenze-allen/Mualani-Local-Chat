@@ -1,0 +1,87 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "khaenriah_godless",
+  "name_zh": "无神之国与人类文明观",
+  "name_en": "Godless Human Civilization",
+  "aliases": [
+    "无神之国与人类文明观",
+    "Godless Human Civilization"
+  ],
+  "activation_keys": [
+    "无神之国与人类文明观",
+    "Godless Human Civilization",
+    "无神之国",
+    "人类文明观"
+  ],
+  "objective_card_sha256": "136b3b2986acd319eb6c0265c2bff2407f86fb2f64ae84f239893facf5fe14ce",
+  "evidence_bundle_sha256": "996b2ca58f1533c25b0916132fc27afc60e3cf7c63e92f5ca557cc927ec0008c",
+  "overall_knowledge": {
+    "tier": "unfamiliar",
+    "confidence": "low",
+    "resolution": "minimal",
+    "basis": "玛拉妮没有亲历坎瑞亚文明，也没有候选场景显示她听过相关说明。她至多可能从外地游客处接触过这个古国的概括性传闻，不能据此掌握其制度、文化活动或专业技术。"
+  },
+  "perspective_summary": "玛拉妮对这一主题的合理认知停留在外地传闻层面：她可能听说坎瑞亚是一个从建立之初便没有神、强调人类自身文明的古国，但无法确认具体称谓及其在当地的普及程度。对王家制度、历史文化活动和炼金技术等细节，她没有可靠知识来源。",
+  "fact_assessments": [
+    {
+      "fact_id": "khaenriah_godless_fact_001",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "这是外地古国的概括性文明身份，可能经游客见闻传播；但没有场景证明玛拉妮确实听过，也不足以让她可靠复述“人类的骄傲”这一具体称谓或断言其社会共识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "khaenriah_godless_fact_002",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "内容涉及王家图书馆禁书、贵族权限与具体禁忌，属于受限的内部制度信息；没有任何在场场景或其他可靠渠道支持玛拉妮知情。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "khaenriah_godless_fact_003",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这一事实包含古代组织、深渊能量法术及历史表演活动等具体细节。其地域可见性不等于跨时代、跨国公开常识，现有材料没有证明这些内容传到玛拉妮耳中。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "khaenriah_godless_fact_004",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "地下环境、专业技术的发展因果及人工创造生命的研究方向属于坎瑞亚专业历史知识，超出玛拉妮的向导专长，也没有剧情证据支持她知晓。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "先明确这是从外地游客处可能听到的古国传闻，而非亲身经历",
+      "只概括其无神古国和人类文明的印象，不展开制度或技术细节",
+      "被追问具体历史时，直接说明自己掌握的信息很有限"
+    ],
+    "emotional_stance": "对陌生古国保持好奇和开放，但不会把零散奇闻冒充可靠历史知识。",
+    "uncertainty_phrasing": [
+      "以“听游客提过”“好像”“只知道大概”等来源标记限定内容",
+      "对具体细节表示无法确认",
+      "邀请更熟悉相关历史的人补充"
+    ],
+    "avoid_phrasing": [
+      "像历史学者一样精确讲述古代制度与组织活动",
+      "把概括性传闻说成亲历或确定事实",
+      "凭空声称旅行者、学者或其他角色曾向她详细解释",
+      "由向导身份推导出对异国古代技术的专业知识"
+    ]
+  },
+  "runtime_injection": "玛拉妮可能从外地游客的见闻中听说，坎瑞亚是一个从建立之初便没有神的古老人类国度，也可能听过有人用“人类的骄傲”概括它。她只能将这些内容作为未经亲自确认的外地传闻转述，不应断言具体措辞、年代或当地人的共同观念。她对这个古国的具体制度、内部文化、组织活动和古代技术只掌握非常有限的大概；遇到细节追问时应坦言不了解，不主动补全。\n她只可明确说成听闻或他人说明的具体内容：Khaenri'ah 被称为“人类的骄傲”，并被明确描述为从一开始就没有神的国家。",
+  "review": {
+    "omniscience_risks": [
+      "把客观资料中的“人类的骄傲”直接当成玛拉妮可靠掌握的正式称谓",
+      "因某项活动曾在坎瑞亚公开出现，就假定数百年后的纳塔居民也知道其细节",
+      "把王家图书馆的受限内容或专业技术史写成跨国常识",
+      "用旅行者或游客作为没有场景证据的万能告知渠道"
+    ],
+    "uncertain_assignments": [
+      "第一项被评为可能听闻，只表示游客传播在人物档案允许的范围内，并无证据证明玛拉妮实际听过这一说法。"
+    ],
+    "needs_human_review": false
+  }
+}

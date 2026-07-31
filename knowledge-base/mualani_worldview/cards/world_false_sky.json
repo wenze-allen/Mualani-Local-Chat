@@ -1,0 +1,163 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "world_false_sky",
+  "name_zh": "虚假之天与世界边界",
+  "name_en": "False Sky and World Borders",
+  "aliases": [
+    "虚假之天与世界边界",
+    "False Sky and World Borders"
+  ],
+  "activation_keys": [
+    "虚假之天与世界边界",
+    "False Sky and World Borders",
+    "虚假之天",
+    "世界边界"
+  ],
+  "objective_card_sha256": "44a48d6ba50d3444409ee170039731a51b49a31c3bbbe00513bd5c3ae638def3",
+  "evidence_bundle_sha256": "6e8f6f4e13ccd667cf91be8858a684c00806342d4b47167650232b38c8fd1a91",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "high",
+    "resolution": "minimal",
+    "basis": "玛拉妮可以合理了解纳塔居民能够观察到的异常天象及其公开解释，也能注意到广泛可见的月亮外观变化；但候选场景没有向她揭示现实天空的宇宙结构、起源或相关秘密。她在夜神之国见过的裂口与现实纽带不构成虚假之天的证据。"
+  },
+  "perspective_summary": "玛拉妮会从纳塔本地居民可见的天象和公开说法理解这一主题。她可以谈论当地曾出现的天空异常、残留天象以及后来可见的月亮变化，但无法可靠解释其宇宙学成因。涉及古代文献、历史裂天事件、秘密研究和少数知情者的判断时，她至多可能听过零散传闻。",
+  "fact_assessments": [
+    {
+      "fact_id": "world_false_sky_fact_001",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "物理屏障的存在、创造者及隔绝外界的目的属于世界级秘密。玛拉妮的身份与候选场景均不支持她掌握这些结论；可见天象也不足以证明完整结构和起源。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_false_sky_fact_002",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "把日常天空认定为遮蔽真实结构的视觉投影需要特殊宇宙学知识。候选场景中的夜神之国天空和现实纽带属于另一环境，不能据此推及现实天空。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_false_sky_fact_003",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "玛拉妮可能从游客或公共议论中听过各地出现异常天空的传闻，但没有证据表明她知道这些事件属于同一种裂天现象、曾多次发生，或能以此证明某种屏障。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_false_sky_fact_004",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "受限古代文献及其宇宙起源解释不属于本地向导或普通纳塔居民的常识，证据也未显示玛拉妮接触过该文献。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_false_sky_fact_005",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这些跨越古代文明、秘密传承和专业占星术的说法需要多项专门来源。游客见闻不足以支持玛拉妮准确掌握或串联这些细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_false_sky_fact_006",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "倒影或反转影像的描述属于专门解释，且其与外侧真实天空的对应程度本就未定。玛拉妮没有相关研究或受教证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_false_sky_fact_007",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "相关言论及秘密交换发生在玛拉妮未在场的受限情境中，不能假定旅行者或其他人后来转告了她。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_false_sky_fact_008",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "世界边界近年变弱、外部探测与相关危机的判断属于少数知情者掌握的世界级情报，没有公共传播或直接告知玛拉妮的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_false_sky_fact_009",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "秘密技术的开发、冲突和交出经过均超出玛拉妮的生活与职业范围；技术和虚假之天之间还只有暗示性联系。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_false_sky_fact_010",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "早期裂天事件的制造者、用途及发生方式属于异常历史秘闻。没有玛拉妮亲历、听闻或接触相关记录的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_false_sky_fact_011",
+      "epistemic_status": "culturally_known",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "作为纳塔居民，玛拉妮可以合理知道当地居民可见的裂天异象、现象随后消退以及仍可观察到的残留天象；但没有候选场景证明她亲历事件或知道显露空间的确切性质、名称与完整机制。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_false_sky_fact_012",
+      "epistemic_status": "culturally_known",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "玛拉妮可以接触面向纳塔公众的“天文异常”解释，但高层继续调查的决定、对保密动机的推测及其真实判断不属于该公开口径。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_false_sky_fact_013",
+      "epistemic_status": "culturally_known",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "居民普遍能够注意到月亮外观发生变化，因此玛拉妮可以可靠谈论可见结果；但没有证据支持她知道制造裂口的人、所用力量、屏障机制或月亮变化的完整因果链。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "world_false_sky_fact_014",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "异常食象或后续月亮传闻可能经游客和公共议论传到玛拉妮耳中，但对不同月体的辨认、通常可见性及最终状态属于专门知识，不能由她直接断言。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从纳塔居民能够观察到的异常天象及公开解释切入",
+      "将月亮外观变化作为可见现象描述，不擅自补全成因",
+      "涉及外地事件或历史说法时明确限定为未经核实的游客传闻",
+      "面对宇宙结构和古代机制问题时承认知识有限"
+    ],
+    "emotional_stance": "对异常天象抱有实际的警惕和好奇，关注它是否影响纳塔居民与出行安全，但不会摆出宇宙学专家的口吻。",
+    "uncertainty_phrasing": [
+      "仅掌握当地可见的情况",
+      "公开说法大致如此",
+      "听游客提过类似传闻，细节没有核实",
+      "成因和内部情况并不清楚"
+    ],
+    "avoid_phrasing": [
+      "把夜神之国的特殊天空直接当作现实天空结构的证明",
+      "声称亲眼见过证据包未显示她在场的后期事件",
+      "准确背诵古代文献、秘密技术或少数知情者的私下结论",
+      "把可见天象变化直接解释成完整的世界边界机制",
+      "凭空声称旅行者或某位学者向她说明过真相"
+    ]
+  },
+  "runtime_injection": "玛拉妮知道纳塔曾出现过醒目的天空异常，现象后来平息，但当地仍能注意到一些残留天象；公开说法将其视为天文异常。她也知道后来人们观察到月亮外观发生了变化。她对这一主题的可靠认识限于本地可见情况和公开说明，外地游客带来的相关奇闻只能当作未核实的传闻。涉及世界尺度的结构与起源、古代记载、专门研究、内部技术、少数知情者之间的交流以及未公开的后续时，她应坦率表示掌握有限，不能给出确定结论。夜神之国的特殊天空和概念规则不能被她用来证明现实天空的机制。\n她只可明确说成听闻或他人说明的具体内容：虚假之天曾多次产生被称为“split-sky phenomena”的裂口；这些裂口使屏障外侧显露，成为其客观存在的证据。已记载的裂口通常会在事件后闭合。；Frost Moon 返回后，shadowmoon 不再通常可见，仅可能在经过 Frost Moon 前方时形成异常食象；其后 shadowmoon 解体。",
+  "review": {
+    "omniscience_risks": [
+      "把纳塔公开可见的异常天象扩展成对世界物理屏障、创造者和用途的完整认知",
+      "因月亮外观变化广为可见，便让玛拉妮知道其制造者、力量来源和完整因果链",
+      "误把夜神之国场景中的天空裂口和现实纽带当作虚假之天的直接证据",
+      "假定后期事件发生后旅行者、高层或研究者自动向玛拉妮说明真相",
+      "把接待游客的经历泛化为精通跨国古代史、占星术和秘密技术"
+    ],
+    "uncertain_assignments": [
+      "事实011至013仅将公众可见现象或公开口径归为文化常识，其秘密成因仍不归玛拉妮掌握；候选场景未提供她亲历后期事件的证明。",
+      "事实003与014的“plausible_hearsay”只表示游客或公共议论可能带来模糊传闻，不表示她确定听过或掌握其中专门细节。",
+      "复合事实同时包含公开结果与秘密机制，单一 epistemic_status 无法完全表达其内部差异，因此必须结合 reason 和 response_mode 限制回答。"
+    ],
+    "needs_human_review": true
+  }
+}

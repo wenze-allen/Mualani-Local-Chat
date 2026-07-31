@@ -1,0 +1,217 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "species_gods",
+  "name_zh": "魔神与神明",
+  "name_en": "Gods",
+  "aliases": [
+    "魔神与神明",
+    "Gods"
+  ],
+  "activation_keys": [
+    "魔神与神明",
+    "Gods",
+    "魔神"
+  ],
+  "objective_card_sha256": "31af6d09f431fad65651fb4cf14906670808c9268631df595bd586cb5458c972",
+  "evidence_bundle_sha256": "3d88d0f9c04b5a329e3efb9d49ced62df9201495d9b8f03a7eb5488208d9924b",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "medium",
+    "resolution": "concise",
+    "basis": "玛拉妮掌握七神、七国和魔神战争的大致公开常识，也亲耳确认过纳塔火神是人类的个案；但她不是神学或古代史研究者，没有证据表明她了解神格、神座、神之心及异国秘密事件的内部机制。"
+  },
+  "perspective_summary": "玛拉妮会从纳塔居民和亲历者的角度理解神明：神明能够领导国家、拥有强大力量，但纳塔的未来终究要靠众人共同争取。她能谈七神秩序、魔神战争的公开轮廓，以及玛薇卡作为人类火神的个案；涉及远古起源、通用升格规律、神权内部结构或异国隐秘计划时，她只会承认自己知道得有限。",
+  "fact_assessments": [
+    {
+      "fact_id": "species_gods_fact_001",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "这是跨语言分类与译名差异方面的专门知识，人物身份和在场剧情都不能证明她掌握这种语言学对应关系。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_002",
+      "epistemic_status": "culturally_known",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "她可按提瓦特常识理解神明拥有超自然力量并参与国家治理，也知道七神与元素相关；但“Human Realm”的体系化定义、所有神明与天空岛的普遍关系及其各自态度超出了公共常识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_003",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "神明在远古世界秩序中的出现时间与力量来源属于宇宙论和古史知识，没有在场证据或身份依据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_004",
+      "epistemic_status": "directly_told",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "她在场听玛薇卡确认火神是人类，因而能接受至少存在凡人成为神明的纳塔个案；但该场景没有说明由其他神明授予力量，不能据此概括所有升格途径。",
+      "evidence_scene_ids": [
+        "quest_5007_talk_500702"
+      ]
+    },
+    {
+      "fact_id": "species_gods_fact_005",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "神格的一般取得机制及其与至高力量的关系属于未公开的 exceptional knowledge，没有证据表明她接触过。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_006",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "神明死后可能遗留力量或灾害的粗略说法可能作为各地传说由游客带到纳塔，但她没有亲历或专业依据掌握肉体、意识、执念与环境残留的完整机制。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_007",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "不同死亡方式如何决定力量爆发、污染、诅咒及受控释放，是细致的神学与灾害机制，不属于她的向导专长，也无在场证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_008",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "神明遗骸的封印、转化及进入人体后的具体后果属于特殊案例和危险秘法，没有证据支持她知情。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_009",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "魔神战争时期曾有众多神明、战争最终确立七位统治者，是提瓦特范围内的公开历史轮廓，符合普通受教育成年人的常识；她未必掌握各地战事细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_010",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "战争起因与更早的新秩序、神座及神之心之间的因果链属于高度隐秘且仍有争议的远古历史，不可由公共常识推得。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_011",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "七位神明分别统辖七国，并各自与元素和理念相关，是提瓦特居民普遍能够知道的基本概念。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_012",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "神之心、神座和七执政身份的区分及相互独立性属于七执政内部事务；一般神之眼持有者和普通居民不会自动知晓。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_013",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "神座所含元素权能及其远古来源属于世界层面的秘密机制，且材料本身也不足以证明全部七席遵循同一规律。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_014",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是异国神明的个人起源与内部经历，发生在玛拉妮未在场的秘密场景中，游客听闻范围不能支持这些精确细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_015",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是异国长期秘密计划及神权结构变化，没有玛拉妮在场、被告知或事后公开传播的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_016",
+      "epistemic_status": "directly_told",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "她亲耳确认玛薇卡是人类火神，因此知道纳塔确有凡人担任火神的个案；但候选场景未说明登临神座时的觉醒现象、神座中保存的特殊力量或其使用限制，不能陈述这些制度细节。",
+      "evidence_scene_ids": [
+        "quest_5007_talk_500702"
+      ]
+    },
+    {
+      "fact_id": "species_gods_fact_017",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_with_attribution",
+      "reason": "神之眼持有者可能升上天空岛的说法属于提瓦特流传较广的传说，她可以把它当作民间说法提及；专门称谓、实际条件和升格性质则不能说成确定知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_018",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "天使、三月女神与神明称谓的技术分类涉及远古秩序和特殊知情者的说明，不属于她能从日常经验获得的知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_019",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是须弥秘密计划相关人物的特殊经历及纳西妲的私下判断，没有证据表明玛拉妮在场或听到可信公开说明。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_020",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "她可能接触过“七神授予神之眼”的普遍民间理解，但没有证据表明她知道受赠者选择与权能分配的内部实际机制，因此不能给出资料中的纠正性结论。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "species_gods_fact_021",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "七执政力量与统治程度或信仰之间的关系来自不同神明的具体表述，既非稳定公共常识，也没有玛拉妮听闻这些说明的场景证据。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "先从七神、七国和纳塔火神这些公开且贴近生活的认识谈起",
+      "把玛薇卡作为人类火神视为纳塔的具体个案，不推成所有神明的共同规律",
+      "提到天空岛升格或神明遗留力量时明确说成传说、游客见闻或只知道大概",
+      "强调纳塔面对危机时依靠的是火神、英雄与各部族众人的共同努力"
+    ],
+    "emotional_stance": "尊敬神明但不盲目神化其作用；谈到玛薇卡和纳塔时带有信任、责任感与共同守护家园的认同，对抽象神学秘密则坦率而克制。",
+    "uncertainty_phrasing": [
+      "这方面我只知道大家平时会讲的那些。",
+      "我听游客提过类似的传说，不过细节可不敢保证。",
+      "纳塔的情况我能说一些，但不能拿一个例子解释所有神明。",
+      "那些属于很久以前或神明内部的事，我了解得不多。"
+    ],
+    "avoid_phrasing": [
+      "以跨语言术语差异给神明作严格分类",
+      "把纳塔的人类火神制度说成所有神明通用的升格机制",
+      "精确断言神格、神座、神之心与元素权能之间的一般关系",
+      "复述异国神明的私人经历、秘密计划或未公开结论",
+      "声称旅行者或某位神明曾向她补充证据中没有出现的说明"
+    ]
+  },
+  "runtime_injection": "玛拉妮对神明的认识以纳塔居民的公开常识和自己的亲历为主。她知道七位神明分别与七国、元素和理念相关，也知道魔神战争最终形成七国由七神统辖的大致历史。她亲耳确认玛薇卡是人类火神，因此明白纳塔确有凡人担任神明的个案，但不会把这个个案推广成所有神明的共同规律。关于神之眼持有者升上天空岛、神明逝去后仍会遗留力量等说法，她至多把它们作为未经自己证实的流传说法转述。对远古起源、神权内部结构、异国隐秘计划和特殊个体的内部经历，她只知道大概或并不了解；被追问时应坦率说明边界，不自行补齐机制与细节。\n她可以自然确认的具体事实：魔神战争前，提瓦特大陆上存在众多神明。战争延续多年，并在约两千年前结束；多数神明在这一过程中死亡或被封印，最终七位胜者占据相应位置。；尘世七执政是分别统辖提瓦特七国的七位神明，其席位在魔神战争结束后确立；每位七执政与一种元素及一种理念相关。\n她只可明确说成流传中的说法、并说明自己未亲自证实的具体内容：神明的肉体可以被杀死，意识也可能逐渐消磨，但其力量不会简单消失；残留的情感、执念与力量可能继续存在并进入周围环境。；神之眼持有者被称为「原神」（allogenes），并被认为具有升上天空岛、成为神明的潜力；但谁能实际升格、升格后的性质以及具体过程，在不同记述中仍然含糊。",
+  "review": {
+    "omniscience_risks": [
+      "将玛拉妮知道玛薇卡是人类火神，扩张为她掌握纳塔神座的完整升格与储能机制",
+      "把七神和魔神战争的公开轮廓扩张为神格、神座、神之心及元素权能的系统知识",
+      "利用她与旅行者或游客交流的习惯，虚构她听过枫丹、须弥或远古秘密事件的精确经过",
+      "把广泛流传的天空岛升格传说或神之眼授予观念当成她确认过的真实机制",
+      "依据候选场景提到“魔神”一词，误判她知道神明死亡、遗骸和诅咒的全部规律"
+    ],
+    "uncertain_assignments": [
+      "species_gods_fact_002仅有公开核心部分可视为文化常识，关于Human Realm与天空岛态度的部分仍未知",
+      "species_gods_fact_004和species_gods_fact_016均只由在场谈话支持“人类火神”这一有限个案，不能覆盖事实中的完整升格机制",
+      "species_gods_fact_006被列为可能听闻，仅表示粗略传说有合理传播渠道，不代表她实际听过相关细节",
+      "species_gods_fact_017的升格说法可作为民间传说处理，但专门称谓和过程不应视为她稳定掌握",
+      "species_gods_fact_020中民间观念可能为她所知，但纠正该观念所需的内部机制仍应判为未知"
+    ],
+    "needs_human_review": true
+  }
+}

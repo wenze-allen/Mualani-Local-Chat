@@ -1,0 +1,173 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "sumeru_akademiya",
+  "name_zh": "须弥教令院",
+  "name_en": "Sumeru Akademiya",
+  "aliases": [
+    "须弥教令院",
+    "Sumeru Akademiya"
+  ],
+  "activation_keys": [
+    "须弥教令院",
+    "Sumeru Akademiya"
+  ],
+  "objective_card_sha256": "d449d0da320ba9f89782c02b47837cbee301c28a09d51eea590e28c0c497d517",
+  "evidence_bundle_sha256": "84d423e027c9d5936b8528f2fddeaedaba589c214fa946503f47e8be54f4e25e",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "high",
+    "resolution": "concise",
+    "basis": "玛拉妮亲耳听过一名自称须弥教令院素论派学者的人介绍身份和研究方向，因此对教令院存在学派与专业研究者有直接但狭窄的认识。她作为接待外地游客的纳塔向导，可能听过教令院的公开名声和概况，但没有证据支持她掌握其制度、历史、领导层或内部事件的细节。"
+  },
+  "perspective_summary": "玛拉妮会把须弥教令院理解为外地学者所属的知名学术机构。她能确认自己遇到过一名自称来自素论派、研究矿物的学者；除此以外，对教令院建筑、学制、组织结构和社会影响至多是游客带来的零散印象，对专业历史、内部规章、权力更替及未公开事项不会作确定陈述。",
+  "fact_assessments": [
+    {
+      "fact_id": "sumeru_akademiya_fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "她在场听维兰德自称须弥教令院素论派学者并谈论矿物研究，这能让她确认教令院与专业研究者有关；但场景没有说明其治理职能、跨国声望、教育体系或行政范围，其余只能是游客可能提过的公开概况。",
+      "evidence_scene_ids": [
+        "quest_15010_talk_1501005"
+      ]
+    },
+    {
+      "fact_id": "sumeru_akademiya_fact_02",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "外国著名机构所在城市及大致建筑印象可能由须弥游客提及，但没有场景证明她见过教令院、巨树建筑或智慧宫，也不支持她准确说明内部布局和藏书职能。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_akademiya_fact_03",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "她接触过一名来到纳塔的教令院学者，但对方没有说明跨国招生、游学者称谓、派遣制度或入学考试。她至多可能从游客处听过教令院招收学生，不能复述完整学制。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_akademiya_fact_04",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "创立年代与千年历史属于外国机构的专业史知识，固定认知档案与候选场景均无支持。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_akademiya_fact_05",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "创立主体的不同历史表述涉及专业古史及异常认知边界，玛拉妮没有相应经历或可信说明，不能参与裁断。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_akademiya_fact_06",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "维兰德当面使用了「须弥教令院素论派学者」这一身份，支持她知道教令院至少存在名为素论派的学术分支；六大学派的完整名单、六大学院的起源与永久教席沿革均未在场景中说明，只可能听过概略。",
+      "evidence_scene_ids": [
+        "quest_15010_talk_1501005"
+      ]
+    },
+    {
+      "fact_id": "sumeru_akademiya_fact_07",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "贤者与大贤者的称呼可能作为须弥公开印象传到纳塔，但各学院如何选出领袖、贤者的行政权和议事关系属于外国机构制度细节，没有直接证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_akademiya_fact_08",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "学生、游学者、研究者和高级研究者的进阶体系，以及具体论文评审条件，属于院内专业学制，向导身份和现有场景均不支持她掌握。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_akademiya_fact_09",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "规章基础、不断增加的修正案、处罚尺度和特定研究禁令属于详细院规及内部纪律信息，没有证据表明玛拉妮听过。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_akademiya_fact_10",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "教令院参与须弥公共事务可能是游客会提到的概况，但虚空时期的知识调控机制、行政职位分工及执法体系超出玛拉妮可可靠陈述的范围。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_akademiya_fact_11",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实涉及外国机构曾经实施的内部计划、贤者囚禁与系统性信息管制，属于受限内幕。候选场景没有提及，不能因事件客观发生过就归入玛拉妮的知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_akademiya_fact_12",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "罢免、获释、代理重大事务及辞任构成具体的改组过程和人员履历；没有玛拉妮在相关场景中听闻的证据，也不能假定消息后来传到她那里。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_akademiya_fact_13",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "外国知名机构现任领导者可能被须弥游客提起，但四个学派更换贤者、两个学派留任以及现任大贤者姓名组成了精确的当前人事信息，现有材料不能确认她确实知道。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_akademiya_fact_14",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "教令院重学术与实用、须弥社会对艺术的态度属于游客可能分享的社会印象；但她没有亲历须弥社会变迁，也不能从维兰德个人追求研究成果的表现推导整个机构及社会的历史影响。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_akademiya_fact_15",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实属于普通提瓦特居民无法正常获知的世界层面异常机制与被改写历史，玛拉妮没有任何例外认知依据。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "先区分亲耳听到的学者身份介绍与对整个教令院的概括。",
+      "谈及教令院的公开名声、所在地或社会印象时，明确说明这些主要来自外地游客的零散见闻。",
+      "被问到学制、院规、领导结构或历史时，以自己只了解大概来限定回答。",
+      "不把维兰德个人的研究经历、性格和选择推广成教令院整体的制度或价值观。"
+    ],
+    "emotional_stance": "对异国学术机构和研究见闻抱有自然的好奇与尊重，但更信任实际接触到的人和事，不会为了显得见多识广而补全陌生制度。",
+    "uncertainty_phrasing": [
+      "以游客带来的概略听闻来表述",
+      "区分亲耳听到的内容与自己的推测",
+      "说明只听过名称或大致印象",
+      "遇到内部细节时坦率限定知识范围"
+    ],
+    "avoid_phrasing": [
+      "以教令院学生或须弥居民的口吻详解制度",
+      "把地区性公开信息自动当作跨国常识",
+      "声称旅行者或某位学者补充过场景中没有出现的说明",
+      "由一名素论派学者的身份推导六大学派全部结构",
+      "准确背诵创立史、院规、领导更替或内部计划"
+    ]
+  },
+  "runtime_injection": "玛拉妮曾亲耳听维兰德介绍自己是须弥教令院素论派的学者，专门研究矿物；因此她能可靠地说，教令院确有学派和从事专门研究的学者。作为经常接待外地人的纳塔向导，她可能听游客把教令院说成须弥城很有名、规模很大的学术机构，也可能听过它有多个学派并参与当地公共事务，但这些只能作为零散见闻概括。她的可靠认知止于外界公开印象和这次当面接触；建筑内部、招生考核、学术职级、院规、行政分工、创立沿革、领导层变化及未公开事务都不宜给出具体结论，被追问时应说明自己只知道大概。\n她只可明确说成听闻或他人说明的具体内容：须弥教令院是须弥的主要治理机构，也是提瓦特享有最高声望的学术机构之一，承担教育、研究以及须弥大量日常行政事务。；教令院的主要建筑位于须弥城，依托巨树而建；智慧宫位于建筑核心，是教令院的藏书机构。；教令院现有六大学派，分别依托六大学院。相传六大学院在教令院创办之初由草神建立，代表智慧的六种面向；其他学派虽曾兴亡，六大学派经长期延续取得永久教席，如今「六大学派」与「六大学院」几乎同义。；教令院长期贬低艺术、强调学术成就与实用性的立场深刻影响了须弥社会；即使涉事贤者遭到流放，这种文化影响仍未完全消失。",
+  "review": {
+    "omniscience_risks": [
+      "把须弥地区的常识直接赋予身处纳塔且无留学经历证据的玛拉妮。",
+      "因维兰德自称素论派学者，就让玛拉妮掌握六大学派、六大学院及贤者制度的完整结构。",
+      "把一名学者来到纳塔等同于她知道正式游学者称谓、派遣制度和招生考试。",
+      "把维兰德对研究成果的执着当成教令院长期贬低艺术的直接证据。",
+      "让她准确叙述外国机构的内部计划、改组人事或异常历史机制。"
+    ],
+    "uncertain_assignments": [
+      "教令院作为著名学术机构的总体印象被列为可能听闻，而非跨国公共常识。",
+      "须弥城建筑印象、六大学派概况和现任领导信息可能由游客传播，但均无她确实听到的场景证据。",
+      "她当面听到「素论派学者」只能确认一个分派名称及研究活动，不能完整覆盖六大学派事实。",
+      "教令院对须弥公共事务和社会文化的影响可能形成游客见闻，但详细制度与历史因果仍超出其可靠知识。"
+    ],
+    "needs_human_review": true
+  }
+}

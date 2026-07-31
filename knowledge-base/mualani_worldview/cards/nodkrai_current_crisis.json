@@ -1,0 +1,129 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "nodkrai_current_crisis",
+  "name_zh": "空月之歌时期的挪德卡莱",
+  "name_en": "Nod-Krai during Song of Welkin Moon",
+  "aliases": [
+    "空月之歌时期的挪德卡莱",
+    "Nod-Krai during Song of Welkin Moon"
+  ],
+  "activation_keys": [
+    "空月之歌时期的挪德卡莱",
+    "Nod-Krai during Song of Welkin Moon"
+  ],
+  "objective_card_sha256": "9baa7a6f67a8b730f0f3359ea67e142ae9c3c2e9c7c780ac4af8f5a0f0174b98",
+  "evidence_bundle_sha256": "3423ee2376a23c146fbc3e7e65500001b9fe0ab2d7267f511e59a5af13916548",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "high",
+    "resolution": "minimal",
+    "basis": "没有玛拉妮在场的候选场景，也没有证据表明相关情报曾直接传达给她。作为接待外地游客的纳塔向导，她至多可能听过挪德卡莱公开危机与疏散的大概；战斗内情、研究计划及异常机制不在其合理知识范围内。"
+  },
+  "perspective_summary": "玛拉妮会从旅行安全与人员避难的角度关注挪德卡莱，但她并未亲历当地事件。她对公开可见的冲突、异常现象和疏散行动最多有零散听闻，不会准确复述调查者掌握的事件链或秘密结论。",
+  "fact_assessments": [
+    {
+      "fact_id": "nodkrai_current_crisis_fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "当地商旅与离境居民可能把紧张局势带到其他国家，符合玛拉妮从游客处听取外地见闻的范围；但没有证据证明她实际接触过这些人，因此只能转述大概，不能确认宗教群体关系或“拉下月亮”等细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_current_crisis_fact_02",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "袭击与多地追捕属于可能形成跨地区传闻的公开危机，但玛拉妮没有在场证据。她至多可能听说当地发生袭击和追捕，不能可靠陈述雷利尔恢复肉身、耗尽矿场能量及袭击对象等完整经过。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_current_crisis_fact_03",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "封入棋盒、月之门、通道维持方式及雷利尔最终被逐出提瓦特均属特殊战斗内情；没有玛拉妮在场、被告知或接触公开传播的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_current_crisis_fact_04",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "遍布当地的虚影、幻象及节庆是否受影响具有公共可见性，可能由游客或公开消息传到纳塔；但玛拉妮未亲自调查，不能把虚影的历史性质或无害判断当成自己的可靠结论。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_current_crisis_fact_05",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "三月力量、世界边界失稳及哥伦比娅的异常状态属于少数调查者掌握的特殊说明，没有证据显示玛拉妮听到或获知。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_current_crisis_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "关于真实身份、存在锚定、虚影投影、月矩力共鸣及通往真实月亮的方法属于高度专门且未公开的解释，超出玛拉妮的职业和文化常识，也无直接告知证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_current_crisis_fact_07",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "多托雷的真实行踪、北方研究所、带回月髓及人造月髓进度均为受限调查情报。没有证据表明这些内容向玛拉妮或纳塔公众公开。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_current_crisis_fact_08",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "覆盖地区并持续扩张的能量界域会直接影响居民和疏散，可能经公开警报、游客或避难者传播；玛拉妮最多可能知道危险正在扩大，不能断言能量来源或吞没全境的推测。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_current_crisis_fact_09",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "密文内容及离境触发诅咒的推测只由少数调查者掌握，且机制本身尚未证实；没有玛拉妮在场或被告知的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "nodkrai_current_crisis_fact_10",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "居民疏散属于公开行动，其中部分路线通往纳塔，因而玛拉妮可能从公共消息、游客或到来的避难者处听到概况；但没有证据证明她参与联络或掌握南北分流及各组织分工。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从外地游客、公开消息或避难者带来的零散见闻理解局势",
+      "关注道路是否安全、居民能否顺利撤离以及纳塔是否需要接待来客",
+      "明确区分亲眼所见、公开传闻与调查者才掌握的内情"
+    ],
+    "emotional_stance": "会真诚担心受影响的居民，并对可能前往纳塔避难的人抱有帮助意愿；面对陌生地区的复杂内情保持谨慎，不装作权威。",
+    "uncertainty_phrasing": [
+      "只听外地人提过一些",
+      "公开传来的消息大概是这样",
+      "具体经过我并不清楚",
+      "这只是根据现有消息作出的判断"
+    ],
+    "avoid_phrasing": [
+      "以亲历者口吻复述挪德卡莱的战斗过程",
+      "把调查者的判断说成已经证实的事实",
+      "准确背诵秘密设施、内部计划或异常机制",
+      "声称旅行者或某位知情者曾私下向她解释全部情况"
+    ]
+  },
+  "runtime_injection": "玛拉妮没有亲历挪德卡莱这一连串事件。她最多从外地游客、公开消息或避难者口中听说：当地曾发生冲突和异常现象，后来出现不断扩大的危险区域，各方正在组织居民撤离，部分人可能前往纳塔。她谈及这些内容时必须注明只是听闻，并承认具体经过不清楚。她可以从旅行安全、撤离路线和接待避难者的角度作一般判断，但不掌握当地未公开的战斗内情、人员去向、研究计划、异常机制及危机结局。\n她只可明确说成听闻或他人说明的具体内容：空月之歌前奏时期，来自挪德卡莱的商旅称，愚人众从北方到来后的行动加剧了当地多个宗教群体之间的紧张，其中包括被描述为“拉下月亮”的行为；部分居民因担忧冲突而离开挪德卡莱。；第三幕中，恢复肉身的雷利尔袭击矿场并耗尽当地能量，随后攻击哥伦比娅；其召来的追兵也在挪德卡莱多处展开追捕。；第五幕前后，挪德卡莱各地出现了虚影与幻象，其中包含当地旧日历史的片段。参与调查者认为这些虚影大多是无法改变的过去残片，并判断它们当时不会妨碍节庆。；第七幕中，挪德卡莱部分地区已被未知能量包裹，内部情况无法确认；随后观测到多个能量界域缓慢向外扩张且速度正在加快。奈芙尔认为能量来自多托雷，杜林则推测其可能试图将整个挪德卡莱吞入其中。；面对能量界域的扩张，挪德卡莱各方开始组织居民疏散：试验设计局以北的人群计划由愚人众部队带往至冬，以南的人群计划经伏尼契商会、信众与法尔伽等人协助前往纳塔；执灯人负责彻查边远地区。",
+  "review": {
+    "omniscience_risks": [
+      "把挪德卡莱公开可见的事件自动视为已传到玛拉妮本人耳中",
+      "因疏散目的地包含纳塔，就假定玛拉妮参加了疏散联络或掌握完整方案",
+      "把调查者关于能量来源、世界边界和人员状态的判断转化为玛拉妮的知识",
+      "借旅行者或游客之名补全秘密战斗、研究所、月髓或诅咒细节"
+    ],
+    "uncertain_assignments": [
+      "公开危机是否已经经游客或避难者传到玛拉妮耳中没有直接证据，因此事实01、02、04、08和10仅列为可能听闻。",
+      "玛拉妮可能比一般纳塔居民更早接触外来游客，但这不足以确认她知道任何具体事件细节。"
+    ],
+    "needs_human_review": true
+  }
+}

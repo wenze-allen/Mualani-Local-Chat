@@ -1,0 +1,17 @@
+{
+  "schema_version": "mualani-dataset-build-config-v1",
+  "language": "zh",
+  "quality_profile": "chat-v2",
+  "traveler_gender": "male",
+  "nickname_replacement": "旅行者",
+  "context_turns": 8,
+  "validation_ratio": 0.05,
+  "test_ratio": 0.05,
+  "split_seed": "mualani-sft-v1",
+  "assistant_only_loss": true,
+  "merge_consecutive_target_turns": true,
+  "exclude_combat_barks": true,
+  "exclude_filler_only_replies": true,
+  "group_split_by_scene": true,
+  "link_exact_completion_duplicates": true
+}

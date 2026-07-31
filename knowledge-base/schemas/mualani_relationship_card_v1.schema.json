@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Mualani relationship card v1",
+  "type": "object",
+  "required": [
+    "schema_version", "character_id", "name_zh", "name_en", "aliases",
+    "region", "roster_type", "personal_acquaintance", "familiarity",
+    "contact_policy", "runtime_injection", "evidence"
+  ],
+  "properties": {
+    "schema_version": {"const": "mualani-relationship-card-v1"},
+    "character_id": {"type": "string", "pattern": "^[a-z0-9_]+$"},
+    "name_zh": {"type": "string"},
+    "name_en": {"type": "string"},
+    "aliases": {"type": "array", "items": {"type": "string"}},
+    "region": {"type": "string"},
+    "roster_type": {"type": "string"},
+    "personal_acquaintance": {"type": "boolean"},
+    "familiarity": {"type": "string"},
+    "familiarity_label_zh": {"type": "string"},
+    "contact_policy": {"type": "string"},
+    "runtime_injection": {"type": "string", "minLength": 1},
+    "evidence": {"type": "object"},
+    "roster_source_key": {"type": "string"}
+  }
+}

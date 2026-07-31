@@ -1,0 +1,230 @@
+{
+  "schema_version": "mualani-impression-alias-index-v1",
+  "aliases": {
+    "Ajaw": [
+      "ajaw"
+    ],
+    "Arataki Itto": [
+      "arataki_itto"
+    ],
+    "Barbara": [
+      "barbara"
+    ],
+    "Bennett": [
+      "bennett"
+    ],
+    "Chasca": [
+      "chasca"
+    ],
+    "Citlali": [
+      "citlali"
+    ],
+    "Granny Citlali": [
+      "citlali"
+    ],
+    "Iansan": [
+      "iansan"
+    ],
+    "Ifa": [
+      "ifa"
+    ],
+    "Itto": [
+      "arataki_itto"
+    ],
+    "K'uhul Ajaw": [
+      "ajaw"
+    ],
+    "Kachina": [
+      "kachina"
+    ],
+    "Kinich": [
+      "kinich"
+    ],
+    "Kuki Shinobu": [
+      "kuki_shinobu"
+    ],
+    "Linnea": [
+      "linnea"
+    ],
+    "Mavuika": [
+      "mavuika"
+    ],
+    "Mizuki": [
+      "yumemizuki_mizuki"
+    ],
+    "Nilou": [
+      "nilou"
+    ],
+    "Ororon": [
+      "ororon"
+    ],
+    "Paimon": [
+      "paimon"
+    ],
+    "Player": [
+      "traveler"
+    ],
+    "Professor Linnea": [
+      "linnea"
+    ],
+    "Professor Venti": [
+      "venti"
+    ],
+    "Pyro Archon": [
+      "mavuika"
+    ],
+    "Shinobu": [
+      "kuki_shinobu"
+    ],
+    "Traveler": [
+      "traveler"
+    ],
+    "Varesa": [
+      "varesa"
+    ],
+    "Venti": [
+      "venti"
+    ],
+    "Xilonen": [
+      "xilonen"
+    ],
+    "Yumemizuki Mizuki": [
+      "yumemizuki_mizuki"
+    ],
+    "{NICKNAME}": [
+      "traveler"
+    ],
+    "一斗": [
+      "arataki_itto"
+    ],
+    "久岐忍": [
+      "kuki_shinobu"
+    ],
+    "伊安珊": [
+      "iansan"
+    ],
+    "伊法": [
+      "ifa"
+    ],
+    "卡齐娜": [
+      "kachina"
+    ],
+    "基尼奇": [
+      "kinich"
+    ],
+    "妮露": [
+      "nilou"
+    ],
+    "希诺宁": [
+      "xilonen"
+    ],
+    "库胡勒阿乔": [
+      "ajaw"
+    ],
+    "恰斯卡": [
+      "chasca"
+    ],
+    "旅行者": [
+      "traveler"
+    ],
+    "梦见月瑞希": [
+      "yumemizuki_mizuki"
+    ],
+    "欧洛伦": [
+      "ororon"
+    ],
+    "派蒙": [
+      "paimon"
+    ],
+    "温迪": [
+      "venti"
+    ],
+    "温迪老师": [
+      "venti"
+    ],
+    "火神大人": [
+      "mavuika"
+    ],
+    "玛薇卡": [
+      "mavuika"
+    ],
+    "班尼特": [
+      "bennett"
+    ],
+    "瑞希": [
+      "yumemizuki_mizuki"
+    ],
+    "瓦雷莎": [
+      "varesa"
+    ],
+    "芭芭拉": [
+      "barbara"
+    ],
+    "茜特菈莉": [
+      "citlali"
+    ],
+    "茜特菈莉奶奶": [
+      "citlali"
+    ],
+    "荒泷一斗": [
+      "arataki_itto"
+    ],
+    "莉奈娅": [
+      "linnea"
+    ],
+    "莉老师": [
+      "linnea"
+    ],
+    "阿乔": [
+      "ajaw"
+    ],
+    "阿忍": [
+      "kuki_shinobu"
+    ]
+  },
+  "blocked_ambiguous_aliases": {
+    "Archon": [
+      "mavuika"
+    ],
+    "Dragonlord": [
+      "ajaw"
+    ],
+    "Granny": [
+      "citlali"
+    ],
+    "Professor": [
+      "linnea"
+    ],
+    "他": [
+      "traveler"
+    ],
+    "你": [
+      "traveler"
+    ],
+    "圣龙大人": [
+      "ajaw"
+    ],
+    "大人": [
+      "mavuika"
+    ],
+    "奶奶": [
+      "citlali"
+    ],
+    "她": [
+      "traveler"
+    ],
+    "忍": [
+      "kuki_shinobu"
+    ],
+    "火神": [
+      "mavuika"
+    ],
+    "玩家": [
+      "traveler"
+    ],
+    "老师": [
+      "linnea"
+    ]
+  },
+  "lookup_rule": "Use exact alias keys. A key mapped to multiple character IDs is ambiguous and must not trigger a card without more context."
+}

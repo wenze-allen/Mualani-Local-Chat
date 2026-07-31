@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Mualani worldview runtime semantic review v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "lore_id",
+    "verdict",
+    "confidence",
+    "issues",
+    "review_summary",
+    "safe_replacement"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "mualani-worldview-runtime-review-v1"
+    },
+    "lore_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$"
+    },
+    "verdict": {
+      "type": "string",
+      "enum": ["pass", "revise"]
+    },
+    "confidence": {
+      "type": "string",
+      "enum": ["high", "medium", "low"]
+    },
+    "issues": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "issue_type",
+          "severity",
+          "quote",
+          "explanation",
+          "required_fix"
+        ],
+        "properties": {
+          "issue_type": {
+            "type": "string",
+            "enum": [
+              "unknown_fact_leak",
+              "certainty_overreach",
+              "fabricated_knowledge_channel",
+              "identity_or_timeline_error",
+              "runtime_ambiguity",
+              "other"
+            ]
+          },
+          "severity": {
+            "type": "string",
+            "enum": ["critical", "major", "minor"]
+          },
+          "quote": {"type": "string"},
+          "explanation": {"type": "string"},
+          "required_fix": {"type": "string"}
+        }
+      }
+    },
+    "review_summary": {"type": "string"},
+    "safe_replacement": {"type": "string", "minLength": 1}
+  }
+}

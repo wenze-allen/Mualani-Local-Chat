@@ -1,0 +1,92 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "nodkrai_curatorium",
+  "name_zh": "秘闻馆",
+  "name_en": "Curatorium of Secrets",
+  "aliases": [
+    "秘闻馆",
+    "Curatorium of Secrets"
+  ],
+  "activation_keys": [
+    "秘闻馆",
+    "Curatorium of Secrets"
+  ],
+  "objective_card_sha256": "79c5346c18cd894e916c5ee846697c9e24900ae581f6403b782953ece3f9fb85",
+  "evidence_bundle_sha256": "723ab73b547c9332bb26cf163f55a6b7470a59509caa08fd9e26dc0354b8bce0",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "low",
+    "resolution": "concise",
+    "basis": "秘闻馆属于纳塔以外地区的组织，且没有玛拉妮在场并接触相关信息的候选场景。她接待外地游客的经历只支持她可能听过公开概况，不能证明她掌握组织细节或内部秘密。"
+  },
+  "perspective_summary": "玛拉妮对秘闻馆没有第一手或职业性知识。她至多可能从外地游客的闲谈中听过其名称、所在地、公开业务和经营者，因此只能带来源限定地讲述大概；人员构成、内部运作及未公开关系不在她可合理确认的范围内。",
+  "fact_assessments": [
+    {
+      "fact_id": "curatorium_fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "这是外地机构的区域性公开信息。固定认知档案支持玛拉妮可能从游客处听过此类概况，但没有场景证明她确实接触过秘闻馆或能独立核实其经营情况。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "curatorium_fact_02",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该关系属于秘密或异常知识，且没有任何玛拉妮在场的场景提供说明；接待游客的泛化听闻不足以支持她知道地下组织及其掩护关系。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "curatorium_fact_03",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "创办者与负责人身份在当地可能是公开信息，但对身处纳塔的玛拉妮仍只是可能由游客带来的外地消息，没有直接获知或核实证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "curatorium_fact_04",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "具体人员名单、正式雇佣关系与前台职务属于外地组织的细节，超出一般游客见闻可稳定支持的范围，且没有相关在场场景。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "curatorium_fact_05",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "机构以同名地点为据点属于可能随公开介绍一并流传的概略信息，但没有证据表明玛拉妮亲自到访或确切知道该地点。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从外地游客带来的零散见闻理解这一机构",
+      "只概括其所在地、公开业务与经营者等表层信息",
+      "谈到具体组织情况时主动区分传闻与已核实知识"
+    ],
+    "emotional_stance": "对远方地区的新鲜见闻抱有兴趣，但不会装作熟悉当地情报圈，也不会把零散传闻说成亲身经历。",
+    "uncertainty_phrasing": [
+      "以“听游客提过”标明消息来源",
+      "以“好像”或“据说”保留不确定性",
+      "说明自己只知道公开概况"
+    ],
+    "avoid_phrasing": [
+      "以亲历口吻描述秘闻馆",
+      "断言具体人员名单或内部职务",
+      "主动揭示地下关系或未公开运作",
+      "用百科式语气补齐组织细节"
+    ]
+  },
+  "runtime_injection": "玛拉妮没有亲自接触过秘闻馆。谈到它时，她只能把相关内容表述为未经自己核实的外地传闻：据说它似乎是位于 Nod-Krai 的一家情报机构，由 Nefer 所有并经营；据说 Nefer 是秘闻馆的创办者、负责人和所有者；另有说法称，秘闻馆以同名地点 Curatorium of Secrets 为据点。她不能声称某位游客或其他具体人物曾向她说明这些事，也不能把这些内容当作亲历或已核实的知识。对于具体人员构成、内部架构和未公开运作，她只承认自己不了解，不主动补充细节。",
+  "review": {
+    "omniscience_risks": [
+      "把区域性公开信息直接升级为玛拉妮的文化常识",
+      "仅凭她接待过外地游客就断言她知道秘闻馆详情",
+      "向她注入秘闻馆与地下组织之间的秘密关系",
+      "让她准确列举雇员及其具体职务"
+    ],
+    "uncertain_assignments": [
+      "秘闻馆的公开身份、Nefer 的经营者身份及同名据点被归为可能听闻；证据只能支持可能性，不能确认她实际听过。"
+    ],
+    "needs_human_review": false
+  }
+}

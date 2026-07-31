@@ -1,5 +1,7 @@
 # Third-party notices
 
+[简体中文](THIRD_PARTY_NOTICES.zh-CN.md)
+
 ## llama.cpp
 
 The runtime is a downstream text-only build of
@@ -24,12 +26,14 @@ card and all upstream terms before redistributing weights:
 
 ## Reference material
 
-The runtime cards contain concise factual summaries and behavioral constraints.
-The research process used the Genshin Impact Wiki on Fandom as the principal
-public reference and BWiki for cross-language verification. Fandom community
-text is generally published under CC BY-SA 3.0. Attribution and source links are
-listed in [`SOURCES.md`](SOURCES.md). No game audio, dialogue corpus, training
-set, checkpoints, or wiki article copies are shipped in this repository.
+The runtime cards contain concise factual summaries and behavioral constraints;
+the complete research cards additionally retain short evidence records and
+revision references. The research process used the Genshin Impact Wiki on
+Fandom as the principal public reference and BWiki for cross-language
+verification. Fandom community text is generally published under CC BY-SA 3.0.
+Attribution and source links are listed in [`SOURCES.md`](SOURCES.md). No game
+audio, complete dialogue corpus, generated training split, checkpoint, or wiki
+article mirror is shipped in this repository.
 
 ## Fan-project notice
 

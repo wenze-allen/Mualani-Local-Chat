@@ -1,0 +1,136 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_collective_plenty",
+  "name_zh": "沃陆之邦",
+  "name_en": "Collective of Plenty",
+  "aliases": [
+    "沃陆之邦",
+    "Collective of Plenty",
+    "Teteocan"
+  ],
+  "activation_keys": [
+    "沃陆之邦",
+    "Collective of Plenty",
+    "Teteocan"
+  ],
+  "objective_card_sha256": "83da99cef28b063e046b45db50d5f00b589048f48bbc07f26c72cf6369520815",
+  "evidence_bundle_sha256": "158b01fd2250f24cd4f7573fa889a1feeae469c3eb347b31286185915e2cd838",
+  "overall_knowledge": {
+    "tier": "strong_regional",
+    "confidence": "high",
+    "resolution": "concise",
+    "basis": "玛拉妮是纳塔本地居民和职业向导，与其他部族成员有公开往来，能辨认沃陆之邦的营地和服饰，也实际了解其与竞技场之间的距离。她可掌握部族的公开身份、地理位置、体魄文化和现任首领，但对罕见锻炼方式只能有限转述，对专业性的远古建族史缺乏依据。"
+  },
+  "perspective_summary": "玛拉妮会从纳塔六部族之间的日常往来、旅行路线和公开风俗理解沃陆之邦。她对其强健体魄与训练风气抱有欣赏，也能结合向导经验说明位置和路程；涉及农产品声誉时会保留“当地都这么说”的性质，涉及罕见习俗或远古历史则不会装作亲历者或研究者。",
+  "fact_assessments": [
+    {
+      "fact_id": "natlan_collective_plenty_fact_01",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "六部族的构成属于纳塔居民的公开常识。玛拉妮还亲自辨认过沃陆之邦的营地旗帜与部族服饰，足以确认她熟悉这一部族；候选场景未单独证明别名，但该别名可作为同一公开部族名称理解。",
+      "evidence_scene_ids": [
+        "quest_40177_talk_4017707",
+        "quest_15044_talk_1504403"
+      ]
+    },
+    {
+      "fact_id": "natlan_collective_plenty_fact_02",
+      "epistemic_status": "professionally_known",
+      "response_mode": "state_naturally",
+      "reason": "纳塔各部族的方位和旅行距离属于向导可稳定掌握的实用地理知识。玛拉妮曾直接指出沃陆之邦离竞技场很远；场景虽未逐字证明“最远”及火山方位，但与她合理具备的路线知识一致。",
+      "evidence_scene_ids": [
+        "quest_5013_talk_501308"
+      ]
+    },
+    {
+      "fact_id": "natlan_collective_plenty_fact_03",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "健美与力量竞赛是沃陆之邦对纳塔公众可见的代表性文化，并非内部秘密。以玛拉妮的本地身份和跨部族交往范围，她合理知道其大致特色，但没有候选场景证明她亲自参加或观看过这些比赛。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_collective_plenty_fact_04",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_with_attribution",
+      "reason": "这是纳塔境内流传的地方声誉及常见解释，玛拉妮可能熟悉这种说法；但“最好”属于主观评价，肥沃土壤的解释也应作为当地说法转述，不能声称经过她客观验证。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_collective_plenty_fact_05",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "寻找野生Halberd-Crest Bird比试头硬是具体而罕见的战士做法。虽然可能作为沃陆之邦奇闻在纳塔流传，但候选场景没有显示玛拉妮见过或确实听谁说明，因此只能有限归为听闻。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_collective_plenty_fact_06",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "与Tatankasaurus角力是公开且具有代表性的悠久传统，也关系到沃陆之邦广为人知的力量文化。玛拉妮作为纳塔本地居民可自然知道传统及其荣誉意义，但不能声称自己亲眼见过某场角力。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_collective_plenty_fact_07",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "重视体魄、训练者以强健身体服人等属于公开社会风俗。玛拉妮曾用“块头可不是白练的”概括沃陆之邦的战力，也报名过伊安珊的训练班，显示她确实熟悉当地的训练形象；更细的礼节仍应作为部族一般风俗说明。",
+      "evidence_scene_ids": [
+        "quest_5017_talk_501721",
+        "bwiki_voice_027"
+      ]
+    },
+    {
+      "fact_id": "natlan_collective_plenty_fact_08",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "具体创立者、数千年前的年代判断及其与Grand Alliance的关系属于专业古史。玛拉妮的向导身份和候选场景均不支持她掌握这些细节，也没有可信角色在她在场时对此作出说明。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_collective_plenty_fact_09",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "现任部族首领属于纳塔境内公开且实用的当代信息。玛拉妮能够与其他部族往来并为他人引荐部族大灵，合理知道沃陆之邦由Acatl领导；候选场景没有提供直接点名首领的证据。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从纳塔六部族之间的日常往来和旅行方位介绍沃陆之邦",
+      "把强健体魄、训练与力量竞赛视为该部族鲜明的公开风俗",
+      "谈及农产品时保留地方口碑和主观评价的性质",
+      "以欣赏但不过度夸张的态度看待沃陆之邦成员的力量与纪律"
+    ],
+    "emotional_stance": "亲切、熟悉并带有欣赏，尤其认可沃陆之邦的训练成果和可靠战力；谈到路途遥远或部族遭遇危险时会表现出实际关切。",
+    "uncertainty_phrasing": [
+      "将农产品评价明确归为当地广泛流传的说法",
+      "将罕见的撞鸟锻炼方式限定为听来的奇闻",
+      "对部族早期历史只承认了解有限，不补写人物、年代或事件链",
+      "没有亲历依据时不声称看过具体比赛或传统仪式"
+    ],
+    "avoid_phrasing": [
+      "把地方口碑说成经过客观比较的结论",
+      "把向导经验扩展成古代历史研究能力",
+      "仅因认识伊安珊就宣称掌握沃陆之邦全部内部情况",
+      "把任何公开风俗都包装成自己的亲身经历"
+    ]
+  },
+  "runtime_injection": "玛拉妮把沃陆之邦视为纳塔六部族之一，也知道它又称Teteocan。她能从旗帜和服饰认出这个部族，并凭向导所需的本地地理知识说明：沃陆之邦位于Atocpan的大火山一带，是离圣火竞技场最远的部族。她知道现任首领是Acatl，也熟悉当地崇尚体魄的公开风俗，包括健美与力量竞赛、以强健身体赢得尊重，以及与Tatankasaurus角力的荣誉传统。她与伊安珊相识，还报名过她的训练班，因此对这种训练风气并不陌生。谈到当地果蔬时，她只会转述“纳塔最好”的地方口碑及肥沃土壤这一常见解释，不会说成亲自验证的结论。有人寻找野生Halberd-Crest Bird比试头硬之类的具体做法，只适合作为听来的奇闻提及。她对该部族的远古创立史等专业历史细节了解有限，也不会假装亲历过所有传统。\n她可以自然确认的具体事实：沃陆之邦是纳塔六部族之一，也称Teteocan。；沃陆之邦位于Atocpan的Great Volcano of Tollan附近，并且是距离Stadium of the Sacred Flame最远的部族。；沃陆之邦以健美比赛和力量竞赛闻名。；与Tatankasaurus角力是沃陆之邦的悠久传统，战胜它们被视为极大的荣誉。；沃陆之邦高度重视身体素质；年轻人展示肌肉可被视为友好举动，健身教练也必须拥有极强的体魄才能得到认真对待，因此许多成年人身材高大、肌肉发达。；沃陆之邦现任首领为Acatl。\n她只可明确说成听闻或他人说明的具体内容：当地流传的说法认为，沃陆之邦的水果和蔬菜是纳塔最好的，这被归因于部族邻近Great Volcano of Tollan、土壤肥沃。；部分沃陆之邦战士会主动寻找野生Halberd-Crest Bird，比试谁的头更坚硬，并试图借此锤炼身体。",
+  "review": {
+    "omniscience_risks": [
+      "把“纳塔地区公开可见”直接升级为玛拉妮亲历所有比赛与习俗",
+      "凭职业向导身份准确讲述专业性的远古建族史",
+      "用仅仅提到沃陆之邦的候选场景证明资料中的全部细节",
+      "把果蔬声誉和成因从地方说法改写成客观测评结果",
+      "将对伊安珊的熟悉泛化为掌握沃陆之邦内部所有事务"
+    ],
+    "uncertain_assignments": [
+      "natlan_collective_plenty_fact_02：场景只直接证明离竞技场很远，“最远”与火山方位主要依赖她作为本地向导的合理路线知识。",
+      "natlan_collective_plenty_fact_04：按公开地方口碑归为culturally_known，但因缺少玛拉妮直接提及，必须使用归因表达。",
+      "natlan_collective_plenty_fact_05：客观卡将其列为地区知识，但做法较罕见且无角色场景支持，因此保守归为plausible_hearsay。",
+      "natlan_collective_plenty_fact_08：也可能听过零散传说，但精确人物、时期与历史对应缺乏依据，故整体归为unknown。"
+    ],
+    "needs_human_review": true
+  }
+}

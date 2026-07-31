@@ -1,0 +1,2202 @@
+{
+  "schema_version": "mualani-public-knowledge-base-v1",
+  "corpus_revision": "OSCBWin6.7.54",
+  "categories": {
+    "character_impressions": {
+      "count": 21,
+      "files": [
+        {
+          "path": "knowledge-base/character_impressions/cards/ajaw.json",
+          "sha256": "cfb25e130d444fceb1061ee495c7a4a75c098187b9d4adea0b456286c5c7be7b"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/arataki_itto.json",
+          "sha256": "f308d65c735b7c5e4d3769081d98af0d14c61d255c38de7b01c6f7ed626b9cba"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/barbara.json",
+          "sha256": "2d510308260ecb92cf36699ed8c4ab224568a00b0d5d364e9b7cc3582e0fe967"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/bennett.json",
+          "sha256": "f15cf81fcf4a07d2594be71d5b1f56b7b35ebd53a3d70d29aae203bab9809330"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/chasca.json",
+          "sha256": "8df88defa93635c923ba3ae8545e035b1642beeb4e6e1664b45b7cde3f063eb8"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/citlali.json",
+          "sha256": "ef22d50f46a328c6e1723977f74aaeb1312f04811889720ccf97a2b7371e9817"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/iansan.json",
+          "sha256": "0c2ee32c392edfb652a31be3b6fcff88448056214cee4d507e27bbd49b7fcc29"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/ifa.json",
+          "sha256": "5df10a1db1f76e262e0a3051da9b19b0c8df987c40251c5713f4d6cd95c34cc0"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/kachina.json",
+          "sha256": "df0271e76a27a1a6a2132e8375fbaeb57091b153d6caf0e0dd84bd3ee395b43a"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/kinich.json",
+          "sha256": "da2404f6b659abcd1f9f94a919a9ef92326c79058d7a314f352b204ebeef04aa"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/kuki_shinobu.json",
+          "sha256": "1940a5399b2fd937023827484d263032b6b71f11e2005ed9913a0df6f29125d2"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/linnea.json",
+          "sha256": "41df4bf9e90d5682f397de919eb9998cd4f9de7d5de1313b1f676973a305a3c4"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/mavuika.json",
+          "sha256": "bdfc485851f49f3bc10dfc2139d199b9b7791a79c766f190fdb58df9df089fb2"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/nilou.json",
+          "sha256": "391071419164851388d7698ca86031d6055c9605132aef8f19c8e231078a8d88"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/ororon.json",
+          "sha256": "395c42af8af8ea47f5aa828c2a92ba510f566ab4a9db4b54966dec55bffa3db3"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/paimon.json",
+          "sha256": "bef0eaea7690675c1e7d8d52d7ed1145e3dd1af0d7bb56b7bfebb1333f4cfb35"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/traveler.json",
+          "sha256": "ee12299423b094cccb2212b92b34aed0ccfb9d394d37a84810faeddabee5f320"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/varesa.json",
+          "sha256": "c817af6665bfc2669c3e007a02c49d1138d2f1cb26a2688a7d746c76cd87c4f0"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/venti.json",
+          "sha256": "c18d44bbb18eba5cd360934f82dc8e1b777d4bd029d18056074daa96284ebf11"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/xilonen.json",
+          "sha256": "1dcc4255d34f882b3ce30d984f0cd2b98fe291a3b1b590e612df974d83672cdc"
+        },
+        {
+          "path": "knowledge-base/character_impressions/cards/yumemizuki_mizuki.json",
+          "sha256": "efcaa9a836d94f03c5a7a765602bf4a595fc2b500cfd2edcec3537b6bff102c3"
+        }
+      ]
+    },
+    "relationships": {
+      "count": 119,
+      "files": [
+        {
+          "path": "knowledge-base/mualani_relationships/cards/aino.json",
+          "sha256": "f41e5448e0b1e672d1cdcd21bfafc25cfedaf3b7ab46d235f224c27d8a4248c1"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/ajaw.json",
+          "sha256": "e48f0a271047012b44b569dff6fcf8effa0ba87ca234cffc288ce7ea24122159"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/albedo.json",
+          "sha256": "ac08cf736b603a15591f2409abfdcee4b31d0974bb21e5e1266659f260caf6b0"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/alhaitham.json",
+          "sha256": "28e78738f0be4195da242aec081b0183be541bc5eb2364facb33caeb16e3658b"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/alice.json",
+          "sha256": "4491a8263f59472b014e8d16acd19a205accee15545d47ea7f8fb55bf8812037"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/aloy.json",
+          "sha256": "0fa63797ed4c414a4640253a0293bd4547a73b568399c550f2283b86086c6eaa"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/amber.json",
+          "sha256": "bf7437f99d258634f409fa2fdfb4906ca1b492dc15ad2a78df71013eec40521a"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/arataki_itto.json",
+          "sha256": "c5a19bd4d30b771433ab3143ef0528cde2a52c3fb03cba91c3ec595aba23d1f9"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/arlecchino.json",
+          "sha256": "0cd53ceff34011cb904b6dc666ff1c4094c9828b13383374ee888eaaf7004e62"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/baizhu.json",
+          "sha256": "610ddf2e93695affe0270e312dcfd3be13cad06ae7813b570ed20117f3d14c91"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/barbara.json",
+          "sha256": "f36b15d7a7c18cbebcfd48e8d710230c59fed0c3d19a6b186257d315927f69a3"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/beidou.json",
+          "sha256": "c44d9f1e3a575b35698f1391752f817b567376f801d8ebf4b72bb2053956390d"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/bennett.json",
+          "sha256": "fc186afa386dd29cc7e1832df96f91e657b3b84f567502ee6211364682b37cfa"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/candace.json",
+          "sha256": "ba3ddf5a32bea8c28739bcfee9bafa2e7e013e757b77cdb300efe2c755598b76"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/charlotte.json",
+          "sha256": "05e77d99ed6bca4ead91d3630016ee7122932a33fd401bc9f26d89ec5deff149"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/chasca.json",
+          "sha256": "b705b3816140f3450790a98b8b6e41627ba5771c8391c330462f64e0c8c4dcce"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/chevreuse.json",
+          "sha256": "5e96a99c23bbd2b748f19ab8f711fe6379ce4b58609aa8baa4f58a3f4b5ee159"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/chiori.json",
+          "sha256": "309f19d00ac942f700d0f0b95a9939221068013cb928f74e8ee14eebb919a5d0"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/chongyun.json",
+          "sha256": "d58ead9bebc764111f1c2620f3ba3a556eb4708ad5d6e98236f421ed70c0dac1"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/citlali.json",
+          "sha256": "63430bc78c933ae9c642eb921337dc3a33fb72d72d6e80f34c9851f2a131dae7"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/clorinde.json",
+          "sha256": "7e962b4a8b6c7fa7cde9bb5d5b83e9a185ce6be7a769115104259dc0ad184841"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/collei.json",
+          "sha256": "20fa154dbd684aa94a1561dc1e787b6323d870ddfa043d7d077e8c5eaa2ec15e"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/columbina.json",
+          "sha256": "9d15c64a0c2f05cb09c640c907f1ccd13346f659cfbf301e6db445456affe957"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/cyno.json",
+          "sha256": "2830435c92741710be51c6c5136037bff18a16fc73f6200bb5abf52cab69ebc4"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/dahlia.json",
+          "sha256": "cc51a884647e147bd00e13743ebc15b862b6f151e3e7949d34c76dd4b8c17cef"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/dehya.json",
+          "sha256": "79977d1ed05c8a412bc299aa1475f80e4126dbf498fe32316a3efe444c5fd580"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/diluc.json",
+          "sha256": "3825f78a16e25232769918e564196b414d3f7fe81a41bb1f7ee2265f8585e798"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/diona.json",
+          "sha256": "bfb750e5701ed36b855f59e9d0c6d625a09e138b5b806d1a89a4c8c4adee23a5"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/dori.json",
+          "sha256": "5e2f2a1b2ad4175a15a7a8c98e34d7a7d1fc82b25e6128428b9e102ad0d7ed87"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/durin.json",
+          "sha256": "04806d7b3013d7e536934fd5cba4889eac9fd30b6ff24995c94949c187760781"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/emilie.json",
+          "sha256": "5666f1a9ca50aa3e8dcb088bcb03ed65a985b8e0b9cb95c9d616a99fc125dcc3"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/escoffier.json",
+          "sha256": "2c936dd8edb5d060ffee0de60bb69fa16832b4a86d60e9c0e5fc4376ab3eb45c"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/eula.json",
+          "sha256": "21af718f0ded81e6919c0ba68a4e27dec6be4ed23a4885e04f9547878ad5e66a"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/faruzan.json",
+          "sha256": "4f1d669270c570909a2340cea73c11218391d5c05c2aa3b3e49aef62e62cac47"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/fischl.json",
+          "sha256": "ce3c9eef1975b25512b43286b1abd0eb2ae6d6a7ad50cb4eceac0fd738d65118"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/flins.json",
+          "sha256": "b70d15c7ac8dae09495f531eb8a0b4dfb8241257857b3076f0850d7b41c35228"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/freminet.json",
+          "sha256": "8d21237655369a4f406b6c4324b8067ae21c38584ea1bbb69a6ee7e3e592f6ff"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/furina.json",
+          "sha256": "7e8cf644625f9a1a9f3448ded42e449aa79dc429f8a2da8d98b75a4e8fdcd8d9"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/gaming.json",
+          "sha256": "f06f6aaf7b66a7b74392a88adad1fe60535043076f2c5d74c2747c082d62ed97"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/ganyu.json",
+          "sha256": "25679a016591415ce08ed90b36684a0570d685039778546b839d2eef57c9f1a9"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/gorou.json",
+          "sha256": "55bc6219b105f1b2cc3404714441ea5752cc5f4070ff35de10e906cea14c44c7"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/hutao.json",
+          "sha256": "b19c5615f12d3a8d9972f022a12bdafa44e81e5a21b520fb96d5952c60ab6f01"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/iansan.json",
+          "sha256": "6f810db61b154fd039e758dbf2aea85d9cf03ddbdcfc8b53118b4737ef2d725f"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/ifa.json",
+          "sha256": "b6727670a2b2abd521937ee353cb54da44ee8a65724dac689a992232d8ba804e"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/illuga.json",
+          "sha256": "3de60f6bf0638fff393d2592488b1409ec0323dd2871b34c3e4f65491ccb7913"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/ineffa.json",
+          "sha256": "6dc133ec34840b79e73f2f2027b56070210c98d2e5a165b68db541d7142d6740"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/jahoda.json",
+          "sha256": "99f7529643fec64f36ca149e491c05827db3ec2f4205e05f46f7741d117df18f"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/jean.json",
+          "sha256": "0e6aae134990789fb2004cb42d43e08fb866e8b78a2d3909d54a6661bd329b90"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/kachina.json",
+          "sha256": "b6893058036c0077e70773b4d4652f2c45668c40bf32ed2d3c7c4c8146f9543f"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/kaedeharakazuha.json",
+          "sha256": "957566b6567d24326339e89028310873d71feda38e4b7a280e9836563102566a"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/kaeya.json",
+          "sha256": "a4e1a16ff4b812181e7a7a45e229974e2987b465d23d24497bc154f1c53eb90a"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/kamisatoayaka.json",
+          "sha256": "a7ca67cdcfee050e9045b48c94f80017d888a3691710c4946a7823d8e6d6bf81"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/kamisatoayato.json",
+          "sha256": "0e9748fca0ab36101b23005856454ef5221f652ec7ab25abc5663a2724b9c583"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/kaveh.json",
+          "sha256": "b0257ecf73d067fb673403ddd50aaa85be74958f78ab052ebfa246eaa71b22da"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/keqing.json",
+          "sha256": "8a5ea11f533e5ebe6763b58c46c26edb69c9905a746fe343b1627f3241883139"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/kinich.json",
+          "sha256": "4f1e0d89dfb6ac6941e7acd63a6fbbe99c9a67e9303b2cbd1048171773b842ed"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/kirara.json",
+          "sha256": "a60fbc5f379d9d491a7ca970ef50bad9442d29917123be45eaa6d828d80fbe8e"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/klee.json",
+          "sha256": "b595525568cc0d016062ca33286629b7cc4d091d6b9b8c5a12e347e14cbe6b6c"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/kujousara.json",
+          "sha256": "774bdeab875a079302dedbe3a17f8482f594b86ce59f57e9a047bb4a994cc336"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/kuki_shinobu.json",
+          "sha256": "ac3b045e06c4987a4ac6c3b15b432118250ab4477aebf37cf755036485011113"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/lanyan.json",
+          "sha256": "73c62e6a30238feb211a3e578e28932af8b27dc35b8179695933022657553b9e"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/lauma.json",
+          "sha256": "05e2b985bc9a263f2b090f4af74cad65bea3737ed9ceee4cfe7ab824d4e9f281"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/layla.json",
+          "sha256": "ef2fa782824ff80a3204353f3c2a2374df04d31efe3960b5c6db5d3acec278e2"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/linnea.json",
+          "sha256": "1d4fff923b7b9bf37cdff1c13786c3f5cd2848d4bc349ea26c35add96a12b2fe"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/lisa.json",
+          "sha256": "665cf1620d25df7f9d1a4e6fb26e57b8fa02978f53a4eb6524a83318df068640"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/lohen.json",
+          "sha256": "feb6d27553922af5afb540ee5c5ed677e075c528ac4c334b9e2cba62d775d30b"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/lynette.json",
+          "sha256": "cb1bffe8aca843a0a2022e0697139f804902820c8b0669d00f96cb894b9cec16"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/lyney.json",
+          "sha256": "6fa974187c4a80db9dc1c837f5b73da7b7e4da2806bb46e90305734931bca827"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/mavuika.json",
+          "sha256": "1c45286f36a9147bd5430d0d2ef74138ca1172e6f0bb0179f02eb7cb7c842d49"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/mika.json",
+          "sha256": "34d9a50d94dd7bb2d50cd86f61a575db5a11cc528ef9c5d2f3f7b8021ff1ccc2"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/mona.json",
+          "sha256": "dc52f9ca68fe7f5c371cd0b30814e1e59edb25f4e85f028cda8ba87bd4013622"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/nahida.json",
+          "sha256": "7ffd15f8cfde42e7a7e9debe02a181455007aee392cc3b11e5e6c55e89e18e1e"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/navia.json",
+          "sha256": "19e7159363badc0fc3939888e9fa764c539339bc9e387b67e8d5fe2368543358"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/nefer.json",
+          "sha256": "e531959ce79281107e30c096c868ab50f4236ef4d9e6a083deca3f5204f125ac"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/neuvillette.json",
+          "sha256": "7d9bd192eb7f299642ce697c0a09a50509227240c97b6d945371484603b61ed1"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/nicole.json",
+          "sha256": "a0d922d8d00e293bf4c29c1e73bdf98c2fb4e34b2d60ba60baa46f8929795336"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/nilou.json",
+          "sha256": "2d54c018b3ee402f3d67c84b96ece4104c2391b01502113770483a3a0aa64fc6"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/ningguang.json",
+          "sha256": "c5ef5ee54067636911444d3d43ebc445d58755824feee2a7d0987bd87d14b2fd"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/noelle.json",
+          "sha256": "843f87bec9a3a642c6cde6fbd28a686291ef5f9c6eded4040fb469b568a207ce"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/ororon.json",
+          "sha256": "993169864119568c63970e63adde65956bce9ed58897bb85119418a037f60139"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/paimon.json",
+          "sha256": "f037ed2246c69c375cac4af3ab8c2a2adaa54b12931909019b827573e66f9674"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/prune.json",
+          "sha256": "3b185453e3ec923c559f22fcb61c47623a730af9832ad8ec4a55868ab7f0141f"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/qiqi.json",
+          "sha256": "0b733c8181160ac9abb485e55a43c7ae19dba572b7c4ef6b2a35ea6d1f3fdc91"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/raidenshogun.json",
+          "sha256": "2dd56710e53b5425640aa4f5f267244bb4aa86043dd1d9771db4bc02328c7d2d"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/razor.json",
+          "sha256": "6dddf2f7a837693263aef5ad2d4342bec8b269d9a9e6fc182f054fcc6f6af0f7"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/rosaria.json",
+          "sha256": "3f5cc426e04b2080ce09c1752c3ea474c730ed066f9369c01c2ec32056527b49"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/sandrone.json",
+          "sha256": "99c4894f3155bcf0477590747fb8950de68460ceb1152a588d0a56cac44fe127"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/sangonomiyakokomi.json",
+          "sha256": "e00e394174d61ba4275d3c95029afb9eff810a8e16890e364a51ea483c48b6ff"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/sayu.json",
+          "sha256": "d7c800c46aa6fdf2f522a3916a202d07d4d607f196fba49d37a68d77a0d299dc"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/sethos.json",
+          "sha256": "f687eb518b60d3297f917f9b7599249250fc9d3f0b2ea3dc3fbe308ba2dc26b5"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/shenhe.json",
+          "sha256": "a410427741d5cc1b18664b4198e4d48f84cb4011ed583d892ef3b6ad98b95a42"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/shikanoinheizou.json",
+          "sha256": "d3e22ed4922d213fd7f19eb05e94bc09c3cf2d7d0fb4fab172f2cd964b168bd8"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/sigewinne.json",
+          "sha256": "325a5297ac703e9a7ce62cb9cba08d85e99718b11d5f4314c33b88067dbb7d7a"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/skirk.json",
+          "sha256": "5c240f0bff50e9fe036a5fba8bbb4cc2b64c9e5b4b38ea440af0455b1fa0fa15"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/sucrose.json",
+          "sha256": "9a3f7f68fe9d30e9d1283f18b19a04270df602a6f299d05fe9c429f2e9460ec3"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/tartaglia.json",
+          "sha256": "10570eb5a019851e349da8cc3fc2810dd48d7c842ee8cd4c9d0ebf3913f4ef8d"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/thoma.json",
+          "sha256": "dfc431b24815cdaf9bcfe472697311e991c262cba4fc095872ddbee2b800169f"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/tighnari.json",
+          "sha256": "86ff6b2c6e2df12081e3d547d47d56edfc1ec978c6c0305c434b91c44578b771"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/traveler.json",
+          "sha256": "0e8971630a38c470a4c75af05218dc2e092324eab8861b3055362e6a0f7bf82a"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/varesa.json",
+          "sha256": "aee2fd112fdfe40d280d9d9dcfe080d35703898d03e7a5f002a3d000c4ea8c81"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/varka.json",
+          "sha256": "b35fcbca1ed4334fc68206281c66d9a6e320ce5daf9a08c9151ae8ad5773b70c"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/venti.json",
+          "sha256": "f74ddbe00445d0afffa6ab3c9f447058c0c50186ad052cdc6931621f22e03e89"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/wanderer.json",
+          "sha256": "d8a44b44ea82d66c4f6286daf71455f702bc5ef40d455083e1185f5f19fccbbb"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/wriothesley.json",
+          "sha256": "7fe7944126c79ed9c03bbce9b3170546ac6a608460abf1146162d71929f476f5"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/xiangling.json",
+          "sha256": "a715f1444abd4d9e23f37133c7d6d8f29190d508a0488e29985b3f227561f6c4"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/xianyun.json",
+          "sha256": "e69228df3936e654805a1adf177b4c97c05e021a4e36dac7c09c404ab8d0dff0"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/xiao.json",
+          "sha256": "4ac9e78faca0b60fe144994dbdd9d55217dd7a74ae131c57b47bd47ee1b9f82f"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/xilonen.json",
+          "sha256": "056ddf9fb7af1fdfdbca5cd059eb6a8f23ae1350d7c437073c2506b42f41aaaa"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/xingqiu.json",
+          "sha256": "47b850acf415ae0d34bbd8172e94a61f8b1401d7537dcdecfeb2aaa3f3cc49e1"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/xinyan.json",
+          "sha256": "d01d4e3fae16d2c42fed71cbaf53e9ea6c5cfd2d23120b50dbbbb7a379a58091"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/yaemiko.json",
+          "sha256": "d60f7e6a7ed29432078791b1ea9c3acb2f50cc29b65830ba4cf3305755cf44f0"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/yanfei.json",
+          "sha256": "027caf64e463bb451f2a87e787031fe2d3ffdb9a56728f84a438cabaeb3437dc"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/yaoyao.json",
+          "sha256": "b26a79159be2e3fa5c00f879f29af0aacfc8240c07b5d455f59767e4af5b10cd"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/yelan.json",
+          "sha256": "5aaa43d955e201458e8e5444811bc6c75c44d63de7ea94156f6e02192fa20493"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/yoimiya.json",
+          "sha256": "d287ed398860537ba3087a62acf354f8d94154a719832df520cc00b4047c1526"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/yumemizuki_mizuki.json",
+          "sha256": "bb9b305499d38e9ea275d62cc17e864c5f488f8fb90a65ecf027a7615db0de1a"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/yunjin.json",
+          "sha256": "a8d5d83d7806178bbc6364bf9a36630e0cd0be22e31c0e64adda8ea24026c65f"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/zhongli.json",
+          "sha256": "0ef10d30b86547a0c41df5f1b61a801d525ee3582b1e1754e45648efbbc2468a"
+        },
+        {
+          "path": "knowledge-base/mualani_relationships/cards/zibai.json",
+          "sha256": "a185714335178e084d563cc5c477d7687ec310d1577ca9ab146868f34cfd8e1e"
+        }
+      ]
+    },
+    "objective_world": {
+      "count": 202,
+      "files": [
+        {
+          "path": "knowledge-base/world_lore_cards/cards/abyss_forbidden_knowledge.json",
+          "sha256": "4e5e09b752018817bdcc1c3e8616a4e24c7896903c7ffa01b41f661cbf8af4aa"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/abyss_void_realm.json",
+          "sha256": "4b08ac63fa78bb07986e0c4e6668d08dfcd9a679509000fce38a7a5a2f1b1679"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/ancient_civilization_network.json",
+          "sha256": "f7b89a597a444501d5bc942a7d25edce18494ff5091dcc9a232b2a1f313c4a63"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/dark_sea_overview.json",
+          "sha256": "80e56cace162d50abfc7bd259713c259cf0b8c32c2a090a48470495f3f5e4f46"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/enkanomiya_before_sun_moon.json",
+          "sha256": "d18b4563446ed2947de95ec9c61dcc57fd9bef2a5d6ab785bb5e9815d4a1f14d"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/enkanomiya_dragonheirs.json",
+          "sha256": "b99603c17983fba4501629909bde282e0edde33eb204e4dfe79267cc7b82517c"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/enkanomiya_orobashi.json",
+          "sha256": "6fe0183ab2c35c9e6749f93d4e8691c31265b4b4dad44b2cf5f14cc9b92d8c10"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/enkanomiya_sunchildren.json",
+          "sha256": "2eefc473f716939136a4b3b14c431d6022fcb875f89eae368be7a34efc19b36e"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/enkanomiya_unified_civilization.json",
+          "sha256": "9cef9f2569cc0c9670d2a434e89eecaced651a51aa8765c79485d48b1d1ffcd8"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_arkhe.json",
+          "sha256": "4ed323c303da3487309bcb8ec1e0a99e8e676fb99531593652981d3063dbcbe3"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_current_governance.json",
+          "sha256": "e6dcc3bd58a45e1b6f215d3a5ce622050612767e2c6dc2dc7940359f61b78b43"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_geography.json",
+          "sha256": "f785dde09737cc7ceb818255f8b00c3e8319a432607babbdae95464dc4472fa8"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_grand_symphony.json",
+          "sha256": "f882ac493ef895059b50055541456b72e898ae69aef5af8d4aa4ca4e7f8b2966"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_justice_system.json",
+          "sha256": "62bfc7d6fb063955d19b2ecd5a824edd6a069b7fd8967fbe451fd22878cb0d8e"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_melusines.json",
+          "sha256": "e8f4db04af6b6dcb478274694ec0c78f2ed5e33f263921b877b02268e50bd68a"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_meropide.json",
+          "sha256": "287d2fc3c23132ab20b578b2d0767a7cfa3ac6141e04c716126a484c7bcc961a"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_narzissenkreuz.json",
+          "sha256": "d5b891deb2fc3fc47da4e9e79c9ee5f111290b36297284869a2e402c3367e103"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_oceanids.json",
+          "sha256": "d241e4ee778270e9d7c04f477e4515d0a2f68732cd52677f96923a2f9f145a11"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_oratrice.json",
+          "sha256": "7ab4bde7650a5c299f3c36e05613267a76c46961e3b5eb73ebef9a41a1de1c54"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_overview.json",
+          "sha256": "c31128e3093fbebe7f8a4f8e1fd13a1f74acadb7c0819d3af7b6336d94a683b6"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_people_origin.json",
+          "sha256": "674a5deec93873025d7468653486bd3429c106ab6c53eec19b5307589d0395bd"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_performing_arts.json",
+          "sha256": "74eb1d4980a9c5b96b8422d3c84ca38abb470286a11bfa72c20710f8fcc8739c"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_primordial_sea.json",
+          "sha256": "f57970bb66023e1452ceb6780e35f7050e2775c4f25e60b66c1f6bcf7055d990"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_prophecy.json",
+          "sha256": "07f3b0219bbd89bfb54ebe5ab5a447777cfd86b40351fa26502d2c2cca71ebc7"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_remuria.json",
+          "sha256": "2fa0b4225d2239efbc4de05e659e23500992b1e14896a15c33bd32f544f9faec"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_research_institute.json",
+          "sha256": "de6a155ae6081176084cc7a1058126a75debfb2faaffd0dfc2a79f7e0d161a18"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_spina.json",
+          "sha256": "6e273fa64c5eacbccf545cad4d417250aeb43e6a90cc16140ae7d3c77a24d042"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/fontaine_technology.json",
+          "sha256": "8d3ced7c701c44b41fc7485edccdb46f45d5444a32c55d200cd84b47ec1260c0"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/heavenly_conquest.json",
+          "sha256": "5c613640bd85786517c9f21b78549f6d2d370041d079adad01bf634229f5ea1f"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_decrees_civil_war.json",
+          "sha256": "6d9b34c49055a1dd482d1c47ebed5c9346db8b36d936e214d6cd0fc2a08e749f"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_enkanomiya.json",
+          "sha256": "3fe12905db052e1addd5a5b0b05b61d382d87ab76a51bc7ff35a914fb98ad630"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_kannazuka.json",
+          "sha256": "9a2fc65b8cd7d5456010e434d67848500e2501c5e6d38b0217fc50bad83b7590"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_narukami.json",
+          "sha256": "3b64dc1c080d6f58d5c2d362495f39f8ea2c5a5a2fb45084753ed50c77c473bc"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_narukami_faith.json",
+          "sha256": "12940bb2fb80bae15b124eec2b9d5c8133e0783c3fc3e810fdc73913aac7f4b5"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_orobashi_war.json",
+          "sha256": "86403a76bb6d8e604d62b15abc5e4914d3c9e92c9cd8cddd5e8a1dab3b9d8453"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_overview.json",
+          "sha256": "d408d3a0196428e08311440eb6bbaa56b23196b54d116c0cdf54b329bd669c30"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_raiden_gokaden.json",
+          "sha256": "89b398bceffe53b97b7e19eafa1624239f6b2109154cb548c5f1c89e97ee31d9"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_sacred_sakura.json",
+          "sha256": "d8aa55a62b98a2cee56084dcd3b5f963f98b8f08b26ca901354a68a8434acced"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_seirai.json",
+          "sha256": "87b322955a9489dca423f1a8921c7cf2ef23acfa02af96ef6ded38e26d516ccf"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_shogunate.json",
+          "sha256": "7d1ac31806984a52a40ff19fe68bebf889d7c6f58212527c00974a003df7d6ad"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_tri_commission.json",
+          "sha256": "3ac5c10d0cc41f289647faf42a56cd1eecb50d6f96c540a1ce71082494631206"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_tsurumi.json",
+          "sha256": "0e798163af9382b31fb391778625d0b1b41371b70bf82671c5878de3c9f166d7"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_watatsumi.json",
+          "sha256": "e0d5d5f87e6e79c165a60bf2d757af2a4c10fb8374f0a18bc830c1eed878cdb6"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_yashiori.json",
+          "sha256": "7dc249fa6422cfba529dc9452d726cfbfc2cb49dec52bb4fa2bbad61cee81b60"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/inazuma_yokai.json",
+          "sha256": "df1404ea1f98e1b6332f211d9ca49b79b4eae4423364bdd7ffa5f083bd5a7b79"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/institution_seven_sovereigns.json",
+          "sha256": "c1afd52b12b0e77063bb114ee375626a3bb3a3e250f8e97695ce10900b4d81d9"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/institution_the_seven.json",
+          "sha256": "c30b1190ba33696d1dcac2a725f26a25bb0cb2c7603840f7d840bd554a4b3d76"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/khaenriah_abyss_order.json",
+          "sha256": "6017d2e23cff3a70101a819c31296e1df023cb690c88923567d3d27d788b0e03"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/khaenriah_alberich.json",
+          "sha256": "0bce0b5bb0e91ac352df831b893941b6938aa997de107a6fb78fbcc1f595ae3c"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/khaenriah_cataclysm.json",
+          "sha256": "b6f2d21c06829f56f521e6bb322a320de79584499e9a1d48410a49f064a4c38b"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/khaenriah_curses.json",
+          "sha256": "5bc67763f9cb0caaa23743b4afa1e6426749e703cde1a9172e04bc4683910d68"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/khaenriah_diaspora.json",
+          "sha256": "c5d5ca39dfdaa575686f7b6bcf768afb9ac52bbd8b27fd721027ca4f0b621a3d"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/khaenriah_dynasties.json",
+          "sha256": "bd0e7bf9792faa47a8c019d65dbac9fdeabacc8b21b14c63a0e010e9d5a62e94"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/khaenriah_five_sinners.json",
+          "sha256": "ed8655087ac6f613ac7118b85a592176fc1d5a3c6b976a2c721025497fbb6177"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/khaenriah_geography.json",
+          "sha256": "5b9fa3b9d8d9e089c86906d556ba641aaf908dd6c4874c2d5f4715603845c489"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/khaenriah_godless.json",
+          "sha256": "27cb91169acf90090daf75abb21e4391bdb93dc277cbc86d622ae7cb25b915f4"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/khaenriah_hilichurls.json",
+          "sha256": "0fa0d9b6ee624d4bdc6362941f9b658207ad8c8d207028cabf399c62dcf40e2d"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/khaenriah_overview.json",
+          "sha256": "f27d8bb13a7bfb37886d54eef0b9ca3706cd09c49576f63f96e6194b59b3a793"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/khaenriah_royal_guard.json",
+          "sha256": "aa3318dccf1e8b1fa0c58243e8f71c14e7c72f7e344fdd30f8468c6e73c374e6"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/khaenriah_ruin_machines.json",
+          "sha256": "f4a0765e8ff36b860261c47af72a3396f1c85e46c856931231ca0252f02c1236"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/khaenriah_schwanenritter.json",
+          "sha256": "66aca47608269bf283ef6688e744681890489132f3029fe3d8e08535d7af89e0"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/life_divine_curses.json",
+          "sha256": "89a53de35a2e0abce88e5635ae1113a2b9ba3c04fea6fb2ca61eba8a0bf98d31"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/life_erosion.json",
+          "sha256": "94842748c02c73e56bee0b7d3a75b50385b061d63d435b2e28027b1d8671137f"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/life_soul_death_cycle.json",
+          "sha256": "8e7f013ebd5cc0dbee6ae42509dda9cf0b5e8698b69cc5b6b393966961562ec0"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_adeptal_arts.json",
+          "sha256": "0af0bb549d846c2103391307dcd7369ce149ec53f976f612fc8d6c5a781f49ea"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_adepti.json",
+          "sha256": "5ac5001f90d29d73966225e50af9bef77ce0b48696a563b3d70763efb3096c88"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_afterlife.json",
+          "sha256": "bd5f56d00f35cf2d4840ea9fcb9cd95f9f00262d0499bf79dfaa5e2ba28e7d69"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_archon_war.json",
+          "sha256": "7987cf5a4394a912c4826cb5e99755c89f668d411dbc2cfd26deb3b36312257e"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_chasm.json",
+          "sha256": "e02feef18b8c2532604a97a2be3ae54e54f56421543175274f5bf89ce2ae899a"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_chenyu_vale.json",
+          "sha256": "d0aa51c28d15b11979db66abb7effa1fcec7329730df4cd51f33c676bf78cae0"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_contracts_commerce.json",
+          "sha256": "493dfd77dddd6f1a771b4b5a8807f430ffc4cd1dc672f5018d6d5190b8880f1f"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_geography.json",
+          "sha256": "deeeb995728d1a908ac02014554d995993f40bedf9cf6eeaf4749f37a3231a6f"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_harbor.json",
+          "sha256": "f7b3c55443712b49eb01f64d89346c57d30ac01fed6fed22aad8daf6eb046729"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_human_era.json",
+          "sha256": "11154b0b106275fef60efcd02469a589a44e1fda78bfa219e88cb3f83c1b2ae8"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_millelith.json",
+          "sha256": "876e223d0618386fdc197e65c90abd6ba56ca332d9fbe489d03e2a14601c20c9"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_mora_golden_house.json",
+          "sha256": "09a15e0e60459d1cb20c5677add2cb7a9fa9fa0956533243513ff50a5bf33457"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_overview.json",
+          "sha256": "c77efcc2aa9d5c66ad900815015e1db1d936f3385387162c1f67944f84142c04"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_qixing.json",
+          "sha256": "a895e3866176064965fdf7a2de63f2cc50d5e53c340632961355c3e7d17bb3b5"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_rites_festivals.json",
+          "sha256": "60c69cc4762ca85c4bd633b477fdacb560aa9ea204ae5582784c0edc3e73fda0"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/liyue_yakshas.json",
+          "sha256": "581840059b8dc26700137b7848b505df8e3df12c964099d1e193b73bfad670ad"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/magic_alchemy.json",
+          "sha256": "fe844c24fb64ce60d2023a13eaecd84ef9fc276cdf3e43c1af330109510f0db4"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/magic_art_khemia.json",
+          "sha256": "26df92fed938e4fd880f5a680425f22a94bd11850e7c75de14190c109e9b63df"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/magic_mystic_arts.json",
+          "sha256": "472d61efbe18a5b16bc2492d686a787d30adc3a64317cda1125ca0144aad3d85"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/magic_pocket_realms.json",
+          "sha256": "02172d431aeff1c1758b4e96454c52549846bfc554a885802a85a0849d1f84d2"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/mind_realms_consciousness.json",
+          "sha256": "6c74f25576db02e80a27f46e3e638e2f716ee024467b83aafa1587358c5872ef"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/mondstadt_aristocracy_rebellion.json",
+          "sha256": "d7dc2f5dd6669f545f4e5bb50aecd0584fe11d51810cace3e894062ef5acbbd2"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/mondstadt_cataclysm_durin.json",
+          "sha256": "1457b22b4334db89cc9468287fabadb7524ae54355f8ea65858dbbce34671595"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/mondstadt_church.json",
+          "sha256": "b0aec2b1f64836878c3d97a4fd4e2652325c43274cd0397f6c618b3c97539a9e"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/mondstadt_daily_culture.json",
+          "sha256": "62e7f11aa64683e085232a1be1d29d53e6477f293e6a2e11f075b634ee9e0f2f"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/mondstadt_decarabian_rebellion.json",
+          "sha256": "82a7f75394c118e4778e068ea1aadc95520631fb75e94855a132db728894efcc"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/mondstadt_dragonspine.json",
+          "sha256": "514dda62ac8e026ec63a79e7723287ed7acbbe4af3b6cb334c12a6e3a9c71cc0"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/mondstadt_four_winds.json",
+          "sha256": "c6aff50a08fdb8d49ff44212463701d24e771d563688ff5bc959bba8e90cfad5"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/mondstadt_freedom_faith.json",
+          "sha256": "9852a9e9068de674504ecdb822f9b86f4ff239c20aecb99577f7efe3dcaa6600"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/mondstadt_geography.json",
+          "sha256": "93299bb12d478998c1dd834e28c06d1d6c2454cd7a8a065e968ebd37cb2eb763"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/mondstadt_knights.json",
+          "sha256": "400d6dc38efc4d81a8fc7e9b2b59d4f9707f4fcc16cd813c971c0595c9a01f26"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/mondstadt_noble_clans.json",
+          "sha256": "b272f3cdd73446b5f7a19720de40c051c3117289898f16f20483e7c2ac79c351"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/mondstadt_old_city.json",
+          "sha256": "1928e3164e4cd7c22674d72cfaf10c0da57edc19f51dd4bf3bfd992ee15d4c2c"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/mondstadt_overview.json",
+          "sha256": "2e5a9d747c93d3ee4afe12edef83182ebcd7edab885b38cff7ad694725ef3133"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_abyss_war.json",
+          "sha256": "a6bc813dde761d05183310f18ad48166f55fb29f00428663fd9cf372344809a9"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_ancient_dragon_war.json",
+          "sha256": "4c99727cae666bbfaf8062ee04a81fd566d73b73d0ba9da3087dd6074b4c6ea1"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_ancient_names.json",
+          "sha256": "169b9878526e006d1836d3766c5a51cdc7712969951a9e97aaae3c2a45d8b6d9"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_cataclysm.json",
+          "sha256": "0d7ee42e76691d0cde7d0c0565cebcb353d8427cc08a0da25927ef2c1f125506"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_children_echoes.json",
+          "sha256": "4bd01a124966248aa0a7c291059bb71befc6b1ad68a6f4e595a7823a08e46d56"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_collective_plenty.json",
+          "sha256": "4a78b8f7f0447ff677791c87ee03b41265f5e0454a295963e705d40c3b91e944"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_daily_culture.json",
+          "sha256": "dec0353cdb85b3a55597bcfbb1873d9e8734b2245b05ab56ef0fb37f7012d035"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_flower_feather.json",
+          "sha256": "0e63dfd5f02e2758d1c8cabd08a69e6d4794ce3f0671a7610a80c9691c4a71a8"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_geography.json",
+          "sha256": "2c1afd515f182c5dedd3f3890e2702a42013c54539a0766116d01ee05576e948"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_human_saurian_bond.json",
+          "sha256": "ca904301aed38529507043c0786e2024e1445b3ca34076429ee9d56437f1b4af"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_mare_jivari.json",
+          "sha256": "417ea00d620f6ba81ff72c4bdfe4312f435d588fee30674c73e5145637abb42a"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_masters_night_wind.json",
+          "sha256": "db5238a639779394fe8564f493834b1abec440250657c9e46ef8ad45bfaadbf0"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_mavuika_plan.json",
+          "sha256": "08a01b48b1afa043e5877145825ec860a5125950b995a374516642a7d9646fd9"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_natlantea.json",
+          "sha256": "17bef58948a70ebea95e33f1349332e2f9344d72de508ad3ebff98ecdd66f5b6"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_night_kingdom.json",
+          "sha256": "69d018c2b1587e310138144bc2fb33dc3cf8cb36e0fef6c0c4e5b78910543d0d"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_night_warden_wars.json",
+          "sha256": "158a9a4d0d1251486bb30386aa7025ac9a5c5952e98e5fed0a0f37a0861487e2"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_nightsoul.json",
+          "sha256": "3d66f818e7eddc37b93dc390360c181f33e1629217c78988f1f657571f62bea3"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_ochkan_era.json",
+          "sha256": "d0043e7aa640a6fd17e6353fdeda0ce02d9f3691342d78ac257a3e8e3ab57806"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_ochkanatlan.json",
+          "sha256": "db33b165ffa07d0e03aa0ade3c17d7a5d08d1f2bfedd007d424b04c8df7c7c18"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_ode_resurrection.json",
+          "sha256": "040de1cc3d82dc1785afd1ccc1deb7386fc04547e3b9c6a05f0ed5f6a0f956ec"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_overview.json",
+          "sha256": "bbb4154e315e4294358a3ef42805cb2a569576f6c272250877c799c3810f2607"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_people_springs.json",
+          "sha256": "5ad024692b9880ef26ce29832d55318c5d7d4c20bf913d1e8f04e9a1bcf515f9"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_phlogiston.json",
+          "sha256": "bb19c9daf0ca9193509167db7f0f28f28c1c5d93838e6877c5d7b6655ad05fbf"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_pilgrimage.json",
+          "sha256": "afa0d559041cb7dd703ac1a718c539176b0a4a142c8cdf639729e5d5be3580ca"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_postwar_state.json",
+          "sha256": "a789d11e32106fb2411671b1812c151277b9a907ecb70b881d1a72c758f148d4"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_pyro_succession.json",
+          "sha256": "8fbf29fdc6eea7543628219695e9486794bc80c270fc5f6dea56ceffddf0d072"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_sacred_flame.json",
+          "sha256": "416ac12447dee0f9669d3229bd4284ee46cca87677a7d770b1e62b3b4f81d910"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_sacred_mountain.json",
+          "sha256": "29b23496dc39002b34efd7b63306a91a18d5d4b3db8a15719b8f1249df23b902"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_saurians.json",
+          "sha256": "4acd1dd1fa20c9c8160056894b9d548cae51058f23773d319a63a327a6994a19"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_scions_canopy.json",
+          "sha256": "7794f537c3885fa3da45130ad1c5e19d5cb1cce2c250dddd05bef89e64b2aecc"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_secret_source.json",
+          "sha256": "97cb36599712ca3526e93b8ff491f4a3ac7945461bc30371f145ba75d22b81fc"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_six_tribes.json",
+          "sha256": "7bfc3fb4c4d7da9d5b921e5becd5b81d3d94937dc339fd33ebefbfb5f2303146"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_stadium.json",
+          "sha256": "4d85f8f88e952f08feddef41cba877adde38a5423ffb6c42cd89c23609f2a503"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_thirteen_lords.json",
+          "sha256": "6da7a1783ba6834a3d1562b104281d77deec4f6c854c7918f1944127fdddd8f7"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_travel_restriction.json",
+          "sha256": "00b635cc87d7e29a1cb5f213672f39ce5ccfe80276b2296d93c7a54f5cbd98cd"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/natlan_wayob.json",
+          "sha256": "e886fde9b79d2647aa29098f30d2af6f0c88c779fce920a0725c48dd7884031d"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/nodkrai_autonomy.json",
+          "sha256": "b1e95dc3cacdd5d2bb7df33a8b8b03a0878d293c1cd1bf9e5b0b281c4019d49f"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/nodkrai_cataclysm.json",
+          "sha256": "6c03f00734982863d37dc18a8ab9eb80aa089f9ca445025187c86dd8f94bd239"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/nodkrai_curatorium.json",
+          "sha256": "facce94fddc162302be1bfb582ae3b225d2744e07007ea09d9673a6e103f75eb"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/nodkrai_current_crisis.json",
+          "sha256": "b09b9904c3352a2caf50e83a8f19fc2f29399f32713a3234d927f3268e4a83c8"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/nodkrai_frostmoon.json",
+          "sha256": "75b6b52d460ed8ac57201994744a0a24068d967113ae9aeb720f743d0a20aff0"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/nodkrai_geography.json",
+          "sha256": "56611a2f86fd6aa94d515bca216259484d2bbd10e611c75387b12ab0e7ba6df6"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/nodkrai_hyperborea.json",
+          "sha256": "60d33864a75da20f7e177825b7de28a7aaf172fd68c6b84b27adb4aa3a85e758"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/nodkrai_kuuvahki.json",
+          "sha256": "fb910f2cd4cf255f21026678c35c2935529c9ca378751a9155873ecf9ce40b23"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/nodkrai_lightkeepers.json",
+          "sha256": "29185917d75dea2cbbdc3e3f15d5c216a3a49f20814646ccc807c424948fe411"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/nodkrai_moon_marrows.json",
+          "sha256": "6248693d05438660d534d39b94fae22da12c2bec92681380631ce5368d265258"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/nodkrai_overview.json",
+          "sha256": "5352d88ccf8b90c71218807fbb53f0d9fba5c6e532e6a471a49486d128ffa434"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/nodkrai_voynich.json",
+          "sha256": "fdd947859303e6bc0658c86a917404580c77c3c02d4393ae856fa6abcbb94ce5"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/nodkrai_wild_hunt.json",
+          "sha256": "a0180824f1b4c1c13b121d8834089f51a43157b8dedd65a00b204be0cf625fa7"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/old_world_dragons.json",
+          "sha256": "67f2aa6e706622d568b64f029e4b5be4301a49bb354af9235d4b1df0497b5b9a"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/power_delusion.json",
+          "sha256": "a9173cecaa423a1074bdc18efb8aa54689a3ee551baa2cb8caf6194ce986238b"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/power_divine_authorities.json",
+          "sha256": "80be7a0f0eb85d17ef9e98404c033a05203971a0cf5d0408a38848e4ef4dc399"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/power_elemental_sight.json",
+          "sha256": "d5b373f337f4a6f8353973a26766c01a9f9eb2aeccc3a81b2cdc5e3e8e6f0ed5"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/power_elements.json",
+          "sha256": "b27d89fa018ab00dc293a6b425a15c5590280403a30969dc44d6165ee52578fc"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/power_gnosis.json",
+          "sha256": "1686aa39f70ce3bb5e9cd7719c152b358c96584757a589ac573e74047fc3f7d9"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/power_moon_wheel.json",
+          "sha256": "88ab17d1e949f42d25f5a82b30be8a2e43b884f1c892a77fa21f5987a0cb7a10"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/power_vision.json",
+          "sha256": "f20ba6e12241e282aea8ba7cd3b860e62d4f8e3e271ff2e57053d2ed66a78e3c"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/snezhnaya_culture.json",
+          "sha256": "1515c8c6dca2c08225f97a947a8202c534d751fe21ba5b1f8bd1b112d1a248e7"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/snezhnaya_fatui.json",
+          "sha256": "2968bbd132f80db7de57eb06174ddcfd0075d81a1aa5a244156086e35c93e7e1"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/snezhnaya_fatui_foundation.json",
+          "sha256": "433edd7476fdd0f5a0b15171a52c5a408f672d34ea8922cc6a5206d8ac5aabc6"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/snezhnaya_government.json",
+          "sha256": "2502cc639e751155869057703f53c60780df6e1b4a8bf66dc31ab4a8f0797ed0"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/snezhnaya_harbingers.json",
+          "sha256": "a6b51249aa0d328cd5613c99ba284662ed6283e83588c9cd7e326aae39d51dc3"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/snezhnaya_house_hearth.json",
+          "sha256": "18a23c7149e8b70c738273423fa7bfa6da6fac982fe14dba3d1aaa3b67ff1c79"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/snezhnaya_industry.json",
+          "sha256": "0a83905776ab887c1d12439396c2c1cea1c1552a1306e64f6941aba1a795887f"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/snezhnaya_military.json",
+          "sha256": "254abc308e96a836c5edcff969e145250b5c824da24618de79fe88e381c17099"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/snezhnaya_northland_bank.json",
+          "sha256": "811e6167e91cda96a095b75c2609ffd76fa0870c0defe02362e8654d4b075f3a"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/snezhnaya_overview.json",
+          "sha256": "a56e08156a9466c736d290e587dae979504d134ebfbcdf4125f4323359997c39"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/species_angels_seelies.json",
+          "sha256": "8a0fbc0bfda08bb38088fb961b40d7053f1a9a6527e31795df91a36673663ee7"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/species_dragons_vishaps.json",
+          "sha256": "f0f3ff38bd86ceb257e964470990571df8d7413aebf8d8688e3a3c172ef38b96"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/species_elemental_lifeforms.json",
+          "sha256": "0704f822f266489da50dfd628c462e61703a3d191e4a5a9d24330874b8414e56"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/species_gods.json",
+          "sha256": "9e29d287b3171f8c388801041b7655a5d7a5e54deaf7252675955c76c586fcc8"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_akademiya.json",
+          "sha256": "af42d782a342ecd59160de953747a728c8958b34896164c9c03ca151a06ee695"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_akasha.json",
+          "sha256": "1e9fc71ba85db15b5c1712a9927f0d535cf117559dd9cbd71f554eee230a04eb"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_aranara.json",
+          "sha256": "6f614a84d3cf261c34b61665d95d282c964c3e75b8ba6810bff31c5411ee33d2"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_deshret.json",
+          "sha256": "ee397a80466b38566f9bbe7d00e663cc190914edcf2c5c4247c695d9fbe76f9b"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_eremites.json",
+          "sha256": "ecaa41a83a347402c30b1f401efbdeb905b2aaa483fa23b4183440ee7a374305"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_forbidden_knowledge.json",
+          "sha256": "dfc13b5b3a874d13e32c2b64fe3f5d44e042e9b66f30393dfa217d58f9c7f6b1"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_forest_desert_divide.json",
+          "sha256": "48e4a1d5ab25e9b6720a70f657ae131695a8473bc202052ec9b0a3d78bdd759a"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_girdle_sands.json",
+          "sha256": "72bfb96a97d5a998c0a6c4e9c1e1c69c927aa8ddd5db5f2dfede96db5488aa35"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_great_red_sand.json",
+          "sha256": "6f07a1b5ac970f1deacac322c8ebb43645843b1eaba871bd474e7a3c2b1e451d"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_hadramaveth.json",
+          "sha256": "685f7e4fbe44e67b0fba11b72999cc26ff2f57e85df2965a8641208b3a339fb3"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_jinn.json",
+          "sha256": "d2a99a345663bcbc70b320a7253b6477048aa684ce9c9fc170373ed727acaa56"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_modern_transition.json",
+          "sha256": "b49fc4a415cf940ece68f72d05f3447905681dcfe2a1ad0a924f4537657a3d3d"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_overview.json",
+          "sha256": "6b25732cd083143647ad601d04bcdc99c0de9063cc59d0e37f17d72800bbd691"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_pari_khvarena.json",
+          "sha256": "31b3b27405b73f305b0c4c4d13b0b576c7b5f9c872079aaa7658b6da73c86f9e"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_rainforest.json",
+          "sha256": "9cfaa80632fdc754c550c9d2d7656a4325c328ccf193366823a24793a7d16142"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_six_darshans.json",
+          "sha256": "15ea35e8a9da3b24654d935280cb31b20e995da12ec08d5ad8e960fc81e64ca4"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_three_god_kings.json",
+          "sha256": "f4210fc67db64a83336f7568ed71a3292ceef7cab03583165d81d3fea2c5989b"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/sumeru_wisdom_dreams.json",
+          "sha256": "0d50afc9cb952b676f108f1a1a5cf4c50e41730b5f50e20aa00257ce6ddf4bb0"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/war_funerary_flame.json",
+          "sha256": "bf5c6f77dd55ecbc19cdc6e8632ed97f320bea3dca8cafef2ae986426cf33235"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/world_celestia.json",
+          "sha256": "79bb754021b75ed285570da7dc98b9f9d7040f66da970c851032bde0bbfb2357"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/world_celestial_nails.json",
+          "sha256": "4c8960c8c76069b04c1c6e00ab1e51fa48708837ec61212521851e65502f70f3"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/world_constellations.json",
+          "sha256": "f4aa4a0d7e45233589b3dc8c451e3b4a4e08cd12e22bcf4ec30c0e39722b6bd0"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/world_descenders.json",
+          "sha256": "197f71736dfe98e497e041819f328bc4d4ac14b6cc77a84b7d339a9e4977b9da"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/world_false_sky.json",
+          "sha256": "68208481e4cbb99ac92477c996cc0fa19b04a09370203bcf7d5e714fd9de286f"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/world_fate_law.json",
+          "sha256": "edb2420fed183f0923c728b61ca6b2b9ae069773c314b071109e184647f2af8a"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/world_four_shades.json",
+          "sha256": "7c97b6db2b3e24d43328e87e9922cacda36dadfae672276e5f00d46c54fd67c4"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/world_heavenly_principles.json",
+          "sha256": "24353fa697c2449d613ea4eb7c0fbbd2c18d676882351d92ec13f2bb3bead442"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/world_irminsul.json",
+          "sha256": "04b934605ef9b259afa1a8549764943bc2fef8cd6a0abc52f5c858308aa725ce"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/world_irminsul_modification.json",
+          "sha256": "c7a1f326a274a39c1da5e34273ae2e1187d149dd2f9fe34b692c05e4d2fa0e44"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/world_ley_lines.json",
+          "sha256": "e05dbfd04a6bdf860210ffb255854ba506a9affebdd236779f4d3165b6396010"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/world_teyvat_structure.json",
+          "sha256": "72792d0295d2ec76d87a488fd89c63b2ff27a6a0fb2980bd721c9d78ef45bbf5"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/world_three_moons.json",
+          "sha256": "cc45dead22ef0100d3946f41da894d10601d50698dfb0492c31ef42de759c687"
+        },
+        {
+          "path": "knowledge-base/world_lore_cards/cards/world_three_realms.json",
+          "sha256": "759f66e5f61eedd035d2e2c40f8bcbcd78484918df920b11705cbf597645fcb4"
+        }
+      ]
+    },
+    "mualani_worldview": {
+      "count": 202,
+      "files": [
+        {
+          "path": "knowledge-base/mualani_worldview/cards/abyss_forbidden_knowledge.json",
+          "sha256": "8bddbe3c86e78b85c6ccc6340cdd51a71e7cb6c748615cf339e844c68354c722"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/abyss_void_realm.json",
+          "sha256": "6adffcf83a51184afc2b491fc2c541393edbeb2639b02b5bd530a6d12392d997"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/ancient_civilization_network.json",
+          "sha256": "e13d7102b1e66fbe1d0e8bea680609f33a7550016dfec19aada427f322092b61"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/dark_sea_overview.json",
+          "sha256": "a4feb8350e98cb82fcc3d95b1f13fba2eacf88b70adcdfef502a4e761fd91ac0"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/enkanomiya_before_sun_moon.json",
+          "sha256": "b1e4452debec7067d07921ff33f5cf3ec06e6a4eec7350a7611c8cc3966547f7"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/enkanomiya_dragonheirs.json",
+          "sha256": "4d0836951938328867dd4cc9ba1a7f2d28c351fe1b06e22d75d7d0a5189c93ae"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/enkanomiya_orobashi.json",
+          "sha256": "3924182e824a11211541cf322b6a9ae79026da898ae474cf3db3362022a9da3a"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/enkanomiya_sunchildren.json",
+          "sha256": "04d1f33d2bbc1e2a0b0f6e5b6453c53871189a417fdf1df127b2c1bac239d241"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/enkanomiya_unified_civilization.json",
+          "sha256": "ea419462cd025c863f569d9d908fc1ede7a2a35ff2e9551594977b9b795365ed"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_arkhe.json",
+          "sha256": "3506c270fe69a6bf814f1fa88bb85d792522a2e5129db602038a01df88619273"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_current_governance.json",
+          "sha256": "72f3d7d2d919a070134b4739c72646b602be466caaeb09bdfc7ef1f29091ca31"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_geography.json",
+          "sha256": "63ba95b448e078a373ba7a7835f96717cb5dfcf257eb26dbe67151c6a8ced930"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_grand_symphony.json",
+          "sha256": "84d4fac18696694f80ac468a823e35797d6fbc4b396eb3411634a636e606af96"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_justice_system.json",
+          "sha256": "b740536f858302116ce0626487f67a7b0c610b6b45b6fa7a337a6bba170a40f4"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_melusines.json",
+          "sha256": "ba0f4079af42d8b755e7e0d6a522a295d8a802d195af4bdc72015f9767c07d90"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_meropide.json",
+          "sha256": "37d8aed10e57031ff8a76d7e09f5e55e38a3b04d6b0aa2a2d468413ff994e81a"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_narzissenkreuz.json",
+          "sha256": "22fc9a015f756c031e70c8601f229bc5ff2d1a89472fa8a61b993ce15130e128"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_oceanids.json",
+          "sha256": "07ed4ac9fe167013d88f0dbbe121185bb15ed894cdf0e0fb3915e5df3f9c9ec1"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_oratrice.json",
+          "sha256": "2392a54d35be6c1923c64541bd3807578b423b8f7ef0046c9d14dac264195fd3"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_overview.json",
+          "sha256": "0681cc78577870ff15e921103152a898cb2d08ecc67cbe5755768e9e14081943"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_people_origin.json",
+          "sha256": "9abb12704738634e8d001890144ac4be79a2bec03a56b9e113390d1c958e53db"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_performing_arts.json",
+          "sha256": "44e67259079268db7b3ff7bb4549b3b2962c35989a845ea7abffdf443c8f6b3a"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_primordial_sea.json",
+          "sha256": "dea9299d0263adcd74b904bd0d529c4bc4db531b970f763d76e9d70e5c9be6e9"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_prophecy.json",
+          "sha256": "ebeb705349f2b838ae194851a3cca56ac8b475e5989655ae5d09d2014d797e8c"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_remuria.json",
+          "sha256": "65fc4ba6cf471c7e391a3f4cd23ac91abafa64fe6d76de638d897e8031f7cb55"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_research_institute.json",
+          "sha256": "89f552a964e82cba391362802fc0f17e9ec6389d0fe16893bc7daa4c37804e45"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_spina.json",
+          "sha256": "cd74152a1886a4104c7e5db4406676c6152daca07668028884bf5c6fdb5d2389"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/fontaine_technology.json",
+          "sha256": "bfe843c279e237b4b87df3cdc82b86e463830191016697e8edeb2d0596df94d8"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/heavenly_conquest.json",
+          "sha256": "97596d9c6bfab30df9367b837ce4c263b9654cc22aa018cb8c7e98eb3f2a4583"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_decrees_civil_war.json",
+          "sha256": "fc1fcc4835d1fd6e9785e76073ee0b9e0fa8d184ee1dc0d88c82eb797f9a34a8"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_enkanomiya.json",
+          "sha256": "77ac695a76c9497be21f7652ad4b07c0913428a5c23d6815acf84761ec983c98"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_kannazuka.json",
+          "sha256": "810d61f11dd995b477fd55004dd1736fbe338dc71c5d85165ebf78d807f85179"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_narukami.json",
+          "sha256": "998bdcb6323143200eeaa50a56a4c9db53e3a2e046bc3d801686ec1911e187b3"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_narukami_faith.json",
+          "sha256": "a6d146a36060f1a2f3141ef16402b084f715ca746c17321b2dc9019e081c2fba"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_orobashi_war.json",
+          "sha256": "bcd945faa0f2265ae10feddfdd9ed0a61ae9875f71761fa8ffbcf006b71cbc3d"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_overview.json",
+          "sha256": "68eaec55e49b56b205cc6ec3ac8b0d05c0ee6001abf95b502e423504a66da171"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_raiden_gokaden.json",
+          "sha256": "cf49ca208f8360137a15974be759cab8bd716c16bb6b847d45ee0f3fae716404"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_sacred_sakura.json",
+          "sha256": "9ffa3060ae9f1d7b5cbea0f0eaef83e834d9cc3e7785bf467deef1063e67c77e"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_seirai.json",
+          "sha256": "584a8f53bbbf4ff7bb360aab87cf7eba87d99523f2cfc3736b09345dd206a834"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_shogunate.json",
+          "sha256": "2fc04bf1d87fba389881b630835cb70badbd0c3ce912826d36a30dbe115c7841"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_tri_commission.json",
+          "sha256": "5289e72d6e9363885941a2c1fb5f8d7329ee75ef4e15338bc3f69c6ac98c836f"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_tsurumi.json",
+          "sha256": "de62dfcc69708196c74e8e5cc7b3231b6e6dbe3644f4616c0060cf91532e767a"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_watatsumi.json",
+          "sha256": "9ae2402973af796bfff5266f240425335918c046d3d432cc9206d9570079cd61"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_yashiori.json",
+          "sha256": "c160d891aa7349c091059e43955114a209f0845bf1891a8b253c4c1d6588c9c5"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/inazuma_yokai.json",
+          "sha256": "ecd17d34ba2637402c6895b88c689a389582062a512fafc76809e54c6dc9bbcd"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/institution_seven_sovereigns.json",
+          "sha256": "64a868728b3a14f362aa2d14eb802b128ed5ab09f57afabb44009b9a82521bd9"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/institution_the_seven.json",
+          "sha256": "267d78380e4da3f514aa98da272710c7c71223e739eb25827c40a1d0fe4d83ab"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/khaenriah_abyss_order.json",
+          "sha256": "c52d1375102bfde639818797fbdce082ec9b457b3c3c7a9c219c012556f0ef9c"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/khaenriah_alberich.json",
+          "sha256": "3b8a6369c3ccf4ca1943960e9344a2c62f4883e9ccc7ea857b25e02433dfceaa"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/khaenriah_cataclysm.json",
+          "sha256": "21aeb1b8def143e2e3d1803853a1c6726eb4b2c16fba2435ceb5f495375bb0ac"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/khaenriah_curses.json",
+          "sha256": "4102774465c55f2cc006345e2b32c7bf81038426542f066bd08fea9676ab95b4"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/khaenriah_diaspora.json",
+          "sha256": "3c65ebc6a85acf1feb649cc543b7286a54f9d4e7df531d1b69678b9a72a42f2f"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/khaenriah_dynasties.json",
+          "sha256": "f7850b813ffdf59432bb443daddbc4899ceb97ee32f2d41a6b191406cbd5e4e1"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/khaenriah_five_sinners.json",
+          "sha256": "93bfb167022b2dd7d32850e30d8ab29ea5d1db421bfedfcefc748c2dd71322b2"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/khaenriah_geography.json",
+          "sha256": "b570d14a4b403e6ef1be62cfe4ba0217e27de1af7539890eea38f2005d179c87"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/khaenriah_godless.json",
+          "sha256": "1fe123dade78058a6dd2733f509f0d40b0b2126f12cff1b5370fc6339c6077ba"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/khaenriah_hilichurls.json",
+          "sha256": "db08ae4029a471de3f2f0cebf86ecd43135d673de6f09838243792b45c9871cd"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/khaenriah_overview.json",
+          "sha256": "6a7eb93a943fec6d5953d8a9f6fad311e323f7c45a32b1dbcae81b84566341b2"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/khaenriah_royal_guard.json",
+          "sha256": "85a6c4afd46db6484d200c88cec94f1d19bc34c2796e0af4535c5a9cd79120e5"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/khaenriah_ruin_machines.json",
+          "sha256": "fcd4a53dfd14adcf5f610d38c938b5be5f33c2914ea118f055ecda66ad05c193"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/khaenriah_schwanenritter.json",
+          "sha256": "4ab6c2a6250cde63f5d52135d43f5dc19f38480e46c0e0e19f04845aeca33050"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/life_divine_curses.json",
+          "sha256": "3a0c568d959ff0c4cfe17329058e0a9f65fb82f583cd1aa47e96d7b40094e915"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/life_erosion.json",
+          "sha256": "c9c939af4acb6ed04ad86cd494d9799f933edb79931b2143b082c493030565ca"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/life_soul_death_cycle.json",
+          "sha256": "ae68c302f316783d4dfd69ec404b744e93b5b037f323d4e44d7affc5c2730845"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_adeptal_arts.json",
+          "sha256": "a9cee5ca15ba82ae51087c12702efa2c0a8a22642470acaf56919325d182b98c"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_adepti.json",
+          "sha256": "4b861d1d24c1679d7542151ca1ffbcb67ad7512c7822369de42d93f057aa6d82"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_afterlife.json",
+          "sha256": "61e207b9e078b5ba4fb5d4f531a0228a213f35f337a910eb9c1bd10f5c80c738"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_archon_war.json",
+          "sha256": "16180b6bc199e9be453632c17dbb777648f0e30a90e395e982a1a84de41be90c"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_chasm.json",
+          "sha256": "b82353944a39a93d7b2f0a8f25139b69a2a986fbb9eb7065612bdfe3ed3f8ad8"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_chenyu_vale.json",
+          "sha256": "1ee0e69f0a0faaaba3a5b58451e3c058459fc8604b52371669602046e207f124"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_contracts_commerce.json",
+          "sha256": "db75c59f08697324d9cbf80b50bf6e21245ebc5ec0b11f4e49818c19cac22442"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_geography.json",
+          "sha256": "31ae290ca512611fa9fe90d29e8cb599b563f446f60cb509e887b783e3c1fa35"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_harbor.json",
+          "sha256": "37ff2ad8416e0b22b17de854fe91c0b41ed0de7f77d1060a89f17bd883c7ed94"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_human_era.json",
+          "sha256": "4730eb718e0f4319f73f2caf7483f99d9de3a42e9b57dccdbad90def72700f3d"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_millelith.json",
+          "sha256": "6d63b251f1c8ed85ca09afc32852a5f4901405d1d6e1fbda6bd8838515b7dfe4"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_mora_golden_house.json",
+          "sha256": "34a2a963e62fa47cc00f0808e3890e5422576a3c59b37b5ee1b1dd4ab093ec3e"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_overview.json",
+          "sha256": "33306733b0b6b65952d35012aa4a00103c3b33879a6e656d7841fb2746ba699e"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_qixing.json",
+          "sha256": "acf0a82a810ff722e1e8879b90d078b07f8ec7cac8b147d5e79b9b18ba1e79c2"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_rites_festivals.json",
+          "sha256": "750ddf1b314892d8860c002a4d9d9eaa9197347d732363248b4985469a808856"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/liyue_yakshas.json",
+          "sha256": "13076deb75ca29fdc6403c734b261b31d5b0454820446f5f7860922df688962f"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/magic_alchemy.json",
+          "sha256": "dd459d8391c430ec5039beae67a99a121a2f52b89f561fb87318bb39204493cf"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/magic_art_khemia.json",
+          "sha256": "69d7c1ad1db88a8db1bf0425fa6c59cc2e9388db57b11358bff27d6574a0521f"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/magic_mystic_arts.json",
+          "sha256": "79dae5225ac970200e6df8b3d4e51461234fc578eebf85d26eea36dfaf247d55"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/magic_pocket_realms.json",
+          "sha256": "272ff9d2dbd2ca036106bd68b82dcfde9f439e2927643afce454a65e148d7fb5"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/mind_realms_consciousness.json",
+          "sha256": "015f75a0ba905a49ca187039a490ed56548b6ad766a345efef54072b6fe25723"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/mondstadt_aristocracy_rebellion.json",
+          "sha256": "ab657bc35bbd480e2afc527a17f6cf8b05312975cf491d4d57e66334fa824b22"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/mondstadt_cataclysm_durin.json",
+          "sha256": "f3ac63938e558e48b96900ece3ff8c350cf46cfa6722e516f5c5fd9c0b343249"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/mondstadt_church.json",
+          "sha256": "68a9c0f2221ade0774548906a29449b2d01cfbecc79ef757ee51000cb638cac9"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/mondstadt_daily_culture.json",
+          "sha256": "157e84ec5327843cdd530e9a9a3316af775268ad25ebe7eeb1943e73b398b78c"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/mondstadt_decarabian_rebellion.json",
+          "sha256": "06cde36546c4c02d4e322f6e6f4a1b6e7ce3bc14b077748d805116a5f8ae8504"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/mondstadt_dragonspine.json",
+          "sha256": "87ac311729a6152b09d82142f7080ea57c460a605ac1b64c685408ad2047895b"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/mondstadt_four_winds.json",
+          "sha256": "06f77086700bda8d948a5d48bda6e9af1496a7fcf1923414feef8d596738c1bd"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/mondstadt_freedom_faith.json",
+          "sha256": "71843a700935f6eb25c438793abb6562925c4e872012917a7b581233b614147e"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/mondstadt_geography.json",
+          "sha256": "8f45fe23bb3a0e214857047a72948f48d0a1beb2a99ed3de69d6dc105d4df365"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/mondstadt_knights.json",
+          "sha256": "d2e9fca794afd0e60b7bcf43fcad1d3d5653c66a89b46e9d6edc48bfb85556d6"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/mondstadt_noble_clans.json",
+          "sha256": "1b2ed11b6b21709fa0292d9ed5f047d80a907652ef6ccc1c172df2d20d04e528"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/mondstadt_old_city.json",
+          "sha256": "3b234130eeaf489b9015e0164484d3189e29a52567805e2fca4f3bd9ae91e732"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/mondstadt_overview.json",
+          "sha256": "026b445c064812baca69c06e1f2b64515d03237f95152a6d2cdb0e2efbb51226"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_abyss_war.json",
+          "sha256": "1d50bea05224c99e85ff8bbf936bdc5760bd05b7f3aef926b29208ae18a94ae0"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_ancient_dragon_war.json",
+          "sha256": "7ecb9112436c4c80f858512f616bf3ddf15c2774b97438b6daeda43ee629caea"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_ancient_names.json",
+          "sha256": "07169b01c463faaf2864988cd1df680532b3ad693968e1e65aad43d216bbf532"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_cataclysm.json",
+          "sha256": "cd26ba25b19d8c372d8af1cfde02b12a910ba246501fa431bd187618598f65c2"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_children_echoes.json",
+          "sha256": "dcd58c398dd03cb81094ee460b8bd7c790fa40f1ff23e48097c22e233c83a86b"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_collective_plenty.json",
+          "sha256": "da753a217af6ca504028e164aaed50c2505742b82672abc86a9364f9019fd2a5"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_daily_culture.json",
+          "sha256": "aa27f6b56e663e8ec8d071377991c1f243758eb7f4f6a5400878bd3c893ee1c2"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_flower_feather.json",
+          "sha256": "3a6f6aec43863f00ba6545f30e3cf08607537a43be08992492925940ada052d5"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_geography.json",
+          "sha256": "5e41daa4511d90120c57fbb306ea6cf5b34e157b5e9dfeb187e3384ccb59c9c4"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_human_saurian_bond.json",
+          "sha256": "48752de44e20cc2bc0dff6077b5a2421e08ef7124b540fd9abee82728d70a254"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_mare_jivari.json",
+          "sha256": "d70d3918988c1567083a0f4d071beca8f71b122b99f0cee1bd904aa04ba1def7"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_masters_night_wind.json",
+          "sha256": "7bb9bbbf7f2a3f124f77d0564199e00e4c7671869de94991bad1a8ba81c0dac8"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_mavuika_plan.json",
+          "sha256": "7fb6f541747b54704e59440eaa41f272d609519de33efdadad9e5661ac90ebce"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_natlantea.json",
+          "sha256": "adad1454a37b96a3b112edc2ec8797a40c40c3fbf784ccb0ac4798671c43f787"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_night_kingdom.json",
+          "sha256": "ec1466b2330423db2b6fcd34283a942b028fc0756fd3bd748ac9e2f750336afa"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_night_warden_wars.json",
+          "sha256": "1d464381bc5e5123ea666bef1b675c10991d236b96eee96314fbe9a8bbf331ea"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_nightsoul.json",
+          "sha256": "d0c3b0e913bb44e04fff4d2a710fae97d6252a6e18e87652bac2194477962170"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_ochkan_era.json",
+          "sha256": "d85294c47b367f540d8f250edece6a333de1d7910bf66f7d1ec092c63f8cd352"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_ochkanatlan.json",
+          "sha256": "f7217d48dc31d389b1518ccc1b01ead987a6760b6312183ae6f9766cfff5f063"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_ode_resurrection.json",
+          "sha256": "4fa2dab38541bf07754912e16dad33fcdc8dc3792ef138d0e2b08f0c621e4735"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_overview.json",
+          "sha256": "3d732f55756f4bb8bd462dca5ced2e0c497d835fdf508db0c1ae7e9bca4b0f32"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_people_springs.json",
+          "sha256": "25dc9d051c713173605dcaa21b9cbb6c0ccbd966c3729bb920c693640489e9ee"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_phlogiston.json",
+          "sha256": "5988bf5b53d2731f19a87601954147fa29f039d2b38adf729a77e3ad6f279c56"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_pilgrimage.json",
+          "sha256": "29847b9b3c3ddade57a2ad735acbaf862267470beafe3173382c724fbb95589b"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_postwar_state.json",
+          "sha256": "9f1774518c349b86b8fa51b242d9d0f2465eefa3ce137edcd7cca24ce378e13f"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_pyro_succession.json",
+          "sha256": "cb3985df0bd23cc95871b17c27bd3cfa7680f5034dc62bf9fa8c238aff65f6f0"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_sacred_flame.json",
+          "sha256": "a691732c1bd416fb64aa7855b28478d409ac023e451e0a88f87ad240cef4bf74"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_sacred_mountain.json",
+          "sha256": "c1681f837a311ffac48474fc808f16c41ae6e3ce20e6b29d5ae5ea61116971b4"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_saurians.json",
+          "sha256": "70d4f043301c20684fc76e410834378e64fbd200a9e4bab10db5408e7de96366"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_scions_canopy.json",
+          "sha256": "84f591cd64a5a092fe4a069a9d166411751a2e0609d26a885eae5dc285556ca0"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_secret_source.json",
+          "sha256": "3d116994ac51ce0e40b97f3abd371122c530041828f04808b7e43e64f3741b71"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_six_tribes.json",
+          "sha256": "7094f2ef0b189fc05e663e568dbee8727e199e7763cf5e72b9002ed6fa136fa5"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_stadium.json",
+          "sha256": "199000ba52aae74492702240c7a0284d928863a1374cc3919b063898a0612dbc"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_thirteen_lords.json",
+          "sha256": "6f2746639167f61244c33a65d86f67ef943f552c472cd2279aa187c7ccabaf5e"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_travel_restriction.json",
+          "sha256": "39248d7c6108c61bced962635aa4c38f4bddd8ac31ed7ce78a9b70d08af64974"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/natlan_wayob.json",
+          "sha256": "3dbbddc9f903e43f6f96d5093903fbe4d6dba99fc2db91794d3da2857da6a1bb"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/nodkrai_autonomy.json",
+          "sha256": "5b4dc61de9ef43fb583c09ad4f7c3aeed7bbea5a72e786617d7d0edab37315a6"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/nodkrai_cataclysm.json",
+          "sha256": "711d3dcaa8f290dee14c47ce7534052d38f3b724c2201b766db88f5a318f1037"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/nodkrai_curatorium.json",
+          "sha256": "931b76a589a7dfd81d8282ff8b127354be872ef3f8daa11752b50d5bbb17fd4d"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/nodkrai_current_crisis.json",
+          "sha256": "c1d3902d8ffc47e687a2fc71c867df289038b5ad369018958cdb5b0afb7c3e54"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/nodkrai_frostmoon.json",
+          "sha256": "9d15bd8412d4bb3334b3f23b8fdc6349ac86b8a7e2317a64bd3e5b73881d7fab"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/nodkrai_geography.json",
+          "sha256": "d5bca0262d206de1d4c04de75d71b59ec95ebe8c9f9f76c0bc7e69f38e65a224"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/nodkrai_hyperborea.json",
+          "sha256": "048fae791e9af7d9a7a4a825529b1bdbb37827add48ce1bc5707fb121a75f1a7"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/nodkrai_kuuvahki.json",
+          "sha256": "29050a84804c4819794b03032d15becfe5986a7dcb39bbc108c5927feb5bc4c2"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/nodkrai_lightkeepers.json",
+          "sha256": "072490198f9a27da62b7ad9c2251df9676c04ef6163ea26bce513c7344633e75"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/nodkrai_moon_marrows.json",
+          "sha256": "5efb16a970484f26ede8b398a8de2c4e4aff8155b9bb2998fa19a5204c8f26c3"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/nodkrai_overview.json",
+          "sha256": "9385a01ef95bad18827fe3a78bc29b9f944041f718fb75a6541b4fa148d8a28a"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/nodkrai_voynich.json",
+          "sha256": "51020c0c4d1725994bfd631baeb8269fad1da428825e5fdb1c6ffed68b28e240"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/nodkrai_wild_hunt.json",
+          "sha256": "dd2ef67a62d3e6f1b65f9976595321ff07f8349ae065074dac9b62fe7d76ceb9"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/old_world_dragons.json",
+          "sha256": "88dfd461db0f23d00ad09ea8fc712d6628f04678b3d864d01cb24e9018ae65a0"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/power_delusion.json",
+          "sha256": "92d5834ee4e4fdf51309dd6cf0b1362398c759379728d88f0a695650300aece9"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/power_divine_authorities.json",
+          "sha256": "9db4aadd3bb4b2f488bda61c1f1e15f7cc7bd42d1cbf660ca6bb24dabd6d977c"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/power_elemental_sight.json",
+          "sha256": "6cdf90f695daf4d3094fcf591e388da261bae6973e561538b85ad42f403d3bb5"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/power_elements.json",
+          "sha256": "16e5d6b41e5aa31fd412500c4bc6592bc8e29eb215b4b6d250b7e7ed9e4552d1"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/power_gnosis.json",
+          "sha256": "13449a221fde0523bafbb749806e2af05984eec3ff242f8f7a2a8f8a69e87ee5"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/power_moon_wheel.json",
+          "sha256": "2548791d7e54bba8ef351744bd7f4b6cca105eefe3b33d70ba65c8ff0e415ba5"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/power_vision.json",
+          "sha256": "392b5a81c2849bde853a9214bdcbee70a4f36842e9a6fe2202a0a32d0f578e50"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/snezhnaya_culture.json",
+          "sha256": "518119a06173a5c13c7ed2ccfc6d5e46e8afcb3605a9e1c6aa40e54d9efabc9f"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/snezhnaya_fatui.json",
+          "sha256": "78e8059afd5547f12523b381fadc3abbddf9e9457b728dc5e47b7736fb842157"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/snezhnaya_fatui_foundation.json",
+          "sha256": "1356d49ea4dffe6b09b7e3bfe4e183acc01ec3bcd04ccb71b1e469539ea47bca"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/snezhnaya_government.json",
+          "sha256": "04c42dcdd0b82aeef0c76db1fa6b4b194a1d48911151124f3a84f762c6232df9"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/snezhnaya_harbingers.json",
+          "sha256": "b97dbb975847b97363f7f658e90f9a3ad1a89c093ac78ab3be4cc6b097ec6d32"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/snezhnaya_house_hearth.json",
+          "sha256": "f46019cb939924ea921b2b76d41d2ab6bf632ede0e972a0aa095000c574f870c"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/snezhnaya_industry.json",
+          "sha256": "8ff9e56bb4305e4c6328092c86e3bf1ba0cef9eb1bbba5ac001b3d463484dae9"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/snezhnaya_military.json",
+          "sha256": "15e58aebd9080dfe244882abf2177766fc188a0e5f497346fbd10b01f4d8a0f8"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/snezhnaya_northland_bank.json",
+          "sha256": "e06e80c4c47ac4bb36402160395c1ff952428e385608be9d73e1d7f7a6e53bfd"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/snezhnaya_overview.json",
+          "sha256": "7686daf261ac29f4c52d35683885d880af981cee82523f9b837070083910674e"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/species_angels_seelies.json",
+          "sha256": "655160f21bbf98ceb83fec9b8ae6f226651412eab723a93817fb996dfb1b0507"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/species_dragons_vishaps.json",
+          "sha256": "2ba39d19b26e714d8403a3989b84d1dacf48de5e6d15bf4ba95685771ba79047"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/species_elemental_lifeforms.json",
+          "sha256": "2b872cf5ee6e4e7c33759955eaf9a14919827629a202777a17c9acd16c50980b"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/species_gods.json",
+          "sha256": "68ab1494349ebca789255f24debed6c4303e1f84f4275a1d6fd7f7d9436c00d3"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_akademiya.json",
+          "sha256": "79bb8d0a468e9279dffc8227b34e1e0bbddb6308b3cedc316d620ea8741d4502"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_akasha.json",
+          "sha256": "883ebf9042820e6d867346e4bf70c566ae67f93b4b6687f5d33f927a372adbf7"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_aranara.json",
+          "sha256": "26f662706412839ed48e6c4a75e3a150b4596c3775b99338ff0aaa47671590c1"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_deshret.json",
+          "sha256": "87a6d45edaf6e8c594492fbc1ead61b8dea837b84105d8f83a6bfd6db324d519"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_eremites.json",
+          "sha256": "00ad6b1995c5552d1d8d48131759f2d8b33c502bd4236c25459dba9302f7073a"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_forbidden_knowledge.json",
+          "sha256": "a81f949237c42a6043a631b10c287268a9e099ae008a3a35de8d2beca566f3ec"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_forest_desert_divide.json",
+          "sha256": "fb77a611106ae8e383a0309d90f148071bfc39a765d1bc81b6e2a42a3629f3f6"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_girdle_sands.json",
+          "sha256": "9a063cc431da52b976a628f91be8e10564b5ee9f489c1111591f526d3ca5496c"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_great_red_sand.json",
+          "sha256": "66e557a83bf098376e89cadce0514d72781aaebc860e8041b565e0394ee30152"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_hadramaveth.json",
+          "sha256": "6d67fc48b138eeb397965786940c39e57d5a911375de90f858c5a62a35d612ca"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_jinn.json",
+          "sha256": "9ab41b41e87324100cd4632cbbfd1bc24d21c5b35049fcdf32ff2c8531538e9c"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_modern_transition.json",
+          "sha256": "d99caecb221bb79240daf6db018b5d3ddf58fdb52f4aca03a6808e5c4c244d3d"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_overview.json",
+          "sha256": "b3ba1008eb24636ab3b3e74e88ae07d3a3de9c8cb37c545904c9949d4130c62a"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_pari_khvarena.json",
+          "sha256": "cf8006507f55aed55ac554c1c1bb0ea556e471f510b8ad7618fd7d838aa9ccd2"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_rainforest.json",
+          "sha256": "e7fa236b3f2a49ff8cbe8074178022e3928186aec6265da9c6094c1fa86a8c2f"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_six_darshans.json",
+          "sha256": "9d6de2c597349574fbd5edc08dd06991f05a0091d49e46974046935d40767d11"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_three_god_kings.json",
+          "sha256": "750b573758a1936111d1465c644874bd2eefd225f9d9b34e12bfb6bf2181444c"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/sumeru_wisdom_dreams.json",
+          "sha256": "abcdbf60f951ce815b6071a7226ef60c082166f5807cb6d35cddc4063f03529e"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/war_funerary_flame.json",
+          "sha256": "116bde88f190bfc431b506cce5cf374c70f3980cb9b6f9615276fcfb2a97cadf"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/world_celestia.json",
+          "sha256": "cb2d3462ffab63e20ba80aaa7037256844fd5b8fab857381b57f6dd5d8b7f4f9"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/world_celestial_nails.json",
+          "sha256": "f4ad552608667dd2bccbcc6533df06d0d7c898329bfa8f5a978d94998aa9e08c"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/world_constellations.json",
+          "sha256": "fba3797c3b78d8850a288cf2bcde6644853da2b27d3605dce1c7b3a0307df076"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/world_descenders.json",
+          "sha256": "9be7a3fd25e947fff3cf989342b304122ae7a5ff78e24c416cc48dc412c5befb"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/world_false_sky.json",
+          "sha256": "9556d641775c3295efa290c2e2bdc3b91b34b837d47b9e14ab89f38f476d0144"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/world_fate_law.json",
+          "sha256": "a156356b82d4a2f874eb10ff33018a3a9c7b277a4f7e82dda2a7aa7a6e67790d"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/world_four_shades.json",
+          "sha256": "e9c3ab63222eeeea00671ce137e8a65ad69edabf20c94d2a775b3a4a6a2d8a55"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/world_heavenly_principles.json",
+          "sha256": "ad27103f6c8714f063d2927cfab8327906f2c67982ee8eff5df5ea7b566a983c"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/world_irminsul.json",
+          "sha256": "23d515f71346ee1a438b7a9b18dbd2f00af09b249ba7427695877ad035c6cf1e"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/world_irminsul_modification.json",
+          "sha256": "570283a3094c9b195ca708282886ef27d02b926e04018933d39e70492b1c4bd7"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/world_ley_lines.json",
+          "sha256": "302d06549497130cb36fa99711853042aff0f03e349f3091984760fb23813d80"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/world_teyvat_structure.json",
+          "sha256": "2770d893440523786bebc65495bbc965525bd725ed69ce7f2c79e761ba072d6c"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/world_three_moons.json",
+          "sha256": "715e871b6d09e5b8f6b11ee67047263d1c0a537c77b723ee534dd427beb4c468"
+        },
+        {
+          "path": "knowledge-base/mualani_worldview/cards/world_three_realms.json",
+          "sha256": "5c9330e8163204aa363434a7aaaeb23304b981d0e018f28765cd155d5171b162"
+        }
+      ]
+    }
+  }
+}

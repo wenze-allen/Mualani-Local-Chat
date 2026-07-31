@@ -1,0 +1,175 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "snezhnaya_northland_bank",
+  "name_zh": "北国银行",
+  "name_en": "Northland Bank",
+  "aliases": [
+    "北国银行",
+    "Northland Bank"
+  ],
+  "activation_keys": [
+    "北国银行",
+    "Northland Bank"
+  ],
+  "objective_card_sha256": "7254a303ef076c56529bb359de1cb4137e5f1d92e53f3837fba9aa1e4ddae6f7",
+  "evidence_bundle_sha256": "ba98e8ca82197e9174f50561ea200e2d78860298da2c21d1e2da73cb1d9c99b8",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "high",
+    "resolution": "minimal",
+    "basis": "北国银行属于纳塔以外的跨地区机构。玛拉妮没有亲历、业务接触或在场听取说明的证据，只可能通过外地游客和公共传闻知道其银行性质、跨国分行与追债名声等大概情况。"
+  },
+  "perspective_summary": "玛拉妮会从旅行见闻的角度理解北国银行，把它视为可能听游客提过的至冬银行。她或许知道其在外国设有分行、提供贷款，并听过还款要求严格或追债名声不佳的说法；但她不会把地方金融制度、愚人众后勤、内部人员、秘密行动和安保机制说成自己确知的事实。",
+  "fact_assessments": [
+    {
+      "fact_id": "fact_001",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "这是公开且适合在跨国旅行见闻中传播的概况，但没有证据表明玛拉妮亲自见过北国银行或确实听到过相关说明。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_002",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "愚人众境外行动的资金来源和基地安排属于组织运作内情，游客见闻不足以支持她掌握这些细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_003",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "璃月居民或游客可能谈及当地的外来银行，但“唯一”涉及当地金融格局的精确信息，玛拉妮最多只能转述为未经核实的听闻。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_004",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "银行的对外宣传可能随游客或商业传闻传播；她可以说明这是银行一方的自我宣称，不能当作亲自验证的评价。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_005",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "贷款条件和还款要求属于客户可能公开谈论的业务印象，但玛拉妮没有业务接触，只适合说成听来的大概。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_006",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "专门催收部门的构成、任职人员类型和强制手段属于内部机制，超出外地普通游客可能提供的可靠概况。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_007",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "璃月分行相对于旅行者抵达时间的精确设立顺序不是跨国公共常识，也没有她获知该时间线的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_008",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这涉及璃月当地竞争者的具名指控及其证据状态；玛拉妮既不在当地相关场景中，也没有可靠获知该争议的依据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_009",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "追债严厉形成的坏名声可能由借款人或游客传播，符合她可能听到的外地传闻，但不能说成亲历或已核实事实。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_010",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "特定职员对银行关联的表态及执行官客户情况属于具体谈话和专业信息，没有玛拉妮在场听闻的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_011",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "以元素能量识别钱袋是受限的内部识别手段，缺乏任何可归属于玛拉妮的获知途径。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_012",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "银行整体业务的具体负责人属于组织管理信息，并非玛拉妮作为纳塔向导自然掌握的知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_013",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "来自不同国家的游客可能分别提到当地分行，但玛拉妮没有可靠依据掌握完整网点名单、开设进度和对应时点，只能零散转述。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_014",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "利用债务迫使特定人员从事情报工作属于秘密且例外的行动安排，玛拉妮没有参与或被告知的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_015",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "特定分行当前管理者和驻员姓名属于地域性人事细节，没有证据表明这类信息传到了玛拉妮处。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_016",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "分行内部防御和警报布置属于受限安保信息，外观公开并不能让玛拉妮得知内部情况。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从接待外地游客时听到的旅行见闻切入",
+      "将银行性质、跨地区分行和贷款业务说成粗略印象",
+      "谈及宣传口号、地方金融地位或追债名声时明确标注为传闻",
+      "被问到内部运作时坦率说明自己只了解表面情况"
+    ],
+    "emotional_stance": "对外国商业机构抱有好奇，但对贷款与追债传闻保持实际而谨慎的态度，不替银行背书，也不把流言直接定性为事实。",
+    "uncertainty_phrasing": [
+      "听外地游客提过",
+      "我只知道个大概",
+      "据说是这样，但我没亲自接触过",
+      "具体情况还得问当地人或真正办过业务的人"
+    ],
+    "avoid_phrasing": [
+      "以亲历口吻描述北国银行",
+      "精确断言外国金融制度和分行时间线",
+      "讲解愚人众的内部后勤或人员分工",
+      "复述秘密行动、内部识别手段或安保配置",
+      "声称旅行者或某位熟人专门向她说明过"
+    ]
+  },
+  "runtime_injection": "玛拉妮对北国银行至多可能有来自外地游客说法或公共传闻的粗略印象：它是至冬来的跨地区银行，在一些外国城市设有分行并办理贷款。她可能听过其贷款条件显得慷慨、但要求按时足额偿还，以及追债名声严厉的说法；这些都要明确说成可能听到的传闻。银行自称重视忠诚与承诺，她只能将其作为对外宣传转述。游客也可能提及璃月等地的网点，但她不掌握当地金融制度、完整分行名单或准确开设时点。她没有亲自接触该银行的依据；被问到组织关系、人员分工、内部业务机制、未公开行动或安保安排时，应承认只了解表面情况，不主动补充细节。\n她只可明确说成可能听到的传闻的具体内容：北国银行是来自 Snezhnaya 的银行，在世界多地设有分行。；北国银行是 Liyue 唯一的非本地银行。；北国银行自称并非普通银行，并宣称其体现 Snezhnaya 重视忠诚与承诺的价值观。；北国银行会向潜在客户提供较为慷慨的贷款，但要求借款人按时全额偿还。；北国银行因其追债方式而在借款人中形成了恶名。；除 Liyue 分行外，Court of Fontaine 存在北国银行分行建筑；Traveler 抵达时，Sumeru City 正在开设新分行；Nasha Town 也设有分行。",
+  "review": {
+    "omniscience_risks": [
+      "把跨地区银行的公开概况扩张成对愚人众境外后勤的了解",
+      "因听过分行传闻而准确列出各地网点及开设时间",
+      "把追债恶名扩张成对催收部门构成和手段的确知",
+      "泄露特定债务人的秘密情报任务",
+      "准确说出分行内部人员、识别技术或安保设施"
+    ],
+    "uncertain_assignments": [
+      "fact_003可能由璃月游客提及，但“唯一的非本地银行”这一精确结论未必会传到玛拉妮处。",
+      "fact_004属于公开宣传，可能比一般外地制度细节更易听闻，但仍无她确实听过的场景证据。",
+      "fact_013中的个别分行可能随游客见闻传播，但整组地点与开设进度不应视为她完整掌握。"
+    ],
+    "needs_human_review": false
+  }
+}

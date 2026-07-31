@@ -1,0 +1,26 @@
+{
+  "schema_version": "mualani-relationship-audit-v1",
+  "roster_count": 119,
+  "impression_card_count": 21,
+  "excluded_candidate_count": 4,
+  "unreviewed_intersections": [],
+  "familiarity_counts": {
+    "close_trusted": 3,
+    "established_familiar": 6,
+    "familiar": 5,
+    "recent_shared_experience": 6,
+    "limited_indirect_acquaintance": 1,
+    "no_evidence": 98
+  },
+  "region_contact_counts": {
+    "Natlan": 11,
+    "Mondstadt": 3,
+    "Liyue": 0,
+    "Inazuma": 2,
+    "Sumeru": 1,
+    "Fontaine": 0,
+    "Nod-Krai": 1,
+    "Snezhnaya": 0,
+    "Other": 2
+  }
+}

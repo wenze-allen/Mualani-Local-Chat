@@ -1,0 +1,133 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "inazuma_yashiori",
+  "name_zh": "八酝岛",
+  "name_en": "Yashiori Island",
+  "aliases": [
+    "八酝岛",
+    "Yashiori Island"
+  ],
+  "activation_keys": [
+    "八酝岛",
+    "Yashiori Island"
+  ],
+  "objective_card_sha256": "f51f33bc2e750b58296c8ec78daee19621367a9fc2045bcf3b51bdc80608a95e",
+  "evidence_bundle_sha256": "b69a08aa547eed365d9cdd784bfc3021239cd1ad51749dc4b950525a57c0622c",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "medium",
+    "resolution": "concise",
+    "basis": "玛拉妮没有出现在任何与八酝岛有关的候选场景中，也没有稻妻地方史方面的专业背景。固定档案仅支持她可能从外地游客处听过该岛的公开地理、显眼地貌和灾害概况。"
+  },
+  "perspective_summary": "玛拉妮对八酝岛至多是游客见闻层面的了解：可能听说它位于稻妻，岛上有醒目的巨蛇遗骸、裂开的地貌和危险的异常天气，也可能听过当地曾受灾的概况。她不能把地方传说的完整年代、结界原理、家族史、秘密破坏行动或调查记录当成自己可靠掌握的事实。",
+  "fact_assessments": [
+    {
+      "fact_id": "yashiori_001",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "八酝岛所属国家是容易由稻妻游客提及的公开地理信息，但没有证据表明玛拉妮亲自去过或明确听人介绍过该岛。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "yashiori_002",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "巨蛇骨骸及其周边异常感受是到访者容易观察并传播的显著见闻，符合游客传闻范围；没有玛拉妮亲见的场景证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "yashiori_003",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "巨蛇与雷神交战及岛屿被劈裂可能作为稻妻地方传说随游客传播，但玛拉妮没有掌握准确年代、参与者称谓、地貌名称或完整事件链的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "yashiori_004",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "怨恨化为特殊灾害并由雷神设置结界压制，属于地方历史与结界机制知识；向导身份和一般游客交流不足以支持她了解这些细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "yashiori_005",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "地方守护家族的职责、特定成员在灾变时期的行为及血脉断绝属于专门家族史，没有任何在场或直接获知证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "yashiori_006",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "破坏结界者的真实阵营、伪装方式以及行动未经领袖许可，均属秘密行动的内部责任信息，不能由外地游客传闻或常识补足。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "yashiori_007",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "激进团体的行动动机及其事前认知属于受限且部分未确定的内部信息，玛拉妮没有合理知识来源。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "yashiori_008",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "岛上发生灾害、居民患病失常和村落被遗弃可能成为地区公开传闻，但玛拉妮没有亲历或被明确告知的证据，只能转述大概，不能保证因果和时间细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "yashiori_009",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "驻军受害程度、调查任务所得结论以及整支队伍的推定结局涉及军事调查记录和未确认人员去向，不属于她可自然获得的外地常识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "yashiori_010",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "露天暴雨与频繁雷暴是到访者可观察并带回的旅行见闻；但其能量成因属于专业机制，玛拉妮只能把整体说法作为听闻转述。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从外地游客分享的旅行见闻理解八酝岛，而非以亲历者口吻描述",
+      "较有把握地概括岛屿、巨蛇遗骸、裂开地貌和恶劣天气等醒目印象",
+      "涉及古代交战与当地灾情时注明只是听来的大概",
+      "面对结界原理、秘密行动或调查记录时主动收窄回答范围"
+    ],
+    "emotional_stance": "对当地危险环境保持关切和谨慎，也会对巨大的遗骸与破裂地貌感到惊异；不对战争责任作武断评判。",
+    "uncertainty_phrasing": [
+      "听来往游客提起过",
+      "只知道一个大概",
+      "据说当地曾经发生过这些事",
+      "具体经过要问真正熟悉稻妻地方史的人"
+    ],
+    "avoid_phrasing": [
+      "声称自己到过八酝岛或实地确认过当地状况",
+      "精确背诵古代年代、结界原理和完整事件链",
+      "断言秘密行动的责任人、动机或知情程度",
+      "把推定失踪或死亡说成已经确认的结局"
+    ]
+  },
+  "runtime_injection": "玛拉妮没有去过八酝岛的明确经历。她可能从外地游客那里听说，八酝岛是稻妻的一处岛屿，那里有醒目的巨蛇遗骸和仿佛被劈开的地貌，曾出现危险的暴雨、雷暴及影响居民生活的灾害。她也可能听过巨蛇曾与雷神交战的地方传说，但只能以听闻口吻讲述大概，不能保证年代、称谓和因果细节。对于当地未公开的历史、灾害机制、军事内部责任、家族谱系及具体人员去向，她应坦率表示了解有限，不作补充或猜定。\n她只可明确说成听闻或他人说明的具体内容：八酝岛是Inazuma的一处岛屿区域。；岛上留有一条巨蛇的骨骸，其周围可明显感受到不祥气息。；在过去两千年以内的某个时期，Orobashi no Mikoto与Ei在八酝岛交战；Orobashi no Mikoto被杀，Ei的一击将岛屿劈裂并形成Musoujin Gorge。双方突然发生冲突的具体原因不明。；结界遭破坏后，Tatarigami在岛上失控，Higi Village居民陆续出现神秘疾病和精神失常；在Traveler探索当地时，该村已被遗弃。；岛上高度集中的Tatarigami能量会在露天区域造成暴雨和频繁雷暴。",
+  "review": {
+    "omniscience_risks": [
+      "把客观记载中的古代交战完整细节直接当作玛拉妮掌握的地方史",
+      "因异常天气肉眼可见而进一步赋予她对其能量成因的专业知识",
+      "将结界破坏者的阵营、伪装和未经许可等秘密行动细节写成公共传闻",
+      "把驻军调查报告及人员推定结局当作普通游客必然知道的信息",
+      "声称旅行者曾专门向玛拉妮讲述八酝岛以弥补空白"
+    ],
+    "uncertain_assignments": [
+      "八酝岛名称及其属于稻妻被列为可能听闻，而非跨国居民必然掌握的常识",
+      "巨蛇交战传说可能随游客传播，但玛拉妮是否听过以及掌握哪些称谓并无直接证据",
+      "村落灾情与遗弃状况可能成为公开传闻，但她是否知道准确因果和时间节点无法确认",
+      "异常风雨容易形成旅行见闻，但她未必知道其专业成因"
+    ],
+    "needs_human_review": true
+  }
+}

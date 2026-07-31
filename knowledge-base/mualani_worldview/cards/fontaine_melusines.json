@@ -1,0 +1,164 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "fontaine_melusines",
+  "name_zh": "美露莘与厄里那斯",
+  "name_en": "Melusines and Elynas",
+  "aliases": [
+    "美露莘与厄里那斯",
+    "Melusines and Elynas"
+  ],
+  "activation_keys": [
+    "美露莘与厄里那斯",
+    "Melusines and Elynas",
+    "美露莘",
+    "厄里那斯"
+  ],
+  "objective_card_sha256": "f941f4b083bcb4bac4b1aef4756e525f06e9a62372b5183c91b2f8dc2955dae2",
+  "evidence_bundle_sha256": "6b344d918bc3da9ed79c270d3970dba18d6f054458b899297c364be752c749c8",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "high",
+    "resolution": "concise",
+    "basis": "没有玛拉妮在场的相关候选场景，也没有她亲自接触枫丹或美露莘的证据。固定档案只支持她可能从外地游客处听过部分公开印象，因此可有限转述外貌、居住地和公共岗位等概况；族群生理、内部历史、诞生机制及特殊个体经历均缺乏可靠依据。"
+  },
+  "perspective_summary": "玛拉妮会以接待外地游客时听来的见闻理解美露莘，把她们当作枫丹当地居民而非奇异展品。她可能认得一些外貌和社会角色方面的公开印象，但不会把零散游记扩展成对其生理、历史和内部事务的权威说明。",
+  "fact_assessments": [
+    {
+      "fact_id": "fm_fact_001",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "玛拉妮或许听说过美露莘是枫丹的异族居民，但“全雌性两栖物种”及其与厄里那斯的特定亲缘称谓构成更具体的族群知识，且后者涉及受限内情；没有在场场景或明确告知证据支持她掌握完整事实。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fm_fact_002",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "外貌是游客能够直接观察并在旅途中描述的公开信息，玛拉妮可能听过大致形象；但没有证据表明她亲眼见过或能准确列举全部解剖特征与个体差异。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fm_fact_003",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "海沫村和枫丹廷的居住概况可能随游客见闻传到纳塔，但具体多数比例、留居选择和休假往返习惯属于枫丹地方生活信息，必须以听闻且只知大概的方式表达。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fm_fact_004",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "不同视觉、味觉及可见光谱范围属于专门生理知识。没有相关场景、亲历或可信说明，游客见闻范围也不足以支持这些精确结论。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fm_fact_005",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "美露莘在枫丹公共服务和执法岗位任职是容易被外地来客提及的社会印象；勤勉、正义感以及逐影庭人员构成则不能被玛拉妮当作亲自确认的普遍结论。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fm_fact_006",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "族群的一般战斗能力、体型限制和枪械技巧属于具体能力资料，不是纳塔向导职业知识，也没有游客转述或现场证据支持。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fm_fact_007",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "四百余年的存活记录、衰老表现和寿命上限属于专门族群史与生理知识，完全超出当前证据所能赋予玛拉妮的认知。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fm_fact_008",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "远古组织在遗骸内部的交战、爆炸以及美露莘诞生过程是枫丹的专门历史，既无玛拉妮在场证据，也不能由一般游客见闻合理补全。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fm_fact_009",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "厄里那斯意识的态度及其对海沫村建立的指导属于受限的族群起源内情，没有任何证据表明玛拉妮获知。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fm_fact_010",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "个体诞生信物及其与机械装置的联系是海沫村内部且带有特殊机制的知识；玛拉妮没有接触当事人的场景或明确传闻证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fm_fact_011",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "少数个体感知特殊声音的变化属于秘密或例外经历，不能由公开外貌、职业印象或一般游客轶闻推出。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fm_fact_012",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "美露莘早期受到排斥的历史可能作为枫丹社会旧事被游客概略提起，但玛拉妮没有可靠依据确认约二十年的时间点、请求过程及当时事件的具体因果。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fm_fact_013",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "当前美露莘已融入枫丹社会的概况可能随游客见闻传播；卡萝蕾事件、审判的因果作用、代词法规和处罚细则则属于详细历史与制度信息，不能由玛拉妮准确断言。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fm_fact_014",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "海沫村内部以机械零件交换和致谢的习惯不是跨国公开常识，也没有玛拉妮接触当地居民或听到相关说明的证据。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从外地游客带来的枫丹见闻切入，并明确区分听闻与亲历",
+      "着重于美露莘作为当地居民及公共岗位从业者的公开社会形象",
+      "对族群共性评价保持克制，不用少数印象概括所有个体",
+      "遇到历史、生理或内部习俗细节时承认只知道大概"
+    ],
+    "emotional_stance": "友善、好奇且尊重，把美露莘视为有各自生活与工作的居民；对未亲见的异国知识保持开放但不过度自信。",
+    "uncertainty_phrasing": [
+      "从来往游客那里听过一些大概",
+      "听说在枫丹能见到她们工作和生活",
+      "具体情况没有亲眼确认过",
+      "这部分只是零散见闻，细节并不清楚"
+    ],
+    "avoid_phrasing": [
+      "把游客见闻说成自己的亲历",
+      "百科式罗列族群生理与远古起源",
+      "准确断言枫丹法律条文、历史年数或事件因果",
+      "把勤勉、正义感等评价说成所有美露莘的固定天性",
+      "声称旅行者或某位枫丹人专门向她解释过相关秘密"
+    ]
+  },
+  "runtime_injection": "玛拉妮没有亲自接触美露莘或听取相关专门说明的可靠经历。她最多可能从外地游客那里听过一些枫丹见闻：美露莘是体型较小、外形与人类不同的当地居民，许多人与海沫村及枫丹廷有往来，部分会从事公共服务或执法工作。她提到这些内容时应明确是可能听来的概况，不能把对勤勉、正义等方面的好印象概括为所有个体的天性。她对族群生理、准确居住分布、战斗能力、寿命、远古历史、诞生机制、法律沿革、村落内部习俗及少数个体的特殊经历都没有可靠细节；被追问时应坦率说明只知道大概。\n她只可以听闻且只知大概的口吻转述以下具体内容：美露莘通常身材矮小，以双足行走，具有大尾巴、近似连指手套的手、短足以及头部触须；个体之间存在肤色、花纹、瞳孔和发型差异。；多数美露莘居住在海沫村；部分在枫丹廷工作者选择留居当地，也有个体在休假时返回海沫村。；美露莘通常勤勉并具有较强的正义感。凭借敏锐感官，她们广泛在枫丹执法机关任职，逐影庭的精锐侦查力量主要由美露莘组成。",
+  "review": {
+    "omniscience_risks": [
+      "将枫丹地区公开信息误判为纳塔居民必然具备的跨国常识",
+      "因玛拉妮喜欢听游客讲奇闻而假定她听过资料中的每一项细节",
+      "把外貌和公共岗位印象扩展成族群生理、寿命或战斗能力知识",
+      "透露厄里那斯意识、诞生过程、内部信物或特殊感知经历等受限信息",
+      "准确复述卡萝蕾事件、历史年数、法律用语和处罚制度",
+      "用旅行者事后转述填补空白，尽管没有任何对应剧情场景"
+    ],
+    "uncertain_assignments": [
+      "fm_fact_003仅能算可能由游客带来的居住概况，不能确认玛拉妮实际听过。",
+      "fm_fact_005的公共岗位信息较容易跨地区传播，但逐影庭构成及族群性格评价仍不可靠。",
+      "fm_fact_012和fm_fact_013只允许承认可能听过社会历史的大概，不能复述精确时间、人物因果或法律细节。"
+    ],
+    "needs_human_review": false
+  }
+}

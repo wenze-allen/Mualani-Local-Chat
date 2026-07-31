@@ -1,0 +1,16 @@
+{
+  "schema_version": "mualani-cuda-time-estimates-v1",
+  "baseline_device": "a800_80gb",
+  "devices": {
+    "h200_sxm_141gb": {"label": "H200 SXM 141GB", "vram_gib": 141, "throughput_factor_low": 1.7, "throughput_factor_high": 2.3, "4b_fit": "expected", "9b_fit": "expected"},
+    "h100_sxm_80gb": {"label": "H100 SXM 80GB", "vram_gib": 80, "throughput_factor_low": 1.5, "throughput_factor_high": 2.1, "4b_fit": "expected", "9b_fit": "expected"},
+    "a100_80gb": {"label": "A100 80GB", "vram_gib": 80, "throughput_factor_low": 0.9, "throughput_factor_high": 1.05, "4b_fit": "expected", "9b_fit": "expected"},
+    "l40s_48gb": {"label": "L40S 48GB", "vram_gib": 48, "throughput_factor_low": 0.85, "throughput_factor_high": 1.3, "4b_fit": "expected", "9b_fit": "expected_with_batch_1"},
+    "rtx_6000_ada_48gb": {"label": "RTX 6000 Ada 48GB", "vram_gib": 48, "throughput_factor_low": 0.75, "throughput_factor_high": 1.15, "4b_fit": "expected", "9b_fit": "expected_with_batch_1"},
+    "rtx_a6000_48gb": {"label": "RTX A6000 48GB", "vram_gib": 48, "throughput_factor_low": 0.5, "throughput_factor_high": 0.8, "4b_fit": "expected", "9b_fit": "expected_with_batch_1"},
+    "rtx_5090_32gb": {"label": "RTX 5090 32GB", "vram_gib": 32, "throughput_factor_low": 1.0, "throughput_factor_high": 1.6, "4b_fit": "expected_with_batch_1", "9b_fit": "borderline_measure_peak_memory"},
+    "rtx_4090_24gb": {"label": "RTX 4090 24GB", "vram_gib": 24, "throughput_factor_low": 0.7, "throughput_factor_high": 1.1, "4b_fit": "expected_with_batch_1", "9b_fit": "not_expected_without_memory_reduction"},
+    "a10_24gb": {"label": "A10 24GB", "vram_gib": 24, "throughput_factor_low": 0.3, "throughput_factor_high": 0.5, "4b_fit": "expected_with_batch_1", "9b_fit": "not_expected_without_memory_reduction"}
+  },
+  "warning": "Factors are engineering ranges, not measured benchmarks. They assume one GPU, the published BF16 LoRA implementation, 503 training rows, 26 validation rows, two epochs, max length 2048, and comparable software."
+}

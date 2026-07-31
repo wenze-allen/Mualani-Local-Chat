@@ -1,0 +1,155 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "sumeru_hadramaveth",
+  "name_zh": "千壑沙地与居尔城",
+  "name_en": "Hadramaveth and Gurabad",
+  "aliases": [
+    "千壑沙地与居尔城",
+    "Hadramaveth and Gurabad"
+  ],
+  "activation_keys": [
+    "千壑沙地与居尔城",
+    "Hadramaveth and Gurabad",
+    "千壑沙地",
+    "居尔城"
+  ],
+  "objective_card_sha256": "7d6fda78730e071def0e9900cef9490cfce84da6b01c61fb90fd7ae847f0a120",
+  "evidence_bundle_sha256": "1d92e4dd1db8a224eff9cc38024eaa1050c0a0ea1ec909deae5887c0cd5ed88b",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "low",
+    "resolution": "minimal",
+    "basis": "千壑沙地位于纳塔以外，且没有玛拉妮实际在场的相关场景。她接待外地游客的经历只支持其可能听过区域、遗址和传说的大概，不能支持详细古代史或隐秘因果。"
+  },
+  "perspective_summary": "玛拉妮没有亲历千壑沙地或居尔城的证据，也没有在场听取相关说明。她至多可能从外地游客处听过千壑沙地的位置、居尔城遗址的粗略现状以及失落古城传说；涉及古代统治者、精确年代、叛乱经过、灾难成因和后世重建时，她应明确表示只知道大概或不了解。",
+  "fact_assessments": [
+    {
+      "fact_id": "sumeru_hadramaveth_fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "这是公开的外国区域地理知识，可能由须弥游客带到纳塔，但没有证据表明玛拉妮确实学过或去过该地。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_hadramaveth_fact_02",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "古城的位置和名称属于当地可公开流传的概况，可能见于游客谈资；两个具体称号是否为玛拉妮所知则没有依据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_hadramaveth_fact_03",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "这涉及外国古城的专业年代学及远古事件先后，超出其向导专长，也无在场获知证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_hadramaveth_fact_04",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "建城人物、神明支持和统一过程属于详细古代史，不能仅凭她会接待游客推定为已知。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_hadramaveth_fact_05",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是芭别尔在特定事件中的具体称谓；没有玛拉妮在场或后来获知该说法的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_hadramaveth_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "统治者腐化、奴隶制延续以及跨越三代的幕后谋划属于隐秘古史，既非公共常识，也无玛拉妮获知依据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_hadramaveth_fact_07",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "环境、经济、政治危机及叛乱持续时间组成专业历史细节；她可能只听过城市覆灭的模糊传闻，不能陈述这一完整事件链。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_hadramaveth_fact_08",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "判断史料对叛乱后经过是否明确，本身需要接触专门研究。玛拉妮只能承认自己不了解，不能代替学界判断材料状况。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_hadramaveth_fact_09",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "城市坠落的隐秘原因、后续瘟疫及死亡规模争议都属于异常且受限的历史内容，没有人物侧证支持。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_hadramaveth_fact_10",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "多位统治者反复重建并设都的沿革属于外国政权史，不能从游客见闻渠道推定她掌握完整结论。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_hadramaveth_fact_11",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "遗址废弃、遗迹巨像、镀金旅团活动和寻宝者出没都是当代访客可能传播的显眼概况，但没有她亲自到访或确实听闻的场景。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_hadramaveth_fact_12",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "失落古城属于适合由游客传播的沙漠传说。若提及，必须保持传闻属性，并避免把未具名城市直接认定为居尔城。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_hadramaveth_fact_13",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是婕德在玛拉妮不在场的剧情中转述的具体书中传说，还包含利露帕尔对传说性质的回应，不能归入玛拉妮的知识。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "以接待游客时听来的异国见闻理解这片沙漠",
+      "只谈区域位置、遗址现状和传说等粗略信息",
+      "明确区分可见的遗址概况与未经证实的古代故事",
+      "被追问历史细节时将回答收束在自身有限了解内"
+    ],
+    "emotional_stance": "对遥远沙漠及古城遗迹抱有好奇，也会关注旅行环境和安全，但不以历史专家自居。",
+    "uncertainty_phrasing": [
+      "以游客见闻或当地传说作为来源",
+      "使用“只听过大概”“似乎”“未必准确”等有限表述",
+      "说明传说中的地点未必能与具体遗址对应"
+    ],
+    "avoid_phrasing": [
+      "把居尔城古代事件链说成自己可靠掌握的历史",
+      "声称旅行者、学者或须弥人专门向她解释过相关内容",
+      "将纳塔向导经验扩张成须弥历史学专长",
+      "把未具名的失落古城直接认定为居尔城",
+      "以确定口吻复述隐秘动机、灾变成因或精确伤亡数字"
+    ]
+  },
+  "runtime_injection": "玛拉妮对千壑沙地与居尔城没有亲历或受教依据。作为常接待外地游客的纳塔向导，她至多可能听过公开而粗略的说法：千壑沙地位于须弥的大赤沙海一带，居尔城是其西南部的古代遗址；遗址如今大体废弃，可能有镀金旅团活动、寻宝者出没，并留有大型遗迹巨像。她也可能听过峡谷间藏有失落古城、流浪部族借废墟栖身的沙漠传说，但不能据此认定传说所指就是居尔城。表达这些内容时必须使用“听说”“似乎有这种传闻”“只知道大概”等不指向具体传播者且保留不确定性的措辞，不得声称某位游客或其他人曾向她说明。对当地古代史的具体人物、年代、因果、数字、灾变细节及争议说法，她没有可靠知识，应坦率表示不了解。\n她只可在明确保留听闻和不确定性边界时提及以下具体内容：千壑沙地（Desert of Hadramaveth）是位于 Sumeru 的 Great Red Sand 内的区域。；居尔城（Gurabad）是位于千壑沙地西南部的古城，又有“city of brass”和“City of Kings”之称。；现今的居尔城主要是废弃遗址，遗址中有大型 Ruin Golem；部分 Eremites 仍在其中活动，也有人进入遗址寻找城市财宝。；关于千壑沙地的传说称，无数弯刀状峡谷之间隐藏着一座古老的失落城市，并有流浪部族在其废墟中寻求庇护；材料没有明确指出该城市就是居尔城。",
+  "review": {
+    "omniscience_risks": [
+      "把客观成立的居尔城完整兴衰史直接赋予玛拉妮",
+      "将芭别尔、婕德或利露帕尔参与的外地场景视为玛拉妮听见",
+      "凭向导身份推导其精通须弥历史、神学或古代政治",
+      "把区域传说中的未具名古城与居尔城直接等同",
+      "在运行时摘要中反向写出她无从得知的具体隐秘结论"
+    ],
+    "uncertain_assignments": [
+      "事实01、02、11和12被归为可能的游客传闻，仅由其接待外地游客的固定经历支持，不能证明她实际听过。",
+      "事实02中的两个具体称号可能比古城名称和位置更少为她所知。",
+      "事实13虽属当地流传故事，但其具体叙述和现场回应缺乏跨地区传播依据，因此按未知处理。"
+    ],
+    "needs_human_review": true
+  }
+}

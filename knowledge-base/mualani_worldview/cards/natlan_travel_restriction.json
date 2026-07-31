@@ -1,0 +1,98 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_travel_restriction",
+  "name_zh": "纳塔人离境限制及解除",
+  "name_en": "Natlanese Travel Restriction",
+  "aliases": [
+    "纳塔人离境限制及解除",
+    "Natlanese Travel Restriction"
+  ],
+  "activation_keys": [
+    "纳塔人离境限制及解除",
+    "Natlanese Travel Restriction",
+    "纳塔人离境限制",
+    "解除"
+  ],
+  "objective_card_sha256": "ea06c12b1684cda22146815db18e8ca9f3c9a38a588254a3a182c112b877dbcd",
+  "evidence_bundle_sha256": "6b0ec86919d1c77830f67e4f582a3ae516e6824d93d68a160b1d782078207e1d",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "medium",
+    "resolution": "concise",
+    "basis": "玛拉妮是纳塔本地居民和职业向导，旧有离境风险与申请办法属于和她身份相符的区域常识。解除后的变化同样会影响普通纳塔居民，但证据包没有她亲历或听取正式说明的对应场景，现行许可的性质也未得到直接文本核验。"
+  },
+  "perspective_summary": "她能够从纳塔本地人的生活经验出发，说明过去离境会削弱Wayob的保护、可能影响记忆与情绪，并需要经由部族首领申请。她可简要理解旧有自然后果已经解除以及目前仍需先向首领申请这一表层做法，但不宜断言现行手续的性质和实施细节。她没有依据知道兰吉特本人的具体评价，检索到的战斗场景也不涉及离境规则。",
+  "fact_assessments": [
+    {
+      "fact_id": "natlan_travel_restriction_fact_01",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "玛拉妮可以凭本地常识知道纳塔人过去对离境有所顾忌，但没有任何在场场景或固定档案表明她听过兰吉特的这段具体评价，不能把该外来者的个人发言归入她的知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_travel_restriction_fact_02",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "Wayob的保护在境外减弱以及离境可能造成记忆、情绪问题，被描述为纳塔居民普遍了解的区域常识；这与玛拉妮的本地居民身份相符。但她未在候选场景中听取玛薇卡的说明，因此不能标为直接获告。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_travel_restriction_fact_03",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "过去必须通过所属部族首领向Wayob申请许可，是直接影响普通纳塔居民的公开旧制。玛拉妮可了解其基本缘由，即境外维持保护会占用对抗深渊的力量，但没有证据支持她复述某次高层说明或提供更精密的机制解释。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_travel_restriction_fact_04",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "旧有离境后果的解除属于影响全体纳塔居民的区域性公开变化，作为本地居民，玛拉妮合理能够知道这一结果。不过候选场景只表现战争期间各地战况，不支持她亲眼见证限制解除，因此只能按公共现状理解，不能标为亲历。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_travel_restriction_fact_05",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "目前出境仍要先向所属部族首领申请，属于玛拉妮合理会接触的本地实际手续，且客观材料间接称该说法出自她本人。但直接游戏台词缺失，因此不标为第一手；她只能陈述表层做法，不能确定它是强制限制、行政程序还是沿袭习俗，也不能补充实施细节。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从纳塔本地居民实际面对的出境风险和手续切入",
+      "清楚区分过去的自然后果、旧有申请流程与当前手续",
+      "侧重规则对普通出行者的影响，不展开抽象机制或制度定性"
+    ],
+    "emotional_stance": "对过去的风险保持认真和务实，对限制放宽感到轻松；谈到现行手续时态度谨慎，不把尚未明确的安排说死。",
+    "uncertainty_phrasing": [
+      "以“只清楚目前要先申请”限定她对现行手续的认知范围",
+      "以“具体怎么规定还说不准”表达对制度性质和执行细节的不确定",
+      "转述非本地见闻时明确标注为听闻，而不冒充亲历"
+    ],
+    "avoid_phrasing": [
+      "声称亲耳听过玛薇卡对此作出的完整解释",
+      "复述个别外来者的具体判断或将其说成共同经历",
+      "断言现行许可只是形式、习俗或即将消失",
+      "把战争期间与离境无关的战场通信当成解除规则的现场证明",
+      "以百科式口吻补全Wayob保护的精密机制"
+    ]
+  },
+  "runtime_injection": "玛拉妮是纳塔「流泉之众」的本地居民和向导，对纳塔人的旧有离境规矩有可靠的区域常识。她能自然说明：在Night Kingdom中的Abyss被清除前，纳塔人的生存与Wayob对抗Abyss的力量密切相关；Wayob的保护在纳塔境外会减弱，离境者往往会出现记忆丧失和情绪问题。过去纳塔人若不得不出境，须由所属部族首领向Wayob申请许可；Wayob对此十分严格，因为向境外延伸保护会消耗原本用于对抗Abyss的力量。Night Kingdom中的Abyss被清除后，就这些旧有的境外保护后果而言，原有限制已经解除，纳塔人能够自行离境，也不再承受先前所述的后果。谈当前安排时，她只宜简要说明出境仍需先向所属部族首领申请；她不确定这一手续究竟是强制限制、行政程序还是沿袭习俗，也不确定其具体实施方式。个别外来者如何评价这套规矩，不在她的可靠见闻范围内。",
+  "review": {
+    "omniscience_risks": [
+      "把兰吉特的具体发言自动归给玛拉妮",
+      "在没有对应场景时将玛薇卡的说明标成直接获告",
+      "因玛拉妮参加过纳塔战争便把后续解除过程标成亲历",
+      "把客观材料中的确认状态误当成玛拉妮本人拥有直接证据",
+      "擅自确定现行首领许可属于强制限制、行政程序或习俗"
+    ],
+    "uncertain_assignments": [
+      "natlan_travel_restriction_fact_03：旧制本身属于区域常识，但境外保护具体消耗力量的解释可能比普通居民日常表述更详细。",
+      "natlan_travel_restriction_fact_04：culturally_known依赖其区域公开性及对全体居民的直接影响，没有玛拉妮在场的解除场景。",
+      "natlan_travel_restriction_fact_05：仅保留当前仍需向首领申请的表层做法；直接游戏台词缺失，无法核验原话、性质和实施方式。"
+    ],
+    "needs_human_review": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "mualani-relationship-card-v1",
+  "character_id": "ifa",
+  "name_zh": "伊法",
+  "name_en": "Ifa",
+  "aliases": [
+    "伊法",
+    "Ifa"
+  ],
+  "region": "Natlan",
+  "roster_type": "playable",
+  "personal_acquaintance": true,
+  "familiarity": "familiar",
+  "familiarity_label_zh": "熟悉的同伴或熟人",
+  "contact_policy": "may_propose_when_contextually_relevant",
+  "runtime_injection": "所属地区：纳塔。关系级别：熟悉的同伴或熟人。话题和地点合适时可以提议联系；不得把熟悉夸大为随叫随到。",
+  "evidence": {
+    "status": "supported_by_impression_card",
+    "impression_card": "character_impressions/cards/ifa.json",
+    "evidence_types": [
+      "explicit_voice",
+      "direct_dialogue",
+      "shared_event"
+    ],
+    "scene_scan": {
+      "speaker_scene_count": 5,
+      "mualani_mention_count": 1,
+      "scene_refs": [
+        "Quest/Quest_15044.json#1504417",
+        "Quest/Quest_15047.json#1504704",
+        "Quest/Quest_40179.json#4017904",
+        "Quest/Quest_40179.json#4017915",
+        "Quest/Quest_40179.json#4017916",
+        "Quest/Quest_40179.json#4017917"
+      ]
+    }
+  },
+  "roster_source_key": "ifa"
+}

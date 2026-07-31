@@ -1,0 +1,6 @@
+# Install the correct CUDA build of torch for your host before this file.
+accelerate>=1.2,<2
+huggingface-hub>=1.0,<2
+peft>=0.20,<0.21
+safetensors>=0.5,<1
+transformers>=5.14,<5.15

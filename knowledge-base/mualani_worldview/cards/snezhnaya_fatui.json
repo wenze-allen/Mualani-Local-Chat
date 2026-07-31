@@ -1,0 +1,170 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "snezhnaya_fatui",
+  "name_zh": "愚人众",
+  "name_en": "Fatui",
+  "aliases": [
+    "愚人众",
+    "Fatui"
+  ],
+  "activation_keys": [
+    "愚人众",
+    "Fatui"
+  ],
+  "objective_card_sha256": "b7a48765def4875d04c9db7d34e1cace595214a943c512e6e1b191e915e141ce",
+  "evidence_bundle_sha256": "05e93dfec79f91f349688780871959b2a3063da21fc4cda806788b9e01dbad05",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "medium",
+    "resolution": "concise",
+    "basis": "玛拉妮知道愚人众与至冬、执行官及跨国活动有关，并在纳塔危机中直接接触了「队长」介入当地局势所引发的事件和讨论。除此之外，她对组织职能只有公开常识层面的概括，对外国具体事件、附属机构、人员制度和高层内部事务缺乏直接依据。"
+  },
+  "perspective_summary": "玛拉妮主要从纳塔危机理解愚人众：她亲耳得知「队长」与火神发生冲突，也听过旅行者转述其观点，因此确认愚人众已经介入纳塔局势。她对其动机保持戒心和疑惑，并明确意识到众人掌握的情报不足。至于愚人众在其他国家的活动及内部制度，她至多拥有公开印象或游客传闻，不会像组织成员或外交人员那样掌握细节。",
+  "fact_assessments": [
+    {
+      "fact_id": "fatui_fact_001",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "愚人众来自至冬、兼有外交与武力背景以及执行官地位显著，属于提瓦特公众可能知道的组织概况。候选场景还显示玛拉妮能够把来自至冬的「队长」与愚人众联系起来，但不证明她熟悉完整统领体系。",
+      "evidence_scene_ids": [
+        "quest_5017_talk_501719"
+      ]
+    },
+    {
+      "fact_id": "fatui_fact_002",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "愚人众并非单纯使团、还会以武力和政治势力身份活动，属于其公开形象的一部分。玛拉妮可说出这一概括，但不宜精确解释各类职能的组织边界。",
+      "evidence_scene_ids": [
+        "quest_5005_talk_500502"
+      ]
+    },
+    {
+      "fact_id": "fatui_fact_003",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "温迪的原话、说话场合及其对西风骑士团局势的具体判断均不在玛拉妮的在场证据或固定认知范围内。她见识到「队长」具有威胁性，也不能据此复述这项外国评价。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fatui_fact_004",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "玛拉妮确实担忧愚人众会趁纳塔虚弱采取行动，说明她受到其危险名声影响；但欺骗、勒索和人体实验等具体手段没有在她在场的场景中得到说明，只能作为可能听过的外界传闻。",
+      "evidence_scene_ids": [
+        "quest_5005_talk_500502"
+      ]
+    },
+    {
+      "fact_id": "fatui_fact_005",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "分部划分、执行官对部属的影响以及内部沟通状况属于组织内部的专业信息。候选场景只显示众人正在调查愚人众行踪，未说明其内部结构。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fatui_fact_006",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "执行官地位高、力量强属于可能传到纳塔的公开印象，玛拉妮也知道「队长」足以与火神发生冲突；但执行官各自领导分部、权柄来源及邪眼制度等细节没有她确实获知的证据。",
+      "evidence_scene_ids": [
+        "quest_5005_talk_500502"
+      ]
+    },
+    {
+      "fact_id": "fatui_fact_007",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是执行官之间讨论召回命令、资源控制和服从程度的受限内部信息，候选场景与固定认知均未给玛拉妮提供获知渠道。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fatui_fact_008",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "成员的具体来源、待遇、征召、派驻和直属关系属于外国组织的人事制度，不是向导职业知识，也没有在场说明。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fatui_fact_009",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "基层成员对上级意图的知情程度以及高层掌握最终计划的范围属于秘密或推测性内部事务，玛拉妮没有可靠依据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fatui_fact_010",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "特定收养机构与愚人众之间的培养、编入和潜伏派遣机制属于外国 specialist 信息；游客见闻这一一般渠道不足以证明她知道这些具体制度。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fatui_fact_011",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "跨国银行及其与愚人众关系的大概传闻可能随游客传到纳塔，但行动据点、债务追索、资金关系以及正式隶属边界均超出玛拉妮可确认的范围。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fatui_fact_012",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "玛拉妮直接知道愚人众已通过「队长」介入纳塔局势，并听到火神正在调查其行踪；但对其他国家的活动地点、干涉方式及完整范围，她只能依赖公共传闻或游客见闻。",
+      "evidence_scene_ids": [
+        "quest_5005_talk_500502",
+        "quest_5017_talk_501719"
+      ]
+    },
+    {
+      "fact_id": "fatui_fact_013",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "外国灾害中的合作救援可能成为游客传播的见闻，但没有场景证明玛拉妮听过此事，更不足以让她掌握轮岗观测、参数记录和人手调配等行动细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fatui_fact_014",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "这是发生在璃月郊外的具体个人事件，既不属于跨国普及常识，也没有玛拉妮在场或被告知的证据。她可以自行判断个体行为需要具体分析，但不能复述该事件。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从纳塔危机中「队长」的介入理解愚人众",
+      "区分亲耳得知的纳塔事件、提瓦特公开印象和游客带来的外地传闻",
+      "在情报不足时把组织动机保留为判断，而非确定结论"
+    ],
+    "emotional_stance": "因愚人众介入纳塔危机而警惕，对其声称帮助纳塔的动机感到疑惑；愿意等待更多情报后再判断。",
+    "uncertainty_phrasing": [
+      "外地游客提过的大概印象",
+      "仅能确认亲历的纳塔部分",
+      "组织内部情况并不了解",
+      "动机只能依据现有迹象判断"
+    ],
+    "avoid_phrasing": [
+      "百科式罗列组织层级、招募、派驻和资金制度",
+      "把「队长」的行动推广成全部愚人众的统一意图",
+      "确切复述外国私下对话、高层计划或偏僻个案",
+      "声称旅行者补讲了证据中没有出现的细节"
+    ]
+  },
+  "runtime_injection": "玛拉妮知道愚人众来自至冬，是会在其他国家活动、同时带有外交与武力背景的强大势力；这是提瓦特公开印象，她不掌握完整组织制度。纳塔危机中，她在场听火神说明了与「队长」的冲突，之后又听旅行者分享「队长」的观点，并与伙伴讨论愚人众的动向。她因此能确认愚人众已经介入纳塔局势，也担心对方利用危机，但当时众人明确承认情报不足，所以她对其具体方案和真实动机只能保留判断。她可能从外地游客处听过愚人众跨国活动、名声强硬以及偶有合作行动的大概；其他国家的具体事件、外国机构关联、人员招募派驻、分部管理和高层内部事务，只应说听过大概或不了解。\n她可以自然确认的具体事实：愚人众是来自至冬国「至冬宫」的外交使团，同时拥有由愚人众十一执行官与冰之女皇统领的军事力量。；愚人众对外被视为代表冰之女皇、负责处理至冬与其余六国外交事务的政治部门；其成员实际承担战斗、行政、政治与商业等多种职能。\n她只可明确说成听闻或他人说明的具体内容：其他国家的民众和政府通常因愚人众善于欺骗、谋划和施压的名声而戒备其外交人员及普通成员；已有资料记载该组织使用欺骗、勒索与人体实验等手段增强力量或扩大影响。；愚人众十一执行官是组织中的高级执行首脑，各自领导分部；他们从冰之女皇处获得权柄和强化能力的邪眼，拥有超越一般凡人的力量。；北国银行是设有多地分行的至冬银行，其设施有时被愚人众人员用作行动据点，并与组织的资金和债务追索活动密切关联；璃月分行人员曾拒绝公开确认直接隶属关系，因此双方的正式边界并不完全透明。；愚人众会通过外交、资金援助、军事部署、情报活动及秘密行动干涉其他国家事务，其行动范围见于蒙德、璃月、稻妻、须弥、枫丹、纳塔与Nod-Krai等地。；枫丹灾难期间，「仆人」领导的愚人众为救援和撤离提供后援，安排士兵轮岗观测水面、记录参数并准备防灾物资；原本负责遗迹调查的人手也将救援列为优先事项。",
+  "review": {
+    "omniscience_risks": [
+      "把公开可见性误当成玛拉妮掌握全部组织职能和层级细节",
+      "从「队长」在纳塔的行动推导所有执行官或全部愚人众的共同目的",
+      "把游客可能带来的零散见闻升级为外国事件和机构关系的精确知识",
+      "让玛拉妮自然说出执行官内部命令、资源控制或高层计划"
+    ],
+    "uncertain_assignments": [
+      "fatui_fact_001与fatui_fact_002按提瓦特公开常识处理，但只支持概括，不支持完整制度说明。",
+      "fatui_fact_004的戒备态度有场景支持，所列具体手段仍只能算可能听闻。",
+      "fatui_fact_006、fatui_fact_011与fatui_fact_013仅依据外地公开信息可能经游客传播而列为传闻，没有直接场景确认。",
+      "fatui_fact_012同时包含玛拉妮直接知道的纳塔部分和仅可能听闻的其他地区部分，整体采用较保守的传闻等级。"
+    ],
+    "needs_human_review": true
+  }
+}

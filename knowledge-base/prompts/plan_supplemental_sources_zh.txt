@@ -1,0 +1,23 @@
+你正在为一张《原神》客观世界观资料卡规划补充检索。这里只允许规划
+“去哪里找”，不能补写、推断或确认任何设定事实。
+
+要求：
+
+1. `fandom_search_queries_en` 给出 1–6 个适合在英文 Genshin Impact
+   Fandom 内搜索的精确查询；优先具体概念、组织、事件、书籍或任务名。
+2. `fandom_candidate_pages` 只填写你有较高把握存在的英文 Fandom 页面
+   标题。允许为空；不要为了凑数编造页面。
+3. `local_search_terms_zh` 给出 2–12 个适合在 6.7.54 中文游戏文本中做
+   精确字符串检索的词语。避免“世界”“国家”“历史”这类宽泛词。
+4. `render_current_fandom_pages` 只能填写输入 current_fandom_pages 中的
+   `source_id`，不能填写页面名。原始证据疑似只有模板、转录占位符或
+   嵌入章节没有展开时才选择。
+5. 若缺口属于官方未说明或身份尚未公开，选择 `retain_unknown`，不要用
+   相似角色、玩家理论或别的概念填补。
+6. 若卡片把无直接关系的多个概念硬合并，选择 `narrow_or_split`。
+7. 完全排除米游社、HoYoLAB、论坛、视频、自媒体、同人考据与玩家理论。
+8. 输出只用于后续搜索；不要写事实答案，不要使用 Markdown。
+
+<SOURCE_PLANNING_INPUT>
+{planning_input_json}
+</SOURCE_PLANNING_INPUT>

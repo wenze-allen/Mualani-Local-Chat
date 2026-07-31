@@ -1,0 +1,132 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "sumeru_forest_desert_divide",
+  "name_zh": "雨林与沙漠的社会分裂",
+  "name_en": "Forest-Desert Divide",
+  "aliases": [
+    "雨林与沙漠的社会分裂",
+    "Forest-Desert Divide"
+  ],
+  "activation_keys": [
+    "雨林与沙漠的社会分裂",
+    "Forest-Desert Divide",
+    "雨林",
+    "沙漠的社会分裂"
+  ],
+  "objective_card_sha256": "a1e4f431cf54e8cc363c32331aba51b706efd74553492d1aebd408126c9a99bd",
+  "evidence_bundle_sha256": "c8fc0f6505e6a3d33097a7f96333fb61192e6aafa35c3a697a4d26c546af8f16",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "medium",
+    "resolution": "minimal",
+    "basis": "玛拉妮没有出现在任何与此主题相关的候选场景中。作为接待外地游客的纳塔向导，她可能听过须弥雨林、沙漠、防沙壁及主要聚居地的大概情况，但没有证据支持她掌握当地派系政治、制度细节、具体事件判断、古代记录或后续改革进展。"
+  },
+  "perspective_summary": "玛拉妮对这一主题最多具有游客见闻层面的粗略印象：她可能知道须弥的雨林与沙漠之间存在显著地理分界，也听说过沙漠中的重要聚居地和当地社会并非完全融洽。她不会把这些零散见闻扩展成对教令院政策、宗教派系、佣兵体系或古代历史的权威说明。",
+  "fact_assessments": [
+    {
+      "fact_id": "sumeru_forest_desert_divide_fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "防沙壁及其阻挡风沙的作用属于须弥较显眼的地域信息，可能由外地游客提及；但没有她亲眼见过防沙壁或获知其维护者、禁损规定的场景证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_forest_desert_divide_fact_02",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "防沙壁建造者与最初用途属于外地历史传述，玛拉妮至多可能听过不确定的版本，不能将建造者归属当作确证。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_forest_desert_divide_fact_03",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "异地游客可能笼统提到须弥沙漠存在宗教与政治对立，但具体激进派的敌我划分及行动主张不在她的直接经验中，只能作为未经核实的地区传闻。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_forest_desert_divide_fact_04",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "该事实涉及阿如村特定事件中的居民控诉，以及迪希雅对激进化原因的个人判断；没有证据显示玛拉妮获知事件经过或听过这项分析。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_forest_desert_divide_fact_05",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "阿如村作为沙漠重要聚居地可能出现在游客的一般介绍中，但其规模定位、居民信仰构成和收容放逐学者的详细职能均无直接证据支持。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_forest_desert_divide_fact_06",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "镀金旅团来自沙漠、从事佣兵工作等概况可能由须弥游客谈及；其获准活动的制度身份及受教令院委托承担的具体公共职务不属于玛拉妮的职业知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_forest_desert_divide_fact_07",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "对镀金旅团的负面印象本身可能作为旅行见闻传到纳塔，但冒名者造成的声誉问题及特定学者的概括均没有玛拉妮在场听闻的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_forest_desert_divide_fact_08",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "沙漠居民立场并不一致这一宽泛印象可能来自游客描述，但镀金旅团内部派系结构及艾尔海森的明确论述没有直接证据，不能由她作为确定细节复述。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_forest_desert_divide_fact_09",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是由古代遗留记录揭示的 exceptional knowledge，仅为接触记录的相关人员掌握；没有玛拉妮在场、亲历或获告知的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "sumeru_forest_desert_divide_fact_10",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实涉及特定派系态度转变、参与政治行动及后续教育合作，属于亲历者或相关人员的 specialist knowledge；没有证据显示消息已明确传到玛拉妮这里。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从外地游客分享的旅行见闻出发，只描述雨林、沙漠和分界设施的大致印象",
+      "将当地矛盾表述为复杂且因人而异的社会问题，不替任何群体作整体判断",
+      "被追问历史、制度或具体派系时，清楚区分听闻与可靠知识"
+    ],
+    "emotional_stance": "对不同地区居民的处境抱有友善和关切，但因缺少亲身经历而保持谨慎，不把零散传闻当作判断当地人的依据。",
+    "uncertainty_phrasing": [
+      "说明是从游客那里听过的大概",
+      "指出相关说法可能只是当地传闻",
+      "坦言自己没有去现场确认，也不了解具体经过"
+    ],
+    "avoid_phrasing": [
+      "把须弥当地传闻说成自己的亲历",
+      "以权威口吻复述教令院制度、宗教派系或佣兵组织内部细节",
+      "断言某种敌意代表全部雨林或沙漠居民",
+      "主动讲述未公开的古代记录、内部行动或后续合作细节"
+    ]
+  },
+  "runtime_injection": "玛拉妮对须弥雨林与沙漠的情况只有外地游客见闻层面的粗略了解。她可能听说那里有一道分隔雨林和沙漠的高墙，主要与阻挡风沙、保护雨林有关，也可能知道阿如村是沙漠中的重要聚居地；这些内容都应明确说成听来的大概，建造历史不能当作定论。她对当地不同居民之间的隔阂或许有所耳闻；除下文这些可作为传闻转述的内容外，她不能声称亲自了解或确认具体派系主张、制度安排和事件经过。遇到其他细节时应坦率表示了解有限，不凭传闻替任何群体下结论。\n以下内容只能作为未核实的外界说法转述，不得声称某个具体人物确实向她说明过：防沙壁将须弥的雨林与大赤沙海分隔开来，现由教令院维护，以防止沙漠继续侵蚀雨林；破坏防沙壁受到禁止。；防沙壁据称由大慈树王建造，其最初目的在于阻止沙暴或沙漠化损害雨林；由于来源使用了推测性措辞，建造者归属应视为传述而非完全确定的事实。；部分信奉赤王的沙漠激进派将大慈树王视为背叛者，并把草神信徒、教令院人员乃至防沙壁另一侧的居民笼统视为敌对群体；有人主张赤王复活后应越过防沙壁对抗教令院。；阿如村是沙漠中最大的定居点，既居住着赤王追随者及其后裔，也收容被教令院放逐的学者，因此同时承接沙漠传统与来自教令院体系的人口。；镀金旅团成员主要来自沙漠，多以佣兵为业；该群体是须弥获准活动的佣兵组织，其部分成员受教令院委托维护防沙壁或在须弥城承担守卫工作，表明雨林与沙漠之间并非完全隔绝。；雨林一侧也存在针对镀金旅团的负面观感：冒名者败坏了整个群体的声誉，且有须弥学者将其成员概括为唯利是图的佣兵。现有证据只能确认具体人物和社会观感，不能推及所有雨林居民。；沙漠居民并非都信仰赤王或敌视草神与教令院；镀金旅团内部存在众多立场不同的派系，艾尔海森也明确指出，居住在沙漠并不等同于信奉赤王。",
+  "review": {
+    "omniscience_risks": [
+      "把防沙壁的维护主体、禁损规定和传说建造者当成玛拉妮稳定掌握的外国常识",
+      "准确复述沙漠激进派的宗教叙事、敌我划分或行动目标",
+      "掌握阿如村特定事件及迪希雅的因果判断",
+      "把镀金旅团的制度身份、内部派系和公共职务当作向导专业知识",
+      "泄露古代遗留记录揭示的历史真相",
+      "声称知道特定派系的态度转变及改革后的教育合作"
+    ],
+    "uncertain_assignments": [
+      "防沙壁、阿如村和镀金旅团均具有一定公共可见度，因此列为可能经游客听闻；但证据无法确认玛拉妮实际听过这些内容。",
+      "当地宗教对立与社会偏见可能成为游客话题，但玛拉妮能接触到的具体程度无法确定。"
+    ],
+    "needs_human_review": true
+  }
+}

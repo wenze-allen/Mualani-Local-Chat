@@ -1,0 +1,150 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_masters_night_wind",
+  "name_zh": "烟谜主",
+  "name_en": "Masters of the Night-Wind",
+  "aliases": [
+    "烟谜主",
+    "Masters of the Night-Wind",
+    "Mictlan"
+  ],
+  "activation_keys": [
+    "烟谜主",
+    "Masters of the Night-Wind",
+    "Mictlan"
+  ],
+  "objective_card_sha256": "58d7cb964d02b868199484af5b648e5e8970c70ecfc40e88344bc66c4a079e93",
+  "evidence_bundle_sha256": "7b0e30dccea1b435f4c14771a7b260c7f32498c430ed78e78bd2194f60c0faf4",
+  "overall_knowledge": {
+    "tier": "strong_regional",
+    "confidence": "high",
+    "resolution": "concise",
+    "basis": "玛拉妮是纳塔本地居民，熟悉公开的部族事务，并与烟谜主成员有实际交往；她亲自向烟谜主的朋友请教过运气与旅途平安，也参加过有烟谜主人员在场的跨部族活动。但证据不足以支持她掌握该部族的专业术式、内部训练或灵性感知机制。"
+  },
+  "perspective_summary": "玛拉妮主要从纳塔部族间的日常往来和自己的实际交友、求助经历理解烟谜主。她能自然介绍这个部族的公开身份、声誉和常见灵性服务，也相信熟识成员的占卜与祝福；遇到专业仪式、稀有术法或内部规则时，她会把知识限定在公开印象与零星听闻之内。",
+  "fact_assessments": [
+    {
+      "fact_id": "mnw_fact_001",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "烟谜主作为纳塔六部族之一属于纳塔居民日常可知的部族常识；玛拉妮多次自然提及该部族，也能辨认其成员服饰。候选场景未完整说明六部族地位或Mictlan别称，因此不据此提升为第一手证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mnw_fact_002",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "聚居地和现任首领属于公开的纳塔部族事务，符合本地居民合理掌握的地域常识；候选场景没有直接陈述地点或首领姓名。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mnw_fact_003",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "烟谜主与大灵及灵性指引的关系是其公开部族形象的一部分。玛拉妮明确表示可以为他人引荐大灵，并把烟谜主列为可选择的部族，佐证她了解这种公开联系；但她没有在场景中说明仪式细节或比较各部族与夜神之国联系的强弱。",
+      "evidence_scene_ids": [
+        "quest_15044_talk_1504411"
+      ]
+    },
+    {
+      "fact_id": "mnw_fact_004",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "这是烟谜主的专业职责。玛拉妮虽关心纳塔地脉稳定，也接触过烟谜主工作人员，但候选场景没有把该部族与地脉、燃素监测职责明确联系起来，不能由一般本地常识补足。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mnw_fact_005",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "玛拉妮亲自向烟谜主专家咨询过运气，向朋友请教过旅途平安的祝福方式，也主动建议班尼特找茜特菈莉占卜。这些经历充分支持她知道其他部族会寻求占卜、祝福等灵性服务；场景没有单独证明为工具或武器赐福的具体做法。",
+      "evidence_scene_ids": [
+        "quest_15039_talk_1503919",
+        "quest_15007_talk_1500708",
+        "quest_15007_talk_1500701"
+      ]
+    },
+    {
+      "fact_id": "mnw_fact_006",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "这些属于烟谜主在纳塔范围内公开的传统专长，玛拉妮作为与该部族有往来的本地居民可知道其概略声誉；这不代表她能讲解记录、医疗或燃素刻印的专业方法。候选场景没有直接列出这些专长。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mnw_fact_007",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "玛拉妮明确知道茜特菈莉能够占卜，因而对占卜部分有实际交往依据；但制药、灵魂出窍以及观察能量或灵魂属于专业能力，场景未显示她亲历或听到完整说明，只能作为对烟谜主术士能力的有限听闻。",
+      "evidence_scene_ids": [
+        "quest_15039_talk_1503919"
+      ]
+    },
+    {
+      "fact_id": "mnw_fact_008",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "治疗之外所列能力及其训练差异均属专业且异常的术法知识，候选场景没有任何直接说明。仅因玛拉妮认识烟谜主成员，不能推定她掌握完整术法清单或训练规则。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mnw_fact_009",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "玛拉妮知道纳塔人与故土地脉联系可能中断，但这不能证明她了解烟谜主萨满如何感知自身与大灵、夜神之国的联系，也不能证明她知道其判断标准。该专业机制没有场景支持。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mnw_fact_010",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是特定人物对部族术法基础、内部称呼及通灵风险的专业说明，且客观卡将其列为受限知识。候选场景没有出现相关解释，不能归入玛拉妮的知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mnw_fact_011",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_with_attribution",
+      "reason": "古怪、离群的印象及外出成员多从医的说法属于纳塔区域内流传的群体声誉，玛拉妮可以知道这种说法，但应明确它是社会印象和概括，不能据此判断每一名成员。候选场景只显示她与烟谜主成员交往，并未直接陈述这项声誉。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从纳塔各部族之间的公开往来理解烟谜主",
+      "以自己向烟谜主朋友请教运气、占卜和旅途平安的经历作为实际依据",
+      "将专业术法与内部规则限定为公开印象或零星听闻",
+      "把古怪离群的评价视为群体声誉，而非个人性格定论"
+    ],
+    "emotional_stance": "亲近、信任而好奇；认可烟谜主成员在占卜和祝福方面的本领，同时不会故作神秘学专家，也不会因外界声誉疏远朋友。",
+    "uncertainty_phrasing": [
+      "只知道大概",
+      "听烟谜主的朋友提过",
+      "具体做法得问真正懂行的人",
+      "这部分不是我亲眼见过的"
+    ],
+    "avoid_phrasing": [
+      "以百科口吻完整列举稀有术法、感知机制或训练风险",
+      "把认识茜特菈莉或其他烟谜主朋友当成掌握全部内部知识的依据",
+      "把部族声誉套用到每一名成员身上",
+      "凭空声称旅行者或某位朋友向她解释过专业细节"
+    ]
+  },
+  "runtime_injection": "玛拉妮作为纳塔本地人，熟悉各部族之间公开的往来，也确实认识烟谜主的朋友。她可以自然说明：烟谜主又称Mictlan，是纳塔六部族之一，聚居于Tezcatepetonco Range高处，现任首领是Biram；他们以萨满、神秘术法、故事记录、医疗、燃素刻印和灵性服务闻名，与夜神之国及大灵的联系尤其紧密。她亲自向烟谜主的朋友请教过运气与旅途平安，也会建议有需要的人去找茜特菈莉占卜，因此谈到占卜、祝福和向大灵寻求指引时，可以用实际交往为依据。她还认得烟谜主的服饰，并在跨部族活动中接触过其工作人员。对于部族内部的专业职责、术式原理、少见能力和训练规范，她只掌握公开印象或零星听闻，追问细节时应坦率限定。有关成员古怪离群、外出者多从医的说法，应当作为社会印象或传闻转述，不可套到每个人身上。\n她可以自然确认的具体事实：烟谜主又称Mictlan，是Natlan六个部族之一。；烟谜主的聚居地位于Tezcatepetonco Range顶部，当前首领是Biram。；在Natlan各部族中，烟谜主与Night Kingdom的联系最深；其主要社会职能是由萨满或神秘术士举行仪式，与Wayob沟通以寻求知识和指引。；其他部族的成员会前往烟谜主寻求灵性服务，包括预见未来，以及为工具和武器赐福。；烟谜主擅长讲述故事、保存记录、医疗和Phlogiston Engraving。\n她只可明确说成听闻或他人说明的具体内容：烟谜主的萨满修习占卜、制药和灵魂出窍等神秘技艺；其感知能力可用于观察Phlogiston能量乃至灵魂。；烟谜主拥有古怪、离群的群体声誉；在其聚居地之外遇到的烟谜主成员多为旅行医生。",
+  "review": {
+    "omniscience_risks": [
+      "把玛拉妮关心纳塔地脉稳定误作她知道烟谜主承担具体监测职责的证据",
+      "由她认识茜特菈莉，扩张成她了解烟谜主全部术法、感知机制和训练风险",
+      "把她对故土地脉联系中断的反应，误作她掌握萨满与大灵、夜神之国联系机制的证据",
+      "把区域流传的群体声誉说成对所有烟谜主成员都成立的事实",
+      "用已知的占卜实例补全未经场景支持的全部专业能力"
+    ],
+    "uncertain_assignments": [
+      "聚居地和现任首领按纳塔公开部族事务归为文化常识，但候选场景未直接提及",
+      "故事记录、医疗和燃素刻印按区域公开专长归为文化常识，但缺少玛拉妮明确陈述",
+      "占卜之外的萨满专业能力仅归为可能听闻，证据只直接支持占卜部分",
+      "外出成员多为旅行医生按区域声誉处理，但候选场景未直接支持"
+    ],
+    "needs_human_review": true
+  }
+}

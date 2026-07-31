@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Mualani assistant-only SFT row",
+  "type": "object",
+  "required": ["id", "language", "group_id", "prompt", "completion", "metadata"],
+  "properties": {
+    "id": {"type": "string"},
+    "language": {"enum": ["zh", "en"]},
+    "group_id": {"type": "string"},
+    "prompt": {
+      "type": "array",
+      "prefixItems": [
+        {
+          "type": "object",
+          "required": ["role", "content"],
+          "properties": {"role": {"const": "system"}, "content": {"type": "string"}}
+        },
+        {
+          "type": "object",
+          "required": ["role", "content"],
+          "properties": {"role": {"const": "user"}, "content": {"type": "string"}}
+        }
+      ],
+      "minItems": 2,
+      "maxItems": 2
+    },
+    "completion": {
+      "type": "object",
+      "required": ["role", "content"],
+      "properties": {"role": {"const": "assistant"}, "content": {"type": "string", "minLength": 1}}
+    },
+    "metadata": {"type": "object"}
+  }
+}

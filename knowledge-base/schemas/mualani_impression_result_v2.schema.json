@@ -1,0 +1,163 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Mualani impression-card organizer result v2",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["decision", "exclusion_reason", "card"],
+  "properties": {
+    "decision": {
+      "type": "string",
+      "enum": ["include", "exclude"]
+    },
+    "exclusion_reason": {
+      "type": ["string", "null"]
+    },
+    "card": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schema_version",
+        "character_id",
+        "name_zh",
+        "name_en",
+        "aliases",
+        "roster_type",
+        "evidence_types",
+        "familiarity",
+        "address_terms",
+        "mualani_impression",
+        "behavioral_boundaries",
+        "activation_keys",
+        "runtime_injection",
+        "evidence",
+        "review"
+      ],
+      "properties": {
+        "schema_version": {
+          "type": "string",
+          "const": "mualani-impression-card-v2"
+        },
+        "character_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9_]+$"
+        },
+        "name_zh": {
+          "type": "string"
+        },
+        "name_en": {
+          "type": "string"
+        },
+        "aliases": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "roster_type": {
+          "type": "string",
+          "enum": ["playable", "satellite", "companion"]
+        },
+        "evidence_types": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "explicit_voice",
+              "explicit_mention",
+              "direct_dialogue",
+              "shared_event"
+            ]
+          }
+        },
+        "familiarity": {
+          "type": "string",
+          "enum": ["direct", "acquainted", "observed", "unknown"]
+        },
+        "address_terms": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "mualani_impression": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["text", "basis", "evidence_strength"],
+          "properties": {
+            "text": {"type": "string"},
+            "basis": {
+              "type": "string",
+              "enum": [
+                "explicit",
+                "inferred_from_reported_information",
+                "inferred_from_interactions",
+                "inferred_from_shared_event",
+                "insufficient"
+              ]
+            },
+            "evidence_strength": {
+              "type": "string",
+              "enum": ["high", "medium", "insufficient"]
+            }
+          }
+        },
+        "behavioral_boundaries": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "activation_keys": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "runtime_injection": {
+          "type": "string"
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "source_type",
+              "source_file",
+              "document_id",
+              "dialogue_ids",
+              "excerpt",
+              "supports"
+            ],
+            "properties": {
+              "source_type": {"type": "string"},
+              "source_file": {"type": "string"},
+              "document_id": {"type": "string"},
+              "dialogue_ids": {
+                "type": "array",
+                "items": {"type": "string"}
+              },
+              "excerpt": {"type": "string"},
+              "supports": {
+                "type": "array",
+                "items": {"type": "string"}
+              }
+            }
+          }
+        },
+        "review": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "conflicting_evidence",
+            "uncertain_claims",
+            "needs_human_review"
+          ],
+          "properties": {
+            "conflicting_evidence": {
+              "type": "array",
+              "items": {"type": "string"}
+            },
+            "uncertain_claims": {
+              "type": "array",
+              "items": {"type": "string"}
+            },
+            "needs_human_review": {"type": "boolean"}
+          }
+        }
+      }
+    }
+  }
+}

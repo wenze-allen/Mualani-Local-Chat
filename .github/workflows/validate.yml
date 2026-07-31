@@ -1,0 +1,31 @@
+name: Validate source and research assets
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v6
+      - name: Validate runtime package
+        run: python3 scripts/validate-package.py
+      - name: Validate full cards and reproducibility assets
+        run: python3 scripts/validate-research.py
+      - name: Compile public Python entry points
+        run: |
+          python3 -m py_compile \
+            dataset/builders/*.py \
+            knowledge-base/builders/*.py \
+            presets/*.py \
+            scripts/*.py \
+            training/src/*.py
+      - name: Parse public shell scripts
+        run: |
+          bash -n dataset/build.sh
+          bash -n training/scripts/*.sh

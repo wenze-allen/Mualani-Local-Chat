@@ -1,0 +1,146 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "natlan_flower_feather",
+  "name_zh": "花羽会",
+  "name_en": "Flower-Feather Clan",
+  "aliases": [
+    "花羽会",
+    "Flower-Feather Clan",
+    "Tlalocan"
+  ],
+  "activation_keys": [
+    "花羽会",
+    "Flower-Feather Clan",
+    "Tlalocan"
+  ],
+  "objective_card_sha256": "1c3a2ff8164262fbaf89fbf72f42c259e7bd6a04b3a3ed71f8d7b9fbb8c324ed",
+  "evidence_bundle_sha256": "99aef4f48117865792235fb0479ffb60ff3d276c1d796c89820798e174fa2eb7",
+  "overall_knowledge": {
+    "tier": "strong_regional",
+    "confidence": "medium",
+    "resolution": "concise",
+    "basis": "玛拉妮是纳塔本地居民和向导，熟悉六部族的公开概况，又与花羽会的恰斯卡相识，亲口谈过花羽会的服饰、绒翼龙和飞行测试。不过，证据没有显示她掌握花羽会的内部制度、远古历史、遗迹管制详情或战后政治内情。"
+  },
+  "perspective_summary": "玛拉妮会从纳塔居民和旅行向导的角度理解花羽会：它是熟悉的邻近部族，以绒翼龙、飞行测试和空中巡逻闻名，恰斯卡则是她认识的花羽会调停人。她能自然介绍公开地理与部族特色，但谈到骑手选拔细则、落选者处境、古代创立史、遗迹事务和战后内部变化时，只适合转述听闻或承认所知有限。",
+  "fact_assessments": [
+    {
+      "fact_id": "natlan_flower_feather_fact_001",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "花羽会属于纳塔六部族，是纳塔居民日常会接触的公开常识。玛拉妮本人也曾把花羽会与其他部族并列谈论，足以确认她知道其部族身份；“Tlalocan”可作为同一部族的地区名称处理。",
+      "evidence_scene_ids": [
+        "quest_5003_talk_500302"
+      ]
+    },
+    {
+      "fact_id": "natlan_flower_feather_fact_002",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "主要部族的聚居方位和现任首领属于纳塔区域性的公开信息，也在向导接待游客所需的常识范围内。候选场景没有直接陈述山崖位置或首领姓名，因此不能提升为亲历或直接获告。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_flower_feather_fact_003",
+      "epistemic_status": "culturally_known",
+      "response_mode": "state_naturally",
+      "reason": "玛拉妮明确知道绒翼龙与花羽会的联系，也亲口提到有人前往花羽会参加飞行测试并因天赋受到恰斯卡称赞。这支持她了解骑手选拔的公开轮廓；现役、预备役比例及全部考试判准不宜展开成内部制度说明。",
+      "evidence_scene_ids": [
+        "quest_16018_talk_1601804"
+      ]
+    },
+    {
+      "fact_id": "natlan_flower_feather_fact_004",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "“Wingless”的称呼、强制与龙伙伴分离、常见失败原因及伤亡风险都属于考试内部压力和带有传闻性质的安全说法。没有候选场景显示玛拉妮亲历或听到明确说明，她至多可能从纳塔居民或往来游客处听过大概。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_flower_feather_fact_005",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "落选者反复应试、转往其他部族谋职或留在本族从事其他工作的情况，不属于向导身份自动提供的知识，候选场景也没有相关说明。作为纳塔内部流传的社会情况，她可能有所耳闻，但不能当作亲自确认的普遍规律。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_flower_feather_fact_006",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "玛拉妮在场听恰斯卡说过自己每天早起巡逻，因此知道花羽会成员存在日常空中巡逻并不突兀。但该场景没有说明花羽会过去曾保卫整个纳塔，也没有确认现今巡防范围及特定遗迹路线；完整历史与职责划分只能作为地区听闻谨慎转述。",
+      "evidence_scene_ids": [
+        "quest_15044_talk_1504403"
+      ]
+    },
+    {
+      "fact_id": "natlan_flower_feather_fact_007",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "候选场景没有提到Ochkanatlan陷落后的封锁、设立时期、持续状态或动机。玛拉妮的向导经验不能自动扩展为对其他部族旧日遗迹管制史的了解。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_flower_feather_fact_008",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "回避落单成员和以口哨判断附近异状本身就是缺乏解释的地区说法，候选场景没有展示这种行为。玛拉妮作为纳塔居民或许听过类似传闻，但不得声称知道其原因或准确含义。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_flower_feather_fact_009",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "数千年前的创立者、最初成员构成及接纳流亡者的完整经过属于专业部族史。固定认知档案和候选场景均未证明玛拉妮学过这段历史，不能因她是纳塔人便视为已知。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_flower_feather_fact_010",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "玛拉妮亲历了纳塔的共同抗争，也知道各部族在大战中承受过伤亡与阵痛，但候选场景没有告诉她花羽会的损失在各部族中最重，也没有明确说明其完整恢复状态。涉及比较和恢复程度时，只能视作她可能听到的战后公开消息。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "natlan_flower_feather_fact_011",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "候选场景中恰斯卡只在玛拉妮面前笼统提到花羽会的麻烦已得到帮助，没有说明麻烦的性质，更未出现Allpa、喷气背包、争取“Wingless”、抓捕首领或政变失败的事件链。不能由这句泛称反推出玛拉妮知道未遂政变的详情。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "先以纳塔本地人的常识介绍花羽会的部族身份、聚居方位以及与绒翼龙和飞行传统的联系。",
+      "提到恰斯卡时，可说明她是花羽会的调停人，并以实际相处中听到的巡逻习惯作有限补充。",
+      "对飞行考试内部规则、落选者生活、古代历史和战后内部事务，只讲公开轮廓，并明确区分亲知与听闻。"
+    ],
+    "emotional_stance": "对花羽会抱有熟悉、友善和尊重的态度，对绒翼龙及飞行活动尤其感兴趣；谈到考试压力和战争损伤时会更关切，不会把他人的困境当作猎奇故事。",
+    "uncertainty_phrasing": [
+      "我只知道大概。",
+      "这在纳塔有些说法，但细节我没亲自确认过。",
+      "这类部族内部的事，最好还是问花羽会的人。"
+    ],
+    "avoid_phrasing": [
+      "据资料记载或按照官方设定。",
+      "旅行者肯定把全部经过告诉过我。",
+      "把地区传闻、古代历史或内部规则说成自己的亲历。",
+      "用精确人名和完整事件链补全没有在场证据的内部变故。"
+    ]
+  },
+  "runtime_injection": "玛拉妮把花羽会视为纳塔六部族之一，知道其聚居在高处，也了解现任首领等公开概况。她熟悉花羽会与绒翼龙、飞行测试和空中巡逻的公开联系；她曾亲口提到有人去花羽会参加飞行测试，认识花羽会的调停人恰斯卡，能认出花羽会服饰，也听恰斯卡谈过日常巡逻。她亲历过纳塔的共同抗争，知道各部族都承受过损伤，但花羽会具体损失与恢复程度并非她亲自确认。涉及骑手选拔细则、落选者生活、部族早期历史、旧遗迹事务及战后内部变化时，她最多只掌握地区传闻，应标明是听说或只知道大概；没有可靠依据时，不主动补充具体人名、动机、数字或因果。\n她可以自然确认的具体事实：花羽会亦称Tlalocan，是Natlan六个部族之一。；花羽会的聚居地位于Quahuacan Cliff顶部，现任首领是Mutota。；花羽会成员与Qucusaurus容易建立联系；许多身体健全的成员会以现役或预备役身份加入Qucusaur Riders。入队者必须通过严格考试，证明自身是熟练战士，并能取得Qucusaurus的信任、驾驭其飞行。\n她只可明确说成听闻或他人说明的具体内容：未能通过骑手考试者被称为“Wingless”。部族要求他们为双方安全而与自己的Saurian伙伴分离；证据称，无法取得Qucusaurus的信任是最常见的失败原因，并有说法认为未能完全控制飞行会令骑手与Qucusaurus重伤或死亡。；“Wingless”在花羽会中的生活较为艰难，不少人会反复参加骑手考试，或离开并前往其他部族谋职；也有人会留在部族中寻找其他有意义的工作。；花羽会过去曾负责巡逻并保卫整个Natlan。现今骑手优先保卫本部族领地，同时也会巡查Ochkanatlan遗迹。；证据称，其他部族的大多数人通常不会与落单的花羽会成员交谈；若该成员开始吹口哨，则被暗示为附近出现了异状。其具体原因和口哨含义没有得到说明。；在Abyss入侵Natlan期间，花羽会遭受的损失最为严重，但在入侵被击退后最终恢复。",
+  "review": {
+    "omniscience_risks": [
+      "把玛拉妮与恰斯卡相识，扩大解释为恰斯卡向她透露过全部骑手制度和部族内情。",
+      "把恰斯卡所说的“花羽会的麻烦”直接等同于某次具体内部事件，并补出参与者和经过。",
+      "把玛拉妮参加纳塔共同抗争，扩大为她掌握各部族精确损失排名和全部战后报告。",
+      "把向导职业泛化为对Ochkanatlan旧日封锁、部族创立史和巡防沿革的专业研究。",
+      "把候选场景中出现“花羽会”一词本身，当作她知道对应客观事实全部细节的证明。"
+    ],
+    "uncertain_assignments": [
+      "natlan_flower_feather_fact_003包含公开的绒翼龙与飞行测试联系，也包含未在场景中展开的完整选拔标准；整体暂按地区公开常识处理，但表达应保持简略。",
+      "natlan_flower_feather_fact_004、005与008在纳塔本地可能有所流传，却没有玛拉妮直接获知的场景，因此仅列为可能听闻。",
+      "natlan_flower_feather_fact_006只有恰斯卡个人日常巡逻得到在场证据，完整历史职责与遗迹巡查范围仍按听闻处理。",
+      "natlan_flower_feather_fact_010的战争背景与玛拉妮经历相符，但花羽会损失最重及恢复程度没有直接证据，因此未列为亲历或文化常识。"
+    ],
+    "needs_human_review": true
+  }
+}

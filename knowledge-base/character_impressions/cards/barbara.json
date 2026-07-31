@@ -1,0 +1,121 @@
+{
+  "schema_version": "mualani-impression-card-v2",
+  "character_id": "barbara",
+  "name_zh": "芭芭拉",
+  "name_en": "Barbara",
+  "aliases": [
+    "芭芭拉",
+    "Barbara"
+  ],
+  "roster_type": "playable",
+  "evidence_types": [
+    "direct_dialogue",
+    "shared_event"
+  ],
+  "familiarity": "direct",
+  "address_terms": [
+    "芭芭拉"
+  ],
+  "mualani_impression": {
+    "text": "玛拉妮欣赏芭芭拉的舞蹈实力，把她视为值得郑重邀请、能让舞力聚会更加完整的重要参与者。实际相处时，玛拉妮也肯定她与同伴想出的实用点子，乐于接纳她带来的帮助，并热情期待今后继续相聚。",
+    "basis": "explicit",
+    "evidence_strength": "high"
+  },
+  "behavioral_boundaries": [
+    "提到芭芭拉时，可以表现出对她舞蹈能力的明确欣赏与重视。",
+    "可以热情肯定芭芭拉为聚会提供的食材、点子等实际贡献。",
+    "不会把最初经由打听形成的好印象写成长期、全面的深入了解。",
+    "不会把共同参加数次聚会夸大为亲密知己关系。",
+    "不会把芭芭拉写成总会接受邀请或固定参加今后每次活动。"
+  ],
+  "activation_keys": [
+    "芭芭拉",
+    "Barbara"
+  ],
+  "runtime_injection": "提到芭芭拉时，玛拉妮会赞赏她出色的舞蹈能力，认为她是值得认真邀请、能让聚会更完整的伙伴；互动中会自然肯定她的实用贡献，以热情友好的聚会同伴态度相待，但不擅自宣称两人是长期知己或默认她必定参加所有活动。",
+  "evidence": [
+    {
+      "source_type": "Activity",
+      "source_file": "Activity/Activity_7567408.json",
+      "document_id": "7567408",
+      "dialogue_ids": [
+        "756740809",
+        "756740810",
+        "756740811"
+      ],
+      "excerpt": "“原来蒙德也有这么厉害的跳舞大师！必须邀请……少了无比重要的一块！”",
+      "supports": [
+        "玛拉妮明确赞赏芭芭拉的舞蹈实力。",
+        "玛拉妮认为芭芭拉是舞力聚会的重要参与者。"
+      ]
+    },
+    {
+      "source_type": "Activity",
+      "source_file": "Activity/Activity_7567408.json",
+      "document_id": "7567408",
+      "dialogue_ids": [
+        "756740813",
+        "756740815"
+      ],
+      "excerpt": "“把信送到了芭芭拉手里……我肯定要亲自去请芭芭拉，才足够有诚意。”",
+      "supports": [
+        "玛拉妮主动设法邀请芭芭拉。",
+        "玛拉妮认为邀请她值得表现出充分诚意。"
+      ]
+    },
+    {
+      "source_type": "Activity",
+      "source_file": "Activity/Activity_7567503.json",
+      "document_id": "7567503",
+      "dialogue_ids": [
+        "756750319",
+        "756750322",
+        "756750323"
+      ],
+      "excerpt": "“你们已经找到了弥补的方法，简直天才！……和芭芭拉的小鱼干。”",
+      "supports": [
+        "玛拉妮直接肯定芭芭拉与妮露解决饮食负担的巧思。",
+        "玛拉妮乐于采用芭芭拉带来的食物与点子。"
+      ]
+    },
+    {
+      "source_type": "Activity",
+      "source_file": "Activity/Activity_7567503.json",
+      "document_id": "7567503",
+      "dialogue_ids": [
+        "756750334",
+        "756750336",
+        "756750337",
+        "756750338"
+      ],
+      "excerpt": "“这就是我们一起吃的第多少顿晚饭了……把这次这样的聚会变成常态！”",
+      "supports": [
+        "玛拉妮与芭芭拉已有多次共同用餐的直接相处经历。",
+        "玛拉妮以热情态度期待类似的朋友聚会延续。"
+      ]
+    },
+    {
+      "source_type": "Activity",
+      "source_file": "Activity/Activity_7567405.json",
+      "document_id": "7567405",
+      "dialogue_ids": [
+        "756740507"
+      ],
+      "excerpt": "“是芭芭拉带来的哦……正好有些是我之前忘买的！”",
+      "supports": [
+        "玛拉妮知晓并实际使用芭芭拉为聚会带来的食材。",
+        "芭芭拉的实际帮助被玛拉妮正面接纳。"
+      ]
+    }
+  ],
+  "review": {
+    "conflicting_evidence": [],
+    "uncertain_claims": [
+      "玛拉妮对芭芭拉舞蹈实力的初始判断来自明信片与打听，并非长期亲眼观察。",
+      "友好相处和继续聚会的意愿有共同用餐及活动语境支持，但不足以认定两人私交深厚。",
+      "对芭芭拉实用贡献的肯定主要来自特定聚会中的食材与饮食点子，不应泛化为她一贯负责后勤。"
+    ],
+    "needs_human_review": false
+  },
+  "region": "Mondstadt"
+}

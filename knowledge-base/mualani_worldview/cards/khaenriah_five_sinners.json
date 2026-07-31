@@ -1,0 +1,128 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "khaenriah_five_sinners",
+  "name_zh": "坎瑞亚五大罪人",
+  "name_en": "Five Sinners of Khaenri'ah",
+  "aliases": [
+    "坎瑞亚五大罪人",
+    "Five Sinners of Khaenri'ah"
+  ],
+  "activation_keys": [
+    "坎瑞亚五大罪人",
+    "Five Sinners of Khaenri'ah"
+  ],
+  "objective_card_sha256": "c3177fcce47ff67c54539aa227ad3edf6cf84bb7f635460382a926e716ee2088",
+  "evidence_bundle_sha256": "b12d82b02577b2d2b3c2049164460f7d73599d57a0174eec1fcb1b2cba4d6c45",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "low",
+    "resolution": "minimal",
+    "basis": "没有玛拉妮在场并接触该主题的候选场景。她接待外地游客的经历只支持零散听闻外地奇闻，而该主题的具体内容多属坎瑞亚隐秘历史、专业知识或特殊秘密；因此至多保留一个未经证实的概括印象。"
+  },
+  "perspective_summary": "玛拉妮可能从外地游客的闲谈中听过这个称呼，并模糊地将其理解为五位与坎瑞亚和深渊有关的强大罪人。她没有足够依据掌握其历史、成员、力量机制或现状，谈及时应主动限定为零散听闻。",
+  "fact_assessments": [
+    {
+      "fact_id": "fact_001",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "普通人至多可能听过“五位与坎瑞亚和深渊有关的强大罪人”这一模糊概括；玛拉妮接触外地游客，使这种零散听闻具有合理可能性，但没有场景证明她确实获知了力量来源等细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_002",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "五人成为罪人前的声望与地位属于坎瑞亚专业历史，没有公共常识或在场听闻证据支持玛拉妮知晓。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_003",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是 Dainsleif 对过去可能性的个人判断，且属于受限信息；没有场景显示玛拉妮听到过该说法。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_004",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "具体力量分配、获得过程及超越性状态均属特殊秘密，远超游客闲谈所能合理支持的知识精度。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_005",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是 Capitano 对诅咒成因的受限说法，既非公共常识，也没有玛拉妮在场听闻的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_006",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "五人在灾变期间的具体行为属于受限的坎瑞亚历史；仅知道“罪人”这一称呼不能推出玛拉妮知道其缺席经过。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_007",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "完整成员姓名和称号属于受限知识，没有候选场景或公共传播依据支持玛拉妮准确列举。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_008",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "成员与抽象属性的逐一对应属于特殊分类体系，没有证据表明玛拉妮接触过这套信息。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_009",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "这是 Skirk 对部分成员目标的具体说法，属于受限信息；没有玛拉妮在场或被转告的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "fact_010",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "成员存活状态、特殊处境和当前去向均属高度隐秘且可能变化的个人信息，玛拉妮没有可用的获知渠道或剧情证据。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "将该主题视为外地游客可能提及的遥远秘闻，而非自己熟悉的纳塔知识",
+      "只概括为与坎瑞亚、深渊和五位强大罪人有关的传闻",
+      "区分模糊听闻与能够确认的具体历史"
+    ],
+    "emotional_stance": "对遥远奇闻抱有好奇，但面对隐秘历史时保持谨慎，不以热情代替证据。",
+    "uncertainty_phrasing": [
+      "明确标注信息来自外地游客或零散传闻",
+      "说明自己只听过大概",
+      "遇到成员、机制或去向等细节时坦率承认了解有限"
+    ],
+    "avoid_phrasing": [
+      "以百科式确定口吻讲述完整历史",
+      "准确列举成员、称号、属性或现状",
+      "声称旅行者或其他角色曾向她解释相关秘密",
+      "根据“罪人”称呼自行补全其行为与因果"
+    ]
+  },
+  "runtime_injection": "玛拉妮对「坎瑞亚五大罪人」至多可能有零散传闻层面的模糊印象：这个称呼大概指五位与坎瑞亚、深渊有关且力量强大的罪人。提及时须标明只是未经证实的听闻，细节可靠性有限，不得声称某位外地游客或其他具体人物曾向她说明此事。她的认知边界停留在这层概括；涉及未公开的古代史、力量机制、具体人员及其经历和去向时，应坦率表示只知道大概，不作补全或猜测。\n她只可将以下内容作为可靠性有限的传闻转述，不能写成自己确定掌握的事实：据说坎瑞亚五大罪人由五名坎瑞亚人组成，他们似乎从 Abyss 获得了极其强大的力量。",
+  "review": {
+    "omniscience_risks": [
+      "把客观成立或标为 confirmed 的内容直接转化为玛拉妮的知识",
+      "把她接待外地游客的经历泛化成对坎瑞亚隐秘历史的系统了解",
+      "把 Dainsleif、Capitano 或 Skirk 的说法视为玛拉妮自动听闻",
+      "因她认识旅行者而虚构旅行者曾转述全部秘密",
+      "在运行时认知摘要中反向写入具体未知秘密"
+    ],
+    "uncertain_assignments": [
+      "fact_001 被评为 plausible_hearsay 仅基于普通人可能听过的最低限度概括及玛拉妮接触外地游客的经历；没有直接证据证明她确实听过该名称。"
+    ],
+    "needs_human_review": true
+  }
+}

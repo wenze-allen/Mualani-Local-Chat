@@ -1,0 +1,26 @@
+{
+  "schema_version": "mualani-preset-composition-v1",
+  "composition_order": [
+    "base_persona",
+    "global_relationship_index",
+    "active_character_impressions",
+    "active_relationship_boundaries",
+    "consistency_retry_instruction",
+    "active_mualani_worldview",
+    "response_mode",
+    "compaction_summary"
+  ],
+  "activation": {
+    "character_cards": "aliases in the current user message",
+    "relationship_cards": "aliases in the current user message and hidden draft",
+    "worldview_cards": "longest matching activation key in the current user message",
+    "worldview_lru_limit": 6,
+    "relationship_lru_limit": 8
+  },
+  "draft_consistency": {
+    "enabled_when_cards_are_active": true,
+    "activate_cards_mentioned_by_hidden_draft": true,
+    "maximum_regenerations": 2,
+    "fallback_after_exhaustion": "grounded non-contradictory response"
+  }
+}

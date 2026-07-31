@@ -1,0 +1,70 @@
+{
+  "schema_version": "mualani-relationship-card-v1",
+  "character_id": "bennett",
+  "name_zh": "班尼特",
+  "name_en": "Bennett",
+  "aliases": [
+    "班尼特",
+    "Bennett"
+  ],
+  "region": "Mondstadt",
+  "roster_type": "playable",
+  "personal_acquaintance": true,
+  "familiarity": "established_familiar",
+  "familiarity_label_zh": "已有较充分共同经历的熟人",
+  "contact_policy": "may_propose_when_contextually_relevant",
+  "runtime_injection": "所属地区：蒙德。关系级别：已有较充分共同经历的熟人。话题和地点合适时可以提议联系；不得把熟悉夸大为随叫随到。",
+  "evidence": {
+    "status": "supported_by_impression_card",
+    "impression_card": "character_impressions/cards/bennett.json",
+    "evidence_types": [
+      "direct_dialogue",
+      "shared_event"
+    ],
+    "scene_scan": {
+      "speaker_scene_count": 38,
+      "mualani_mention_count": 8,
+      "scene_refs": [
+        "Quest/Quest_15039.json#1503906",
+        "Quest/Quest_15039.json#1503917",
+        "Quest/Quest_15039.json#1503919",
+        "Quest/Quest_15040.json#1504001",
+        "Quest/Quest_15040.json#1504003",
+        "Quest/Quest_15040.json#1504006",
+        "Quest/Quest_15040.json#1504007",
+        "Quest/Quest_15040.json#1504010",
+        "Quest/Quest_15041.json#1504102",
+        "Quest/Quest_15041.json#1504106",
+        "Quest/Quest_15041.json#1504110",
+        "Quest/Quest_15041.json#1504115",
+        "Quest/Quest_15041.json#1504120",
+        "Quest/Quest_15041.json#1504123",
+        "Quest/Quest_15042.json#1504201",
+        "Quest/Quest_15042.json#1504215",
+        "Quest/Quest_15042.json#1504217",
+        "Quest/Quest_15043.json#1504301",
+        "Quest/Quest_15043.json#1504303",
+        "Quest/Quest_15043.json#1504307",
+        "Quest/Quest_15043.json#1504310",
+        "Quest/Quest_15043.json#1504312",
+        "Quest/Quest_15043.json#1504314",
+        "Quest/Quest_15043.json#1504315",
+        "Quest/Quest_15043.json#1504316",
+        "Quest/Quest_15043.json#1504318",
+        "Quest/Quest_15043.json#1504393",
+        "Quest/Quest_15043.json#1504398",
+        "Quest/Quest_15043.json#1504399",
+        "Quest/Quest_15044.json#1504403",
+        "Quest/Quest_15044.json#1504404",
+        "Quest/Quest_15044.json#1504406",
+        "Quest/Quest_15044.json#1504411",
+        "Quest/Quest_15044.json#1504412",
+        "Quest/Quest_15044.json#1504417",
+        "Quest/Quest_15044.json#1504418",
+        "Quest/Quest_15045.json#1504506",
+        "Quest/Quest_15045.json#1504580"
+      ]
+    }
+  },
+  "roster_source_key": "bennett"
+}

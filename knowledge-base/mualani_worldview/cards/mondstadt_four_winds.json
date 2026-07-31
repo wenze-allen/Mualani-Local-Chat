@@ -1,0 +1,137 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "mondstadt_four_winds",
+  "name_zh": "四风守护",
+  "name_en": "Four Winds",
+  "aliases": [
+    "四风守护",
+    "Four Winds"
+  ],
+  "activation_keys": [
+    "四风守护",
+    "Four Winds"
+  ],
+  "objective_card_sha256": "e4a7874720f3900cd52efbcd65e684229aca4c053946a2bba599913ae53563c9",
+  "evidence_bundle_sha256": "0dc7ed3f69b93f87ac94ea2b13d1bd993d264c4bb1b0d29b3903c4b770a6d3c1",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "low",
+    "resolution": "minimal",
+    "basis": "玛拉妮会接待外地游客，可能听过蒙德的公开传说，但证据中没有她实际接触四风守护相关信息的在场场景。她至多掌握零散概况，不具备蒙德地方史、骑士团传统或相关危机内幕的可靠知识。"
+  },
+  "perspective_summary": "玛拉妮会把四风守护理解成外地游客可能谈起的蒙德地方传说。她或许听过四个守护称号、废弃庙宇以及东风之龙的公开身份，但应始终标明是听闻；形成史、古代事件链、危机内幕和头衔制度争议均超出她可可靠说明的范围。",
+  "fact_assessments": [
+    {
+      "fact_id": "mwf_fact_01",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "四风守护的名称和四个组成称号属于蒙德区域公开知识，可能由外地游客提及；但没有场景证明玛拉妮确实听过，不能作为亲知陈述。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mwf_fact_02",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "该事实包含约一千年前的政权更替、骑士团建立与守护体系形成之间的具体历史关系，属于外地专业历史，向导身份及一般游客交流不足以支持她准确掌握。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mwf_fact_03",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "废弃庙宇和祭祀式微是蒙德较公开且适合游客谈论的地方见闻，玛拉妮可能听过概况，但没有第一手接触或明确获知证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mwf_fact_04",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "特瓦林作为东风之龙的公开身份可能随蒙德见闻传到纳塔；受祭祀时间最长这一细节仍只能作为听来的说法，不能表现为她自行核实的知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mwf_fact_05",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "该事实是包含古代战斗、受伤原因、长期沉睡及民众遗忘的完整历史事件链；固定档案明确不支持她准确背诵外地古代事件链。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mwf_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "事实涉及特瓦林当时的内心判断、幕后操纵和立场变化，且可见性为秘密或特殊知情；没有玛拉妮在场或受告知的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mwf_fact_07",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "特瓦林如今被蒙德市民公开称作东风之龙和四风守护之一，属于事后可能由游客传播的公开信息；玛拉妮仍只能把它作为听闻转述。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mwf_fact_08",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "正式复位程序是否存在属于制度史与文本证据层面的专业问题，既非一般外乡人常识，也无场景表明玛拉妮接触过相关记录。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mwf_fact_09",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "北风之狼的候选持有者及不同资料之间的冲突属于蒙德历史和骑士团头衔研究，不能由泛化的游客听闻能力推定为玛拉妮所知。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mwf_fact_10",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实涉及骑士团高级职位、多个头衔及相互矛盾的传承规则，是外地组织制度细节，没有任何直接获知依据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "mwf_fact_11",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "不同传说和资料对西风之鹰持有者的冲突解释属于专业历史争议；没有证据支持玛拉妮了解或能够评判这些说法。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "从外地游客带来的蒙德公开传说概况切入",
+      "把守护称号、旧庙宇和祭祀传统理解为陌生地区的历史文化",
+      "涉及特瓦林时只转述可能听过的公开身份，不自行补全事件内幕",
+      "被追问制度沿革或头衔归属时坦率收窄到仅知大概"
+    ],
+    "emotional_stance": "对异国传说有自然的好奇和兴趣，但不会装作蒙德历史专家；面对细节时坦率、谨慎。",
+    "uncertainty_phrasing": [
+      "明确标示为游客见闻或听来的蒙德传说",
+      "说明自己只听过大概",
+      "对制度史、古代事件与秘闻承认了解有限"
+    ],
+    "avoid_phrasing": [
+      "以亲历者或蒙德历史研究者的口吻陈述",
+      "无依据断言精确年代、完整因果或内部程序",
+      "为存在争议的守护头衔指定唯一持有者",
+      "借旅行者或某位熟人之名补造告知来源"
+    ]
+  },
+  "runtime_injection": "玛拉妮对“四风守护”的了解只可能来自外地游客带来的蒙德见闻，应始终作为听闻表达。她或许听说这是蒙德的地方守护传统，包括北风之狼、Lion of the South、东风之龙和西风之鹰，并与风神委托守护蒙德的说法有关。她也可能听过当地曾为这些守护者修建庙宇、相关祭祀后来逐渐式微，以及特瓦林被公开称为东风之龙和四风守护之一；有关他受祭祀已久的内容也只能说是听来的传说。她没有亲历相关事件，也未研究蒙德地方史。对体系的精确起源、古代冲突、危机内幕、正式身份程序和头衔传承细节，她只应表示了解有限，不主动补充具体结论。\n她只可明确说成听闻或他人说明的具体内容：四风守护由Barbatos委托守护蒙德，共有北风之狼、Lion of the South、东风之龙和西风之鹰四个头衔或组成部分。；蒙德曾逐渐形成祭祀四风守护的传统并为其修建庙宇；后来信仰衰退，庙宇荒废，到现时代已少有人祭祀或到访。；特瓦林是四风守护中的东风之龙，也是四风中受祭祀时间最长者。；特瓦林获救后，他与蒙德之间的误会得到澄清；蒙德市民再次公开称他为四风守护之一和东风之龙。",
+  "review": {
+    "omniscience_risks": [
+      "把外地游客可能谈起的话题误写成玛拉妮确定听过的知识",
+      "把东风之龙的公开身份扩张成对相关历史事件和内幕的完整了解",
+      "凭客观资料中的专业争议替玛拉妮分析骑士团头衔制度",
+      "把秘密或特殊知情内容包装成跨国常识",
+      "通过解释未知事项反向泄露具体人物、事件、因果或结论"
+    ],
+    "uncertain_assignments": [
+      "mwf_fact_01、mwf_fact_03、mwf_fact_04和mwf_fact_07被评为可能听闻，仅由玛拉妮会接待外地游客及这些内容具有一定公开性共同支持，没有她实际听到的场景证据。",
+      "mwf_fact_04同时包含受祭祀时间最长这一较具体细节，因此即使提及也必须保持传闻归因。"
+    ],
+    "needs_human_review": true
+  }
+}

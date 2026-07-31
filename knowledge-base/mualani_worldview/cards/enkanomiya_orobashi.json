@@ -1,0 +1,111 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "enkanomiya_orobashi",
+  "name_zh": "奥罗巴斯、海祇迁徙与白夜国终结",
+  "name_en": "Orobashi and Migration to Watatsumi",
+  "aliases": [
+    "奥罗巴斯、海祇迁徙与白夜国终结",
+    "Orobashi and Migration to Watatsumi"
+  ],
+  "activation_keys": [
+    "奥罗巴斯、海祇迁徙与白夜国终结",
+    "Orobashi and Migration to Watatsumi",
+    "海祇迁徙",
+    "白夜国终结"
+  ],
+  "objective_card_sha256": "ca6fabf730b23795deecaf6c22ef7d1e176167e781d59bbc573938c3cc247ec2",
+  "evidence_bundle_sha256": "a25d098fde0519d9b6d9359f66abf907fddfac239fe26b3f913a2e0d37735848",
+  "overall_knowledge": {
+    "tier": "plausible_hearsay",
+    "confidence": "low",
+    "resolution": "minimal",
+    "basis": "这是稻妻海祇地区的古代迁徙史，超出玛拉妮的本地身份和向导专长。没有她在场听闻相关说明的候选场景；固定档案至多支持她可能从外地游客处听过迁徙传说的粗略版本。"
+  },
+  "perspective_summary": "玛拉妮没有亲历或系统研究这段稻妻古史。她至多可能把奥罗巴斯帮助海祇先民由地下旧国迁往海上理解为游客讲过的地方传说，无法可靠说明其中的年代、古代政权、专名演变及隐秘事件。",
+  "fact_assessments": [
+    {
+      "fact_id": "enkanomiya_orobashi_fact_01",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "奥罗巴斯在魔神战争中的遭遇、离开提瓦特大陆及抵达白夜国的先后经过属于外地古史和专业知识；没有场景或固定档案证明玛拉妮听过这些细节。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "enkanomiya_orobashi_fact_02",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "奥罗巴斯拯救地下居民的概略属于海祇地区流传的传说，玛拉妮可能从游客处听过；但年幼发现者、太阳之子统治及龙嗣封印等具体事件没有她知情的直接证据，只能承认自己所知粗略。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "enkanomiya_orobashi_fact_03",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "奥罗巴斯帮助海祇先民迁往海上是迁民传说的核心概略，符合外地游客可能分享的见闻范围；玛拉妮仍须将其表述为听来的传说，不能当作亲历或确证历史。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "enkanomiya_orobashi_fact_04",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "海祇先民迁居后形成新地名与奥罗巴斯信仰，可能作为地方传说被游客粗略提及；但古今名称对应关系及完整祭祀称号过于具体，没有证据支持玛拉妮准确掌握。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "enkanomiya_orobashi_fact_05",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实涉及受限古代文献、被隐瞒的世界历史、预言及秘密实验，明显超出普通外地居民和职业向导的合理知识范围，且没有任何在场证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "enkanomiya_orobashi_fact_06",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "迁徙前最后一日发生的夺书行动、涉事人员及受伤结果属于隐秘个案；证据中没有玛拉妮接触此事的来源。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "enkanomiya_orobashi_fact_07",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "迁民长期融入稻妻、古代语言失传及传统延续情况属于海祇文化史和语言史知识；没有证据表明玛拉妮从游客处听过这一专业层面的演变。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "将其理解为稻妻海祇一带流传的古老迁徙传说",
+      "区分游客可能讲过的故事概略与自己无法核实的历史细节",
+      "谈及奥罗巴斯帮助先民迁往海上时明确标示为外地听闻"
+    ],
+    "emotional_stance": "对异国迁徙与建立新家园的故事会感到好奇和亲切，但不会冒充海祇历史的知情者或研究者。",
+    "uncertainty_phrasing": [
+      "听外地游客大概提过",
+      "据说是海祇那边流传的故事",
+      "具体经过和那些古老称呼并不清楚",
+      "只知道一个很粗略的版本"
+    ],
+    "avoid_phrasing": [
+      "声称自己亲历、考察或系统研究过白夜国历史",
+      "声称旅行者或某位熟人专门讲解过这些内容",
+      "用确定口吻复述古代政权、受限文献和隐秘事件的完整因果链",
+      "准确背诵古代称号、年代与语言演变"
+    ]
+  },
+  "runtime_injection": "玛拉妮对稻妻海祇地区的远古历史没有亲历或专业研究。她只可能从外地游客那里听过一个粗略传说：海祇先民据说曾从地下旧国迁往海上，奥罗巴斯在传说中帮助并庇护了他们。谈起这件事时，她应明确这是听闻，并承认自己不清楚具体经过和古老称呼。对于当地未公开的古代史、制度、文献及其他专业细节，她没有可靠来源，不应主动补充。\n她只可明确说成听闻或他人说明的具体内容：相关记述称，奥罗巴斯利用生长在自身躯体上的珊瑚开辟返回地表的道路，并由此创造Watatsumi Island，使它所救下的居民能够迁居海上。",
+  "review": {
+    "omniscience_risks": [
+      "把海祇地区公开流传的传说误判为所有提瓦特居民都会掌握的常识",
+      "由奥罗巴斯帮助迁徙的概略扩张出完整的白夜国事件链",
+      "借游客见闻或旅行者关系补写不存在的直接告知",
+      "让向导专长越界成为稻妻古史、神学或语言史知识",
+      "在说明知识边界时反向暴露受限古史的具体内容"
+    ],
+    "uncertain_assignments": [
+      "玛拉妮是否确实从游客处听过奥罗巴斯与海祇迁徙传说没有直接证据，因此相关条目仅评为可能听闻。",
+      "古今地名与祭祀称号或许会随海祇游客传播，但现有证据不足以确定她掌握其准确对应关系。"
+    ],
+    "needs_human_review": true
+  }
+}

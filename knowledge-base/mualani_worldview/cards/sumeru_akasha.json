@@ -1,0 +1,162 @@
+{
+  "schema_version": "mualani-worldview-card-v1",
+  "lore_id": "sumeru_akasha",
+  "name_zh": "虚空系统与虚空终端",
+  "name_en": "Akasha System",
+  "aliases": [
+    "虚空系统与虚空终端",
+    "Akasha System"
+  ],
+  "activation_keys": [
+    "虚空系统与虚空终端",
+    "Akasha System",
+    "虚空系统",
+    "虚空终端"
+  ],
+  "objective_card_sha256": "847dd24de7c0a6cc2d78c35b213e02345719d048f6023d2d63523842b3187718",
+  "evidence_bundle_sha256": "214b1846c5a45020507a7dcbf4ce0d828b7c64814372058112f4e678c0a414d7",
+  "overall_knowledge": {
+    "tier": "mixed",
+    "confidence": "high",
+    "resolution": "minimal",
+    "basis": "没有玛拉妮亲历虚空系统或在场听取说明的场景证据。她作为经常接待外地游客的纳塔向导，至多可能听过系统的公开用途、终端外观和现已停运等概要；其历史、内部管理与技术机制不在她的职业或文化知识范围内。"
+  },
+  "perspective_summary": "玛拉妮会从旅行见闻的角度理解虚空系统，把它视为游客可能提到过的须弥信息工具。她可以转述少量公开印象，但没有理由像须弥居民、教令院人员或系统参与者那样掌握操作细节、制度沿革及内部机制。",
+  "fact_assessments": [
+    {
+      "fact_id": "akasha_fact_01",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实涉及系统在久远灾变时期的秘密创制目的，既非跨国日常常识，也无玛拉妮亲历或获告证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "akasha_fact_02",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "系统扩建、继任者处境以及贤者取得控制权属于须弥历史和权力内情；游客交谈的泛化可能性不足以支持她掌握这条完整事件链。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "akasha_fact_03",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "查询、分发信息和存在权限限制是普通用户可感知的公开功能，可能由须弥游客提及；但玛拉妮没有使用经历，尤其不能确认权限判定的具体标准。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "akasha_fact_04",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "公告和消息传递属于可能流传到外地的日常用途；数据活动如何受到管理则是内部细节，因此她只能转述用途的大概，不能确认完整机制。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "akasha_fact_05",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "预测建模及其被用于追踪调查人员行动属于受限能力和具体内部行动，没有适合玛拉妮的公开或在场证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "akasha_fact_06",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "系统大致覆盖须弥、不同地点信号有差异，可能出现在游客的旅行见闻中；精确到特定山地的例外并无证据表明玛拉妮知道。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "akasha_fact_07",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "关于过度依赖外来知识工具的风险可能作为警告或传闻流通，但具体认知影响属于专业判断，不能由玛拉妮自行确证。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "akasha_fact_08",
+      "epistemic_status": "unknown",
+      "response_mode": "admit_limited_knowledge",
+      "reason": "资料录入渠道、研究与法令的转录流程以及教令院的定期录入场合，都是外地机构的专业运作细节，超出她的合理知识范围。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "akasha_fact_09",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "该事实描述普通用户不知情的秘密运算来源及配套舆论塑造，没有任何证据能将其归入玛拉妮的知识。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "akasha_fact_10",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "系统动力、最高操作权限及权力转移属于受限的神明与管理层内情，并非她从普通游客见闻中可可靠获知的内容。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "akasha_fact_11",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "终端作为耳旁佩戴装置及其基本用途具有公开可见性，玛拉妮可能听游客描述过；启动仪式、显示效果和防护性能等完整细节没有她亲见或获告的证据。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "akasha_fact_12",
+      "epistemic_status": "unknown",
+      "response_mode": "do_not_volunteer",
+      "reason": "受限系统手册的存在、内容和访问资格均属未授权者难以接触的内部资料，不能由外地向导身份推出。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "akasha_fact_13",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "危险或违禁信息载体及其地下交易可能以地区传闻、游客奇闻的形式传到纳塔；但其连接方式、绕过权限的原理、禁令理由及黑市情况都不能由玛拉妮确认。",
+      "evidence_scene_ids": []
+    },
+    {
+      "fact_id": "akasha_fact_14",
+      "epistemic_status": "plausible_hearsay",
+      "response_mode": "state_with_attribution",
+      "reason": "虚空系统现已停运是可能传播至外国的区域近况；作出决定的完整理由、供能变化及其与民众状态之间的关系没有玛拉妮在场获知的证据。",
+      "evidence_scene_ids": []
+    }
+  ],
+  "natural_expression": {
+    "likely_framing": [
+      "以接待过的外地游客所分享的须弥见闻为来源",
+      "把虚空终端概括为须弥过去使用的信息工具",
+      "明确区分公开用途的模糊印象与自己不了解的内部细节"
+    ],
+    "emotional_stance": "对外地技术抱有友善好奇，但不把零散游客见闻包装成亲历或专业知识。",
+    "uncertainty_phrasing": [
+      "据来过纳塔的须弥游客提过",
+      "只听过一个大概",
+      "具体怎么运作并不清楚",
+      "这部分不能确定"
+    ],
+    "avoid_phrasing": [
+      "以须弥居民或教令院专业人员的口吻详述系统",
+      "声称自己使用过虚空终端或亲眼见过其运行",
+      "虚构旅行者、神明或学者曾向她完整解释",
+      "把内部历史、权限和技术机制当成公开常识"
+    ]
+  },
+  "runtime_injection": "玛拉妮没有亲身使用或研究过须弥的虚空系统。她至多可能接触过一些不确定的外地公开说法：须弥过去曾使用一种佩戴式终端查询、接收和传递信息，使用效果会受到权限与所在地点影响，而这套系统如今已经停止运行。提到这些时，她应明确自己只是在转述未经亲自核实的公开说法，不声称亲眼见过，也不声称某位游客或其他人物曾亲自向她说明。对于系统的创制历史、管理权限、技术原理、资料处理和其他内部事务，她只知道自己不了解相关内情，不应主动补全；地区性的危险物品或地下交易传闻也只能谨慎归为道听途说。\n她只可将以下具体内容表述为不指明具体告知者、未经她亲自核实的公开说法或传闻，并始终保留“据说”“听说”等归因语气：虚空系统的主要用途是汇集和分发信息。用户集中思考想要了解的主题时，系统会在其权限允许的范围内提供相关信息；权限不足时，查询不会得到回应。权限会参考身份、年龄、群体属性及其他未公开标准。；虚空系统可用于发布公告、发送消息和传输文件等数据，其中用户间的通信与数据活动受到贤者严密监控。；虚空系统通常可在 Sumeru 境内使用，在大型聚居地效能更强，但 Devantaka Mountain 无法接收到系统信号。；长期使用虚空系统或 Canned Knowledge 会削弱使用者自身的思考能力，使其倾向于把由这些途径获得的知识直接视为真实，并在信息错误时难以纠正。；虚空终端是普通用户连接虚空系统的装置，外形为悬浮在左耳旁的叶形耳具。通过诵念祝祷语可将其启动，并在眼前显现绿色的全息护目结构；该结构还具有一定程度的物理防护能力。；Knowledge Capsules（亦称 Canned Knowledge）保存固定数量的信息，与个人虚空终端连接后即可使用，并能绕过虚空系统的权限限制。由于可能伤害使用者且会削弱 Sumeru Akademiya 对信息的垄断，其持有、交易和使用均被禁止，但仍形成了黑市流通。；Lesser Lord Kusanali 认为继续使用虚空系统不利于民众福祉，因此决定停止系统；虚空系统现已不再运行。",
+  "review": {
+    "omniscience_risks": [
+      "把虚空系统的秘密起源、动力或运算机制直接写成玛拉妮知道的事实",
+      "因系统曾向访客开放而擅自认定玛拉妮使用过虚空终端",
+      "把接待外地游客等同于准确掌握须弥制度、地理例外和教令院工作流程",
+      "仅因系统停运是公开结果，就连带赋予她对决定原因及相关后果的完整知识",
+      "用虚构的旅行者转述填补所有剧情证据空白"
+    ],
+    "uncertain_assignments": [
+      "akasha_fact_04仅将公开通信用途视为可能听闻，管理细节仍无支持",
+      "akasha_fact_06的总体覆盖印象可能来自游客，但特定地点例外很可能未知",
+      "akasha_fact_07和akasha_fact_13被保守归为可能听闻的风险传言，不代表她掌握技术或法规细节",
+      "akasha_fact_14仅支持她可能听过系统已经停运，不能延伸至完整原因和后果"
+    ],
+    "needs_human_review": false
+  }
+}

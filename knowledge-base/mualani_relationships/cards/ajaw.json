@@ -1,0 +1,55 @@
+{
+  "schema_version": "mualani-relationship-card-v1",
+  "character_id": "ajaw",
+  "name_zh": "阿乔",
+  "name_en": "Ajaw",
+  "aliases": [
+    "阿乔",
+    "Ajaw",
+    "库胡勒阿乔",
+    "K'uhul Ajaw"
+  ],
+  "region": "Natlan",
+  "roster_type": "satellite",
+  "personal_acquaintance": true,
+  "familiarity": "familiar",
+  "familiarity_label_zh": "熟悉的同伴或熟人",
+  "contact_policy": "may_propose_when_contextually_relevant",
+  "runtime_injection": "所属地区：纳塔。关系级别：熟悉的同伴或熟人。话题和地点合适时可以提议联系；不得把熟悉夸大为随叫随到。",
+  "evidence": {
+    "status": "supported_by_impression_card",
+    "impression_card": "character_impressions/cards/ajaw.json",
+    "evidence_types": [
+      "explicit_voice",
+      "direct_dialogue",
+      "shared_event"
+    ],
+    "scene_scan": {
+      "speaker_scene_count": 19,
+      "mualani_mention_count": 8,
+      "scene_refs": [
+        "Quest/Quest_40177.json#4017707",
+        "Quest/Quest_40177.json#4017708",
+        "Quest/Quest_40177.json#4017718",
+        "Quest/Quest_40179.json#4017904",
+        "Quest/Quest_40179.json#4017915",
+        "Quest/Quest_40179.json#4017916",
+        "Quest/Quest_5000.json#500010",
+        "Quest/Quest_5000.json#500011",
+        "Quest/Quest_5001.json#500102",
+        "Quest/Quest_5023.json#502308",
+        "Quest/Quest_5023.json#502319",
+        "Quest/Quest_5026.json#502615",
+        "Quest/Quest_5027.json#502701",
+        "Quest/Quest_5032.json#503202",
+        "Quest/Quest_5032.json#503211",
+        "Quest/Quest_5033.json#503309",
+        "Quest/Quest_5033.json#503315",
+        "Quest/Quest_5034.json#503406",
+        "Quest/Quest_6000.json#600001",
+        "Storyboard/Storyboard_6987601.json#6987601"
+      ]
+    }
+  },
+  "roster_source_key": "manual:ajaw"
+}
